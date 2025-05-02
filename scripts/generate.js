@@ -277,8 +277,8 @@ Do not include any other text, explanations, or formatting in your response.`;
     const slug = cat.toLowerCase().replace(/[^a-z0-9]/g, '').trim();
     md += `<h2 id="${slug}">${cat}</h2>\n\n`;
     
-    // Start with details tag
-    md += `<details open>\n<summary>Show repositories</summary>\n\n`;
+    // Start with details tag (removed 'open' attribute to make it collapsed)
+    md += `<details>\n<summary>Show repositories (${list.length})</summary>\n\n`;
 
     for (const repo of list) {
       // Repository header with avatar and name
