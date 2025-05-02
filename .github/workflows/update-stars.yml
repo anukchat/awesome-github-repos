@@ -1,6 +1,7 @@
 name: Update Starred Repos
 
 on:
+  workflow_dispatch:  # Manual trigger via GitHub UI
   schedule:
     - cron: '0 0 * * *'  # Daily at midnight UTC
   workflow_dispatch: {}
