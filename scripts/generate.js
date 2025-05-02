@@ -154,62 +154,60 @@ function formatCount(count) {
     // Start with details tag
     md += `<details open>\n<summary>Show repositories</summary>\n\n`;
     
-    // Add category grid container
-    md += `<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; padding: 20px;">\n`;
+    // Add category container
+    md += `<table>\n<tr><td width="50%" valign="top">\n\n`;
     
-    for (const repo of list) {
-      // Repository card with enhanced styling
-      md += `<div style="padding: 20px; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #ffffff;">\n`;
+    for (let i = 0; i < list.length; i++) {
+      const repo = list[i];
       
-      // Repository header with avatar and name
-      md += `<div style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px;">\n`;
-      md += `<img src="${repo.owner.avatar_url}" width="40" height="40" style="border-radius: 50%;" alt="${repo.owner.login}'s avatar"/>\n`;
-      md += `<h3 style="margin: 0;"><a href="${repo.html_url}">${repo.owner.login}/${repo.name}</a></h3>\n`;
-      md += `</div>\n\n`;
+      // Repository card
+      md += `#### `;
+      // Avatar and repo name
+      md += `<img src="${repo.owner.avatar_url}" width="25" height="25" style="border-radius:50%;margin-right:5px"/> `;
+      md += `[${repo.owner.login}/${repo.name}](${repo.html_url})`;
       
-      // Description with expand/collapse
+      // Heat indicator
+      const heat = getHeat(repo.stargazers_count);
+      if (heat) md += ` ${heat}`;
+      md += `\n\n`;
+      
+      // Description
       if (repo.description) {
-        const shortDesc = repo.description.replace(/\n/g, ' ').slice(0, 100);
-        const hasMore = repo.description.length > 100;
-        
-        if (hasMore) {
-          md += `<details>\n`;
-          md += `<summary>${shortDesc}...</summary>\n\n`;
-          md += `<div style="margin-top: 10px;">${repo.description.replace(/\n/g, ' ')}</div>\n`;
-          md += `</details>\n\n`;
-        } else {
-          md += `<p>${shortDesc}</p>\n\n`;
-        }
+        const desc = repo.description.replace(/\n/g, ' ');
+        md += `> ${desc}\n\n`;
+      }
+      
+      // Stats badges on one line
+      md += `[![Stars](https://img.shields.io/github/stars/${repo.full_name}?style=flat-square)](${repo.html_url}/stargazers) `;
+      md += `[![Forks](https://img.shields.io/github/forks/${repo.full_name}?style=flat-square)](${repo.html_url}/network/members) `;
+      md += `[![Last Commit](https://img.shields.io/github/last-commit/${repo.full_name}?style=flat-square)](${repo.html_url}/commits)\n\n`;
+      
+      // Topics as badges
+      if (repo.topics && repo.topics.length) {
+        repo.topics.slice(0, 5).forEach(topic => {
+          md += `\`${topic}\` `;
+        });
+        md += '\n\n';
       }
 
-      // Heat indicator
-      md += `<p style="margin: 10px 0;">${getHeat(repo.stargazers_count)}</p>\n\n`;
-      
-      // Stats bar with proper badge rendering
-      md += `<p style="margin: 10px 0;">\n`;
-      md += `<img src="https://img.shields.io/github/stars/${repo.full_name}?style=flat-square" alt="Stars"/> `;
-      md += `<img src="https://img.shields.io/github/forks/${repo.full_name}?style=flat-square" alt="Forks"/> `;
-      md += `<img src="https://img.shields.io/github/last-commit/${repo.full_name}?style=flat-square" alt="Last Commit"/>\n`;
-      md += `</p>\n\n`;
-      
-      // Topics/tags if available
-      if (repo.topics && repo.topics.length) {
-        md += `<div style="margin-top: 10px;">\n`;
-        repo.topics.slice(0, 5).forEach(topic => {
-          md += `<code style="margin-right: 5px; padding: 3px 6px; border-radius: 3px; background-color: #f1f8ff; color: #0366d6;">${topic}</code>`;
-        });
-        md += `\n</div>\n`;
+      // Add separator between repos except last one
+      if (i < list.length - 1) {
+        md += `---\n\n`;
       }
-      
-      md += `</div>\n\n`;
+
+      // Switch to second column after half the items
+      if (i === Math.floor((list.length - 1) / 2)) {
+        md += `</td><td width="50%" valign="top">\n\n`;
+      }
     }
     
-    md += `</div>\n\n`;
+    // Close table
+    md += `</td></tr>\n</table>\n\n`;
     md += `</details>\n\n`;
   }
 
   // Write the README file
   const outPath = path.join(__dirname, '..', 'README.md');
   fs.writeFileSync(outPath, md);
-  console.log('✅ README.md generated with clean layout and automated categorization.');
+  console.log('✅ README.md generated with GitHub-compatible layout');
 })();
