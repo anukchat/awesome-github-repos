@@ -34,8 +34,8 @@
 
 <h2 id="foundationmodels">🧠 Foundation Models</h2>
 
-<details open>
-<summary>Show repositories</summary>
+<details>
+<summary>Show repositories (18)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/25720743?v=4" width="20" align="top" alt="huggingface"/> [huggingface/transformers](https://github.com/huggingface/transformers) 🔥🔥🔥
 
@@ -271,8 +271,8 @@
 
 <h2 id="llmtraining">📈 LLM Training</h2>
 
-<details open>
-<summary>Show repositories</summary>
+<details>
+<summary>Show repositories (13)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/16256802?v=4" width="20" align="top" alt="hiyouga"/> [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) 🔥🔥🔥
 
@@ -440,8 +440,8 @@
 
 <h2 id="llminference">⚙️ LLM Inference</h2>
 
-<details open>
-<summary>Show repositories</summary>
+<details>
+<summary>Show repositories (18)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/151674099?v=4" width="20" align="top" alt="ollama"/> [ollama/ollama](https://github.com/ollama/ollama) 🔥🔥🔥
 
@@ -687,8 +687,8 @@
 
 <h2 id="embeddingsvectordbs">🧩 Embeddings & Vector DBs</h2>
 
-<details open>
-<summary>Show repositories</summary>
+<details>
+<summary>Show repositories (3)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/8986001?v=4" width="20" align="top" alt="timescale"/> [timescale/pgai](https://github.com/timescale/pgai) 🔥
 
@@ -734,8 +734,8 @@
 
 <h2 id="ragretrieval">🔍 RAG & Retrieval</h2>
 
-<details open>
-<summary>Show repositories</summary>
+<details>
+<summary>Show repositories (13)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/69962740?v=4" width="20" align="top" alt="infiniflow"/> [infiniflow/ragflow](https://github.com/infiniflow/ragflow) 🔥🔥🔥
 
@@ -919,8 +919,8 @@
 
 <h2 id="aiagents">🤖 AI Agents</h2>
 
-<details open>
-<summary>Show repositories</summary>
+<details>
+<summary>Show repositories (69)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/130738209?v=4" width="20" align="top" alt="Significant-Gravitas"/> [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) 🔥🔥🔥
 
@@ -1816,8 +1816,8 @@
 
 <h2 id="browserautomation">🌐 Browser Automation</h2>
 
-<details open>
-<summary>Show repositories</summary>
+<details>
+<summary>Show repositories (9)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/192012301?v=4" width="20" align="top" alt="browser-use"/> [browser-use/browser-use](https://github.com/browser-use/browser-use) 🔥🔥🔥
 
@@ -1947,8 +1947,8 @@
 
 <h2 id="aisdkstools">🛠️ AI SDKs & Tools</h2>
 
-<details open>
-<summary>Show repositories</summary>
+<details>
+<summary>Show repositories (79)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/51121562?v=4" width="20" align="top" alt="public-apis"/> [public-apis/public-apis](https://github.com/public-apis/public-apis) 🔥🔥🔥
 
@@ -3018,8 +3018,8 @@
 
 <h2 id="generativeuidemos">🎨 Generative UI & Demos</h2>
 
-<details open>
-<summary>Show repositories</summary>
+<details>
+<summary>Show repositories (43)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/158137808?v=4" width="20" align="top" alt="open-webui"/> [open-webui/open-webui](https://github.com/open-webui/open-webui) 🔥🔥🔥
 
@@ -3597,8 +3597,8 @@
 
 <h2 id="docsknowledgebases">📚 Docs & Knowledge Bases</h2>
 
-<details open>
-<summary>Show repositories</summary>
+<details>
+<summary>Show repositories (99)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/58904235?v=4" width="20" align="top" alt="codecrafters-io"/> [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) 🔥🔥🔥
 
@@ -4928,8 +4928,8 @@
 
 <h2 id="mlopsdeployment">🚀 MLOps & Deployment</h2>
 
-<details open>
-<summary>Show repositories</summary>
+<details>
+<summary>Show repositories (17)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/28732122?v=4" width="20" align="top" alt="localstack"/> [localstack/localstack](https://github.com/localstack/localstack) 🔥🔥🔥
 
@@ -5165,8 +5165,8 @@
 
 <h2 id="testingevaluation">🧪 Testing & Evaluation</h2>
 
-<details open>
-<summary>Show repositories</summary>
+<details>
+<summary>Show repositories (14)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/14957082?v=4" width="20" align="top" alt="openai"/> [openai/evals](https://github.com/openai/evals) 🔥🔥🔥
 
@@ -5360,8 +5360,8 @@
 
 <h2 id="promptengineering">✍️ Prompt Engineering</h2>
 
-<details open>
-<summary>Show repositories</summary>
+<details>
+<summary>Show repositories (14)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/30384625?v=4" width="20" align="top" alt="dair-ai"/> [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) 🔥🔥🔥
 
@@ -5545,8 +5545,8 @@
 
 <h2 id="robotics">🤖 Robotics</h2>
 
-<details open>
-<summary>Show repositories</summary>
+<details>
+<summary>Show repositories (15)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/16128714?v=4" width="20" align="top" alt="commaai"/> [commaai/openpilot](https://github.com/commaai/openpilot) 🔥🔥🔥
 
@@ -5748,8 +5748,8 @@
 
 <h2 id="ocrvision">📸 OCR & Vision</h2>
 
-<details open>
-<summary>Show repositories</summary>
+<details>
+<summary>Show repositories (9)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/109746326?v=4" width="20" align="top" alt="immich-app"/> [immich-app/immich](https://github.com/immich-app/immich) 🔥🔥🔥
 
@@ -5877,8 +5877,8 @@
 
 <h2 id="webscraping">🕸️ Web Scraping</h2>
 
-<details open>
-<summary>Show repositories</summary>
+<details>
+<summary>Show repositories (5)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/12494079?v=4" width="20" align="top" alt="unclecode"/> [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) 🔥🔥🔥
 
@@ -5952,8 +5952,8 @@
 
 <h2 id="dataextraction">📊 Data Extraction</h2>
 
-<details open>
-<summary>Show repositories</summary>
+<details>
+<summary>Show repositories (6)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/159330290?v=4" width="20" align="top" alt="QuivrHQ"/> [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse) 🔥🔥
 
@@ -6041,8 +6041,8 @@
 
 <h2 id="others">🔖 Others</h2>
 
-<details open>
-<summary>Show repositories</summary>
+<details>
+<summary>Show repositories (29)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
