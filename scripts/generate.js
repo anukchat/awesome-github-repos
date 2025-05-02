@@ -137,7 +137,7 @@ function formatCount(count) {
 
   // Generate table of contents
   for (const cat of Object.keys(categoryTopicMap)) {
-    const slug = cat.toLowerCase().replace(/[^a-z0-9 ]/g, '').trim().replace(/ +/g, '-');
+    const slug = cat.toLowerCase().replace(/[^a-z0-9]/g, '').trim();
     md += `- [${cat}](#${slug})\n`;
   }
   md += `\n---\n\n`;
@@ -148,63 +148,57 @@ function formatCount(count) {
     if (!list.length) continue;
     list.sort((a, b) => b.stargazers_count - a.stargazers_count);
 
-    const slug = cat.toLowerCase().replace(/[^a-z0-9 ]/g, '').trim().replace(/ +/g, '-');
-    md += `## ${cat}\n\n`;
-    
-    // Create a clean layout similar to the example
-    const rows = chunk(list, 2);
+    const slug = cat.toLowerCase().replace(/[^a-z0-9]/g, '').trim();
+    md += `<h2 id="${slug}">${cat}</h2>\n\n`;
     
     // Start with details tag
     md += `<details open>\n<summary>Show repositories</summary>\n\n`;
     
     // Add category grid container
-    md += `<div align="center">\n\n`;
+    md += `<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; padding: 20px;">\n`;
     
-    for (const row of rows) {
-      // Start grid row
-      md += `<div style="display: inline-block; width: 100%;">\n\n`;
+    for (const repo of list) {
+      // Repository card with enhanced styling
+      md += `<div style="padding: 20px; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #ffffff;">\n`;
       
-      for (const repo of row) {
-        // Repository card with enhanced styling
-        md += `<div style="display: inline-block; width: 45%; margin: 10px; padding: 15px; border-radius: 8px; border: 1px solid #e1e4e8; background-color: #ffffff;">\n\n`;
+      // Repository header with avatar and name
+      md += `<div style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px;">\n`;
+      md += `<img src="${repo.owner.avatar_url}" width="40" height="40" style="border-radius: 50%;" alt="${repo.owner.login}'s avatar"/>\n`;
+      md += `<h3 style="margin: 0;"><a href="${repo.html_url}">${repo.owner.login}/${repo.name}</a></h3>\n`;
+      md += `</div>\n\n`;
+      
+      // Description with expand/collapse
+      if (repo.description) {
+        const shortDesc = repo.description.replace(/\n/g, ' ').slice(0, 100);
+        const hasMore = repo.description.length > 100;
         
-        // Add avatar and repository header with flex layout
-        md += `<div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">\n`;
-        md += `<img src="${repo.owner.avatar_url}" width="40" height="40" style="border-radius: 50%;" alt="${repo.owner.login}'s avatar"/>\n`;
-        md += `<h3 style="margin: 0;"><a href="${repo.html_url}">${repo.owner.login}/${repo.name}</a> ${getHeat(repo.stargazers_count)}</h3>\n`;
-        md += `</div>\n\n`;
-        
-        // Stats bar (stars, forks, last update)
-        md += `<p align="center">\n`;
-        md += `![Stars](https://img.shields.io/github/stars/${repo.full_name}?style=flat-square) `;
-        md += `![Forks](https://img.shields.io/github/forks/${repo.full_name}?style=flat-square) `;
-        md += `![Last Commit](https://img.shields.io/github/last-commit/${repo.full_name}?style=flat-square)\n`;
-        md += `</p>\n\n`;
-        
-        // Description with expand/collapse
-        if (repo.description) {
-          const shortDesc = repo.description.replace(/\n/g, ' ').slice(0, 100);
-          const hasMore = repo.description.length > 100;
-          
+        if (hasMore) {
           md += `<details>\n`;
-          md += `<summary>${shortDesc}${hasMore ? '...' : ''}</summary>\n\n`;
-          if (hasMore) {
-            md += `${repo.description.replace(/\n/g, ' ')}\n`;
-          }
+          md += `<summary>${shortDesc}...</summary>\n\n`;
+          md += `<div style="margin-top: 10px;">${repo.description.replace(/\n/g, ' ')}</div>\n`;
           md += `</details>\n\n`;
+        } else {
+          md += `<p>${shortDesc}</p>\n\n`;
         }
-        
-        // Topics/tags if available
-        const topics = await fetchTopics(repo.owner.login, repo.name);
-        if (topics.length) {
-          md += `<p style="margin-top: 10px;">\n`;
-          topics.slice(0, 5).forEach(topic => {
-            md += `<code style="margin-right: 5px; padding: 3px 6px; border-radius: 3px; background-color: #f1f8ff; color: #0366d6;">${topic}</code>`;
-          });
-          md += `\n</p>\n`;
-        }
-        
-        md += `</div>\n\n`;
+      }
+
+      // Heat indicator
+      md += `<p style="margin: 10px 0;">${getHeat(repo.stargazers_count)}</p>\n\n`;
+      
+      // Stats bar with proper badge rendering
+      md += `<p style="margin: 10px 0;">\n`;
+      md += `<img src="https://img.shields.io/github/stars/${repo.full_name}?style=flat-square" alt="Stars"/> `;
+      md += `<img src="https://img.shields.io/github/forks/${repo.full_name}?style=flat-square" alt="Forks"/> `;
+      md += `<img src="https://img.shields.io/github/last-commit/${repo.full_name}?style=flat-square" alt="Last Commit"/>\n`;
+      md += `</p>\n\n`;
+      
+      // Topics/tags if available
+      if (repo.topics && repo.topics.length) {
+        md += `<div style="margin-top: 10px;">\n`;
+        repo.topics.slice(0, 5).forEach(topic => {
+          md += `<code style="margin-right: 5px; padding: 3px 6px; border-radius: 3px; background-color: #f1f8ff; color: #0366d6;">${topic}</code>`;
+        });
+        md += `\n</div>\n`;
       }
       
       md += `</div>\n\n`;
