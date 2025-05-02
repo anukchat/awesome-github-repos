@@ -467,7 +467,7 @@
 
 </div>
 
-`llama` `ggml`
+`ggml` `llama`
 
 ---
 
@@ -495,7 +495,7 @@
 
 </div>
 
-`gpt` `llm` `pytorch` `llmops` `mlops`
+`amd` `cuda` `deepseek` `gpt` `hpu`
 
 ---
 
@@ -535,7 +535,7 @@
 
 </div>
 
-`cuda` `inference` `llama` `llava` `llm`
+`cuda` `deepseek` `deepseek-llm` `deepseek-r1` `deepseek-r1-zero`
 
 ---
 
@@ -589,7 +589,7 @@
 
 </div>
 
-`chinese-nlp` `finetune` `generative-ai` `instruct-gpt` `instruction-set`
+`chinese-llm` `chinese-nlp` `finetune` `generative-ai` `instruct-gpt`
 
 ---
 
@@ -653,7 +653,7 @@
 
 </div>
 
-`brrr` `dtypes` `inference` `mx` `pytorch`
+`brrr` `cuda` `dtypes` `float8` `inference`
 
 ---
 
@@ -726,7 +726,7 @@
 
 </div>
 
-`embeddings` `machine-learning` `model2vec` `nlp` `python`
+`ai` `embeddings` `machine-learning` `model2vec` `nlp`
 
 </details>
 
@@ -775,7 +775,7 @@
 
 </div>
 
-`semantic-search` `emacs` `obsidian-md` `chat` `chatgpt`
+`agent` `ai` `assistant` `chat` `chatgpt`
 
 ---
 
@@ -803,7 +803,7 @@
 
 </div>
 
-`ai-search-engine` `perplexity-ai` `search-engine` `open-source-ai-search-engine` `open-source-perplexity-ai`
+`ai-search-engine` `artificial-intelligence` `machine-learning` `open-source-ai-search-engine` `open-source-perplexity-ai`
 
 ---
 
@@ -817,7 +817,7 @@
 
 </div>
 
-`metasearch-engine` `metasearch` `search` `python` `hacktoberfest`
+`hacktoberfest` `metasearch` `metasearch-engine` `python` `search`
 
 ---
 
@@ -873,7 +873,7 @@
 
 </div>
 
-`adblock` `privacy` `docker` `heroku` `flask`
+`adblock` `docker` `easy-deploy` `flask` `heroku`
 
 ---
 
@@ -1186,7 +1186,7 @@
 
 </div>
 
-`workflow-automation` `mcp` `ai-agents` `mcp-tools` `mcps`
+`ai-agent` `ai-agent-tools` `ai-agents` `ai-agents-framework` `mcp`
 
 ---
 
@@ -1200,7 +1200,7 @@
 
 </div>
 
-`ai` `computer-vision` `llm` `machine-learning` `ml`
+`agents` `agi` `ai` `computer-vision` `llm`
 
 ---
 
@@ -1214,7 +1214,7 @@
 
 </div>
 
-`api` `automation` `browser` `computer` `gpt`
+`api` `automation` `browser` `browser-automation` `computer`
 
 ---
 
@@ -1242,7 +1242,7 @@
 
 </div>
 
-`agents` `genai` `tutorials` `langchain` `langgraph`
+`agents` `ai` `genai` `langchain` `langgraph`
 
 ---
 
@@ -1280,7 +1280,7 @@
 
 </div>
 
-`ai` `gpt` `openai` `python` `software`
+`agent` `ai` `ai-agent` `ai-agents` `code-interpreter`
 
 ---
 
@@ -1376,7 +1376,7 @@
 
 </div>
 
-`ai` `app` `flutter` `friend` `mobile`
+`ai` `app` `bci` `c` `flutter`
 
 ---
 
@@ -1412,7 +1412,7 @@
 
 </div>
 
-`artificial-intelligence` `attention-mechanism` `gpt4` `langchain` `machine-learning`
+`agents` `ai` `artificial-intelligence` `attention-mechanism` `chatgpt`
 
 ---
 
@@ -1426,7 +1426,7 @@
 
 </div>
 
-`aws` `aws-bedrock` `anthropic-claude` `aws-cdk` `aws-lambda`
+`agentic-ai` `agents` `ai-agents` `ai-agents-framework` `anthropic`
 
 ---
 
@@ -1454,7 +1454,7 @@
 
 </div>
 
-`agent` `ai` `ai-memory` `anthropic` `artifacts`
+`agent` `ai` `ai-memory` `anthropic` `artifact`
 
 ---
 
@@ -1494,7 +1494,7 @@
 
 </div>
 
-`agentic-workflow` `agents` `ai` `nextjs` `typescript`
+`agent-workflow` `agentic-workflow` `agents` `ai` `aiagents`
 
 ---
 
@@ -1630,7 +1630,7 @@
 
 </div>
 
-`ai` `autogen` `automation` `browser` `end-to-end-testing`
+`agent` `agentic-ai` `agents` `ai` `autogen`
 
 ---
 
@@ -1829,7 +1829,7 @@
 
 </div>
 
-`llm` `ai-agents` `ai-tools` `browser-automation` `python`
+`ai-agents` `ai-tools` `browser-automation` `browser-use` `llm`
 
 ---
 
@@ -1843,7 +1843,7 @@
 
 </div>
 
-`automation` `no-code` `scraper` `web-automation` `web-scraper`
+`agents` `api` `automation` `browser` `browser-automation`
 
 ---
 
@@ -1871,7 +1871,7 @@
 
 </div>
 
-`browser` `cdp` `headless` `playwright` `puppeteer`
+`browser` `browser-automation` `cdp` `headless` `playwright`
 
 ---
 
@@ -1911,7 +1911,7 @@
 
 </div>
 
-`agent` `ai` `deepseek` `ollama` `omniparser`
+`agent` `ai` `computeruse` `deepseek` `manus`
 
 ---
 
@@ -1925,7 +1925,7 @@
 
 </div>
 
-`process-automation` `python` `transformers` `large-language-models` `large-multimodal-models`
+`agents` `ai-agents` `ai-agents-framework` `anthropic` `computer-use`
 
 ---
 
@@ -1939,7 +1939,7 @@
 
 </div>
 
-`ai-agents` `ai-tools` `browser-automation` `javascript` `playwright`
+`ai-agents` `ai-tools` `browser-automation` `browser-use` `browser-use-js`
 
 </details>
 
@@ -2014,7 +2014,7 @@
 
 </div>
 
-`langchain` `openai` `autogen-extension` `autogen` `markdown`
+`autogen` `autogen-extension` `langchain` `markdown` `microsoft-office`
 
 ---
 
@@ -2068,7 +2068,7 @@
 
 </div>
 
-`python` `machine-learning` `finance` `stocks` `quantitative-finance`
+`ai` `crypto` `derivatives` `economics` `equity`
 
 ---
 
@@ -2082,7 +2082,7 @@
 
 </div>
 
-`artificial-intelligence` `chatgpt` `large-language-models` `low-code` `no-code`
+`artificial-intelligence` `chatbot` `chatgpt` `javascript` `langchain`
 
 ---
 
@@ -2110,7 +2110,7 @@
 
 </div>
 
-`llms` `rag` `python`
+`llms` `python` `rag`
 
 ---
 
@@ -2124,7 +2124,7 @@
 
 </div>
 
-`neural-network` `deep-learning` `machine-learning` `deeplearning` `machinelearning`
+`ai` `coreml` `deep-learning` `deeplearning` `keras`
 
 ---
 
@@ -2138,7 +2138,7 @@
 
 </div>
 
-`ai` `convert` `documents` `pdf` `tables`
+`ai` `convert` `document-parser` `document-parsing` `documents`
 
 ---
 
@@ -2152,7 +2152,7 @@
 
 </div>
 
-`developer-tools` `python` `ai` `agents` `agi`
+`agents` `agi` `ai` `developer-tools` `framework`
 
 ---
 
@@ -2166,7 +2166,7 @@
 
 </div>
 
-`chatgpt` `open-source` `software-development` `vscode` `developer-tools`
+`ai` `chatgpt` `copilot` `developer-tools` `intellij`
 
 ---
 
@@ -2222,7 +2222,7 @@
 
 </div>
 
-`automation` `cursor` `cursorai` `cursors` `free`
+`automation` `cursor` `cursor-ai` `cursor-ide` `cursorai`
 
 ---
 
@@ -2250,7 +2250,7 @@
 
 </div>
 
-`anthropic` `langchain` `llm` `llmops` `openai`
+`ai-gateway` `anthropic` `azure-openai` `bedrock` `gateway`
 
 ---
 
@@ -2264,7 +2264,7 @@
 
 </div>
 
-`ai` `langchain` `llm` `nextjs` `open-source`
+`agent` `agents` `ai` `ai-agent` `ai-assistant`
 
 ---
 
@@ -2278,7 +2278,7 @@
 
 </div>
 
-`orchestration` `data-orchestration` `high-availability` `infrastructure-as-code` `lowcode`
+`automation` `data-orchestration` `devops` `high-availability` `infrastructure-as-code`
 
 ---
 
@@ -2292,7 +2292,7 @@
 
 </div>
 
-`data-analysis` `pandas` `tableau` `tableau-alternative` `visualization`
+`data-analysis` `data-exploration` `dataframe` `matplotlib` `pandas`
 
 ---
 
@@ -2306,7 +2306,7 @@
 
 </div>
 
-`markdown` `commonmark` `gfm` `react` `remark`
+`commonmark` `gfm` `markdown` `react` `remark`
 
 ---
 
@@ -2332,7 +2332,7 @@
 
 </div>
 
-`cursor` `editor` `chatgpt` `claude` `copilot`
+`chatgpt` `claude` `copilot` `cursor` `developer-tools`
 
 ---
 
@@ -2358,7 +2358,7 @@
 
 </div>
 
-`ai` `github` `system-design` `code`
+`ai` `code` `github` `system-design`
 
 ---
 
@@ -2372,7 +2372,7 @@
 
 </div>
 
-`java` `javafx` `docker` `ssh` `lxd`
+`bash` `docker` `filemanager` `files` `incus`
 
 ---
 
@@ -2428,7 +2428,7 @@
 
 </div>
 
-`python` `llm` `ui` `chatgpt` `langchain`
+`chatgpt` `langchain` `llm` `openai` `openai-chatgpt`
 
 ---
 
@@ -2442,7 +2442,7 @@
 
 </div>
 
-`ai` `low-code` `self-hosted` `starter-kit` `ai-agents`
+`ai` `ai-agents` `low-code` `self-hosted` `starter-kit`
 
 ---
 
@@ -2456,7 +2456,7 @@
 
 </div>
 
-`anthropic` `api` `claude` `llm` `model-context-protocol`
+`anthropic` `api` `claude` `fastmcp` `llm`
 
 ---
 
@@ -2506,7 +2506,7 @@
 
 </div>
 
-`video-transcription` `video-translation` `dubbing` `localization` `tts`
+`dubbing` `localization` `tts` `video-transcription` `video-translation`
 
 ---
 
@@ -2548,7 +2548,7 @@
 
 </div>
 
-`machinelearning` `huggingface-transformers` `nlp-machine-learning` `computer-vision` `gpt`
+`computer-vision` `gpt` `huggingface-transformers` `llm` `machinelearning`
 
 ---
 
@@ -2562,7 +2562,7 @@
 
 </div>
 
-`ai` `claude` `cursor` `fastapi` `llm`
+`ai` `authentication` `authorization` `claude` `cursor`
 
 ---
 
@@ -2576,7 +2576,7 @@
 
 </div>
 
-`asyncio` `kafka` `python` `rabbitmq` `asyncapi`
+`asyncapi` `asyncio` `distributed-systems` `fastkafka` `faststream`
 
 ---
 
@@ -2632,7 +2632,7 @@
 
 </div>
 
-`go` `golang` `html` `html-to-markdown` `markdown`
+`cli` `converter` `go` `golang` `html`
 
 ---
 
@@ -2712,7 +2712,7 @@
 
 </div>
 
-`chatgpt-api` `gemini-ai` `openai` `proxy` `serverless`
+`chatgpt-api` `gemini-ai` `gemini-pro` `gemini-pro-vision` `gpt-4-vision-preview`
 
 ---
 
@@ -2740,7 +2740,7 @@
 
 </div>
 
-`google-benchmark` `cpp` `cpp17` `gcc` `llvm`
+`assembly` `assembly-language` `avx512` `benchmark` `coroutines`
 
 ---
 
@@ -2764,7 +2764,7 @@
 
 </div>
 
-`mcp` `mcp-client` `ai` `chat` `client`
+`ai` `chat` `client` `mcp` `mcp-client`
 
 ---
 
@@ -2806,7 +2806,7 @@
 
 </div>
 
-`ai` `chatgpt` `claude` `function-calling` `llm`
+`ai` `chatgpt` `claude` `cross-platform` `docker`
 
 ---
 
@@ -2970,7 +2970,7 @@
 
 </div>
 
-`python` `cloud` `aws` `azure` `gcp`
+`aws` `azure` `cloud` `gcp` `message-queue`
 
 ---
 
@@ -3031,7 +3031,7 @@
 
 </div>
 
-`ollama` `ollama-webui` `llm` `webui` `self-hosted`
+`ai` `llm` `llm-ui` `llm-webui` `llms`
 
 ---
 
@@ -3045,7 +3045,7 @@
 
 </div>
 
-`python` `animation` `explanatory-math-videos` `3b1b-videos`
+`3b1b-videos` `animation` `explanatory-math-videos` `python`
 
 ---
 
@@ -3087,7 +3087,7 @@
 
 </div>
 
-`animation` `anime` `javascript-library` `svg` `canvas`
+`animation` `anime` `canvas` `css` `javascript`
 
 ---
 
@@ -3101,7 +3101,7 @@
 
 </div>
 
-`math` `python` `manim` `animations` `hacktoberfest`
+`animations` `hacktoberfest` `manim` `math` `python`
 
 ---
 
@@ -3115,7 +3115,7 @@
 
 </div>
 
-`resume` `resume-builder` `react` `tailwindcss` `nextjs`
+`hacktoberfest` `material-ui` `nestjs` `nextjs` `react`
 
 ---
 
@@ -3143,7 +3143,7 @@
 
 </div>
 
-`typescript` `nextjs` `redis` `open-source` `oss`
+`nextjs` `open-source` `open-source-social-media-scheduling-tool` `oss` `redis`
 
 ---
 
@@ -3171,7 +3171,7 @@
 
 </div>
 
-`full-stack` `open-source` `saas` `nodejs` `prisma`
+`ai` `authentication` `aws-s3` `boilerplate` `chatgpt`
 
 ---
 
@@ -3197,7 +3197,7 @@
 
 </div>
 
-`audio-generation` `audio-synthesis` `audioldm` `music-generation` `naturalspeech2`
+`audio-generation` `audio-synthesis` `audioldm` `audit` `emilia`
 
 ---
 
@@ -3211,7 +3211,7 @@
 
 </div>
 
-`artificial-intelligence` `collections` `ai` `assistant-chat-bots` `assistive-technology`
+`ai` `artificial-intelligence` `assistant-chat-bots` `assistive-technology` `awesome`
 
 ---
 
@@ -3301,7 +3301,7 @@
 
 </div>
 
-`conversational-ai` `radix-ui` `shadcn` `ui-components` `copilot`
+`ai-chatbot` `chatbot` `conversational-ai` `copilot` `radix-ui`
 
 ---
 
@@ -3315,7 +3315,7 @@
 
 </div>
 
-`react` `shadcn-ui` `tailwindcss` `ui-components` `nextjs`
+`nextjs` `react` `shadcn` `shadcn-ui` `tailwindcss`
 
 ---
 
@@ -3367,7 +3367,7 @@
 
 </div>
 
-`ai-video-generator` `artificial-intelligence` `image-to-video` `image-to-video-generation` `sora-video`
+`ai-video-generator` `artificial-intelligence` `image-to-video` `image-to-video-generation` `shorts`
 
 ---
 
@@ -3409,7 +3409,7 @@
 
 </div>
 
-`threejs` `github` `globe` `3d` `three-globe`
+`3d` `github` `globe` `three-globe` `threejs`
 
 ---
 
@@ -3491,7 +3491,7 @@
 
 </div>
 
-`nextjs` `nextjs-template` `shadcn-ui` `supabase` `supabase-auth`
+`cult-ui` `nextjs` `nextjs-template` `shadcn-ui` `supabase`
 
 ---
 
@@ -3778,7 +3778,7 @@
 
 </div>
 
-`system-design` `backend` `scalability` `interview` `architecture`
+`architecture` `awesome` `awesome-list` `backend` `big-data`
 
 ---
 
@@ -3806,7 +3806,7 @@
 
 </div>
 
-`course` `llm` `machine-learning` `roadmap` `large-language-models`
+`course` `large-language-models` `llm` `machine-learning` `roadmap`
 
 ---
 
@@ -3820,7 +3820,7 @@
 
 </div>
 
-`awesome` `awesome-list` `architecture` `design-patterns` `gof-patterns`
+`architecture` `awesome` `awesome-list` `cloud-computing` `design-patterns`
 
 ---
 
@@ -3848,7 +3848,7 @@
 
 </div>
 
-`machine-learning` `deep-learning` `pytorch` `natural-language-processing` `data-science`
+`data-engineering` `data-quality` `data-science` `deep-learning` `distributed-ml`
 
 ---
 
@@ -3876,7 +3876,7 @@
 
 </div>
 
-`note-taking` `local-first` `knowledge-base` `markdown` `s3`
+`anki` `chatgpt` `deepseek` `electron` `evernote`
 
 ---
 
@@ -3902,7 +3902,7 @@
 
 </div>
 
-`cto` `software-engineering` `management` `architecture` `startups`
+`architecture` `awesome` `awesome-list` `cto` `decision-making`
 
 ---
 
@@ -3972,7 +3972,7 @@
 
 </div>
 
-`machine-learning` `deep-learning` `deep-reinforcement-learning` `machine-learning-from-scratch` `data-science`
+`data-mining` `data-science` `deep-learning` `deep-reinforcement-learning` `genetic-algorithm`
 
 ---
 
@@ -4012,7 +4012,7 @@
 
 </div>
 
-`python` `machine-learning` `data-science` `nlp` `data-visualization`
+`automl` `chatgpt` `data-analysis` `data-science` `data-visualization`
 
 ---
 
@@ -4052,7 +4052,7 @@
 
 </div>
 
-`aws` `azure` `continous-delivery` `continuous-integration` `devops`
+`aws` `azure` `computer-science` `continous-delivery` `continuous-integration`
 
 ---
 
@@ -4066,7 +4066,7 @@
 
 </div>
 
-`bookmarks` `bookmarks-manager` `nextjs` `react-native` `read-it-later`
+`bookmark-manager` `bookmarks` `bookmarks-manager` `nextjs` `react-native`
 
 ---
 
@@ -4094,7 +4094,7 @@
 
 </div>
 
-`documentation` `knowledge-base` `opensource` `realtime-collaboration` `wiki`
+`confluence` `documentation` `knowledge-base` `notion` `notion-alternative`
 
 ---
 
@@ -4150,7 +4150,7 @@
 
 </div>
 
-`self-hosted` `selfhosted` `home-assistant` `wireguard` `decentralized`
+`authentication` `awesome` `awesome-list` `decentralized` `docker-compose`
 
 ---
 
@@ -4230,7 +4230,7 @@
 
 </div>
 
-`transformers` `pytorch` `bert` `vision-transformer` `layoutlm`
+`bert` `gpt-2` `layoutlm` `pytorch` `transformers`
 
 ---
 
@@ -4272,7 +4272,7 @@
 
 </div>
 
-`ai` `artificial-intelligence` `awesome-list` `generative-ai` `generative-art`
+`ai` `artificial-intelligence` `awesome` `awesome-list` `generative-ai`
 
 ---
 
@@ -4370,7 +4370,7 @@
 
 </div>
 
-`kaggle` `competition` `solutions` `data-science` `awesome`
+`awesome` `competition` `data-mining` `data-science` `kaggle`
 
 ---
 
@@ -4410,7 +4410,7 @@
 
 </div>
 
-`generative-ai` `gpt` `deep-learning` `langauge-model` `llm`
+`deep-learning` `generative-ai` `gpt` `langauge-model` `llm`
 
 ---
 
@@ -4424,7 +4424,7 @@
 
 </div>
 
-`aws` `bytewax` `comet-ml` `generative-ai` `large-language-models`
+`aws` `bytewax` `comet-ml` `course` `docker`
 
 ---
 
@@ -4450,7 +4450,7 @@
 
 </div>
 
-`deep-learning` `coursera` `coursera-assignment` `coursera-specialization` `coursera-machine-learning`
+`andrew-ng` `andrew-ng-course` `cnns` `convolutional-neural-network` `convolutional-neural-networks`
 
 ---
 
@@ -4478,7 +4478,7 @@
 
 </div>
 
-`genai` `llm` `llmops` `mlops` `rag`
+`aws` `fine-tuning-llm` `genai` `llm` `llm-evaluation`
 
 ---
 
@@ -4530,7 +4530,7 @@
 
 </div>
 
-`chatbots` `hf` `huggingface` `langchain` `large-language-models`
+`chatbots` `fine-tuning-llm` `hf` `huggingface` `langchain`
 
 ---
 
@@ -4544,7 +4544,7 @@
 
 </div>
 
-`book` `jupyter-book` `ai` `ml` `mlops`
+`ai` `book` `hacktoberfest` `jupyter-book` `ml`
 
 ---
 
@@ -4652,7 +4652,7 @@
 
 </div>
 
-`python` `deep-learning` `machine-learning-library` `machinelearning` `machine-learning-models`
+`artificial-neural-networks` `aws-sagemaker` `deep-learning` `generative-ai` `gpt-3`
 
 ---
 
@@ -4680,7 +4680,7 @@
 
 </div>
 
-`data-structures` `algorithm` `algorithms-and-data-structures` `python` `python3`
+`algorithm` `algorithms` `algorithms-and-data-structures` `competitive-coding` `competitive-programming`
 
 ---
 
@@ -4694,7 +4694,7 @@
 
 </div>
 
-`machine-learning` `python` `python-machine-learning` `machine-learning-algorithms` `deep-learning`
+`classification-trees` `clustering-methods` `data-processing` `data-science-notebook` `deep-learning`
 
 ---
 
@@ -4708,7 +4708,7 @@
 
 </div>
 
-`awesome-list` `artificial-intelligence` `edge-computing` `embedded`
+`artificial-intelligence` `awesome-list` `edge-computing` `embedded`
 
 ---
 
@@ -4808,7 +4808,7 @@
 
 </div>
 
-`awesome` `ai` `ai-developer-tools` `awesome-list` `llm`
+`ai` `ai-developer-tools` `awesome` `awesome-list` `llm`
 
 ---
 
@@ -4941,7 +4941,7 @@
 
 </div>
 
-`aws` `localstack` `testing` `continuous-integration` `developer-tools`
+`aws` `cloud` `continuous-integration` `developer-tools` `localstack`
 
 ---
 
@@ -4955,7 +4955,7 @@
 
 </div>
 
-`mongodb` `nodejs` `static` `couchdb` `mysql`
+`analytics` `couchdb` `databases` `docker` `minio`
 
 ---
 
@@ -5051,7 +5051,7 @@
 
 </div>
 
-`cloud-computing` `data-science` `deep-learning` `gpu` `hyperparameter-tuning`
+`cloud-computing` `cloud-management` `cost-management` `cost-optimization` `data-science`
 
 ---
 
@@ -5065,7 +5065,7 @@
 
 </div>
 
-`nextjs` `prisma` `react` `tailwindcss` `typescript`
+`betterstack` `boilerplate` `clerk` `dark-mode` `feature-flags`
 
 ---
 
@@ -5119,7 +5119,7 @@
 
 </div>
 
-`docker` `go` `golang` `letsencrypt` `microservice`
+`docker` `go` `golang` `homepage` `letsencrypt`
 
 ---
 
@@ -5157,7 +5157,7 @@
 
 </div>
 
-`docker` `container-lifecycle` `multi-container` `kubernetes` `docker-container`
+`container-lifecycle` `docker` `docker-container` `kubernetes` `multi-container`
 
 </details>
 
@@ -5190,7 +5190,7 @@
 
 </div>
 
-`llmops` `ai-monitoring` `ai-observability` `llm-eval` `aiengineering`
+`agents` `ai-monitoring` `ai-observability` `aiengineering` `anthropic`
 
 ---
 
@@ -5218,7 +5218,7 @@
 
 </div>
 
-`large-language-models` `prompt-engineering` `agent-monitoring` `analytics` `evaluation`
+`agent-monitoring` `analytics` `evaluation` `gpt` `langchain`
 
 ---
 
@@ -5244,7 +5244,7 @@
 
 </div>
 
-`chatgpt` `jailbreak` `llm` `prompt` `large-language-model`
+`chatgpt` `jailbreak` `jailbreaking` `large-language-model` `llm`
 
 ---
 
@@ -5258,7 +5258,7 @@
 
 </div>
 
-`test` `testing` `typescript` `automation` `browser`
+`ai` `automation` `browser` `framework` `javascipt`
 
 ---
 
@@ -5272,7 +5272,7 @@
 
 </div>
 
-`ai` `analytics` `datasets` `evaluation` `gpt`
+`ai` `analytics` `datasets` `dspy` `evaluation`
 
 ---
 
@@ -5324,7 +5324,7 @@
 
 </div>
 
-`ai` `llm` `selenium` `test-automation` `testing`
+`ai` `llm` `playwright` `selenium` `test-automation`
 
 ---
 
@@ -5387,7 +5387,7 @@
 
 </div>
 
-`ai` `cursor` `lovable` `system-prompts` `v0`
+`ai` `bolt` `copilot` `cursor` `cursorai`
 
 ---
 
@@ -5413,7 +5413,7 @@
 
 </div>
 
-`chinese` `latex` `pdf` `translation` `korean`
+`chinese` `document` `edit` `english` `japanese`
 
 ---
 
@@ -5427,7 +5427,7 @@
 
 </div>
 
-`text-similarity` `natural-language-processing` `word-embeddings` `python` `machine-learning`
+`applicant-tracking-system` `ats` `hacktoberfest` `machine-learning` `natural-language-processing`
 
 ---
 
@@ -5467,7 +5467,7 @@
 
 </div>
 
-`anthropic` `anthropic-claude` `chatgpt` `chatgpt-4` `chatgpt3`
+`anthropic` `anthropic-claude` `awesome-claude` `awesome-claude-prompts` `awesome-prompts`
 
 ---
 
@@ -5634,7 +5634,7 @@
 
 </div>
 
-`ros2` `navigation` `robotics`
+`navigation` `robotics` `ros2`
 
 ---
 
@@ -5660,7 +5660,7 @@
 
 </div>
 
-`awesome` `robotics` `projects`
+`awesome` `projects` `robotics`
 
 ---
 
@@ -5714,7 +5714,7 @@
 
 </div>
 
-`ai` `humanoid-robot` `robotics` `agi-humanoid-robot` `ai-powered-humanoid-robots`
+`agi-humanoid-robot` `ai` `ai-powered-humanoid-robots` `humanoid-robot` `robotics`
 
 ---
 
@@ -5761,7 +5761,7 @@
 
 </div>
 
-`backup-tool` `mobile-app` `photo-gallery` `photos` `self-hosted`
+`backup-tool` `flutter` `google-photos` `google-photos-alternative` `javascript`
 
 ---
 
@@ -5787,7 +5787,7 @@
 
 </div>
 
-`gallery` `downloader` `pixiv` `danbooru` `deviantart`
+`danbooru` `deviantart` `downloader` `flickr` `gallery`
 
 ---
 
@@ -5815,7 +5815,7 @@
 
 </div>
 
-`conformer` `pytorch` `speech-recognition` `paraformer` `punctuation`
+`audio-visual-speech-recognition` `conformer` `dfsmn` `paraformer` `pretrained-model`
 
 ---
 
@@ -6005,7 +6005,7 @@
 
 </div>
 
-`ai` `llm` `nlp` `ocr` `openai`
+`ai` `document-image-analysis` `document-intelligence` `document-parsing` `document-processing`
 
 ---
 
@@ -6054,7 +6054,7 @@
 
 </div>
 
-`computer-science` `interview` `programming-interviews` `study-plan` `data-structures`
+`algorithm` `algorithms` `coding-interview` `coding-interviews` `computer-science`
 
 ---
 
@@ -6068,7 +6068,7 @@
 
 </div>
 
-`selfhosted` `awesome` `awesome-list` `privacy` `hosting`
+`awesome` `awesome-list` `cloud` `free-software` `hosting`
 
 ---
 
@@ -6108,7 +6108,7 @@
 
 </div>
 
-`devops` `aws` `linux` `ansible` `python`
+`ansible` `aws` `azure` `coding` `containers`
 
 ---
 
@@ -6162,7 +6162,7 @@
 
 </div>
 
-`engineering-blogs` `tech` `programming-blogs` `software-development` `lists`
+`engineering-blogs` `lists` `programming-blogs` `software-development` `tech`
 
 ---
 
@@ -6176,7 +6176,7 @@
 
 </div>
 
-`downloader` `reddit` `social-media` `twitter` `vk`
+`collaboration` `downloader` `instagram` `javascript` `music`
 
 ---
 
@@ -6190,7 +6190,7 @@
 
 </div>
 
-`crm` `customer` `graphql` `marketing` `react`
+`crm` `crm-system` `customer` `good-first-issue` `graphql`
 
 ---
 
@@ -6204,7 +6204,7 @@
 
 </div>
 
-`reader` `rss` `rss-reader` `ai` `blockchain`
+`ai` `blockchain` `reader` `rss` `rss-reader`
 
 ---
 
@@ -6232,7 +6232,7 @@
 
 </div>
 
-`website-monitor` `website-monitoring` `change-detection` `monitoring` `self-hosted`
+`back-in-stock` `change-alert` `change-detection` `change-monitoring` `changedetection`
 
 ---
 
@@ -6246,7 +6246,7 @@
 
 </div>
 
-`dashboard` `homepage` `rss` `self-hosted` `docker`
+`aggregator` `dashboard` `docker` `feed-reader` `go`
 
 ---
 
@@ -6260,7 +6260,7 @@
 
 </div>
 
-`youtube` `music` `youtube-music` `desktop-app` `electron`
+`adblock` `adblocker` `blocker` `desktop-app` `electron`
 
 ---
 
@@ -6274,7 +6274,7 @@
 
 </div>
 
-`airtable` `airtable-alternative` `database` `no-code` `sqlite`
+`airtable` `airtable-alternative` `app-builder` `database` `internal-tool`
 
 ---
 
@@ -6288,7 +6288,7 @@
 
 </div>
 
-`project-management` `openproject` `ruby` `issue-tracker` `scrum`
+`angular` `bcf` `boards` `bug-tracker` `gantt`
 
 ---
 
@@ -6302,7 +6302,7 @@
 
 </div>
 
-`news` `elegant`
+`elegant` `news`
 
 ---
 
@@ -6316,7 +6316,7 @@
 
 </div>
 
-`app` `cap` `coss` `mac` `open-source`
+`app` `cap` `coss` `loom` `mac`
 
 ---
 
