@@ -31,10 +31,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/generate.js
 
+
       - name: Commit & Push Changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add by-owner/*.md
-          git commit -m "chore: update starred repos" || echo "No changes"
+          git add README.md
+          # if you ever generate other files, add them here too:
+          # git add assets/ some/other/dir/
+          git commit -m "chore: update awesome repos" || echo "No changes to commit"
           git push
