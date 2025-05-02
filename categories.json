@@ -1,0 +1,7 @@
+
+{
+    "AI": ["ai","machine-learning","deep-learning","artificial-intelligence"],
+    "Agentic": ["agent","agentic","automation"],
+    "Tools": ["cli","sdk","tool","framework","library"],
+    "Others": []
+  }
