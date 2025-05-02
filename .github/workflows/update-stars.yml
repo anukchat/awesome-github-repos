@@ -1,5 +1,8 @@
 name: Update Starred Repos
 
+permissions:
+  contents: write  # Allow pushing changes back to the repo
+
 on:
   workflow_dispatch: {}
   schedule:
