@@ -153,57 +153,45 @@ function formatCount(count) {
     
     // Start with details tag
     md += `<details open>\n<summary>Show repositories</summary>\n\n`;
-    
-    // Add category container
-    md += `<table>\n<tr><td width="50%" valign="top">\n\n`;
-    
-    for (let i = 0; i < list.length; i++) {
-      const repo = list[i];
-      
-      // Repository card
-      md += `#### `;
-      // Avatar and repo name
-      md += `<img src="${repo.owner.avatar_url}" width="25" height="25" style="border-radius:50%;margin-right:5px"/> `;
+
+    for (const repo of list) {
+      // Repository header with avatar and name
+      md += `### `;
+      md += `<img src="${repo.owner.avatar_url}" width="20" align="top" alt="${repo.owner.login}"/> `;
       md += `[${repo.owner.login}/${repo.name}](${repo.html_url})`;
       
-      // Heat indicator
+      // Heat indicator on same line as title
       const heat = getHeat(repo.stargazers_count);
       if (heat) md += ` ${heat}`;
-      md += `\n\n`;
-      
+      md += '\n\n';
+
       // Description
       if (repo.description) {
-        const desc = repo.description.replace(/\n/g, ' ');
-        md += `> ${desc}\n\n`;
+        md += `> ${repo.description}\n\n`;
       }
+
+      // Stats badges
+      md += `<div align="center">\n\n`;
+      md += `[![Stars](https://img.shields.io/github/stars/${repo.full_name}?style=flat-square&labelColor=343b41)](${repo.html_url}/stargazers) `;
+      md += `[![Forks](https://img.shields.io/github/forks/${repo.full_name}?style=flat-square&labelColor=343b41)](${repo.html_url}/network/members) `;
+      md += `[![Last Commit](https://img.shields.io/github/last-commit/${repo.full_name}?style=flat-square&labelColor=343b41)](${repo.html_url}/commits)\n\n`;
+      md += '</div>\n\n';
       
-      // Stats badges on one line
-      md += `[![Stars](https://img.shields.io/github/stars/${repo.full_name}?style=flat-square)](${repo.html_url}/stargazers) `;
-      md += `[![Forks](https://img.shields.io/github/forks/${repo.full_name}?style=flat-square)](${repo.html_url}/network/members) `;
-      md += `[![Last Commit](https://img.shields.io/github/last-commit/${repo.full_name}?style=flat-square)](${repo.html_url}/commits)\n\n`;
-      
-      // Topics as badges
+      // Topics as inline code
       if (repo.topics && repo.topics.length) {
-        repo.topics.slice(0, 5).forEach(topic => {
-          md += `\`${topic}\` `;
-        });
-        md += '\n\n';
+        md += repo.topics.slice(0, 5).map(topic => `\`${topic}\``).join(' ') + '\n\n';
       }
 
-      // Add separator between repos except last one
-      if (i < list.length - 1) {
-        md += `---\n\n`;
-      }
-
-      // Switch to second column after half the items
-      if (i === Math.floor((list.length - 1) / 2)) {
-        md += `</td><td width="50%" valign="top">\n\n`;
+      // Add separator between repos
+      if (list.indexOf(repo) !== list.length - 1) {
+        md += '---\n\n';
       }
     }
     
-    // Close table
-    md += `</td></tr>\n</table>\n\n`;
     md += `</details>\n\n`;
+    
+    // Add space between categories
+    md += '---\n\n';
   }
 
   // Write the README file
