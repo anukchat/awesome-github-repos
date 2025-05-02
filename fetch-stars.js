@@ -2,21 +2,6 @@ const fetch = require('node-fetch');
 const { Octokit } = require('@octokit/rest');
 const fs = require('fs');
 
-// Category keywords and colors
-const categories = JSON.parse(fs.readFileSync('categories.json', 'utf8'));
-const categoryColors = {
-  AI: '#E0F7FA',        // light cyan
-  Agentic: '#E8F5E9',   // light green
-  Tools: '#FFFDE7',     // light yellow
-  Others: '#EEEEEE'     // light gray
-};
-const categoryIcons = {
-  AI: '🤖',
-  Agentic: '🧠',
-  Tools: '🛠️',
-  Others: '📦'
-};
-
 const USERNAME = process.env.GITHUB_USER || 'anukchat';
 const TOKEN = process.env.GITHUB_TOKEN;
 if (!TOKEN) { console.error('Set GITHUB_TOKEN'); process.exit(1); }
@@ -24,92 +9,70 @@ const octokit = new Octokit({ auth: TOKEN, request: { fetch } });
 
 // Fetch all starred repos
 async function fetchAllStarred(user) {
-  let page=1, all=[];
-  while(true) {
-    const { data } = await octokit.activity.listReposStarredByUser({ username:user, per_page:100, page });
-    if(!data.length) break;
+  let page = 1, all = [];
+  while (true) {
+    const { data } = await octokit.activity.listReposStarredByUser({ username: user, per_page: 100, page });
+    if (!data.length) break;
     all.push(...data);
     page++;
   }
   return all;
 }
 
-// Fetch repo topics
+// Fetch topics for each repo (optional)
 async function fetchTopics(owner, repo) {
-  const res = await octokit.request('GET /repos/{owner}/{repo}/topics', { owner, repo, mediaType:{previews:['mercy']} });
+  const res = await octokit.request('GET /repos/{owner}/{repo}/topics', {
+    owner, repo,
+    mediaType: { previews: ['mercy'] }
+  });
   return res.data.names;
 }
 
-// Determine category by topics
-function assignCategory(topics) {
-  for(const [cat, keys] of Object.entries(categories)) {
-    if(keys.some(k=> topics.includes(k.toLowerCase()))) return cat;
-  }
-  return 'Others';
+// Render a shields.io badge as HTML <img>
+function makeBadge(label, repo, style = 'flat-square', logo = null, color = null) {
+  let url = `https://img.shields.io/${label}/${repo}?style=${style}`;
+  if (logo) url += `&logo=${logo}`;
+  if (color) url += `&color=${color}`;
+  return `<img src="${url}" alt="${label}" style="margin:2px; vertical-align:middle;"/>`;
 }
 
-// Build badge markdown
-function makeBadge(label, url, style='flat-square', logo=null, color=null) {
-  let b = `https://img.shields.io/${label}/${url}?style=${style}`;
-  if(logo) b += `&logo=${logo}`;
-  if(color) b += `&color=${color}`;
-  return `![${label}](${b})`;
-}
-
-(async ()=>{
+(async () => {
   const stars = await fetchAllStarred(USERNAME);
+
+  // Group by repository owner
   const buckets = {};
-  for(const repo of stars) {
-    const topics = await fetchTopics(repo.owner.login, repo.name);
-    const cat = assignCategory(topics);
-    buckets[cat] = buckets[cat]||[];
-    buckets[cat].push({ ...repo, topics });
+  for (const r of stars) {
+    const owner = r.owner.login;
+    buckets[owner] = buckets[owner] || [];
+    buckets[owner].push(r);
   }
 
-  // Generate README
-  let md = `# 🌟 Awesome Starred Repositories for ${USERNAME}\n\n`;
-  md += '*_Auto-generated vibrant cards by category._*\n\n';
+  // Build HTML-based README
+  let md = `<h1 align="center">🌟 Awesome Starred Repositories for ${USERNAME}</h1>\n`;
+  md += `<p align="center"><em>Auto-generated cards grouped by repo owner.</em></p>\n\n`;
 
-  for (const cat of Object.keys(buckets).sort()) {
-    const repos = buckets[cat].sort((a, b) => b.stargazers_count - a.stargazers_count);
-    const color = categoryColors[cat] || categoryColors['Others'];
-    const icon = categoryIcons[cat] || '';
-    md += `## ${icon} ${cat}
+  Object.keys(buckets).sort().forEach(owner => {
+    const repos = buckets[owner].sort((a, b) => b.stargazers_count - a.stargazers_count);
+    md += `<h2>👤 ${owner}</h2>\n`;
+    md += `<table><tr>\n`;
 
-`;
-    md += '<table><tr>\n';
-
-    repos.forEach((r,i) => {
-      const bg = color;
+    repos.forEach((r, i) => {
       const avatar = `https://avatars.githubusercontent.com/u/${r.owner.id}?s=100`;
-      md += `<td align="center" width="220" style="background:${bg};border-radius:8px;padding:12px;margin:4px;">`;
-      md += `<a href=\"${r.html_url}\"><img src=\"${avatar}\" width=\"80px\" style=\"border-radius:50%;margin-bottom:8px;\"/><br/>`;
-      md += `<b>${r.full_name}</b></a><br/>`;
-      md += `<sub>${r.description||''}</sub><br/><br/>`;
+      md += `<td style="background:#f5f5f5;border-radius:8px;padding:12px;margin:4px;text-align:center;">`;
+      md += `<a href=\"${r.html_url}\"><img src=\"${avatar}\" width=\"80\" style=\"border-radius:50%;margin-bottom:8px;\"/></a><br/>`;
+      md += `<a href=\"${r.html_url}\" style=\"font-weight:bold;font-size:14px;\">${r.full_name}</a><br/>`;
+      md += `<p style=\"font-size:12px;margin:4px;\">${r.description||''}</p>`;
 
-      // badges row
-      md += makeBadge('github/stars', r.full_name);
-      md += '&nbsp;';
-      md += makeBadge('github/forks', r.full_name);
-      md += '&nbsp;';
-      md += makeBadge('github/issues', r.full_name, 'flat-square', null, 'ffb100');
-      md += '&nbsp;';
-      md += makeBadge('github/license', r.full_name, 'flat-square', null, 'green');
-      md += '<br/><br/>';
+      // Stars & forks badges
+      md += `<p>${makeBadge('github/stars', r.full_name)} ${makeBadge('github/forks', r.full_name)}</p>`;
 
-      // topic badges
-      r.topics.forEach(t => {
-        const label = encodeURIComponent(t);
-        md += `![${t}](https://img.shields.io/badge/${label}-${label}-informational?style=flat-square&logo=github)&nbsp;`;
-      });
-      md += '</td>\n';
-
-      if((i+1)%3===0 && i+1!==repos.length) md += '</tr><tr>\n';
+      md += `</td>\n`;
+      if ((i + 1) % 3 === 0 && i + 1 !== repos.length) md += `</tr><tr>\n`;
     });
 
-    md += '</tr></table>\n\n';
-  }
+    md += `</tr></table>\n\n`;
+  });
 
   fs.writeFileSync('README.md', md);
-  console.log('README.md generated with', Object.keys(buckets).length, 'categories.');
+  console.log('README.md generated for', Object.keys(buckets).length, 'owners.');
 })();
