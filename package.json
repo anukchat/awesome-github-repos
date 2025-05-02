@@ -1,0 +1,12 @@
+{
+    "name": "awesome-stars",
+    "version": "1.0.0",
+    "description": "Generate an awesome list of starred GitHub repositories",
+    "main": "fetch-stars.js",
+    "scripts": {
+      "start": "node fetch-stars.js"
+    },
+    "dependencies": {
+      "@octokit/rest": "^20.0.0"
+    }
+  }
