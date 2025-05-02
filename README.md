@@ -47,7 +47,7 @@
 <details>
 <summary>AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provi...</summary>
 
-AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+<div style="margin-top: 10px;">AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -67,10 +67,7 @@ AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our
 <h3 style="margin: 0;"><a href="https://github.com/huggingface/transformers">huggingface/transformers</a></h3>
 </div>
 
-<details>
-<summary>🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.</summary>
-
-</details>
+<p>🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -92,7 +89,7 @@ AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our
 <details>
 <summary>Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large la...</summary>
 
-Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+<div style="margin-top: 10px;">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -115,7 +112,7 @@ Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.
 <details>
 <summary>Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow...</summary>
 
-Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+<div style="margin-top: 10px;">Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -135,10 +132,7 @@ Dify is an open-source LLM app development platform. Dify's intuitive interface 
 <h3 style="margin: 0;"><a href="https://github.com/open-webui/open-webui">open-webui/open-webui</a></h3>
 </div>
 
-<details>
-<summary>User-friendly AI Interface (Supports Ollama, OpenAI API, ...)</summary>
-
-</details>
+<p>User-friendly AI Interface (Supports Ollama, OpenAI API, ...)</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -160,7 +154,7 @@ Dify is an open-source LLM app development platform. Dify's intuitive interface 
 <details>
 <summary>21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-fo...</summary>
 
-21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+<div style="margin-top: 10px;">21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -180,10 +174,7 @@ Dify is an open-source LLM app development platform. Dify's intuitive interface 
 <h3 style="margin: 0;"><a href="https://github.com/ggml-org/llama.cpp">ggml-org/llama.cpp</a></h3>
 </div>
 
-<details>
-<summary>LLM inference in C/C++</summary>
-
-</details>
+<p>LLM inference in C/C++</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -205,7 +196,7 @@ Dify is an open-source LLM app development platform. Dify's intuitive interface 
 <details>
 <summary>The official gpt4free repository | various collection of powerful language models | o4, o3 and deeps...</summary>
 
-The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
+<div style="margin-top: 10px;">The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -228,7 +219,7 @@ The official gpt4free repository | various collection of powerful language model
 <details>
 <summary>🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including tr...</summary>
 
-🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
+<div style="margin-top: 10px;">🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -248,10 +239,7 @@ The official gpt4free repository | various collection of powerful language model
 <h3 style="margin: 0;"><a href="https://github.com/browser-use/browser-use">browser-use/browser-use</a></h3>
 </div>
 
-<details>
-<summary>Make websites accessible for AI agents</summary>
-
-</details>
+<p>Make websites accessible for AI agents</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -270,10 +258,7 @@ The official gpt4free repository | various collection of powerful language model
 <h3 style="margin: 0;"><a href="https://github.com/All-Hands-AI/OpenHands">All-Hands-AI/OpenHands</a></h3>
 </div>
 
-<details>
-<summary>🙌 OpenHands: Code Less, Make More</summary>
-
-</details>
+<p>🙌 OpenHands: Code Less, Make More</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -295,7 +280,7 @@ The official gpt4free repository | various collection of powerful language model
 <details>
 <summary>RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document underst...</summary>
 
-RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+<div style="margin-top: 10px;">RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -315,10 +300,7 @@ RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on d
 <h3 style="margin: 0;"><a href="https://github.com/mlabonne/llm-course">mlabonne/llm-course</a></h3>
 </div>
 
-<details>
-<summary>Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.</summary>
-
-</details>
+<p>Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -337,10 +319,7 @@ RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on d
 <h3 style="margin: 0;"><a href="https://github.com/hiyouga/LLaMA-Factory">hiyouga/LLaMA-Factory</a></h3>
 </div>
 
-<details>
-<summary>Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)</summary>
-
-</details>
+<p>Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -359,10 +338,7 @@ RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on d
 <h3 style="margin: 0;"><a href="https://github.com/rasbt/LLMs-from-scratch">rasbt/LLMs-from-scratch</a></h3>
 </div>
 
-<details>
-<summary>Implement a ChatGPT-like LLM in PyTorch from scratch, step by step</summary>
-
-</details>
+<p>Implement a ChatGPT-like LLM in PyTorch from scratch, step by step</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -381,10 +357,7 @@ RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on d
 <h3 style="margin: 0;"><a href="https://github.com/vllm-project/vllm">vllm-project/vllm</a></h3>
 </div>
 
-<details>
-<summary>A high-throughput and memory-efficient inference and serving engine for LLMs</summary>
-
-</details>
+<p>A high-throughput and memory-efficient inference and serving engine for LLMs</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -406,7 +379,7 @@ RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on d
 <details>
 <summary>🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://disc...</summary>
 
-🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+<div style="margin-top: 10px;">🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -423,10 +396,7 @@ RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on d
 <h3 style="margin: 0;"><a href="https://github.com/run-llama/llama_index">run-llama/llama_index</a></h3>
 </div>
 
-<details>
-<summary>LlamaIndex is the leading framework for building LLM-powered agents over your data.</summary>
-
-</details>
+<p>LlamaIndex is the leading framework for building LLM-powered agents over your data.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -445,10 +415,7 @@ RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on d
 <h3 style="margin: 0;"><a href="https://github.com/ggml-org/whisper.cpp">ggml-org/whisper.cpp</a></h3>
 </div>
 
-<details>
-<summary>Port of OpenAI's Whisper model in C/C++</summary>
-
-</details>
+<p>Port of OpenAI's Whisper model in C/C++</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -467,10 +434,7 @@ RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on d
 <h3 style="margin: 0;"><a href="https://github.com/google-research/bert">google-research/bert</a></h3>
 </div>
 
-<details>
-<summary>TensorFlow code and pre-trained models for BERT</summary>
-
-</details>
+<p>TensorFlow code and pre-trained models for BERT</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -489,10 +453,7 @@ RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on d
 <h3 style="margin: 0;"><a href="https://github.com/unslothai/unsloth">unslothai/unsloth</a></h3>
 </div>
 
-<details>
-<summary>Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥</summary>
-
-</details>
+<p>Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -514,7 +475,7 @@ RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on d
 <details>
 <summary>🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a...</summary>
 
-🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+<div style="margin-top: 10px;">🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -534,10 +495,7 @@ RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on d
 <h3 style="margin: 0;"><a href="https://github.com/karpathy/LLM101n">karpathy/LLM101n</a></h3>
 </div>
 
-<details>
-<summary>LLM101n: Let's build a Storyteller</summary>
-
-</details>
+<p>LLM101n: Let's build a Storyteller</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -553,10 +511,7 @@ RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on d
 <h3 style="margin: 0;"><a href="https://github.com/Aider-AI/aider">Aider-AI/aider</a></h3>
 </div>
 
-<details>
-<summary>aider is AI pair programming in your terminal</summary>
-
-</details>
+<p>aider is AI pair programming in your terminal</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -578,7 +533,7 @@ RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on d
 <details>
 <summary>Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, sch...</summary>
 
-Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
+<div style="margin-top: 10px;">Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -601,7 +556,7 @@ Your AI second brain. Self-hostable. Get answers from the web or your docs. Buil
 <details>
 <summary>Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboratio...</summary>
 
-Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
+<div style="margin-top: 10px;">Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -621,7 +576,7 @@ Create Customized Software using Natural Language Idea (through LLM-powered Mult
 <details>
 <summary>⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of mo...</summary>
 
-⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
+<div style="margin-top: 10px;">⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -641,10 +596,7 @@ Create Customized Software using Natural Language Idea (through LLM-powered Mult
 <h3 style="margin: 0;"><a href="https://github.com/microsoft/semantic-kernel">microsoft/semantic-kernel</a></h3>
 </div>
 
-<details>
-<summary>Integrate cutting-edge LLM technology quickly and easily into your apps</summary>
-
-</details>
+<p>Integrate cutting-edge LLM technology quickly and easily into your apps</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -663,10 +615,7 @@ Create Customized Software using Natural Language Idea (through LLM-powered Mult
 <h3 style="margin: 0;"><a href="https://github.com/microsoft/JARVIS">microsoft/JARVIS</a></h3>
 </div>
 
-<details>
-<summary>JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf</summary>
-
-</details>
+<p>JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -685,10 +634,7 @@ Create Customized Software using Natural Language Idea (through LLM-powered Mult
 <h3 style="margin: 0;"><a href="https://github.com/Hannibal046/Awesome-LLM">Hannibal046/Awesome-LLM</a></h3>
 </div>
 
-<details>
-<summary>Awesome-LLM: a curated list of Large Language Model</summary>
-
-</details>
+<p>Awesome-LLM: a curated list of Large Language Model</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -707,7 +653,7 @@ Create Customized Software using Natural Language Idea (through LLM-powered Mult
 <details>
 <summary>PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL...</summary>
 
-PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+<div style="margin-top: 10px;">PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -727,10 +673,7 @@ PDF scientific paper translation with preserved formats - 基于 AI 完整保留
 <h3 style="margin: 0;"><a href="https://github.com/Mozilla-Ocho/llamafile">Mozilla-Ocho/llamafile</a></h3>
 </div>
 
-<details>
-<summary>Distribute and run LLMs with a single file.</summary>
-
-</details>
+<p>Distribute and run LLMs with a single file.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -746,10 +689,7 @@ PDF scientific paper translation with preserved formats - 基于 AI 完整保留
 <h3 style="margin: 0;"><a href="https://github.com/karpathy/minGPT">karpathy/minGPT</a></h3>
 </div>
 
-<details>
-<summary>A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training</summary>
-
-</details>
+<p>A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -768,7 +708,7 @@ PDF scientific paper translation with preserved formats - 基于 AI 完整保留
 <details>
 <summary>Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, Ope...</summary>
 
-Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+<div style="margin-top: 10px;">Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -791,7 +731,7 @@ Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - 
 <details>
 <summary>AI orchestration framework to build customizable, production-ready LLM applications. Connect compone...</summary>
 
-AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
+<div style="margin-top: 10px;">AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -811,10 +751,7 @@ AI orchestration framework to build customizable, production-ready LLM applicati
 <h3 style="margin: 0;"><a href="https://github.com/ml-tooling/best-of-ml-python">ml-tooling/best-of-ml-python</a></h3>
 </div>
 
-<details>
-<summary>🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.</summary>
-
-</details>
+<p>🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -833,10 +770,7 @@ AI orchestration framework to build customizable, production-ready LLM applicati
 <h3 style="margin: 0;"><a href="https://github.com/ScrapeGraphAI/Scrapegraph-ai">ScrapeGraphAI/Scrapegraph-ai</a></h3>
 </div>
 
-<details>
-<summary>Python scraper based on AI</summary>
-
-</details>
+<p>Python scraper based on AI</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -855,10 +789,7 @@ AI orchestration framework to build customizable, production-ready LLM applicati
 <h3 style="margin: 0;"><a href="https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra">kenjihiranabe/The-Art-of-Linear-Algebra</a></h3>
 </div>
 
-<details>
-<summary>Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"</summary>
-
-</details>
+<p>Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -877,7 +808,7 @@ AI orchestration framework to build customizable, production-ready LLM applicati
 <details>
 <summary>React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic la...</summary>
 
-React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+<div style="margin-top: 10px;">React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -897,10 +828,7 @@ React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI ag
 <h3 style="margin: 0;"><a href="https://github.com/microsoft/BitNet">microsoft/BitNet</a></h3>
 </div>
 
-<details>
-<summary>Official inference framework for 1-bit LLMs</summary>
-
-</details>
+<p>Official inference framework for 1-bit LLMs</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -916,10 +844,7 @@ React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI ag
 <h3 style="margin: 0;"><a href="https://github.com/e2b-dev/awesome-ai-agents">e2b-dev/awesome-ai-agents</a></h3>
 </div>
 
-<details>
-<summary>A list of AI autonomous agents</summary>
-
-</details>
+<p>A list of AI autonomous agents</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -941,7 +866,7 @@ React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI ag
 <details>
 <summary>Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started wit...</summary>
 
-Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services  
+<div style="margin-top: 10px;">Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services  </div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -961,10 +886,7 @@ Welcome to the Llama Cookbook! This is your go to guide for Building with Llama:
 <h3 style="margin: 0;"><a href="https://github.com/openai/evals">openai/evals</a></h3>
 </div>
 
-<details>
-<summary>Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.</summary>
-
-</details>
+<p>Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -983,7 +905,7 @@ Welcome to the Llama Cookbook! This is your go to guide for Building with Llama:
 <details>
 <summary>This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) syste...</summary>
 
-This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
+<div style="margin-top: 10px;">This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -1006,7 +928,7 @@ This repository showcases various advanced techniques for Retrieval-Augmented Ge
 <details>
 <summary>AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen...</summary>
 
-AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
+<div style="margin-top: 10px;">AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -1026,10 +948,7 @@ AI app store powered by 24/7 desktop history.  open source | 100% local | dev fr
 <h3 style="margin: 0;"><a href="https://github.com/sgl-project/sglang">sgl-project/sglang</a></h3>
 </div>
 
-<details>
-<summary>SGLang is a fast serving framework for large language models and vision language models.</summary>
-
-</details>
+<p>SGLang is a fast serving framework for large language models and vision language models.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -1048,10 +967,7 @@ AI app store powered by 24/7 desktop history.  open source | 100% local | dev fr
 <h3 style="margin: 0;"><a href="https://github.com/stas00/ml-engineering">stas00/ml-engineering</a></h3>
 </div>
 
-<details>
-<summary>Machine Learning Engineering Open Book</summary>
-
-</details>
+<p>Machine Learning Engineering Open Book</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -1070,10 +986,7 @@ AI app store powered by 24/7 desktop history.  open source | 100% local | dev fr
 <h3 style="margin: 0;"><a href="https://github.com/Skyvern-AI/skyvern">Skyvern-AI/skyvern</a></h3>
 </div>
 
-<details>
-<summary>Automate browser-based workflows with LLMs and Computer Vision</summary>
-
-</details>
+<p>Automate browser-based workflows with LLMs and Computer Vision</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -1095,7 +1008,7 @@ AI app store powered by 24/7 desktop history.  open source | 100% local | dev fr
 <details>
 <summary>Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managin...</summary>
 
-Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
+<div style="margin-top: 10px;">Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -1115,10 +1028,7 @@ Self-Hosting Guide. Learn all about  locally hosting (on premises & private web 
 <h3 style="margin: 0;"><a href="https://github.com/llmware-ai/llmware">llmware-ai/llmware</a></h3>
 </div>
 
-<details>
-<summary>Unified framework for building enterprise RAG pipelines with small, specialized models</summary>
-
-</details>
+<p>Unified framework for building enterprise RAG pipelines with small, specialized models</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -1137,10 +1047,7 @@ Self-Hosting Guide. Learn all about  locally hosting (on premises & private web 
 <h3 style="margin: 0;"><a href="https://github.com/78/xiaozhi-esp32">78/xiaozhi-esp32</a></h3>
 </div>
 
-<details>
-<summary>Build your own AI friend</summary>
-
-</details>
+<p>Build your own AI friend</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -1176,10 +1083,7 @@ Self-Hosting Guide. Learn all about  locally hosting (on premises & private web 
 <h3 style="margin: 0;"><a href="https://github.com/Lightning-AI/litgpt">Lightning-AI/litgpt</a></h3>
 </div>
 
-<details>
-<summary>20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.</summary>
-
-</details>
+<p>20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -1201,7 +1105,7 @@ Self-Hosting Guide. Learn all about  locally hosting (on premises & private web 
 <details>
 <summary>This repository provides tutorials and implementations for various Generative AI Agent techniques, f...</summary>
 
-This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
+<div style="margin-top: 10px;">This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -1221,10 +1125,7 @@ This repository provides tutorials and implementations for various Generative AI
 <h3 style="margin: 0;"><a href="https://github.com/NielsRogge/Transformers-Tutorials">NielsRogge/Transformers-Tutorials</a></h3>
 </div>
 
-<details>
-<summary>This repository contains demos I made with the Transformers library by HuggingFace.</summary>
-
-</details>
+<p>This repository contains demos I made with the Transformers library by HuggingFace.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -1246,7 +1147,7 @@ This repository provides tutorials and implementations for various Generative AI
 <details>
 <summary>TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) an...</summary>
 
-TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.
+<div style="margin-top: 10px;">TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -1263,10 +1164,7 @@ TensorRT-LLM provides users with an easy-to-use Python API to define Large Langu
 <h3 style="margin: 0;"><a href="https://github.com/microsoft/promptflow">microsoft/promptflow</a></h3>
 </div>
 
-<details>
-<summary>Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.</summary>
-
-</details>
+<p>Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -1285,10 +1183,7 @@ TensorRT-LLM provides users with an easy-to-use Python API to define Large Langu
 <h3 style="margin: 0;"><a href="https://github.com/instructor-ai/instructor">instructor-ai/instructor</a></h3>
 </div>
 
-<details>
-<summary>structured outputs for llms </summary>
-
-</details>
+<p>structured outputs for llms </p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -1307,10 +1202,7 @@ TensorRT-LLM provides users with an easy-to-use Python API to define Large Langu
 <h3 style="margin: 0;"><a href="https://github.com/Chainlit/chainlit">Chainlit/chainlit</a></h3>
 </div>
 
-<details>
-<summary>Build Conversational AI in minutes ⚡️</summary>
-
-</details>
+<p>Build Conversational AI in minutes ⚡️</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -1329,10 +1221,7 @@ TensorRT-LLM provides users with an easy-to-use Python API to define Large Langu
 <h3 style="margin: 0;"><a href="https://github.com/kortix-ai/suna">kortix-ai/suna</a></h3>
 </div>
 
-<details>
-<summary>Suna - Open Source Generalist AI Agent</summary>
-
-</details>
+<p>Suna - Open Source Generalist AI Agent</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -1351,10 +1240,7 @@ TensorRT-LLM provides users with an easy-to-use Python API to define Large Langu
 <h3 style="margin: 0;"><a href="https://github.com/steven2358/awesome-generative-ai">steven2358/awesome-generative-ai</a></h3>
 </div>
 
-<details>
-<summary>A curated list of modern Generative Artificial Intelligence projects and services</summary>
-
-</details>
+<p>A curated list of modern Generative Artificial Intelligence projects and services</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -1373,10 +1259,7 @@ TensorRT-LLM provides users with an easy-to-use Python API to define Large Langu
 <h3 style="margin: 0;"><a href="https://github.com/jlowin/fastmcp">jlowin/fastmcp</a></h3>
 </div>
 
-<details>
-<summary>🚀 The fast, Pythonic way to build MCP servers and clients</summary>
-
-</details>
+<p>🚀 The fast, Pythonic way to build MCP servers and clients</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -1395,10 +1278,7 @@ TensorRT-LLM provides users with an easy-to-use Python API to define Large Langu
 <h3 style="margin: 0;"><a href="https://github.com/e2b-dev/E2B">e2b-dev/E2B</a></h3>
 </div>
 
-<details>
-<summary>Secure open source cloud runtime for AI apps & AI agents</summary>
-
-</details>
+<p>Secure open source cloud runtime for AI apps & AI agents</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -1417,10 +1297,7 @@ TensorRT-LLM provides users with an easy-to-use Python API to define Large Langu
 <h3 style="margin: 0;"><a href="https://github.com/ollama/ollama-python">ollama/ollama-python</a></h3>
 </div>
 
-<details>
-<summary>Ollama Python library</summary>
-
-</details>
+<p>Ollama Python library</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -1439,10 +1316,7 @@ TensorRT-LLM provides users with an easy-to-use Python API to define Large Langu
 <h3 style="margin: 0;"><a href="https://github.com/microsoft/UFO">microsoft/UFO</a></h3>
 </div>
 
-<details>
-<summary>The Desktop AgentOS.</summary>
-
-</details>
+<p>The Desktop AgentOS.</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -1464,7 +1338,7 @@ TensorRT-LLM provides users with an easy-to-use Python API to define Large Langu
 <details>
 <summary> A video translation and dubbing tool powered by LLMs, offering professional-grade translations and ...</summary>
 
- A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
+<div style="margin-top: 10px;"> A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥</p>
@@ -1484,10 +1358,7 @@ TensorRT-LLM provides users with an easy-to-use Python API to define Large Langu
 <h3 style="margin: 0;"><a href="https://github.com/codertimo/BERT-pytorch">codertimo/BERT-pytorch</a></h3>
 </div>
 
-<details>
-<summary>Google AI 2018 BERT pytorch implementation</summary>
-
-</details>
+<p>Google AI 2018 BERT pytorch implementation</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -1509,7 +1380,7 @@ TensorRT-LLM provides users with an easy-to-use Python API to define Large Langu
 <details>
 <summary>File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is i...</summary>
 
-File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs. 
+<div style="margin-top: 10px;">File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs. </div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥</p>
@@ -1529,10 +1400,7 @@ File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx
 <h3 style="margin: 0;"><a href="https://github.com/microsoft/TinyTroupe">microsoft/TinyTroupe</a></h3>
 </div>
 
-<details>
-<summary>LLM-powered multiagent persona simulation for imagination enhancement and business insights.</summary>
-
-</details>
+<p>LLM-powered multiagent persona simulation for imagination enhancement and business insights.</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -1548,10 +1416,7 @@ File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx
 <h3 style="margin: 0;"><a href="https://github.com/lavague-ai/LaVague">lavague-ai/LaVague</a></h3>
 </div>
 
-<details>
-<summary>Large Action Model framework to develop AI Web Agents</summary>
-
-</details>
+<p>Large Action Model framework to develop AI Web Agents</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -1570,10 +1435,7 @@ File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx
 <h3 style="margin: 0;"><a href="https://github.com/lyogavin/airllm">lyogavin/airllm</a></h3>
 </div>
 
-<details>
-<summary>AirLLM 70B inference with single 4GB GPU</summary>
-
-</details>
+<p>AirLLM 70B inference with single 4GB GPU</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -1592,10 +1454,7 @@ File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx
 <h3 style="margin: 0;"><a href="https://github.com/aiwaves-cn/agents">aiwaves-cn/agents</a></h3>
 </div>
 
-<details>
-<summary>An Open-source Framework for Data-centric, Self-evolving Autonomous Language Agents</summary>
-
-</details>
+<p>An Open-source Framework for Data-centric, Self-evolving Autonomous Language Agents</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -1614,10 +1473,7 @@ File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx
 <h3 style="margin: 0;"><a href="https://github.com/guardrails-ai/guardrails">guardrails-ai/guardrails</a></h3>
 </div>
 
-<details>
-<summary>Adding guardrails to large language models.</summary>
-
-</details>
+<p>Adding guardrails to large language models.</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -1639,7 +1495,7 @@ File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx
 <details>
 <summary>A suite of tools to develop RAG, semantic search, and other AI applications more easily with Postgre...</summary>
 
-A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
+<div style="margin-top: 10px;">A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -1659,10 +1515,7 @@ A suite of tools to develop RAG, semantic search, and other AI applications more
 <h3 style="margin: 0;"><a href="https://github.com/katanaml/sparrow">katanaml/sparrow</a></h3>
 </div>
 
-<details>
-<summary>Data processing with ML, LLM and Vision LLM</summary>
-
-</details>
+<p>Data processing with ML, LLM and Vision LLM</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -1681,10 +1534,7 @@ A suite of tools to develop RAG, semantic search, and other AI applications more
 <h3 style="margin: 0;"><a href="https://github.com/langchain-ai/open-canvas">langchain-ai/open-canvas</a></h3>
 </div>
 
-<details>
-<summary>📃 A better UX for chat, writing content, and coding with LLMs.</summary>
-
-</details>
+<p>📃 A better UX for chat, writing content, and coding with LLMs.</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -1700,10 +1550,7 @@ A suite of tools to develop RAG, semantic search, and other AI applications more
 <h3 style="margin: 0;"><a href="https://github.com/nlp-with-transformers/notebooks">nlp-with-transformers/notebooks</a></h3>
 </div>
 
-<details>
-<summary>Jupyter notebooks for the Natural Language Processing with Transformers book</summary>
-
-</details>
+<p>Jupyter notebooks for the Natural Language Processing with Transformers book</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -1722,7 +1569,7 @@ A suite of tools to develop RAG, semantic search, and other AI applications more
 <details>
 <summary>Research and development (R&D) is crucial for the enhancement of industrial productivity, especially...</summary>
 
-Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which lets AI drive data-driven AI.
+<div style="margin-top: 10px;">Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which lets AI drive data-driven AI.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -1745,7 +1592,7 @@ Research and development (R&D) is crucial for the enhancement of industrial prod
 <details>
 <summary>🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser insta...</summary>
 
-🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure.
+<div style="margin-top: 10px;">🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -1765,10 +1612,7 @@ Research and development (R&D) is crucial for the enhancement of industrial prod
 <h3 style="margin: 0;"><a href="https://github.com/poloclub/transformer-explainer">poloclub/transformer-explainer</a></h3>
 </div>
 
-<details>
-<summary>Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization</summary>
-
-</details>
+<p>Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -1787,10 +1631,7 @@ Research and development (R&D) is crucial for the enhancement of industrial prod
 <h3 style="margin: 0;"><a href="https://github.com/tadata-org/fastapi_mcp">tadata-org/fastapi_mcp</a></h3>
 </div>
 
-<details>
-<summary>Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!</summary>
-
-</details>
+<p>Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -1809,10 +1650,7 @@ Research and development (R&D) is crucial for the enhancement of industrial prod
 <h3 style="margin: 0;"><a href="https://github.com/NVlabs/Sana">NVlabs/Sana</a></h3>
 </div>
 
-<details>
-<summary>SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer</summary>
-
-</details>
+<p>SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -1834,7 +1672,7 @@ Research and development (R&D) is crucial for the enhancement of industrial prod
 <details>
 <summary>RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for pr...</summary>
 
-RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry 
+<div style="margin-top: 10px;">RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry </div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -1854,10 +1692,7 @@ RAG (Retrieval Augmented Generation) Framework for building modular, open source
 <h3 style="margin: 0;"><a href="https://github.com/lm-sys/RouteLLM">lm-sys/RouteLLM</a></h3>
 </div>
 
-<details>
-<summary>A framework for serving and evaluating LLM routers - save LLM costs without compromising quality</summary>
-
-</details>
+<p>A framework for serving and evaluating LLM routers - save LLM costs without compromising quality</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -1876,7 +1711,7 @@ RAG (Retrieval Augmented Generation) Framework for building modular, open source
 <details>
 <summary>🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC...</summary>
 
-🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
+<div style="margin-top: 10px;">🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -1899,7 +1734,7 @@ RAG (Retrieval Augmented Generation) Framework for building modular, open source
 <details>
 <summary>The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using...</summary>
 
-The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices
+<div style="margin-top: 10px;">The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -1919,10 +1754,7 @@ The LLM's practical guide: From the fundamentals to deploying advanced LLM and R
 <h3 style="margin: 0;"><a href="https://github.com/meta-llama/PurpleLlama">meta-llama/PurpleLlama</a></h3>
 </div>
 
-<details>
-<summary>Set of tools to assess and improve LLM security.</summary>
-
-</details>
+<p>Set of tools to assess and improve LLM security.</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -1941,7 +1773,7 @@ The LLM's practical guide: From the fundamentals to deploying advanced LLM and R
 <details>
 <summary>[CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-sourc...</summary>
 
-[CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
+<div style="margin-top: 10px;">[CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -1961,10 +1793,7 @@ The LLM's practical guide: From the fundamentals to deploying advanced LLM and R
 <h3 style="margin: 0;"><a href="https://github.com/cheahjs/free-llm-api-resources">cheahjs/free-llm-api-resources</a></h3>
 </div>
 
-<details>
-<summary>A list of free LLM inference resources accessible via API.</summary>
-
-</details>
+<p>A list of free LLM inference resources accessible via API.</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -1983,10 +1812,7 @@ The LLM's practical guide: From the fundamentals to deploying advanced LLM and R
 <h3 style="margin: 0;"><a href="https://github.com/predibase/lorax">predibase/lorax</a></h3>
 </div>
 
-<details>
-<summary>Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs</summary>
-
-</details>
+<p>Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -2005,10 +1831,7 @@ The LLM's practical guide: From the fundamentals to deploying advanced LLM and R
 <h3 style="margin: 0;"><a href="https://github.com/evilsocket/cake">evilsocket/cake</a></h3>
 </div>
 
-<details>
-<summary>Distributed LLM and StableDiffusion inference for mobile, desktop and server.</summary>
-
-</details>
+<p>Distributed LLM and StableDiffusion inference for mobile, desktop and server.</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -2024,10 +1847,7 @@ The LLM's practical guide: From the fundamentals to deploying advanced LLM and R
 <h3 style="margin: 0;"><a href="https://github.com/ashishpatel26/LLM-Finetuning">ashishpatel26/LLM-Finetuning</a></h3>
 </div>
 
-<details>
-<summary>LLM Finetuning with peft</summary>
-
-</details>
+<p>LLM Finetuning with peft</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -2049,7 +1869,7 @@ The LLM's practical guide: From the fundamentals to deploying advanced LLM and R
 <details>
 <summary>Sim Studio is an open-source agent workflow builder. Sim Studio's interface is a lightweight, intuit...</summary>
 
-Sim Studio is an open-source agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+<div style="margin-top: 10px;">Sim Studio is an open-source agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -2069,10 +1889,7 @@ Sim Studio is an open-source agent workflow builder. Sim Studio's interface is a
 <h3 style="margin: 0;"><a href="https://github.com/huggingface/smollm">huggingface/smollm</a></h3>
 </div>
 
-<details>
-<summary>Everything about the SmolLM2 and SmolVLM family of models </summary>
-
-</details>
+<p>Everything about the SmolLM2 and SmolVLM family of models </p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -2091,7 +1908,7 @@ Sim Studio is an open-source agent workflow builder. Sim Studio's interface is a
 <details>
 <summary>A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze videos, extract the most ...</summary>
 
-A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze videos, extract the most interesting sections, and crop them for an improved viewing experience.
+<div style="margin-top: 10px;">A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze videos, extract the most interesting sections, and crop them for an improved viewing experience.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -2111,10 +1928,7 @@ A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze video
 <h3 style="margin: 0;"><a href="https://github.com/pytorch/ao">pytorch/ao</a></h3>
 </div>
 
-<details>
-<summary>PyTorch native quantization and sparsity for training and inference</summary>
-
-</details>
+<p>PyTorch native quantization and sparsity for training and inference</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -2136,7 +1950,7 @@ A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze video
 <details>
 <summary>This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) system...</summary>
 
-This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.
+<div style="margin-top: 10px;">This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -2156,10 +1970,7 @@ This repository contains various advanced techniques for Retrieval-Augmented Gen
 <h3 style="margin: 0;"><a href="https://github.com/Nutlope/llamatutor">Nutlope/llamatutor</a></h3>
 </div>
 
-<details>
-<summary>An AI personal tutor built with Llama 3.1</summary>
-
-</details>
+<p>An AI personal tutor built with Llama 3.1</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -2175,10 +1986,7 @@ This repository contains various advanced techniques for Retrieval-Augmented Gen
 <h3 style="margin: 0;"><a href="https://github.com/langwatch/langwatch">langwatch/langwatch</a></h3>
 </div>
 
-<details>
-<summary>The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨</summary>
-
-</details>
+<p>The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -2197,10 +2005,7 @@ This repository contains various advanced techniques for Retrieval-Augmented Gen
 <h3 style="margin: 0;"><a href="https://github.com/afshinea/stanford-cme-295-transformers-large-language-models">afshinea/stanford-cme-295-transformers-large-language-models</a></h3>
 </div>
 
-<details>
-<summary>VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models</summary>
-
-</details>
+<p>VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -2219,7 +2024,7 @@ This repository contains various advanced techniques for Retrieval-Augmented Gen
 <details>
 <summary>Sharing both practical insights and theoretical knowledge about LLM evaluation that we gathered whil...</summary>
 
-Sharing both practical insights and theoretical knowledge about LLM evaluation that we gathered while managing the Open LLM Leaderboard and designing lighteval!
+<div style="margin-top: 10px;">Sharing both practical insights and theoretical knowledge about LLM evaluation that we gathered while managing the Open LLM Leaderboard and designing lighteval!</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -2242,7 +2047,7 @@ Sharing both practical insights and theoretical knowledge about LLM evaluation t
 <details>
 <summary>Open Source Generative Process Automation (i.e. Generative RPA). AI-First Process Automation with La...</summary>
 
-Open Source Generative Process Automation (i.e. Generative RPA). AI-First Process Automation with Large ([Language (LLMs) / Action (LAMs) / Multimodal (LMMs)] / Visual Language (VLMs)) Models
+<div style="margin-top: 10px;">Open Source Generative Process Automation (i.e. Generative RPA). AI-First Process Automation with Large ([Language (LLMs) / Action (LAMs) / Multimodal (LMMs)] / Visual Language (VLMs)) Models</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -2265,7 +2070,7 @@ Open Source Generative Process Automation (i.e. Generative RPA). AI-First Proces
 <details>
 <summary>ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexi...</summary>
 
-ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.
+<div style="margin-top: 10px;">ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -2288,7 +2093,7 @@ ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style i
 <details>
 <summary>This repository provides an advanced Retrieval-Augmented Generation (RAG) solution for complex quest...</summary>
 
-This repository provides an advanced Retrieval-Augmented Generation (RAG) solution for complex question answering. It uses sophisticated graph based algorithm to handle the tasks.
+<div style="margin-top: 10px;">This repository provides an advanced Retrieval-Augmented Generation (RAG) solution for complex question answering. It uses sophisticated graph based algorithm to handle the tasks.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -2308,10 +2113,7 @@ This repository provides an advanced Retrieval-Augmented Generation (RAG) soluti
 <h3 style="margin: 0;"><a href="https://github.com/lotus-data/lotus">lotus-data/lotus</a></h3>
 </div>
 
-<details>
-<summary>LOTUS: A semantic query engine for fast and easy LLM-powered data processing</summary>
-
-</details>
+<p>LOTUS: A semantic query engine for fast and easy LLM-powered data processing</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -2333,7 +2135,7 @@ This repository provides an advanced Retrieval-Augmented Generation (RAG) soluti
 <details>
 <summary>vLLM’s reference system for K8S-native cluster-wide deployment with community-driven performance opt...</summary>
 
-vLLM’s reference system for K8S-native cluster-wide deployment with community-driven performance optimization
+<div style="margin-top: 10px;">vLLM’s reference system for K8S-native cluster-wide deployment with community-driven performance optimization</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -2350,10 +2152,7 @@ vLLM’s reference system for K8S-native cluster-wide deployment with community-
 <h3 style="margin: 0;"><a href="https://github.com/myshell-ai/AIlice">myshell-ai/AIlice</a></h3>
 </div>
 
-<details>
-<summary>AIlice is a fully autonomous, general-purpose AI agent.</summary>
-
-</details>
+<p>AIlice is a fully autonomous, general-purpose AI agent.</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -2375,7 +2174,7 @@ vLLM’s reference system for K8S-native cluster-wide deployment with community-
 <details>
 <summary>This series will take you on a journey from the fundamentals of NLP and Computer Vision to the cutti...</summary>
 
-This series will take you on a journey from the fundamentals of NLP and Computer Vision to the cutting edge of Vision-Language Models.
+<div style="margin-top: 10px;">This series will take you on a journey from the fundamentals of NLP and Computer Vision to the cutting edge of Vision-Language Models.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -2398,7 +2197,7 @@ This series will take you on a journey from the fundamentals of NLP and Computer
 <details>
 <summary>AI as Workspace - A better AI (LLM) client. Full-featured, lightweight. Support multiple workspaces,...</summary>
 
-AI as Workspace - A better AI (LLM) client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端
+<div style="margin-top: 10px;">AI as Workspace - A better AI (LLM) client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -2418,10 +2217,7 @@ AI as Workspace - A better AI (LLM) client. Full-featured, lightweight. Support 
 <h3 style="margin: 0;"><a href="https://github.com/varungodbole/prompt-tuning-playbook">varungodbole/prompt-tuning-playbook</a></h3>
 </div>
 
-<details>
-<summary>A playbook for effectively prompting post-trained LLMs</summary>
-
-</details>
+<p>A playbook for effectively prompting post-trained LLMs</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -2440,7 +2236,7 @@ AI as Workspace - A better AI (LLM) client. Full-featured, lightweight. Support 
 <details>
 <summary>A curated list of awesome projects, resources, and tools for building stateful, multi-actor applicat...</summary>
 
-A curated list of awesome projects, resources, and tools for building stateful, multi-actor applications with LangGraph 🦜🕸️
+<div style="margin-top: 10px;">A curated list of awesome projects, resources, and tools for building stateful, multi-actor applications with LangGraph 🦜🕸️</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -2460,10 +2256,7 @@ A curated list of awesome projects, resources, and tools for building stateful, 
 <h3 style="margin: 0;"><a href="https://github.com/SeungyounShin/Llama2-Code-Interpreter">SeungyounShin/Llama2-Code-Interpreter</a></h3>
 </div>
 
-<details>
-<summary>Make Llama2 use Code Execution, Debug, Save Code, Reuse it, Access to Internet</summary>
-
-</details>
+<p>Make Llama2 use Code Execution, Debug, Save Code, Reuse it, Access to Internet</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -2485,7 +2278,7 @@ A curated list of awesome projects, resources, and tools for building stateful, 
 <details>
 <summary>Machine learning Guide. Learn all about Machine Learning Tools, Libraries, Frameworks, Large Languag...</summary>
 
-Machine learning Guide. Learn all about Machine Learning Tools, Libraries, Frameworks, Large Language Models (LLMs), and Training Models.
+<div style="margin-top: 10px;">Machine learning Guide. Learn all about Machine Learning Tools, Libraries, Frameworks, Large Language Models (LLMs), and Training Models.</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -2508,7 +2301,7 @@ Machine learning Guide. Learn all about Machine Learning Tools, Libraries, Frame
 <details>
 <summary>Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, LLMs, RAGs, LangChain, LangGraph...</summary>
 
-Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, LLMs, RAGs, LangChain, LangGraph, Fine-tuning Llama 3 & AI Agents (CrewAI)
+<div style="margin-top: 10px;">Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, LLMs, RAGs, LangChain, LangGraph, Fine-tuning Llama 3 & AI Agents (CrewAI)</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -2528,10 +2321,7 @@ Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, LLMs, RAGs, 
 <h3 style="margin: 0;"><a href="https://github.com/browserable/browserable">browserable/browserable</a></h3>
 </div>
 
-<details>
-<summary>Open source and self-hostable browser automation library for AI agents</summary>
-
-</details>
+<p>Open source and self-hostable browser automation library for AI agents</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -2550,10 +2340,7 @@ Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, LLMs, RAGs, 
 <h3 style="margin: 0;"><a href="https://github.com/e-johnstonn/SalesCopilot">e-johnstonn/SalesCopilot</a></h3>
 </div>
 
-<details>
-<summary>Intelligent sales assistant built using Deep Lake, Whisper, LangChain, and GPT 3.5/4</summary>
-
-</details>
+<p>Intelligent sales assistant built using Deep Lake, Whisper, LangChain, and GPT 3.5/4</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -2572,10 +2359,7 @@ Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, LLMs, RAGs, 
 <h3 style="margin: 0;"><a href="https://github.com/DaveBben/esp32-llm">DaveBben/esp32-llm</a></h3>
 </div>
 
-<details>
-<summary>Running a LLM on the ESP32</summary>
-
-</details>
+<p>Running a LLM on the ESP32</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -2594,7 +2378,7 @@ Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, LLMs, RAGs, 
 <details>
 <summary>A collection of architectural patterns leveraging Large Language Models (LLMs) for efficient Text-to...</summary>
 
-A collection of architectural patterns leveraging Large Language Models (LLMs) for efficient Text-to-SQL generation.
+<div style="margin-top: 10px;">A collection of architectural patterns leveraging Large Language Models (LLMs) for efficient Text-to-SQL generation.</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -2611,10 +2395,7 @@ A collection of architectural patterns leveraging Large Language Models (LLMs) f
 <h3 style="margin: 0;"><a href="https://github.com/langchain-ai/llmanager">langchain-ai/llmanager</a></h3>
 </div>
 
-<details>
-<summary>🧍‍♂️LLM as a manager for approval processes.</summary>
-
-</details>
+<p>🧍‍♂️LLM as a manager for approval processes.</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -2630,10 +2411,7 @@ A collection of architectural patterns leveraging Large Language Models (LLMs) f
 <h3 style="margin: 0;"><a href="https://github.com/containers/ai-lab-recipes">containers/ai-lab-recipes</a></h3>
 </div>
 
-<details>
-<summary>Examples for building and running LLM services and applications locally with Podman</summary>
-
-</details>
+<p>Examples for building and running LLM services and applications locally with Podman</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -2649,10 +2427,7 @@ A collection of architectural patterns leveraging Large Language Models (LLMs) f
 <h3 style="margin: 0;"><a href="https://github.com/abhishekkrthakur/chat-ext">abhishekkrthakur/chat-ext</a></h3>
 </div>
 
-<details>
-<summary>chrome & firefox extension to chat with webpages: local llms</summary>
-
-</details>
+<p>chrome & firefox extension to chat with webpages: local llms</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -2668,10 +2443,7 @@ A collection of architectural patterns leveraging Large Language Models (LLMs) f
 <h3 style="margin: 0;"><a href="https://github.com/InftyAI/Awesome-LLMOps">InftyAI/Awesome-LLMOps</a></h3>
 </div>
 
-<details>
-<summary>🎉 An awesome & curated list of best LLMOps tools.</summary>
-
-</details>
+<p>🎉 An awesome & curated list of best LLMOps tools.</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -2690,10 +2462,7 @@ A collection of architectural patterns leveraging Large Language Models (LLMs) f
 <h3 style="margin: 0;"><a href="https://github.com/alumnium-hq/alumnium">alumnium-hq/alumnium</a></h3>
 </div>
 
-<details>
-<summary>Pave the way towards AI-powered test automation.</summary>
-
-</details>
+<p>Pave the way towards AI-powered test automation.</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -2715,7 +2484,7 @@ A collection of architectural patterns leveraging Large Language Models (LLMs) f
 <details>
 <summary>📚 Curated collection of engineering blogs detailing real-world applications of LLMs in solving spec...</summary>
 
-📚 Curated collection of engineering blogs detailing real-world applications of LLMs in solving specific business problems.
+<div style="margin-top: 10px;">📚 Curated collection of engineering blogs detailing real-world applications of LLMs in solving specific business problems.</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -2738,7 +2507,7 @@ A collection of architectural patterns leveraging Large Language Models (LLMs) f
 <details>
 <summary>Theoretical introduction for language processing terminologies (such as, embedding, encoder/decoder,...</summary>
 
-Theoretical introduction for language processing terminologies (such as, embedding, encoder/decoder, attention, transformer, ...) and comprehensive examples of Python code from scratch (Sep 2022)
+<div style="margin-top: 10px;">Theoretical introduction for language processing terminologies (such as, embedding, encoder/decoder, attention, transformer, ...) and comprehensive examples of Python code from scratch (Sep 2022)</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -2758,7 +2527,7 @@ Theoretical introduction for language processing terminologies (such as, embeddi
 <details>
 <summary>Over 60 figures and diagrams of LLMs, quantization, low-rank adapters (LoRA), and chat templates FRE...</summary>
 
-Over 60 figures and diagrams of LLMs, quantization, low-rank adapters (LoRA), and chat templates FREE TO USE in your blog posts, slides, presentations, or papers. 
+<div style="margin-top: 10px;">Over 60 figures and diagrams of LLMs, quantization, low-rank adapters (LoRA), and chat templates FREE TO USE in your blog posts, slides, presentations, or papers. </div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -2781,7 +2550,7 @@ Over 60 figures and diagrams of LLMs, quantization, low-rank adapters (LoRA), an
 <details>
 <summary>Educational platform utilising Google AI to enhance student learning and note-taking experience. The...</summary>
 
-Educational platform utilising Google AI to enhance student learning and note-taking experience. The app will offer features like voice note recording, transcription, image-to-text conversion, text-to-PDF generation, ChatGPT integration for summarisation and translation, a user-friendly interface, cloud storage, and customisation options.
+<div style="margin-top: 10px;">Educational platform utilising Google AI to enhance student learning and note-taking experience. The app will offer features like voice note recording, transcription, image-to-text conversion, text-to-PDF generation, ChatGPT integration for summarisation and translation, a user-friendly interface, cloud storage, and customisation options.</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -2801,10 +2570,7 @@ Educational platform utilising Google AI to enhance student learning and note-ta
 <h3 style="margin: 0;"><a href="https://github.com/profiq/ai-powered-qa">profiq/ai-powered-qa</a></h3>
 </div>
 
-<details>
-<summary>Functional web automation using LLMs</summary>
-
-</details>
+<p>Functional web automation using LLMs</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -2833,10 +2599,7 @@ Educational platform utilising Google AI to enhance student learning and note-ta
 <h3 style="margin: 0;"><a href="https://github.com/GokuMohandas/Made-With-ML">GokuMohandas/Made-With-ML</a></h3>
 </div>
 
-<details>
-<summary>Learn how to design, develop, deploy and iterate on production-grade ML applications.</summary>
-
-</details>
+<p>Learn how to design, develop, deploy and iterate on production-grade ML applications.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -2858,7 +2621,7 @@ Educational platform utilising Google AI to enhance student learning and note-ta
 <details>
 <summary>SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost...</summary>
 
-SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
+<div style="margin-top: 10px;">SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥</p>
@@ -2878,10 +2641,7 @@ SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get uni
 <h3 style="margin: 0;"><a href="https://github.com/pytorch/torchtitan">pytorch/torchtitan</a></h3>
 </div>
 
-<details>
-<summary>A PyTorch native library for large-scale model training</summary>
-
-</details>
+<p>A PyTorch native library for large-scale model training</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -2897,10 +2657,7 @@ SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get uni
 <h3 style="margin: 0;"><a href="https://github.com/THUDM/P-tuning-v2">THUDM/P-tuning-v2</a></h3>
 </div>
 
-<details>
-<summary>An optimized deep prompt tuning strategy comparable to fine-tuning across scales and tasks</summary>
-
-</details>
+<p>An optimized deep prompt tuning strategy comparable to fine-tuning across scales and tasks</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -2919,10 +2676,7 @@ SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get uni
 <h3 style="margin: 0;"><a href="https://github.com/deepseek-ai/ESFT">deepseek-ai/ESFT</a></h3>
 </div>
 
-<details>
-<summary>Expert Specialized Fine-Tuning</summary>
-
-</details>
+<p>Expert Specialized Fine-Tuning</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -2938,10 +2692,7 @@ SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get uni
 <h3 style="margin: 0;"><a href="https://github.com/ml-jku/EVA">ml-jku/EVA</a></h3>
 </div>
 
-<details>
-<summary>One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation</summary>
-
-</details>
+<p>One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -2960,7 +2711,7 @@ SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get uni
 <details>
 <summary>A baseline repo for creating end to end machine learning app, from training to API creation to hooki...</summary>
 
-A baseline repo for creating end to end machine learning app, from training to API creation to hooking it in UI using ReactJS
+<div style="margin-top: 10px;">A baseline repo for creating end to end machine learning app, from training to API creation to hooking it in UI using ReactJS</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -2993,7 +2744,7 @@ A baseline repo for creating end to end machine learning app, from training to A
 <details>
 <summary>DeepSpeed is a deep learning optimization library that makes distributed training and inference easy...</summary>
 
-DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+<div style="margin-top: 10px;">DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -3013,10 +2764,7 @@ DeepSpeed is a deep learning optimization library that makes distributed trainin
 <h3 style="margin: 0;"><a href="https://github.com/lutzroeder/netron">lutzroeder/netron</a></h3>
 </div>
 
-<details>
-<summary>Visualizer for neural network, deep learning and machine learning models</summary>
-
-</details>
+<p>Visualizer for neural network, deep learning and machine learning models</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -3035,10 +2783,7 @@ DeepSpeed is a deep learning optimization library that makes distributed trainin
 <h3 style="margin: 0;"><a href="https://github.com/ai-dynamo/dynamo">ai-dynamo/dynamo</a></h3>
 </div>
 
-<details>
-<summary>A Datacenter Scale Distributed Inference Serving Framework</summary>
-
-</details>
+<p>A Datacenter Scale Distributed Inference Serving Framework</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -3057,7 +2802,7 @@ DeepSpeed is a deep learning optimization library that makes distributed trainin
 <details>
 <summary>Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specia...</summary>
 
-Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learning Projects; (iv) Convolutional Neural Networks; (v) Sequence Models
+<div style="margin-top: 10px;">Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learning Projects; (iv) Convolutional Neural Networks; (v) Sequence Models</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -3077,10 +2822,7 @@ Notes, programming assignments and quizzes from all courses within the Coursera 
 <h3 style="margin: 0;"><a href="https://github.com/zml/zml">zml/zml</a></h3>
 </div>
 
-<details>
-<summary>Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild</summary>
-
-</details>
+<p>Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -3109,10 +2851,7 @@ Notes, programming assignments and quizzes from all courses within the Coursera 
 <h3 style="margin: 0;"><a href="https://github.com/doccano/doccano">doccano/doccano</a></h3>
 </div>
 
-<details>
-<summary>Open source annotation tool for machine learning practitioners.</summary>
-
-</details>
+<p>Open source annotation tool for machine learning practitioners.</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -3134,7 +2873,7 @@ Notes, programming assignments and quizzes from all courses within the Coursera 
 <details>
 <summary>Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLM...</summary>
 
-Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions. 
+<div style="margin-top: 10px;">Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions. </div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥</p>
@@ -3154,10 +2893,7 @@ Resume Matcher is an open source, free tool to improve your resume. It works by 
 <h3 style="margin: 0;"><a href="https://github.com/AakashKumarNain/annotated_research_papers">AakashKumarNain/annotated_research_papers</a></h3>
 </div>
 
-<details>
-<summary>This repo contains annotated research papers that I found really good and useful</summary>
-
-</details>
+<p>This repo contains annotated research papers that I found really good and useful</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -3176,10 +2912,7 @@ Resume Matcher is an open source, free tool to improve your resume. It works by 
 <h3 style="margin: 0;"><a href="https://github.com/MinishLab/model2vec">MinishLab/model2vec</a></h3>
 </div>
 
-<details>
-<summary>Fast State-of-the-Art Static Embeddings</summary>
-
-</details>
+<p>Fast State-of-the-Art Static Embeddings</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -3208,10 +2941,7 @@ Resume Matcher is an open source, free tool to improve your resume. It works by 
 <h3 style="margin: 0;"><a href="https://github.com/FlowiseAI/Flowise">FlowiseAI/Flowise</a></h3>
 </div>
 
-<details>
-<summary>Drag & drop UI to build your customized LLM flow</summary>
-
-</details>
+<p>Drag & drop UI to build your customized LLM flow</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -3233,7 +2963,7 @@ Resume Matcher is an open source, free tool to improve your resume. It works by 
 <details>
 <summary>Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource...</summary>
 
-Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+<div style="margin-top: 10px;">Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -3256,7 +2986,7 @@ Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, G
 <details>
 <summary>AI's query engine - Platform for building AI that can learn and answer questions over large scale fe...</summary>
 
-AI's query engine - Platform for building AI that can learn and answer questions over large scale federated data.
+<div style="margin-top: 10px;">AI's query engine - Platform for building AI that can learn and answer questions over large scale federated data.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -3279,7 +3009,7 @@ AI's query engine - Platform for building AI that can learn and answer questions
 <details>
 <summary>An LLM-powered knowledge curation system that researches a topic and generates a full-length report ...</summary>
 
-An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+<div style="margin-top: 10px;">An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -3299,10 +3029,7 @@ An LLM-powered knowledge curation system that researches a topic and generates a
 <h3 style="margin: 0;"><a href="https://github.com/Cinnamon/kotaemon">Cinnamon/kotaemon</a></h3>
 </div>
 
-<details>
-<summary>An open-source RAG-based tool for chatting with your documents.</summary>
-
-</details>
+<p>An open-source RAG-based tool for chatting with your documents.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -3321,10 +3048,7 @@ An LLM-powered knowledge curation system that researches a topic and generates a
 <h3 style="margin: 0;"><a href="https://github.com/patchy631/ai-engineering-hub">patchy631/ai-engineering-hub</a></h3>
 </div>
 
-<details>
-<summary>In-depth tutorials on LLMs, RAGs and real-world AI agent applications.</summary>
-
-</details>
+<p>In-depth tutorials on LLMs, RAGs and real-world AI agent applications.</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -3346,7 +3070,7 @@ An LLM-powered knowledge curation system that researches a topic and generates a
 <details>
 <summary>Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made...</summary>
 
-Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
+<div style="margin-top: 10px;">Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥</p>
@@ -3366,10 +3090,7 @@ Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & you
 <h3 style="margin: 0;"><a href="https://github.com/getzep/graphiti">getzep/graphiti</a></h3>
 </div>
 
-<details>
-<summary>Build Real-Time Knowledge Graphs for AI Agents</summary>
-
-</details>
+<p>Build Real-Time Knowledge Graphs for AI Agents</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -3391,7 +3112,7 @@ Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & you
 <details>
 <summary>🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & ...</summary>
 
-🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺 using 𝗟𝗟𝗠𝗢𝗽𝘀 best practices: ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 12 𝘩𝘢𝘯𝘥𝘴-𝘰𝘯 𝘭𝘦𝘴𝘴𝘰𝘯𝘴
+<div style="margin-top: 10px;">🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺 using 𝗟𝗟𝗠𝗢𝗽𝘀 best practices: ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 12 𝘩𝘢𝘯𝘥𝘴-𝘰𝘯 𝘭𝘦𝘴𝘴𝘰𝘯𝘴</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -3414,7 +3135,7 @@ Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & you
 <details>
 <summary>🎨 Refly is an open-source AI-native creation engine. Its intuitive free-form canvas interface combi...</summary>
 
-🎨 Refly is an open-source AI-native creation engine. Its intuitive free-form canvas interface combines multi-threaded dialogues, artifacts,  AI knowledge base integration, chrome extension clip & save,  contextual memory, intelligent search, WYSIWYG AI editor and more, empowering you to effortlessly transform ideas into production-ready content.
+<div style="margin-top: 10px;">🎨 Refly is an open-source AI-native creation engine. Its intuitive free-form canvas interface combines multi-threaded dialogues, artifacts,  AI knowledge base integration, chrome extension clip & save,  contextual memory, intelligent search, WYSIWYG AI editor and more, empowering you to effortlessly transform ideas into production-ready content.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -3437,7 +3158,7 @@ Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & you
 <details>
 <summary>NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, ...</summary>
 
-NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieval systems.
+<div style="margin-top: 10px;">NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieval systems.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -3457,7 +3178,7 @@ NVIDIA Ingest is an early access set of microservices for parsing hundreds of th
 <details>
 <summary>WebRover is an autonomous AI agent designed to interpret user input and execute actions by interacti...</summary>
 
-WebRover is an autonomous AI agent designed to interpret user input and execute actions by interacting with web elements to accomplish tasks or answer questions. It leverages advanced language models and web automation tools to navigate the web, gather information, and provide structured responses based on the user's needs.
+<div style="margin-top: 10px;">WebRover is an autonomous AI agent designed to interpret user input and execute actions by interacting with web elements to accomplish tasks or answer questions. It leverages advanced language models and web automation tools to navigate the web, gather information, and provide structured responses based on the user's needs.</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -3477,7 +3198,7 @@ WebRover is an autonomous AI agent designed to interpret user input and execute 
 <details>
 <summary>Canva-Clone is a web-based graphic design tool inspired by Canva. This project is developed with Rea...</summary>
 
-Canva-Clone is a web-based graphic design tool inspired by Canva. This project is developed with React JS and TypeScript, leveraging Vite for an efficient and faster development experience.
+<div style="margin-top: 10px;">Canva-Clone is a web-based graphic design tool inspired by Canva. This project is developed with React JS and TypeScript, leveraging Vite for an efficient and faster development experience.</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -3510,7 +3231,7 @@ Canva-Clone is a web-based graphic design tool inspired by Canva. This project i
 <details>
 <summary>A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-di...</summary>
 
-A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
+<div style="margin-top: 10px;">A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -3533,7 +3254,7 @@ A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: htt
 <details>
 <summary>FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And o...</summary>
 
-FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
+<div style="margin-top: 10px;">FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -3556,7 +3277,7 @@ FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent &
 <details>
 <summary>Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intellige...</summary>
 
-Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+<div style="margin-top: 10px;">Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -3576,10 +3297,7 @@ Framework for orchestrating role-playing, autonomous AI agents. By fostering col
 <h3 style="margin: 0;"><a href="https://github.com/microsoft/OmniParser">microsoft/OmniParser</a></h3>
 </div>
 
-<details>
-<summary>A simple screen parsing tool towards pure vision based GUI agent</summary>
-
-</details>
+<p>A simple screen parsing tool towards pure vision based GUI agent</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -3598,7 +3316,7 @@ Framework for orchestrating role-playing, autonomous AI agents. By fostering col
 <details>
 <summary>LLM based autonomous agent that conducts deep local and web research on any topic and generates a lo...</summary>
 
-LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
+<div style="margin-top: 10px;">LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -3618,10 +3336,7 @@ LLM based autonomous agent that conducts deep local and web research on any topi
 <h3 style="margin: 0;"><a href="https://github.com/openai/codex">openai/codex</a></h3>
 </div>
 
-<details>
-<summary>Lightweight coding agent that runs in your terminal</summary>
-
-</details>
+<p>Lightweight coding agent that runs in your terminal</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -3640,7 +3355,7 @@ LLM based autonomous agent that conducts deep local and web research on any topi
 <details>
 <summary>Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI ...</summary>
 
-Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
+<div style="margin-top: 10px;">Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -3657,10 +3372,7 @@ Educational framework exploring ergonomic, lightweight multi-agent orchestration
 <h3 style="margin: 0;"><a href="https://github.com/huggingface/agents-course">huggingface/agents-course</a></h3>
 </div>
 
-<details>
-<summary>This repository contains the Hugging Face Agents Course. </summary>
-
-</details>
+<p>This repository contains the Hugging Face Agents Course. </p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -3679,10 +3391,7 @@ Educational framework exploring ergonomic, lightweight multi-agent orchestration
 <h3 style="margin: 0;"><a href="https://github.com/mayooear/ai-pdf-chatbot-langchain">mayooear/ai-pdf-chatbot-langchain</a></h3>
 </div>
 
-<details>
-<summary>AI PDF chatbot agent built with LangChain & LangGraph </summary>
-
-</details>
+<p>AI PDF chatbot agent built with LangChain & LangGraph </p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -3704,7 +3413,7 @@ Educational framework exploring ergonomic, lightweight multi-agent orchestration
 <details>
 <summary>AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Ag...</summary>
 
-AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+<div style="margin-top: 10px;">AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -3724,10 +3433,7 @@ AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) �
 <h3 style="margin: 0;"><a href="https://github.com/langchain-ai/langgraph">langchain-ai/langgraph</a></h3>
 </div>
 
-<details>
-<summary>Build resilient language agents as graphs.</summary>
-
-</details>
+<p>Build resilient language agents as graphs.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -3746,7 +3452,7 @@ AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) �
 <details>
 <summary>An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI a...</summary>
 
-An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+<div style="margin-top: 10px;">An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥</p>
@@ -3763,10 +3469,7 @@ An open-source, code-first Python toolkit for building, evaluating, and deployin
 <h3 style="margin: 0;"><a href="https://github.com/livekit/agents">livekit/agents</a></h3>
 </div>
 
-<details>
-<summary>A powerful framework for building realtime voice AI agents 🤖🎙️📹 </summary>
-
-</details>
+<p>A powerful framework for building realtime voice AI agents 🤖🎙️📹 </p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -3788,7 +3491,7 @@ An open-source, code-first Python toolkit for building, evaluating, and deployin
 <details>
 <summary>Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local aut...</summary>
 
-Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
+<div style="margin-top: 10px;">Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -3808,10 +3511,7 @@ Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents
 <h3 style="margin: 0;"><a href="https://github.com/JoshuaC215/agent-service-toolkit">JoshuaC215/agent-service-toolkit</a></h3>
 </div>
 
-<details>
-<summary>Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit</summary>
-
-</details>
+<p>Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -3830,10 +3530,7 @@ Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents
 <h3 style="margin: 0;"><a href="https://github.com/rowboatlabs/rowboat">rowboatlabs/rowboat</a></h3>
 </div>
 
-<details>
-<summary>AI-powered multi-agent builder</summary>
-
-</details>
+<p>AI-powered multi-agent builder</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -3849,10 +3546,7 @@ Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents
 <h3 style="margin: 0;"><a href="https://github.com/MotiaDev/motia">MotiaDev/motia</a></h3>
 </div>
 
-<details>
-<summary>Unified Backend Framework for APIs, Events and Agents</summary>
-
-</details>
+<p>Unified Backend Framework for APIs, Events and Agents</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -3868,10 +3562,7 @@ Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents
 <h3 style="margin: 0;"><a href="https://github.com/elizaOS/agent-twitter-client">elizaOS/agent-twitter-client</a></h3>
 </div>
 
-<details>
-<summary>A Twitter client for agents-- no API key necessary</summary>
-
-</details>
+<p>A Twitter client for agents-- no API key necessary</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -3887,10 +3578,7 @@ Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents
 <h3 style="margin: 0;"><a href="https://github.com/evalstate/fast-agent">evalstate/fast-agent</a></h3>
 </div>
 
-<details>
-<summary>Define, Prompt and Test MCP enabled Agents and Workflows</summary>
-
-</details>
+<p>Define, Prompt and Test MCP enabled Agents and Workflows</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -3906,10 +3594,7 @@ Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents
 <h3 style="margin: 0;"><a href="https://github.com/langchain-ai/social-media-agent">langchain-ai/social-media-agent</a></h3>
 </div>
 
-<details>
-<summary>📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.</summary>
-
-</details>
+<p>📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -3928,7 +3613,7 @@ Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents
 <details>
 <summary>A practical approach to managing multiple AI agents in Cursor through strict file-tree partitioning ...</summary>
 
-A practical approach to managing multiple AI agents in Cursor through strict file-tree partitioning and domain boundaries.
+<div style="margin-top: 10px;">A practical approach to managing multiple AI agents in Cursor through strict file-tree partitioning and domain boundaries.</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -3948,7 +3633,7 @@ A practical approach to managing multiple AI agents in Cursor through strict fil
 <details>
 <summary>Hercules is the world’s first open-source testing agent, enabling UI, API, Security, Accessibility, ...</summary>
 
-Hercules is the world’s first open-source testing agent, enabling UI, API, Security, Accessibility, and Visual validations – all without code or maintenance. Automate testing effortlessly and let Hercules handle the heavy lifting! ⚡
+<div style="margin-top: 10px;">Hercules is the world’s first open-source testing agent, enabling UI, API, Security, Accessibility, and Visual validations – all without code or maintenance. Automate testing effortlessly and let Hercules handle the heavy lifting! ⚡</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -3968,10 +3653,7 @@ Hercules is the world’s first open-source testing agent, enabling UI, API, Sec
 <h3 style="margin: 0;"><a href="https://github.com/agno-agi/agent-ui">agno-agi/agent-ui</a></h3>
 </div>
 
-<details>
-<summary>A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript. </summary>
-
-</details>
+<p>A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript. </p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -3990,10 +3672,7 @@ Hercules is the world’s first open-source testing agent, enabling UI, API, Sec
 <h3 style="margin: 0;"><a href="https://github.com/SqueezeAILab/TinyAgent">SqueezeAILab/TinyAgent</a></h3>
 </div>
 
-<details>
-<summary>[EMNLP 2024 Demo] TinyAgent: Function Calling at the Edge!</summary>
-
-</details>
+<p>[EMNLP 2024 Demo] TinyAgent: Function Calling at the Edge!</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -4012,7 +3691,7 @@ Hercules is the world’s first open-source testing agent, enabling UI, API, Sec
 <details>
 <summary>The open-source multi-agent chat interface that lets you manage multiple agents in one dynamic conve...</summary>
 
-The open-source multi-agent chat interface that lets you manage multiple agents in one dynamic conversation and add MCP servers for deep research
+<div style="margin-top: 10px;">The open-source multi-agent chat interface that lets you manage multiple agents in one dynamic conversation and add MCP servers for deep research</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -4035,7 +3714,7 @@ The open-source multi-agent chat interface that lets you manage multiple agents 
 <details>
 <summary>This repository contains the paper list for the paper: Igniting Language Intelligence: The Hitchhike...</summary>
 
-This repository contains the paper list for the paper: Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents
+<div style="margin-top: 10px;">This repository contains the paper list for the paper: Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -4052,10 +3731,7 @@ This repository contains the paper list for the paper: Igniting Language Intelli
 <h3 style="margin: 0;"><a href="https://github.com/Clevrr-AI/Clevrr-Computer">Clevrr-AI/Clevrr-Computer</a></h3>
 </div>
 
-<details>
-<summary>An open-source implementation of Anthropic's Computer Use to perform basic tasks using AI Agents.</summary>
-
-</details>
+<p>An open-source implementation of Anthropic's Computer Use to perform basic tasks using AI Agents.</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -4071,10 +3747,7 @@ This repository contains the paper list for the paper: Igniting Language Intelli
 <h3 style="margin: 0;"><a href="https://github.com/temporal-community/temporal-ai-agent">temporal-community/temporal-ai-agent</a></h3>
 </div>
 
-<details>
-<summary>This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow.</summary>
-
-</details>
+<p>This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow.</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -4093,7 +3766,7 @@ This repository contains the paper list for the paper: Igniting Language Intelli
 <details>
 <summary>LangGraph Studio template for creating an agent that does web research to genearte or enrich structu...</summary>
 
-LangGraph Studio template for creating an agent that does web research to genearte or enrich structured data.
+<div style="margin-top: 10px;">LangGraph Studio template for creating an agent that does web research to genearte or enrich structured data.</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -4126,7 +3799,7 @@ LangGraph Studio template for creating an agent that does web research to genear
 <details>
 <summary>🔥 Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Co...</summary>
 
-🔥 Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
+<div style="margin-top: 10px;">🔥 Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -4146,10 +3819,7 @@ LangGraph Studio template for creating an agent that does web research to genear
 <h3 style="margin: 0;"><a href="https://github.com/browserbase/stagehand">browserbase/stagehand</a></h3>
 </div>
 
-<details>
-<summary>An AI web browsing framework focused on simplicity and extensibility.</summary>
-
-</details>
+<p>An AI web browsing framework focused on simplicity and extensibility.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -4168,10 +3838,7 @@ LangGraph Studio template for creating an agent that does web research to genear
 <h3 style="margin: 0;"><a href="https://github.com/lightpanda-io/browser">lightpanda-io/browser</a></h3>
 </div>
 
-<details>
-<summary>Lightpanda: the headless browser designed for AI and automation</summary>
-
-</details>
+<p>Lightpanda: the headless browser designed for AI and automation</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -4193,7 +3860,7 @@ LangGraph Studio template for creating an agent that does web research to genear
 <details>
 <summary>Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract...</summary>
 
-Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
+<div style="margin-top: 10px;">Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥</p>
@@ -4213,10 +3880,7 @@ Crawlee—A web scraping and browser automation library for Python to build reli
 <h3 style="margin: 0;"><a href="https://github.com/antiwork/shortest">antiwork/shortest</a></h3>
 </div>
 
-<details>
-<summary>QA via natural language AI tests</summary>
-
-</details>
+<p>QA via natural language AI tests</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -4238,7 +3902,7 @@ Crawlee—A web scraping and browser automation library for Python to build reli
 <details>
 <summary>Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cli...</summary>
 
-Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
+<div style="margin-top: 10px;">Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -4255,10 +3919,7 @@ Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in
 <h3 style="margin: 0;"><a href="https://github.com/magnitudedev/magnitude">magnitudedev/magnitude</a></h3>
 </div>
 
-<details>
-<summary>Open source, AI-native testing framework for web apps</summary>
-
-</details>
+<p>Open source, AI-native testing framework for web apps</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -4277,10 +3938,7 @@ Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in
 <h3 style="margin: 0;"><a href="https://github.com/brandonrobertz/autoscrape-py">brandonrobertz/autoscrape-py</a></h3>
 </div>
 
-<details>
-<summary>An automated, programming-free web scraper for interactive sites</summary>
-
-</details>
+<p>An automated, programming-free web scraper for interactive sites</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -4309,10 +3967,7 @@ Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in
 <h3 style="margin: 0;"><a href="https://github.com/vinta/awesome-python">vinta/awesome-python</a></h3>
 </div>
 
-<details>
-<summary>An opinionated list of awesome Python frameworks, libraries, software and resources.</summary>
-
-</details>
+<p>An opinionated list of awesome Python frameworks, libraries, software and resources.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -4334,7 +3989,7 @@ Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in
 <details>
 <summary>A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and m...</summary>
 
-A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+<div style="margin-top: 10px;">A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -4354,10 +4009,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 <h3 style="margin: 0;"><a href="https://github.com/hakimel/reveal.js">hakimel/reveal.js</a></h3>
 </div>
 
-<details>
-<summary>The HTML Presentation Framework</summary>
-
-</details>
+<p>The HTML Presentation Framework</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -4376,10 +4028,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 <h3 style="margin: 0;"><a href="https://github.com/ManimCommunity/manim">ManimCommunity/manim</a></h3>
 </div>
 
-<details>
-<summary>A community-maintained Python framework for creating mathematical animations. </summary>
-
-</details>
+<p>A community-maintained Python framework for creating mathematical animations. </p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -4401,7 +4050,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 <details>
 <summary>fabric is an open-source framework for augmenting humans using AI. It provides a modular framework f...</summary>
 
-fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+<div style="margin-top: 10px;">fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -4421,10 +4070,7 @@ fabric is an open-source framework for augmenting humans using AI. It provides a
 <h3 style="margin: 0;"><a href="https://github.com/agno-agi/agno">agno-agi/agno</a></h3>
 </div>
 
-<details>
-<summary>Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.</summary>
-
-</details>
+<p>Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -4443,10 +4089,7 @@ fabric is an open-source framework for augmenting humans using AI. It provides a
 <h3 style="margin: 0;"><a href="https://github.com/stanfordnlp/dspy">stanfordnlp/dspy</a></h3>
 </div>
 
-<details>
-<summary>DSPy: The framework for programming—not prompting—language models</summary>
-
-</details>
+<p>DSPy: The framework for programming—not prompting—language models</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -4465,7 +4108,7 @@ fabric is an open-source framework for augmenting humans using AI. It provides a
 <details>
 <summary>[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用...</summary>
 
-[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+<div style="margin-top: 10px;">[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -4485,10 +4128,7 @@ fabric is an open-source framework for augmenting humans using AI. It provides a
 <h3 style="margin: 0;"><a href="https://github.com/reflex-dev/reflex">reflex-dev/reflex</a></h3>
 </div>
 
-<details>
-<summary>🕸️ Web apps in pure Python 🐍</summary>
-
-</details>
+<p>🕸️ Web apps in pure Python 🐍</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -4510,7 +4150,7 @@ fabric is an open-source framework for augmenting humans using AI. It provides a
 <details>
 <summary>:zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ ...</summary>
 
-:zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+<div style="margin-top: 10px;">:zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -4533,7 +4173,7 @@ fabric is an open-source framework for augmenting humans using AI. It provides a
 <details>
 <summary>Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-...</summary>
 
-Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
+<div style="margin-top: 10px;">Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥</p>
@@ -4553,10 +4193,7 @@ Runtipi is a homeserver for everyone! One command setup, one click installs for 
 <h3 style="margin: 0;"><a href="https://github.com/ml-explore/mlx-examples">ml-explore/mlx-examples</a></h3>
 </div>
 
-<details>
-<summary>Examples in the MLX framework</summary>
-
-</details>
+<p>Examples in the MLX framework</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -4575,10 +4212,7 @@ Runtipi is a homeserver for everyone! One command setup, one click installs for 
 <h3 style="margin: 0;"><a href="https://github.com/alirezamika/autoscraper">alirezamika/autoscraper</a></h3>
 </div>
 
-<details>
-<summary>A Smart, Automatic, Fast and Lightweight Web Scraper for Python</summary>
-
-</details>
+<p>A Smart, Automatic, Fast and Lightweight Web Scraper for Python</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -4597,10 +4231,7 @@ Runtipi is a homeserver for everyone! One command setup, one click installs for 
 <h3 style="margin: 0;"><a href="https://github.com/RayVentura/ShortGPT">RayVentura/ShortGPT</a></h3>
 </div>
 
-<details>
-<summary>🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation</summary>
-
-</details>
+<p>🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -4622,7 +4253,7 @@ Runtipi is a homeserver for everyone! One command setup, one click installs for 
 <details>
 <summary>This repository is for active development of the Azure SDK for Python. For consumers of the SDK we r...</summary>
 
-This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python. 
+<div style="margin-top: 10px;">This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python. </div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -4642,10 +4273,7 @@ This repository is for active development of the Azure SDK for Python. For consu
 <h3 style="margin: 0;"><a href="https://github.com/awslabs/multi-agent-orchestrator">awslabs/multi-agent-orchestrator</a></h3>
 </div>
 
-<details>
-<summary>Flexible and powerful framework for managing multiple AI agents and handling complex conversations</summary>
-
-</details>
+<p>Flexible and powerful framework for managing multiple AI agents and handling complex conversations</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -4667,7 +4295,7 @@ This repository is for active development of the Azure SDK for Python. For consu
 <details>
 <summary>FastStream is a powerful and easy-to-use Python framework for building asynchronous services interac...</summary>
 
-FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
+<div style="margin-top: 10px;">FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -4687,10 +4315,7 @@ FastStream is a powerful and easy-to-use Python framework for building asynchron
 <h3 style="margin: 0;"><a href="https://github.com/punkpeye/awesome-mcp-clients">punkpeye/awesome-mcp-clients</a></h3>
 </div>
 
-<details>
-<summary>A collection of MCP clients.</summary>
-
-</details>
+<p>A collection of MCP clients.</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -4709,10 +4334,7 @@ FastStream is a powerful and easy-to-use Python framework for building asynchron
 <h3 style="margin: 0;"><a href="https://github.com/JohannesKaufmann/html-to-markdown">JohannesKaufmann/html-to-markdown</a></h3>
 </div>
 
-<details>
-<summary>⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.</summary>
-
-</details>
+<p>⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -4731,10 +4353,7 @@ FastStream is a powerful and easy-to-use Python framework for building asynchron
 <h3 style="margin: 0;"><a href="https://github.com/open-webui/pipelines">open-webui/pipelines</a></h3>
 </div>
 
-<details>
-<summary>Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework </summary>
-
-</details>
+<p>Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework </p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -4753,10 +4372,7 @@ FastStream is a powerful and easy-to-use Python framework for building asynchron
 <h3 style="margin: 0;"><a href="https://github.com/daodao97/chatmcp">daodao97/chatmcp</a></h3>
 </div>
 
-<details>
-<summary>ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).</summary>
-
-</details>
+<p>ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -4775,10 +4391,7 @@ FastStream is a powerful and easy-to-use Python framework for building asynchron
 <h3 style="margin: 0;"><a href="https://github.com/arnabbiswas1/kaggle_pipeline_tps_aug_22">arnabbiswas1/kaggle_pipeline_tps_aug_22</a></h3>
 </div>
 
-<details>
-<summary>Kaggle Pipeline for tabular data competitions</summary>
-
-</details>
+<p>Kaggle Pipeline for tabular data competitions</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -4797,7 +4410,7 @@ FastStream is a powerful and easy-to-use Python framework for building asynchron
 <details>
 <summary>MCPEngine is a client, server, and proxy implementation of model context protocol (MCP) specifically...</summary>
 
-MCPEngine is a client, server, and proxy implementation of model context protocol (MCP) specifically oriented towards Enterprise and real-world remote MCP applications.
+<div style="margin-top: 10px;">MCPEngine is a client, server, and proxy implementation of model context protocol (MCP) specifically oriented towards Enterprise and real-world remote MCP applications.</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -4814,10 +4427,7 @@ MCPEngine is a client, server, and proxy implementation of model context protoco
 <h3 style="margin: 0;"><a href="https://github.com/temporalio/samples-python">temporalio/samples-python</a></h3>
 </div>
 
-<details>
-<summary>Samples for working with the Temporal Python SDK</summary>
-
-</details>
+<p>Samples for working with the Temporal Python SDK</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -4833,10 +4443,7 @@ MCPEngine is a client, server, and proxy implementation of model context protoco
 <h3 style="margin: 0;"><a href="https://github.com/anukchat/mcpwire">anukchat/mcpwire</a></h3>
 </div>
 
-<details>
-<summary>MCP client implementation </summary>
-
-</details>
+<p>MCP client implementation </p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -4862,10 +4469,7 @@ MCPEngine is a client, server, and proxy implementation of model context protoco
 <h3 style="margin: 0;"><a href="https://github.com/kamranahmedse/developer-roadmap">kamranahmedse/developer-roadmap</a></h3>
 </div>
 
-<details>
-<summary>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</summary>
-
-</details>
+<p>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -4884,10 +4488,7 @@ MCPEngine is a client, server, and proxy implementation of model context protoco
 <h3 style="margin: 0;"><a href="https://github.com/langchain-ai/langchain">langchain-ai/langchain</a></h3>
 </div>
 
-<details>
-<summary>🦜🔗 Build context-aware reasoning applications</summary>
-
-</details>
+<p>🦜🔗 Build context-aware reasoning applications</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -4903,10 +4504,7 @@ MCPEngine is a client, server, and proxy implementation of model context protoco
 <h3 style="margin: 0;"><a href="https://github.com/comfyanonymous/ComfyUI">comfyanonymous/ComfyUI</a></h3>
 </div>
 
-<details>
-<summary>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.</summary>
-
-</details>
+<p>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -4925,10 +4523,7 @@ MCPEngine is a client, server, and proxy implementation of model context protoco
 <h3 style="margin: 0;"><a href="https://github.com/openai/openai-cookbook">openai/openai-cookbook</a></h3>
 </div>
 
-<details>
-<summary>Examples and guides for using the OpenAI API</summary>
-
-</details>
+<p>Examples and guides for using the OpenAI API</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -4947,10 +4542,7 @@ MCPEngine is a client, server, and proxy implementation of model context protoco
 <h3 style="margin: 0;"><a href="https://github.com/OpenInterpreter/open-interpreter">OpenInterpreter/open-interpreter</a></h3>
 </div>
 
-<details>
-<summary>A natural language interface for computers</summary>
-
-</details>
+<p>A natural language interface for computers</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -4972,7 +4564,7 @@ MCPEngine is a client, server, and proxy implementation of model context protoco
 <details>
 <summary>A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, por...</summary>
 
-A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+<div style="margin-top: 10px;">A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -4992,10 +4584,7 @@ A one-of-a-kind resume builder that keeps your privacy in mind. Completely secur
 <h3 style="margin: 0;"><a href="https://github.com/realpython/python-guide">realpython/python-guide</a></h3>
 </div>
 
-<details>
-<summary>Python best practices guidebook, written for humans. </summary>
-
-</details>
+<p>Python best practices guidebook, written for humans. </p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -5014,10 +4603,7 @@ A one-of-a-kind resume builder that keeps your privacy in mind. Completely secur
 <h3 style="margin: 0;"><a href="https://github.com/twentyhq/twenty">twentyhq/twenty</a></h3>
 </div>
 
-<details>
-<summary>Building a modern alternative to Salesforce, powered by the community.</summary>
-
-</details>
+<p>Building a modern alternative to Salesforce, powered by the community.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -5036,10 +4622,7 @@ A one-of-a-kind resume builder that keeps your privacy in mind. Completely secur
 <h3 style="margin: 0;"><a href="https://github.com/wandb/openui">wandb/openui</a></h3>
 </div>
 
-<details>
-<summary>OpenUI let's you describe UI using your imagination, then see it rendered live.</summary>
-
-</details>
+<p>OpenUI let's you describe UI using your imagination, then see it rendered live.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -5058,10 +4641,7 @@ A one-of-a-kind resume builder that keeps your privacy in mind. Completely secur
 <h3 style="margin: 0;"><a href="https://github.com/th-ch/youtube-music">th-ch/youtube-music</a></h3>
 </div>
 
-<details>
-<summary>YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)</summary>
-
-</details>
+<p>YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -5080,10 +4660,7 @@ A one-of-a-kind resume builder that keeps your privacy in mind. Completely secur
 <h3 style="margin: 0;"><a href="https://github.com/Kanaries/pygwalker">Kanaries/pygwalker</a></h3>
 </div>
 
-<details>
-<summary>PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis</summary>
-
-</details>
+<p>PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -5102,10 +4679,7 @@ A one-of-a-kind resume builder that keeps your privacy in mind. Completely secur
 <h3 style="margin: 0;"><a href="https://github.com/google-gemini/cookbook">google-gemini/cookbook</a></h3>
 </div>
 
-<details>
-<summary>Examples and guides for using the Gemini API</summary>
-
-</details>
+<p>Examples and guides for using the Gemini API</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -5127,7 +4701,7 @@ A one-of-a-kind resume builder that keeps your privacy in mind. Completely secur
 <details>
 <summary>The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environmen...</summary>
 
-The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
+<div style="margin-top: 10px;">The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥</p>
@@ -5147,10 +4721,7 @@ The Self-hosted AI Starter Kit is an open-source template that quickly sets up a
 <h3 style="margin: 0;"><a href="https://github.com/oumi-ai/oumi">oumi-ai/oumi</a></h3>
 </div>
 
-<details>
-<summary>Everything you need to build state-of-the-art foundation models, end-to-end.</summary>
-
-</details>
+<p>Everything you need to build state-of-the-art foundation models, end-to-end.</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -5166,10 +4737,7 @@ The Self-hosted AI Starter Kit is an open-source template that quickly sets up a
 <h3 style="margin: 0;"><a href="https://github.com/OpenInterpreter/01">OpenInterpreter/01</a></h3>
 </div>
 
-<details>
-<summary>The #1 open-source voice interface for desktop, mobile, and ESP32 chips.</summary>
-
-</details>
+<p>The #1 open-source voice interface for desktop, mobile, and ESP32 chips.</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -5188,7 +4756,7 @@ The Self-hosted AI Starter Kit is an open-source template that quickly sets up a
 <details>
 <summary>npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks a...</summary>
 
-npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks
+<div style="margin-top: 10px;">npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -5211,7 +4779,7 @@ npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind 
 <details>
 <summary>A personal resume website template built with React.js, Typescript, Next.js, and styled with Tailwin...</summary>
 
-A personal resume website template built with React.js, Typescript, Next.js, and styled with Tailwind css
+<div style="margin-top: 10px;">A personal resume website template built with React.js, Typescript, Next.js, and styled with Tailwind css</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -5231,10 +4799,7 @@ A personal resume website template built with React.js, Typescript, Next.js, and
 <h3 style="margin: 0;"><a href="https://github.com/fastai/lm-hackers">fastai/lm-hackers</a></h3>
 </div>
 
-<details>
-<summary>Hackers' Guide to Language Models</summary>
-
-</details>
+<p>Hackers' Guide to Language Models</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -5253,7 +4818,7 @@ A personal resume website template built with React.js, Typescript, Next.js, and
 <details>
 <summary>My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages...</summary>
 
-My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
+<div style="margin-top: 10px;">My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -5273,10 +4838,7 @@ My personal website - built with React, React-Router, React-Snap for Static-Expo
 <h3 style="margin: 0;"><a href="https://github.com/jarrekk/Jalpc">jarrekk/Jalpc</a></h3>
 </div>
 
-<details>
-<summary>🍎Jalpc -- A flexible Jekyll theme, 3 steps to build your website. </summary>
-
-</details>
+<p>🍎Jalpc -- A flexible Jekyll theme, 3 steps to build your website. </p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -5298,7 +4860,7 @@ My personal website - built with React, React-Router, React-Snap for Static-Expo
 <details>
 <summary>:mortar_board: Best in Class modern CV, Resume and Portfolio website template. All-in-One-Page site ...</summary>
 
-:mortar_board: Best in Class modern CV, Resume and Portfolio website template. All-in-One-Page site with simply customizable builder.
+<div style="margin-top: 10px;">:mortar_board: Best in Class modern CV, Resume and Portfolio website template. All-in-One-Page site with simply customizable builder.</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -5321,7 +4883,7 @@ My personal website - built with React, React-Router, React-Snap for Static-Expo
 <details>
 <summary>A full stack Next.js, Shadcn, and Supabase directory template. Build your startup directory effortle...</summary>
 
-A full stack Next.js, Shadcn, and Supabase directory template. Build your startup directory effortlessly with features like user authentication, product filters, and customizable themes. Advanced admin perks and AI magic.
+<div style="margin-top: 10px;">A full stack Next.js, Shadcn, and Supabase directory template. Build your startup directory effortlessly with features like user authentication, product filters, and customizable themes. Advanced admin perks and AI magic.</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -5344,7 +4906,7 @@ A full stack Next.js, Shadcn, and Supabase directory template. Build your startu
 <details>
 <summary>This repository is a curated collection of resources, tutorials, and practical examples designed to ...</summary>
 
-This repository is a curated collection of resources, tutorials, and practical examples designed to guide you through the journey of mastering CUDA programming. Whether you're just starting or looking to optimize and scale your GPU-accelerated applications.
+<div style="margin-top: 10px;">This repository is a curated collection of resources, tutorials, and practical examples designed to guide you through the journey of mastering CUDA programming. Whether you're just starting or looking to optimize and scale your GPU-accelerated applications.</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -5361,10 +4923,7 @@ This repository is a curated collection of resources, tutorials, and practical e
 <h3 style="margin: 0;"><a href="https://github.com/microsoft/llmops-workshop">microsoft/llmops-workshop</a></h3>
 </div>
 
-<details>
-<summary>Learn how to build solutions with Large Language Models.</summary>
-
-</details>
+<p>Learn how to build solutions with Large Language Models.</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -5380,10 +4939,7 @@ This repository is a curated collection of resources, tutorials, and practical e
 <h3 style="margin: 0;"><a href="https://github.com/AraPlatforms/OliverUI">AraPlatforms/OliverUI</a></h3>
 </div>
 
-<details>
-<summary>Where the art of website design meets the keen, discerning eye of a Brooklyn hipster UI designer</summary>
-
-</details>
+<p>Where the art of website design meets the keen, discerning eye of a Brooklyn hipster UI designer</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -5399,10 +4955,7 @@ This repository is a curated collection of resources, tutorials, and practical e
 <h3 style="margin: 0;"><a href="https://github.com/anukchat/mlguide">anukchat/mlguide</a></h3>
 </div>
 
-<details>
-<summary>Machine Learning Guide</summary>
-
-</details>
+<p>Machine Learning Guide</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -5431,7 +4984,7 @@ This repository is a curated collection of resources, tutorials, and practical e
 <details>
 <summary>Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where ...</summary>
 
-Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+<div style="margin-top: 10px;">Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -5454,7 +5007,7 @@ Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborat
 <details>
 <summary>A privacy-first, self-hosted, fully open source personal knowledge management software, written in t...</summary>
 
-A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+<div style="margin-top: 10px;">A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -5474,10 +5027,7 @@ A privacy-first, self-hosted, fully open source personal knowledge management so
 <h3 style="margin: 0;"><a href="https://github.com/tatsu-lab/stanford_alpaca">tatsu-lab/stanford_alpaca</a></h3>
 </div>
 
-<details>
-<summary>Code and documentation to train Stanford's Alpaca models, and generate the data.</summary>
-
-</details>
+<p>Code and documentation to train Stanford's Alpaca models, and generate the data.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -5499,7 +5049,7 @@ A privacy-first, self-hosted, fully open source personal knowledge management so
 <details>
 <summary>Docmost is an open-source collaborative wiki and documentation software. It is an open-source altern...</summary>
 
-Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
+<div style="margin-top: 10px;">Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -5519,10 +5069,7 @@ Docmost is an open-source collaborative wiki and documentation software. It is a
 <h3 style="margin: 0;"><a href="https://github.com/liam-hq/liam">liam-hq/liam</a></h3>
 </div>
 
-<details>
-<summary>Automatically generates beautiful and easy-to-read ER diagrams from your database.</summary>
-
-</details>
+<p>Automatically generates beautiful and easy-to-read ER diagrams from your database.</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -5554,7 +5101,7 @@ Docmost is an open-source collaborative wiki and documentation software. It is a
 <details>
 <summary>Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack...</summary>
 
-Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+<div style="margin-top: 10px;">Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -5574,10 +5121,7 @@ Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, 
 <h3 style="margin: 0;"><a href="https://github.com/Stirling-Tools/Stirling-PDF">Stirling-Tools/Stirling-PDF</a></h3>
 </div>
 
-<details>
-<summary>#1 Locally hosted web application that allows you to perform various operations on PDF files</summary>
-
-</details>
+<p>#1 Locally hosted web application that allows you to perform various operations on PDF files</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -5596,10 +5140,7 @@ Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, 
 <h3 style="margin: 0;"><a href="https://github.com/coollabsio/coolify">coollabsio/coolify</a></h3>
 </div>
 
-<details>
-<summary>An open-source & self-hostable Heroku / Netlify / Vercel alternative.</summary>
-
-</details>
+<p>An open-source & self-hostable Heroku / Netlify / Vercel alternative.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -5618,10 +5159,7 @@ Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, 
 <h3 style="margin: 0;"><a href="https://github.com/glanceapp/glance">glanceapp/glance</a></h3>
 </div>
 
-<details>
-<summary>A self-hosted dashboard that puts all your feeds in one place</summary>
-
-</details>
+<p>A self-hosted dashboard that puts all your feeds in one place</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -5643,7 +5181,7 @@ Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, 
 <details>
 <summary>A curated list of awesome open source libraries to deploy, monitor, version and scale your machine l...</summary>
 
-A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
+<div style="margin-top: 10px;">A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -5663,10 +5201,7 @@ A curated list of awesome open source libraries to deploy, monitor, version and 
 <h3 style="margin: 0;"><a href="https://github.com/milanm/DevOps-Roadmap">milanm/DevOps-Roadmap</a></h3>
 </div>
 
-<details>
-<summary>DevOps Roadmap for 2025. with learning resources</summary>
-
-</details>
+<p>DevOps Roadmap for 2025. with learning resources</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -5685,10 +5220,7 @@ A curated list of awesome open source libraries to deploy, monitor, version and 
 <h3 style="margin: 0;"><a href="https://github.com/visenger/awesome-mlops">visenger/awesome-mlops</a></h3>
 </div>
 
-<details>
-<summary>A curated list of references for MLOps </summary>
-
-</details>
+<p>A curated list of references for MLOps </p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -5707,10 +5239,7 @@ A curated list of awesome open source libraries to deploy, monitor, version and 
 <h3 style="margin: 0;"><a href="https://github.com/xpipe-io/xpipe">xpipe-io/xpipe</a></h3>
 </div>
 
-<details>
-<summary>Access your entire server infrastructure from your local desktop</summary>
-
-</details>
+<p>Access your entire server infrastructure from your local desktop</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -5729,10 +5258,7 @@ A curated list of awesome open source libraries to deploy, monitor, version and 
 <h3 style="margin: 0;"><a href="https://github.com/benbusby/whoogle-search">benbusby/whoogle-search</a></h3>
 </div>
 
-<details>
-<summary>A self-hosted, ad-free, privacy-respecting metasearch engine</summary>
-
-</details>
+<p>A self-hosted, ad-free, privacy-respecting metasearch engine</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -5751,10 +5277,7 @@ A curated list of awesome open source libraries to deploy, monitor, version and 
 <h3 style="margin: 0;"><a href="https://github.com/tensorchord/Awesome-LLMOps">tensorchord/Awesome-LLMOps</a></h3>
 </div>
 
-<details>
-<summary>An awesome & curated list of best LLMOps tools for developers</summary>
-
-</details>
+<p>An awesome & curated list of best LLMOps tools for developers</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -5776,7 +5299,7 @@ A curated list of awesome open source libraries to deploy, monitor, version and 
 <details>
 <summary>🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your...</summary>
 
-🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
+<div style="margin-top: 10px;">🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -5793,10 +5316,7 @@ A curated list of awesome open source libraries to deploy, monitor, version and 
 <h3 style="margin: 0;"><a href="https://github.com/docker-library/python">docker-library/python</a></h3>
 </div>
 
-<details>
-<summary>Docker Official Image packaging for Python</summary>
-
-</details>
+<p>Docker Official Image packaging for Python</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -5812,10 +5332,7 @@ A curated list of awesome open source libraries to deploy, monitor, version and 
 <h3 style="margin: 0;"><a href="https://github.com/yusing/godoxy">yusing/godoxy</a></h3>
 </div>
 
-<details>
-<summary>Easy to use reverse proxy with docker integration</summary>
-
-</details>
+<p>Easy to use reverse proxy with docker integration</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -5834,10 +5351,7 @@ A curated list of awesome open source libraries to deploy, monitor, version and 
 <h3 style="margin: 0;"><a href="https://github.com/premAI-io/state-of-open-source-ai">premAI-io/state-of-open-source-ai</a></h3>
 </div>
 
-<details>
-<summary>:closed_book: Clarity in the current fast-paced mess of Open Source innovation</summary>
-
-</details>
+<p>:closed_book: Clarity in the current fast-paced mess of Open Source innovation</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -5859,7 +5373,7 @@ A curated list of awesome open source libraries to deploy, monitor, version and 
 <details>
 <summary>A Model Context Protocol (MCP) server for Kubernetes that enables AI assistants like Claude, Cursor,...</summary>
 
-A Model Context Protocol (MCP) server for Kubernetes that enables AI assistants like Claude, Cursor, and others to interact with Kubernetes clusters through natural language.
+<div style="margin-top: 10px;">A Model Context Protocol (MCP) server for Kubernetes that enables AI assistants like Claude, Cursor, and others to interact with Kubernetes clusters through natural language.</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -5876,10 +5390,7 @@ A Model Context Protocol (MCP) server for Kubernetes that enables AI assistants 
 <h3 style="margin: 0;"><a href="https://github.com/Paulescu/kubernetes-for-ml-engineers">Paulescu/kubernetes-for-ml-engineers</a></h3>
 </div>
 
-<details>
-<summary>Just enough Kubernetes for you to fly</summary>
-
-</details>
+<p>Just enough Kubernetes for you to fly</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -5895,10 +5406,7 @@ A Model Context Protocol (MCP) server for Kubernetes that enables AI assistants 
 <h3 style="margin: 0;"><a href="https://github.com/agungTuanany/docker-kubernetes">agungTuanany/docker-kubernetes</a></h3>
 </div>
 
-<details>
-<summary>COMPLETE GUIDE DOCKER & KUBERNETES from [STEPHEN GRIDER]</summary>
-
-</details>
+<p>COMPLETE GUIDE DOCKER & KUBERNETES from [STEPHEN GRIDER]</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -5927,10 +5435,7 @@ A Model Context Protocol (MCP) server for Kubernetes that enables AI assistants 
 <h3 style="margin: 0;"><a href="https://github.com/localstack/localstack">localstack/localstack</a></h3>
 </div>
 
-<details>
-<summary>💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline</summary>
-
-</details>
+<p>💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -5949,10 +5454,7 @@ A Model Context Protocol (MCP) server for Kubernetes that enables AI assistants 
 <h3 style="margin: 0;"><a href="https://github.com/wintests/pytestDemo">wintests/pytestDemo</a></h3>
 </div>
 
-<details>
-<summary>使用 Python+Requests+Pytest+YAML+Allure 实现接口自动化</summary>
-
-</details>
+<p>使用 Python+Requests+Pytest+YAML+Allure 实现接口自动化</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -5968,10 +5470,7 @@ A Model Context Protocol (MCP) server for Kubernetes that enables AI assistants 
 <h3 style="margin: 0;"><a href="https://github.com/thiagodp/concordialang">thiagodp/concordialang</a></h3>
 </div>
 
-<details>
-<summary>✅ Generate functional tests automatically from your Agile specification</summary>
-
-</details>
+<p>✅ Generate functional tests automatically from your Agile specification</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -6000,10 +5499,7 @@ A Model Context Protocol (MCP) server for Kubernetes that enables AI assistants 
 <h3 style="margin: 0;"><a href="https://github.com/dair-ai/Prompt-Engineering-Guide">dair-ai/Prompt-Engineering-Guide</a></h3>
 </div>
 
-<details>
-<summary>🐙 Guides, papers, lecture, notebooks and resources for prompt engineering</summary>
-
-</details>
+<p>🐙 Guides, papers, lecture, notebooks and resources for prompt engineering</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -6022,10 +5518,7 @@ A Model Context Protocol (MCP) server for Kubernetes that enables AI assistants 
 <h3 style="margin: 0;"><a href="https://github.com/suno-ai/bark">suno-ai/bark</a></h3>
 </div>
 
-<details>
-<summary>🔊 Text-Prompted Generative Audio Model</summary>
-
-</details>
+<p>🔊 Text-Prompted Generative Audio Model</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -6041,10 +5534,7 @@ A Model Context Protocol (MCP) server for Kubernetes that enables AI assistants 
 <h3 style="margin: 0;"><a href="https://github.com/Arize-ai/phoenix">Arize-ai/phoenix</a></h3>
 </div>
 
-<details>
-<summary>AI Observability & Evaluation</summary>
-
-</details>
+<p>AI Observability & Evaluation</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -6066,7 +5556,7 @@ A Model Context Protocol (MCP) server for Kubernetes that enables AI assistants 
 <details>
 <summary>The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.a...</summary>
 
-The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai
+<div style="margin-top: 10px;">The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -6086,10 +5576,7 @@ The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Websi
 <h3 style="margin: 0;"><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial">anthropics/prompt-eng-interactive-tutorial</a></h3>
 </div>
 
-<details>
-<summary>Anthropic's Interactive Prompt Engineering Tutorial</summary>
-
-</details>
+<p>Anthropic's Interactive Prompt Engineering Tutorial</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -6105,10 +5592,7 @@ The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Websi
 <h3 style="margin: 0;"><a href="https://github.com/langgptai/awesome-claude-prompts">langgptai/awesome-claude-prompts</a></h3>
 </div>
 
-<details>
-<summary>This repo includes Claude prompt curation to use Claude better.</summary>
-
-</details>
+<p>This repo includes Claude prompt curation to use Claude better.</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -6137,10 +5621,7 @@ The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Websi
 <h3 style="margin: 0;"><a href="https://github.com/Developer-Y/cs-video-courses">Developer-Y/cs-video-courses</a></h3>
 </div>
 
-<details>
-<summary>List of Computer Science courses with video lectures.</summary>
-
-</details>
+<p>List of Computer Science courses with video lectures.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -6162,7 +5643,7 @@ The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Websi
 <details>
 <summary>openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system o...</summary>
 
-openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+<div style="margin-top: 10px;">openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -6182,10 +5663,7 @@ openpilot is an operating system for robotics. Currently, it upgrades the driver
 <h3 style="margin: 0;"><a href="https://github.com/Genesis-Embodied-AI/Genesis">Genesis-Embodied-AI/Genesis</a></h3>
 </div>
 
-<details>
-<summary>A generative world for general-purpose robotics & embodied AI learning.</summary>
-
-</details>
+<p>A generative world for general-purpose robotics & embodied AI learning.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -6201,10 +5679,7 @@ openpilot is an operating system for robotics. Currently, it upgrades the driver
 <h3 style="margin: 0;"><a href="https://github.com/huggingface/lerobot">huggingface/lerobot</a></h3>
 </div>
 
-<details>
-<summary>🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning</summary>
-
-</details>
+<p>🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -6223,7 +5698,7 @@ openpilot is an operating system for robotics. Currently, it upgrades the driver
 <details>
 <summary>A curated list of applied machine learning and data science notebooks and libraries across different...</summary>
 
-A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)
+<div style="margin-top: 10px;">A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥</p>
@@ -6243,10 +5718,7 @@ A curated list of applied machine learning and data science notebooks and librar
 <h3 style="margin: 0;"><a href="https://github.com/isaac-sim/IsaacLab">isaac-sim/IsaacLab</a></h3>
 </div>
 
-<details>
-<summary>Unified framework for robot learning built on NVIDIA Isaac Sim</summary>
-
-</details>
+<p>Unified framework for robot learning built on NVIDIA Isaac Sim</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -6265,10 +5737,7 @@ A curated list of applied machine learning and data science notebooks and librar
 <h3 style="margin: 0;"><a href="https://github.com/ros-navigation/navigation2">ros-navigation/navigation2</a></h3>
 </div>
 
-<details>
-<summary>ROS 2 Navigation Framework and System</summary>
-
-</details>
+<p>ROS 2 Navigation Framework and System</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -6287,10 +5756,7 @@ A curated list of applied machine learning and data science notebooks and librar
 <h3 style="margin: 0;"><a href="https://github.com/mjyc/awesome-robotics-projects">mjyc/awesome-robotics-projects</a></h3>
 </div>
 
-<details>
-<summary>A list of open-source, affordable, less-known, or visionary robotics projects.</summary>
-
-</details>
+<p>A list of open-source, affordable, less-known, or visionary robotics projects.</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -6309,10 +5775,7 @@ A curated list of applied machine learning and data science notebooks and librar
 <h3 style="margin: 0;"><a href="https://github.com/open-ai-robot/robot-101">open-ai-robot/robot-101</a></h3>
 </div>
 
-<details>
-<summary>Tutorial, books, videos, resources to help us learn and DIY Open Sources Robot</summary>
-
-</details>
+<p>Tutorial, books, videos, resources to help us learn and DIY Open Sources Robot</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -6328,10 +5791,7 @@ A curated list of applied machine learning and data science notebooks and librar
 <h3 style="margin: 0;"><a href="https://github.com/Improbable-AI/airobot">Improbable-AI/airobot</a></h3>
 </div>
 
-<details>
-<summary>A python library for robot learning - An extension to PyRobot</summary>
-
-</details>
+<p>A python library for robot learning - An extension to PyRobot</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -6350,10 +5810,7 @@ A curated list of applied machine learning and data science notebooks and librar
 <h3 style="margin: 0;"><a href="https://github.com/jk4e/list-ai-humanoid-robots">jk4e/list-ai-humanoid-robots</a></h3>
 </div>
 
-<details>
-<summary>🤖 A curated list of AGI, AI and Humanoid Robots.</summary>
-
-</details>
+<p>🤖 A curated list of AGI, AI and Humanoid Robots.</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -6375,7 +5832,7 @@ A curated list of applied machine learning and data science notebooks and librar
 <details>
 <summary>Artificial Intelligence for Robotics. An effort to learn the basics of localization, search, PID con...</summary>
 
-Artificial Intelligence for Robotics. An effort to learn the basics of localization, search, PID control, and SLAM
+<div style="margin-top: 10px;">Artificial Intelligence for Robotics. An effort to learn the basics of localization, search, PID control, and SLAM</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -6395,7 +5852,7 @@ Artificial Intelligence for Robotics. An effort to learn the basics of localizat
 <details>
 <summary>Basic methods in Artificial Intelligence, including: probabilistic inference, planning and search, l...</summary>
 
-Basic methods in Artificial Intelligence, including: probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics. Extensive programming examples and assignments will apply these methods in the context of building self-driving cars.
+<div style="margin-top: 10px;">Basic methods in Artificial Intelligence, including: probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics. Extensive programming examples and assignments will apply these methods in the context of building self-driving cars.</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -6425,10 +5882,7 @@ Basic methods in Artificial Intelligence, including: probabilistic inference, pl
 <h3 style="margin: 0;"><a href="https://github.com/microsoft/AI-For-Beginners">microsoft/AI-For-Beginners</a></h3>
 </div>
 
-<details>
-<summary>12 Weeks, 24 Lessons, AI for All!</summary>
-
-</details>
+<p>12 Weeks, 24 Lessons, AI for All!</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -6450,7 +5904,7 @@ Basic methods in Artificial Intelligence, including: probabilistic inference, pl
 <details>
 <summary>📚 Papers & tech blogs by companies sharing their work on data science & machine learning in product...</summary>
 
-📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
+<div style="margin-top: 10px;">📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -6470,10 +5924,7 @@ Basic methods in Artificial Intelligence, including: probabilistic inference, pl
 <h3 style="margin: 0;"><a href="https://github.com/hpcaitech/Open-Sora">hpcaitech/Open-Sora</a></h3>
 </div>
 
-<details>
-<summary>Open-Sora: Democratizing Efficient Video Production for All</summary>
-
-</details>
+<p>Open-Sora: Democratizing Efficient Video Production for All</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -6492,7 +5943,7 @@ Basic methods in Artificial Intelligence, including: probabilistic inference, pl
 <details>
 <summary>Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with onl...</summary>
 
-Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
+<div style="margin-top: 10px;">Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -6512,10 +5963,7 @@ Implementation of Vision Transformer, a simple way to achieve SOTA in vision cla
 <h3 style="margin: 0;"><a href="https://github.com/qubvel-org/segmentation_models.pytorch">qubvel-org/segmentation_models.pytorch</a></h3>
 </div>
 
-<details>
-<summary>Semantic segmentation models with 500+ pretrained convolutional and transformer-based backbones.</summary>
-
-</details>
+<p>Semantic segmentation models with 500+ pretrained convolutional and transformer-based backbones.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -6537,7 +5985,7 @@ Implementation of Vision Transformer, a simple way to achieve SOTA in vision cla
 <details>
 <summary>This repository offers a comprehensive collection of tutorials on state-of-the-art computer vision m...</summary>
 
-This repository offers a comprehensive collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like YOLO11, RT-DETR, SAM 2, Florence-2, PaliGemma 2, and Qwen2.5VL.
+<div style="margin-top: 10px;">This repository offers a comprehensive collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like YOLO11, RT-DETR, SAM 2, Florence-2, PaliGemma 2, and Qwen2.5VL.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥</p>
@@ -6557,10 +6005,7 @@ This repository offers a comprehensive collection of tutorials on state-of-the-a
 <h3 style="margin: 0;"><a href="https://github.com/aurelio-labs/semantic-router">aurelio-labs/semantic-router</a></h3>
 </div>
 
-<details>
-<summary>Superfast AI decision making and intelligent processing of multi-modal data.</summary>
-
-</details>
+<p>Superfast AI decision making and intelligent processing of multi-modal data.</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -6579,10 +6024,7 @@ This repository offers a comprehensive collection of tutorials on state-of-the-a
 <h3 style="margin: 0;"><a href="https://github.com/VikParuchuri/tabled">VikParuchuri/tabled</a></h3>
 </div>
 
-<details>
-<summary>Detect and extract tables to markdown and csv</summary>
-
-</details>
+<p>Detect and extract tables to markdown and csv</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -6604,7 +6046,7 @@ This repository offers a comprehensive collection of tutorials on state-of-the-a
 <details>
 <summary> a self-study guide for AI hardware engineers, covering a wide range of topics from foundational kno...</summary>
 
- a self-study guide for AI hardware engineers, covering a wide range of topics from foundational knowledge to advanced FPGA and acceleration techniques, Nvidia Jetson and edge AI, and more.
+<div style="margin-top: 10px;"> a self-study guide for AI hardware engineers, covering a wide range of topics from foundational knowledge to advanced FPGA and acceleration techniques, Nvidia Jetson and edge AI, and more.</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -6634,10 +6076,7 @@ This repository offers a comprehensive collection of tutorials on state-of-the-a
 <h3 style="margin: 0;"><a href="https://github.com/quqxui/Awesome-LLM4IE-Papers">quqxui/Awesome-LLM4IE-Papers</a></h3>
 </div>
 
-<details>
-<summary>Awesome papers about generative Information Extraction (IE) using Large Language Models (LLMs) </summary>
-
-</details>
+<p>Awesome papers about generative Information Extraction (IE) using Large Language Models (LLMs) </p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -6666,10 +6105,7 @@ This repository offers a comprehensive collection of tutorials on state-of-the-a
 <h3 style="margin: 0;"><a href="https://github.com/codecrafters-io/build-your-own-x">codecrafters-io/build-your-own-x</a></h3>
 </div>
 
-<details>
-<summary>Master programming by recreating your favorite technologies from scratch.</summary>
-
-</details>
+<p>Master programming by recreating your favorite technologies from scratch.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -6688,10 +6124,7 @@ This repository offers a comprehensive collection of tutorials on state-of-the-a
 <h3 style="margin: 0;"><a href="https://github.com/sindresorhus/awesome">sindresorhus/awesome</a></h3>
 </div>
 
-<details>
-<summary>😎 Awesome lists about all kinds of interesting topics</summary>
-
-</details>
+<p>😎 Awesome lists about all kinds of interesting topics</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -6710,10 +6143,7 @@ This repository offers a comprehensive collection of tutorials on state-of-the-a
 <h3 style="margin: 0;"><a href="https://github.com/public-apis/public-apis">public-apis/public-apis</a></h3>
 </div>
 
-<details>
-<summary>A collective list of free APIs</summary>
-
-</details>
+<p>A collective list of free APIs</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -6732,10 +6162,7 @@ This repository offers a comprehensive collection of tutorials on state-of-the-a
 <h3 style="margin: 0;"><a href="https://github.com/jwasham/coding-interview-university">jwasham/coding-interview-university</a></h3>
 </div>
 
-<details>
-<summary>A complete computer science study plan to become a software engineer.</summary>
-
-</details>
+<p>A complete computer science study plan to become a software engineer.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -6757,7 +6184,7 @@ This repository offers a comprehensive collection of tutorials on state-of-the-a
 <details>
 <summary>Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashc...</summary>
 
-Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+<div style="margin-top: 10px;">Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -6780,7 +6207,7 @@ Learn how to design large-scale systems. Prep for the system design interview.  
 <details>
 <summary>A list of Free Software network services and web applications which can be hosted on your own server...</summary>
 
-A list of Free Software network services and web applications which can be hosted on your own servers
+<div style="margin-top: 10px;">A list of Free Software network services and web applications which can be hosted on your own servers</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -6800,10 +6227,7 @@ A list of Free Software network services and web applications which can be hoste
 <h3 style="margin: 0;"><a href="https://github.com/practical-tutorials/project-based-learning">practical-tutorials/project-based-learning</a></h3>
 </div>
 
-<details>
-<summary>Curated list of project-based tutorials</summary>
-
-</details>
+<p>Curated list of project-based tutorials</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -6822,10 +6246,7 @@ A list of Free Software network services and web applications which can be hoste
 <h3 style="margin: 0;"><a href="https://github.com/TheAlgorithms/Python">TheAlgorithms/Python</a></h3>
 </div>
 
-<details>
-<summary>All Algorithms implemented in Python</summary>
-
-</details>
+<p>All Algorithms implemented in Python</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -6861,7 +6282,7 @@ A list of Free Software network services and web applications which can be hoste
 <details>
 <summary> Now we have become very big, Different from the original idea. Collect premium software in various...</summary>
 
- Now we have become very big, Different from the original idea. Collect premium software in various categories.
+<div style="margin-top: 10px;"> Now we have become very big, Different from the original idea. Collect premium software in various categories.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -6884,7 +6305,7 @@ A list of Free Software network services and web applications which can be hoste
 <details>
 <summary>"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node...</summary>
 
-"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+<div style="margin-top: 10px;">"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -6901,10 +6322,7 @@ A list of Free Software network services and web applications which can be hoste
 <h3 style="margin: 0;"><a href="https://github.com/3b1b/manim">3b1b/manim</a></h3>
 </div>
 
-<details>
-<summary>Animation engine for explanatory math videos</summary>
-
-</details>
+<p>Animation engine for explanatory math videos</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -6926,7 +6344,7 @@ A list of Free Software network services and web applications which can be hoste
 <details>
 <summary>Explain complex systems using visuals and simple terms. Help you prepare for system design interview...</summary>
 
-Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+<div style="margin-top: 10px;">Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -6946,10 +6364,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 <h3 style="margin: 0;"><a href="https://github.com/immich-app/immich">immich-app/immich</a></h3>
 </div>
 
-<details>
-<summary>High performance self-hosted photo and video management solution.</summary>
-
-</details>
+<p>High performance self-hosted photo and video management solution.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -6968,10 +6383,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 <h3 style="margin: 0;"><a href="https://github.com/twitter/the-algorithm">twitter/the-algorithm</a></h3>
 </div>
 
-<details>
-<summary>Source code for Twitter's Recommendation Algorithm</summary>
-
-</details>
+<p>Source code for Twitter's Recommendation Algorithm</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -6987,10 +6399,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 <h3 style="margin: 0;"><a href="https://github.com/binhnguyennus/awesome-scalability">binhnguyennus/awesome-scalability</a></h3>
 </div>
 
-<details>
-<summary>The Patterns of Scalable, Reliable, and Performant Large-Scale Systems</summary>
-
-</details>
+<p>The Patterns of Scalable, Reliable, and Performant Large-Scale Systems</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7009,10 +6418,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 <h3 style="margin: 0;"><a href="https://github.com/juliangarnier/anime">juliangarnier/anime</a></h3>
 </div>
 
-<details>
-<summary>JavaScript animation engine</summary>
-
-</details>
+<p>JavaScript animation engine</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7031,10 +6437,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 <h3 style="margin: 0;"><a href="https://github.com/microsoft/markitdown">microsoft/markitdown</a></h3>
 </div>
 
-<details>
-<summary>Python tool for converting files and office documents to Markdown.</summary>
-
-</details>
+<p>Python tool for converting files and office documents to Markdown.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7053,10 +6456,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 <h3 style="margin: 0;"><a href="https://github.com/punkpeye/awesome-mcp-servers">punkpeye/awesome-mcp-servers</a></h3>
 </div>
 
-<details>
-<summary>A collection of MCP servers.</summary>
-
-</details>
+<p>A collection of MCP servers.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7075,10 +6475,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 <h3 style="margin: 0;"><a href="https://github.com/modelcontextprotocol/servers">modelcontextprotocol/servers</a></h3>
 </div>
 
-<details>
-<summary>Model Context Protocol Servers</summary>
-
-</details>
+<p>Model Context Protocol Servers</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7094,10 +6491,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 <h3 style="margin: 0;"><a href="https://github.com/odoo/odoo">odoo/odoo</a></h3>
 </div>
 
-<details>
-<summary>Odoo. Open Source Apps To Grow Your Business.</summary>
-
-</details>
+<p>Odoo. Open Source Apps To Grow Your Business.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7116,10 +6510,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 <h3 style="margin: 0;"><a href="https://github.com/DovAmir/awesome-design-patterns">DovAmir/awesome-design-patterns</a></h3>
 </div>
 
-<details>
-<summary>A curated list of software and architecture related design patterns.</summary>
-
-</details>
+<p>A curated list of software and architecture related design patterns.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7138,10 +6529,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 <h3 style="margin: 0;"><a href="https://github.com/OpenBB-finance/OpenBB">OpenBB-finance/OpenBB</a></h3>
 </div>
 
-<details>
-<summary>Investment Research for Everyone, Everywhere.</summary>
-
-</details>
+<p>Investment Research for Everyone, Everywhere.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7160,10 +6548,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 <h3 style="margin: 0;"><a href="https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap">floodsung/Deep-Learning-Papers-Reading-Roadmap</a></h3>
 </div>
 
-<details>
-<summary>Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!</summary>
-
-</details>
+<p>Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7196,10 +6581,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 <h3 style="margin: 0;"><a href="https://github.com/geekcomputers/Python">geekcomputers/Python</a></h3>
 </div>
 
-<details>
-<summary>My Python Examples</summary>
-
-</details>
+<p>My Python Examples</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7215,10 +6597,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 <h3 style="margin: 0;"><a href="https://github.com/kilimchoi/engineering-blogs">kilimchoi/engineering-blogs</a></h3>
 </div>
 
-<details>
-<summary>A curated list of engineering blogs</summary>
-
-</details>
+<p>A curated list of engineering blogs</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7237,10 +6616,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 <h3 style="margin: 0;"><a href="https://github.com/Pythagora-io/gpt-pilot">Pythagora-io/gpt-pilot</a></h3>
 </div>
 
-<details>
-<summary>The first real AI developer</summary>
-
-</details>
+<p>The first real AI developer</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7259,10 +6635,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 <h3 style="margin: 0;"><a href="https://github.com/myshell-ai/OpenVoice">myshell-ai/OpenVoice</a></h3>
 </div>
 
-<details>
-<summary>Instant voice cloning by MIT and MyShell. Audio foundation model.</summary>
-
-</details>
+<p>Instant voice cloning by MIT and MyShell. Audio foundation model.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7281,10 +6654,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 <h3 style="margin: 0;"><a href="https://github.com/imputnet/cobalt">imputnet/cobalt</a></h3>
 </div>
 
-<details>
-<summary>best way to save what you love</summary>
-
-</details>
+<p>best way to save what you love</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7306,7 +6676,7 @@ Explain complex systems using visuals and simple terms. Help you prepare for sys
 <details>
 <summary>A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on star...</summary>
 
-A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+<div style="margin-top: 10px;">A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -7329,7 +6699,7 @@ A curated and opinionated list of resources for Chief Technology Officers, with 
 <details>
 <summary>120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki...</summary>
 
-120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
+<div style="margin-top: 10px;">120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -7349,10 +6719,7 @@ A curated and opinionated list of resources for Chief Technology Officers, with 
 <h3 style="margin: 0;"><a href="https://github.com/docling-project/docling">docling-project/docling</a></h3>
 </div>
 
-<details>
-<summary>Get your documents ready for gen AI</summary>
-
-</details>
+<p>Get your documents ready for gen AI</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7374,7 +6741,7 @@ A curated and opinionated list of resources for Chief Technology Officers, with 
 <details>
 <summary>Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operati...</summary>
 
-Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+<div style="margin-top: 10px;">Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -7394,10 +6761,7 @@ Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS
 <h3 style="margin: 0;"><a href="https://github.com/exo-explore/exo">exo-explore/exo</a></h3>
 </div>
 
-<details>
-<summary>Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚</summary>
-
-</details>
+<p>Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7413,10 +6777,7 @@ Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS
 <h3 style="margin: 0;"><a href="https://github.com/virattt/ai-hedge-fund">virattt/ai-hedge-fund</a></h3>
 </div>
 
-<details>
-<summary>An AI Hedge Fund Team</summary>
-
-</details>
+<p>An AI Hedge Fund Team</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7432,10 +6793,7 @@ Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS
 <h3 style="margin: 0;"><a href="https://github.com/RSSNext/Folo">RSSNext/Folo</a></h3>
 </div>
 
-<details>
-<summary>🧡 Follow everything in one place</summary>
-
-</details>
+<p>🧡 Follow everything in one place</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7454,10 +6812,7 @@ Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS
 <h3 style="margin: 0;"><a href="https://github.com/ChristosChristofidis/awesome-deep-learning">ChristosChristofidis/awesome-deep-learning</a></h3>
 </div>
 
-<details>
-<summary>A curated list of awesome Deep Learning tutorials, projects and communities.</summary>
-
-</details>
+<p>A curated list of awesome Deep Learning tutorials, projects and communities.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7476,10 +6831,7 @@ Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS
 <h3 style="margin: 0;"><a href="https://github.com/keon/algorithms">keon/algorithms</a></h3>
 </div>
 
-<details>
-<summary>Minimal examples of data structures and algorithms in Python</summary>
-
-</details>
+<p>Minimal examples of data structures and algorithms in Python</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7501,7 +6853,7 @@ Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS
 <details>
 <summary>Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algor...</summary>
 
-Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
+<div style="margin-top: 10px;">Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -7521,10 +6873,7 @@ Machine Learning From Scratch. Bare bones NumPy implementations of machine learn
 <h3 style="margin: 0;"><a href="https://github.com/PatrickJS/awesome-cursorrules">PatrickJS/awesome-cursorrules</a></h3>
 </div>
 
-<details>
-<summary>📄 A curated list of awesome .cursorrules files</summary>
-
-</details>
+<p>📄 A curated list of awesome .cursorrules files</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7546,7 +6895,7 @@ Machine Learning From Scratch. Bare bones NumPy implementations of machine learn
 <details>
 <summary>The best and simplest free open source web page change detection, website watcher,  restock monitor ...</summary>
 
-The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
+<div style="margin-top: 10px;">The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -7566,10 +6915,7 @@ The best and simplest free open source web page change detection, website watche
 <h3 style="margin: 0;"><a href="https://github.com/pydantic/pydantic">pydantic/pydantic</a></h3>
 </div>
 
-<details>
-<summary>Data validation using Python type hints</summary>
-
-</details>
+<p>Data validation using Python type hints</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7591,7 +6937,7 @@ The best and simplest free open source web page change detection, website watche
 <details>
 <summary>🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math be...</summary>
 
-🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+<div style="margin-top: 10px;">🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -7611,10 +6957,7 @@ The best and simplest free open source web page change detection, website watche
 <h3 style="margin: 0;"><a href="https://github.com/ItzCrazyKns/Perplexica">ItzCrazyKns/Perplexica</a></h3>
 </div>
 
-<details>
-<summary>Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI</summary>
-
-</details>
+<p>Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7633,10 +6976,7 @@ The best and simplest free open source web page change detection, website watche
 <h3 style="margin: 0;"><a href="https://github.com/QwenLM/Qwen3">QwenLM/Qwen3</a></h3>
 </div>
 
-<details>
-<summary>Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.</summary>
-
-</details>
+<p>Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7652,10 +6992,7 @@ The best and simplest free open source web page change detection, website watche
 <h3 style="margin: 0;"><a href="https://github.com/gitroomhq/postiz-app">gitroomhq/postiz-app</a></h3>
 </div>
 
-<details>
-<summary>📨 The ultimate social media scheduling tool, with a bunch of AI  🤖</summary>
-
-</details>
+<p>📨 The ultimate social media scheduling tool, with a bunch of AI  🤖</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7677,7 +7014,7 @@ The best and simplest free open source web page change detection, website watche
 <details>
 <summary>SearXNG is a free internet metasearch engine which aggregates results from various search services a...</summary>
 
-SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+<div style="margin-top: 10px;">SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -7697,10 +7034,7 @@ SearXNG is a free internet metasearch engine which aggregates results from vario
 <h3 style="margin: 0;"><a href="https://github.com/teableio/teable">teableio/teable</a></h3>
 </div>
 
-<details>
-<summary>✨ The Next Gen Airtable Alternative: No-Code Postgres</summary>
-
-</details>
+<p>✨ The Next Gen Airtable Alternative: No-Code Postgres</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7719,10 +7053,7 @@ SearXNG is a free internet metasearch engine which aggregates results from vario
 <h3 style="margin: 0;"><a href="https://github.com/microsoft/IoT-For-Beginners">microsoft/IoT-For-Beginners</a></h3>
 </div>
 
-<details>
-<summary>12 Weeks, 24 Lessons, IoT for All!</summary>
-
-</details>
+<p>12 Weeks, 24 Lessons, IoT for All!</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7744,7 +7075,7 @@ SearXNG is a free internet metasearch engine which aggregates results from vario
 <details>
 <summary>A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging an...</summary>
 
-A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+<div style="margin-top: 10px;">A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -7764,10 +7095,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 <h3 style="margin: 0;"><a href="https://github.com/FavioVazquez/ds-cheatsheets">FavioVazquez/ds-cheatsheets</a></h3>
 </div>
 
-<details>
-<summary>List of Data Science Cheatsheets to rule the world</summary>
-
-</details>
+<p>List of Data Science Cheatsheets to rule the world</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7789,7 +7117,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 <details>
 <summary>🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scien...</summary>
 
-🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.
+<div style="margin-top: 10px;">🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -7809,10 +7137,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 <h3 style="margin: 0;"><a href="https://github.com/remarkjs/react-markdown">remarkjs/react-markdown</a></h3>
 </div>
 
-<details>
-<summary>Markdown component for React</summary>
-
-</details>
+<p>Markdown component for React</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7831,10 +7156,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 <h3 style="margin: 0;"><a href="https://github.com/nari-labs/dia">nari-labs/dia</a></h3>
 </div>
 
-<details>
-<summary>A TTS model capable of generating ultra-realistic dialogue in one pass.</summary>
-
-</details>
+<p>A TTS model capable of generating ultra-realistic dialogue in one pass.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7853,10 +7175,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 <h3 style="margin: 0;"><a href="https://github.com/ashishps1/awesome-low-level-design">ashishps1/awesome-low-level-design</a></h3>
 </div>
 
-<details>
-<summary>Learn Low Level Design (LLD) and prepare for interviews using free resources.</summary>
-
-</details>
+<p>Learn Low Level Design (LLD) and prepare for interviews using free resources.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7875,10 +7194,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 <h3 style="margin: 0;"><a href="https://github.com/mikf/gallery-dl">mikf/gallery-dl</a></h3>
 </div>
 
-<details>
-<summary>Command-line program to download image galleries and collections from several image hosting sites</summary>
-
-</details>
+<p>Command-line program to download image galleries and collections from several image hosting sites</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7897,10 +7213,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 <h3 style="margin: 0;"><a href="https://github.com/github/github-mcp-server">github/github-mcp-server</a></h3>
 </div>
 
-<details>
-<summary>GitHub's official MCP Server</summary>
-
-</details>
+<p>GitHub's official MCP Server</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7919,10 +7232,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 <h3 style="margin: 0;"><a href="https://github.com/anthropics/anthropic-cookbook">anthropics/anthropic-cookbook</a></h3>
 </div>
 
-<details>
-<summary>A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</summary>
-
-</details>
+<p>A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -7941,7 +7251,7 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 <details>
 <summary>This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute...</summary>
 
-This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.
+<div style="margin-top: 10px;">This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -7961,7 +7271,7 @@ This project aim to reproduce Sora (Open AI T2V model), we wish the open source 
 <details>
 <summary>A one stop repository for generative AI research updates, interview resources, notebooks and much mo...</summary>
 
-A one stop repository for generative AI research updates, interview resources, notebooks and much more!
+<div style="margin-top: 10px;">A one stop repository for generative AI research updates, interview resources, notebooks and much more!</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -7984,7 +7294,7 @@ A one stop repository for generative AI research updates, interview resources, n
 <details>
 <summary>The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating...</summary>
 
-The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch. 
+<div style="margin-top: 10px;">The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch. </div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -8004,10 +7314,7 @@ The Incredible PyTorch: a curated list of tutorials, papers, projects, communiti
 <h3 style="margin: 0;"><a href="https://github.com/anthropics/courses">anthropics/courses</a></h3>
 </div>
 
-<details>
-<summary>Anthropic's educational courses</summary>
-
-</details>
+<p>Anthropic's educational courses</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -8023,10 +7330,7 @@ The Incredible PyTorch: a curated list of tutorials, papers, projects, communiti
 <h3 style="margin: 0;"><a href="https://github.com/ahmedkhaleel2004/gitdiagram">ahmedkhaleel2004/gitdiagram</a></h3>
 </div>
 
-<details>
-<summary>Free, simple, fast interactive diagrams for any GitHub repository</summary>
-
-</details>
+<p>Free, simple, fast interactive diagrams for any GitHub repository</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -8045,10 +7349,7 @@ The Incredible PyTorch: a curated list of tutorials, papers, projects, communiti
 <h3 style="margin: 0;"><a href="https://github.com/opf/openproject">opf/openproject</a></h3>
 </div>
 
-<details>
-<summary>OpenProject is the leading open source project management software.</summary>
-
-</details>
+<p>OpenProject is the leading open source project management software.</p>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
 
@@ -8070,7 +7371,7 @@ The Incredible PyTorch: a curated list of tutorials, papers, projects, communiti
 <details>
 <summary>A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-...</summary>
 
-A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
+<div style="margin-top: 10px;">A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -8093,7 +7394,7 @@ A free, open-source SaaS app starter for React & Node.js with superpowers. Full-
 <details>
 <summary>A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporti...</summary>
 
-A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.
+<div style="margin-top: 10px;">A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥🔥</p>
@@ -8113,10 +7414,7 @@ A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrai
 <h3 style="margin: 0;"><a href="https://github.com/ourongxing/newsnow">ourongxing/newsnow</a></h3>
 </div>
 
-<details>
-<summary>Elegant reading of real-time and hottest news</summary>
-
-</details>
+<p>Elegant reading of real-time and hottest news</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -8135,10 +7433,7 @@ A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrai
 <h3 style="margin: 0;"><a href="https://github.com/3b1b/videos">3b1b/videos</a></h3>
 </div>
 
-<details>
-<summary>Code for the manim-generated scenes used in 3blue1brown videos</summary>
-
-</details>
+<p>Code for the manim-generated scenes used in 3blue1brown videos</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -8157,7 +7452,7 @@ A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrai
 <details>
 <summary>Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support...</summary>
 
-Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.
+<div style="margin-top: 10px;">Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥🔥</p>
@@ -8191,10 +7486,7 @@ Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. I
 <h3 style="margin: 0;"><a href="https://github.com/yzhao062/anomaly-detection-resources">yzhao062/anomaly-detection-resources</a></h3>
 </div>
 
-<details>
-<summary>Anomaly detection related books, papers, videos, and toolboxes</summary>
-
-</details>
+<p>Anomaly detection related books, papers, videos, and toolboxes</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -8213,10 +7505,7 @@ Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. I
 <h3 style="margin: 0;"><a href="https://github.com/ai-collection/ai-collection">ai-collection/ai-collection</a></h3>
 </div>
 
-<details>
-<summary>The Generative AI Landscape - A Collection of Awesome Generative AI Applications</summary>
-
-</details>
+<p>The Generative AI Landscape - A Collection of Awesome Generative AI Applications</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -8235,10 +7524,7 @@ Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. I
 <h3 style="margin: 0;"><a href="https://github.com/CapSoftware/Cap">CapSoftware/Cap</a></h3>
 </div>
 
-<details>
-<summary>Open source Loom alternative. Beautiful, shareable screen recordings.</summary>
-
-</details>
+<p>Open source Loom alternative. Beautiful, shareable screen recordings.</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -8257,10 +7543,7 @@ Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. I
 <h3 style="margin: 0;"><a href="https://github.com/soulmachine/machine-learning-cheat-sheet">soulmachine/machine-learning-cheat-sheet</a></h3>
 </div>
 
-<details>
-<summary>Classical equations and diagrams in machine learning</summary>
-
-</details>
+<p>Classical equations and diagrams in machine learning</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -8290,10 +7573,7 @@ Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. I
 <h3 style="margin: 0;"><a href="https://github.com/udlbook/udlbook">udlbook/udlbook</a></h3>
 </div>
 
-<details>
-<summary>Understanding Deep Learning - Simon J.D. Prince</summary>
-
-</details>
+<p>Understanding Deep Learning - Simon J.D. Prince</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -8309,10 +7589,7 @@ Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. I
 <h3 style="margin: 0;"><a href="https://github.com/LargeWorldModel/LWM">LargeWorldModel/LWM</a></h3>
 </div>
 
-<details>
-<summary>Large World Model -- Modeling Text and Video with Millions Context</summary>
-
-</details>
+<p>Large World Model -- Modeling Text and Video with Millions Context</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -8328,10 +7605,7 @@ Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. I
 <h3 style="margin: 0;"><a href="https://github.com/gkamradt/langchain-tutorials">gkamradt/langchain-tutorials</a></h3>
 </div>
 
-<details>
-<summary>Overview and tutorial of the LangChain Library</summary>
-
-</details>
+<p>Overview and tutorial of the LangChain Library</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -8347,10 +7621,7 @@ Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. I
 <h3 style="margin: 0;"><a href="https://github.com/elebumm/RedditVideoMakerBot">elebumm/RedditVideoMakerBot</a></h3>
 </div>
 
-<details>
-<summary>Create Reddit Videos with just✨ one command ✨</summary>
-
-</details>
+<p>Create Reddit Videos with just✨ one command ✨</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -8380,10 +7651,7 @@ Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. I
 <h3 style="margin: 0;"><a href="https://github.com/AnswerDotAI/fasthtml">AnswerDotAI/fasthtml</a></h3>
 </div>
 
-<details>
-<summary>The fastest way to create an HTML app</summary>
-
-</details>
+<p>The fastest way to create an HTML app</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -8399,10 +7667,7 @@ Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. I
 <h3 style="margin: 0;"><a href="https://github.com/vladmandic/sdnext">vladmandic/sdnext</a></h3>
 </div>
 
-<details>
-<summary>SD.Next: All-in-one for AI generative image</summary>
-
-</details>
+<p>SD.Next: All-in-one for AI generative image</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -8421,10 +7686,7 @@ Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. I
 <h3 style="margin: 0;"><a href="https://github.com/haydenbleasel/next-forge">haydenbleasel/next-forge</a></h3>
 </div>
 
-<details>
-<summary>Production-grade Turborepo template for Next.js apps.</summary>
-
-</details>
+<p>Production-grade Turborepo template for Next.js apps.</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -8443,10 +7705,7 @@ Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. I
 <h3 style="margin: 0;"><a href="https://github.com/huggingface/smol-course">huggingface/smol-course</a></h3>
 </div>
 
-<details>
-<summary>A course on aligning smol models.</summary>
-
-</details>
+<p>A course on aligning smol models.</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -8462,10 +7721,7 @@ Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. I
 <h3 style="margin: 0;"><a href="https://github.com/lmoroney/dlaicourse">lmoroney/dlaicourse</a></h3>
 </div>
 
-<details>
-<summary>Notebooks for learning deep learning</summary>
-
-</details>
+<p>Notebooks for learning deep learning</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -8481,10 +7737,7 @@ Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. I
 <h3 style="margin: 0;"><a href="https://github.com/faridrashidi/kaggle-solutions">faridrashidi/kaggle-solutions</a></h3>
 </div>
 
-<details>
-<summary>🏅 Collection of Kaggle Solutions and Ideas 🏅</summary>
-
-</details>
+<p>🏅 Collection of Kaggle Solutions and Ideas 🏅</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -8517,10 +7770,7 @@ Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. I
 <h3 style="margin: 0;"><a href="https://github.com/BasedHardware/omi">BasedHardware/omi</a></h3>
 </div>
 
-<details>
-<summary>AI wearables. Put it on, speak, transcribe, automatically</summary>
-
-</details>
+<p>AI wearables. Put it on, speak, transcribe, automatically</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -8553,10 +7803,7 @@ Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. I
 <h3 style="margin: 0;"><a href="https://github.com/Nutlope/logocreator">Nutlope/logocreator</a></h3>
 </div>
 
-<details>
-<summary>A free + OSS logo generator powered by Flux on Together AI</summary>
-
-</details>
+<p>A free + OSS logo generator powered by Flux on Together AI</p>
 
 <p style="margin: 10px 0;">🔥🔥</p>
 
@@ -8572,10 +7819,7 @@ Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. I
 <h3 style="margin: 0;"><a href="https://github.com/dair-ai/Mathematics-for-ML">dair-ai/Mathematics-for-ML</a></h3>
 </div>
 
-<details>
-<summary>🧮  A collection of resources to learn mathematics for machine learning</summary>
-
-</details>
+<p>🧮  A collection of resources to learn mathematics for machine learning</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -8594,10 +7838,7 @@ Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. I
 <h3 style="margin: 0;"><a href="https://github.com/microsoft/muzic">microsoft/muzic</a></h3>
 </div>
 
-<details>
-<summary>Muzic: Music Understanding and Generation with Artificial Intelligence</summary>
-
-</details>
+<p>Muzic: Music Understanding and Generation with Artificial Intelligence</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -8616,10 +7857,7 @@ Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. I
 <h3 style="margin: 0;"><a href="https://github.com/assistant-ui/assistant-ui">assistant-ui/assistant-ui</a></h3>
 </div>
 
-<details>
-<summary>Typescript/React Library for AI Chat💬🚀</summary>
-
-</details>
+<p>Typescript/React Library for AI Chat💬🚀</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -8638,10 +7876,7 @@ Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. I
 <h3 style="margin: 0;"><a href="https://github.com/metavoiceio/metavoice-src">metavoiceio/metavoice-src</a></h3>
 </div>
 
-<details>
-<summary>Foundational model for human-like, expressive TTS</summary>
-
-</details>
+<p>Foundational model for human-like, expressive TTS</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -8660,10 +7895,7 @@ Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. I
 <h3 style="margin: 0;"><a href="https://github.com/Netflix/vizceral">Netflix/vizceral</a></h3>
 </div>
 
-<details>
-<summary>WebGL visualization for displaying animated traffic graphs</summary>
-
-</details>
+<p>WebGL visualization for displaying animated traffic graphs</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -8682,10 +7914,7 @@ Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. I
 <h3 style="margin: 0;"><a href="https://github.com/TMElyralab/MuseTalk">TMElyralab/MuseTalk</a></h3>
 </div>
 
-<details>
-<summary>MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting</summary>
-
-</details>
+<p>MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -8704,10 +7933,7 @@ Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. I
 <h3 style="margin: 0;"><a href="https://github.com/chiphuyen/ml-interviews-book">chiphuyen/ml-interviews-book</a></h3>
 </div>
 
-<details>
-<summary>https://huyenchip.com/ml-interviews-book/</summary>
-
-</details>
+<p>https://huyenchip.com/ml-interviews-book/</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -8726,7 +7952,7 @@ Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. I
 <details>
 <summary>An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content i...</summary>
 
-An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
+<div style="margin-top: 10px;">An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -8746,10 +7972,7 @@ An Open Source Python alternative to NotebookLM's podcast feature: Transforming 
 <h3 style="margin: 0;"><a href="https://github.com/midday-ai/v1">midday-ai/v1</a></h3>
 </div>
 
-<details>
-<summary>An open-source starter kit based on Midday.</summary>
-
-</details>
+<p>An open-source starter kit based on Midday.</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -8768,10 +7991,7 @@ An Open Source Python alternative to NotebookLM's podcast feature: Transforming 
 <h3 style="margin: 0;"><a href="https://github.com/dair-ai/ML-Notebooks">dair-ai/ML-Notebooks</a></h3>
 </div>
 
-<details>
-<summary>:fire: Machine Learning Notebooks</summary>
-
-</details>
+<p>:fire: Machine Learning Notebooks</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -8832,10 +8052,7 @@ An Open Source Python alternative to NotebookLM's podcast feature: Transforming 
 <h3 style="margin: 0;"><a href="https://github.com/ericciarla/trendFinder">ericciarla/trendFinder</a></h3>
 </div>
 
-<details>
-<summary>Stay on top of trending topics on social media and the web with AI</summary>
-
-</details>
+<p>Stay on top of trending topics on social media and the web with AI</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -8854,7 +8071,7 @@ An Open Source Python alternative to NotebookLM's podcast feature: Transforming 
 <details>
 <summary>AWS MCP Servers — specialized MCP servers that bring AWS best practices directly to your development...</summary>
 
-AWS MCP Servers — specialized MCP servers that bring AWS best practices directly to your development workflow
+<div style="margin-top: 10px;">AWS MCP Servers — specialized MCP servers that bring AWS best practices directly to your development workflow</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -8874,10 +8091,7 @@ AWS MCP Servers — specialized MCP servers that bring AWS best practices direct
 <h3 style="margin: 0;"><a href="https://github.com/StartBootstrap/startbootstrap-freelancer">StartBootstrap/startbootstrap-freelancer</a></h3>
 </div>
 
-<details>
-<summary>A flat design, one page, MIT licensed Bootstrap portfolio theme created by Start Bootstrap</summary>
-
-</details>
+<p>A flat design, one page, MIT licensed Bootstrap portfolio theme created by Start Bootstrap</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -8896,10 +8110,7 @@ AWS MCP Servers — specialized MCP servers that bring AWS best practices direct
 <h3 style="margin: 0;"><a href="https://github.com/NVIDIA/cuda-python">NVIDIA/cuda-python</a></h3>
 </div>
 
-<details>
-<summary>CUDA Python: Performance meets Productivity</summary>
-
-</details>
+<p>CUDA Python: Performance meets Productivity</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -8915,10 +8126,7 @@ AWS MCP Servers — specialized MCP servers that bring AWS best practices direct
 <h3 style="margin: 0;"><a href="https://github.com/abhishekkrthakur/colabcode">abhishekkrthakur/colabcode</a></h3>
 </div>
 
-<details>
-<summary>Run VSCode (codeserver) on Google Colab or Kaggle Notebooks</summary>
-
-</details>
+<p>Run VSCode (codeserver) on Google Colab or Kaggle Notebooks</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -8934,10 +8142,7 @@ AWS MCP Servers — specialized MCP servers that bring AWS best practices direct
 <h3 style="margin: 0;"><a href="https://github.com/TheRobotStudio/SO-ARM100">TheRobotStudio/SO-ARM100</a></h3>
 </div>
 
-<details>
-<summary>Standard Open Arm 100</summary>
-
-</details>
+<p>Standard Open Arm 100</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -8953,10 +8158,7 @@ AWS MCP Servers — specialized MCP servers that bring AWS best practices direct
 <h3 style="margin: 0;"><a href="https://github.com/aws-samples/amazon-bedrock-workshop">aws-samples/amazon-bedrock-workshop</a></h3>
 </div>
 
-<details>
-<summary>This is a workshop designed for Amazon Bedrock a foundational model service.  </summary>
-
-</details>
+<p>This is a workshop designed for Amazon Bedrock a foundational model service.  </p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -8972,10 +8174,7 @@ AWS MCP Servers — specialized MCP servers that bring AWS best practices direct
 <h3 style="margin: 0;"><a href="https://github.com/PublicAffairs/openai-gemini">PublicAffairs/openai-gemini</a></h3>
 </div>
 
-<details>
-<summary>Gemini ➜ OpenAI API proxy. Serverless!</summary>
-
-</details>
+<p>Gemini ➜ OpenAI API proxy. Serverless!</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -8997,7 +8196,7 @@ AWS MCP Servers — specialized MCP servers that bring AWS best practices direct
 <details>
 <summary>Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIM...</summary>
 
-Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO
+<div style="margin-top: 10px;">Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -9017,10 +8216,7 @@ Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly,
 <h3 style="margin: 0;"><a href="https://github.com/peremartra/Large-Language-Model-Notebooks-Course">peremartra/Large-Language-Model-Notebooks-Course</a></h3>
 </div>
 
-<details>
-<summary>Practical course about Large Language Models. </summary>
-
-</details>
+<p>Practical course about Large Language Models. </p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -9053,10 +8249,7 @@ Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly,
 <h3 style="margin: 0;"><a href="https://github.com/camoverride/lit">camoverride/lit</a></h3>
 </div>
 
-<details>
-<summary>Literature for the self-taught AI practitioner! 📚</summary>
-
-</details>
+<p>Literature for the self-taught AI practitioner! 📚</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -9078,7 +8271,7 @@ Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly,
 <details>
 <summary>Tez is a super-simple and lightweight Trainer for PyTorch. It also comes with many utils that you ca...</summary>
 
-Tez is a super-simple and lightweight Trainer for PyTorch. It also comes with many utils that you can use to tackle over 90% of deep learning projects in PyTorch.
+<div style="margin-top: 10px;">Tez is a super-simple and lightweight Trainer for PyTorch. It also comes with many utils that you can use to tackle over 90% of deep learning projects in PyTorch.</div>
 </details>
 
 <p style="margin: 10px 0;">🔥</p>
@@ -9098,10 +8291,7 @@ Tez is a super-simple and lightweight Trainer for PyTorch. It also comes with ma
 <h3 style="margin: 0;"><a href="https://github.com/janarosmonaliev/github-globe">janarosmonaliev/github-globe</a></h3>
 </div>
 
-<details>
-<summary>The Globe from Github's homepage implemented in ThreeJS with beautiful shading.</summary>
-
-</details>
+<p>The Globe from Github's homepage implemented in ThreeJS with beautiful shading.</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -9120,10 +8310,7 @@ Tez is a super-simple and lightweight Trainer for PyTorch. It also comes with ma
 <h3 style="margin: 0;"><a href="https://github.com/DorsaRoh/Machine-Learning">DorsaRoh/Machine-Learning</a></h3>
 </div>
 
-<details>
-<summary>ML from scratch</summary>
-
-</details>
+<p>ML from scratch</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -9142,10 +8329,7 @@ Tez is a super-simple and lightweight Trainer for PyTorch. It also comes with ma
 <h3 style="margin: 0;"><a href="https://github.com/hugo-toha/toha">hugo-toha/toha</a></h3>
 </div>
 
-<details>
-<summary>A Hugo theme for personal portfolio</summary>
-
-</details>
+<p>A Hugo theme for personal portfolio</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -9164,10 +8348,7 @@ Tez is a super-simple and lightweight Trainer for PyTorch. It also comes with ma
 <h3 style="margin: 0;"><a href="https://github.com/yousinix/portfolYOU">yousinix/portfolYOU</a></h3>
 </div>
 
-<details>
-<summary>A beautiful portfolio Jekyll theme that works with GitHub Pages.</summary>
-
-</details>
+<p>A beautiful portfolio Jekyll theme that works with GitHub Pages.</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -9186,10 +8367,7 @@ Tez is a super-simple and lightweight Trainer for PyTorch. It also comes with ma
 <h3 style="margin: 0;"><a href="https://github.com/AatmikJain/ComputerScienceBooks">AatmikJain/ComputerScienceBooks</a></h3>
 </div>
 
-<details>
-<summary>Some Useful books for Computer Science</summary>
-
-</details>
+<p>Some Useful books for Computer Science</p>
 
 <p style="margin: 10px 0;">🔥</p>
 
@@ -9208,10 +8386,7 @@ Tez is a super-simple and lightweight Trainer for PyTorch. It also comes with ma
 <h3 style="margin: 0;"><a href="https://github.com/the-full-stack/course-gitbook">the-full-stack/course-gitbook</a></h3>
 </div>
 
-<details>
-<summary>Full Stack Deep Learning Online Course</summary>
-
-</details>
+<p>Full Stack Deep Learning Online Course</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -9233,7 +8408,7 @@ Tez is a super-simple and lightweight Trainer for PyTorch. It also comes with ma
 <details>
 <summary>[NAACL 2021] A Frustratingly Easy Approach for Entity and Relation Extraction https://arxiv.org/abs/...</summary>
 
-[NAACL 2021] A Frustratingly Easy Approach for Entity and Relation Extraction https://arxiv.org/abs/2010.12812
+<div style="margin-top: 10px;">[NAACL 2021] A Frustratingly Easy Approach for Entity and Relation Extraction https://arxiv.org/abs/2010.12812</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -9256,7 +8431,7 @@ Tez is a super-simple and lightweight Trainer for PyTorch. It also comes with ma
 <details>
 <summary>The papers are organized according to our survey: Evaluating Large Language Models: A Comprehensive ...</summary>
 
-The papers are organized according to our survey: Evaluating Large Language Models: A Comprehensive Survey.
+<div style="margin-top: 10px;">The papers are organized according to our survey: Evaluating Large Language Models: A Comprehensive Survey.</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -9273,10 +8448,7 @@ The papers are organized according to our survey: Evaluating Large Language Mode
 <h3 style="margin: 0;"><a href="https://github.com/AnswerDotAI/fasthtml-example">AnswerDotAI/fasthtml-example</a></h3>
 </div>
 
-<details>
-<summary>Example fasthtml applications demonstrating a range of web programming techniques</summary>
-
-</details>
+<p>Example fasthtml applications demonstrating a range of web programming techniques</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -9309,7 +8481,7 @@ The papers are organized according to our survey: Evaluating Large Language Mode
 <details>
 <summary>This repo is to add pages on various career paths and roadmaps such as data scientist, software engi...</summary>
 
-This repo is to add pages on various career paths and roadmaps such as data scientist, software engineer etc.
+<div style="margin-top: 10px;">This repo is to add pages on various career paths and roadmaps such as data scientist, software engineer etc.</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -9326,10 +8498,7 @@ This repo is to add pages on various career paths and roadmaps such as data scie
 <h3 style="margin: 0;"><a href="https://github.com/DenverCoder1/custom-icon-badges">DenverCoder1/custom-icon-badges</a></h3>
 </div>
 
-<details>
-<summary>🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges</summary>
-
-</details>
+<p>🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -9362,10 +8531,7 @@ This repo is to add pages on various career paths and roadmaps such as data scie
 <h3 style="margin: 0;"><a href="https://github.com/0xairdropfarmer/medium-clone-on-node">0xairdropfarmer/medium-clone-on-node</a></h3>
 </div>
 
-<details>
-<summary>clone Medium on Nodejs and Reactjs</summary>
-
-</details>
+<p>clone Medium on Nodejs and Reactjs</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -9384,7 +8550,7 @@ This repo is to add pages on various career paths and roadmaps such as data scie
 <details>
 <summary>All the essential resources and template code needed to understand and practice data structures and ...</summary>
 
-All the essential resources and template code needed to understand and practice data structures and algorithms in python with few small projects to demonstrate their practical application.
+<div style="margin-top: 10px;">All the essential resources and template code needed to understand and practice data structures and algorithms in python with few small projects to demonstrate their practical application.</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -9404,10 +8570,7 @@ All the essential resources and template code needed to understand and practice 
 <h3 style="margin: 0;"><a href="https://github.com/maykulkarni/Machine-Learning-Notebooks">maykulkarni/Machine-Learning-Notebooks</a></h3>
 </div>
 
-<details>
-<summary>Machine Learning notebooks for refreshing concepts. </summary>
-
-</details>
+<p>Machine Learning notebooks for refreshing concepts. </p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -9454,10 +8617,7 @@ All the essential resources and template code needed to understand and practice 
 <h3 style="margin: 0;"><a href="https://github.com/meetpateltech/AI-Infinity">meetpateltech/AI-Infinity</a></h3>
 </div>
 
-<details>
-<summary>A set of AI tools that will help you explore the infinite possibilities of AI.</summary>
-
-</details>
+<p>A set of AI tools that will help you explore the infinite possibilities of AI.</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -9476,10 +8636,7 @@ All the essential resources and template code needed to understand and practice 
 <h3 style="margin: 0;"><a href="https://github.com/chrisbobbe/jekyll-theme-prologue">chrisbobbe/jekyll-theme-prologue</a></h3>
 </div>
 
-<details>
-<summary>A Jekyll version of the "Prologue" theme by HTML5 UP</summary>
-
-</details>
+<p>A Jekyll version of the "Prologue" theme by HTML5 UP</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -9498,10 +8655,7 @@ All the essential resources and template code needed to understand and practice 
 <h3 style="margin: 0;"><a href="https://github.com/crespum/edge-ai">crespum/edge-ai</a></h3>
 </div>
 
-<details>
-<summary>A curated list of resources for embedded AI</summary>
-
-</details>
+<p>A curated list of resources for embedded AI</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -9520,10 +8674,7 @@ All the essential resources and template code needed to understand and practice 
 <h3 style="margin: 0;"><a href="https://github.com/dair-ai/d2l-study-group">dair-ai/d2l-study-group</a></h3>
 </div>
 
-<details>
-<summary>🧠 Material for the Deep Learning Study Group</summary>
-
-</details>
+<p>🧠 Material for the Deep Learning Study Group</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -9542,7 +8693,7 @@ All the essential resources and template code needed to understand and practice 
 <details>
 <summary>:page_facing_up: Elegant & friendly homepage (bio, tech portfolio, resume, doc...) template with Mar...</summary>
 
-:page_facing_up: Elegant & friendly homepage (bio, tech portfolio, resume, doc...) template with Markdown and VuePress
+<div style="margin-top: 10px;">:page_facing_up: Elegant & friendly homepage (bio, tech portfolio, resume, doc...) template with Markdown and VuePress</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -9565,7 +8716,7 @@ All the essential resources and template code needed to understand and practice 
 <details>
 <summary>A curated list of resources for learning and exploring Triton, OpenAI's programming language for wri...</summary>
 
-A curated list of resources for learning and exploring Triton, OpenAI's programming language for writing efficient GPU code.
+<div style="margin-top: 10px;">A curated list of resources for learning and exploring Triton, OpenAI's programming language for writing efficient GPU code.</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -9599,10 +8750,7 @@ A curated list of resources for learning and exploring Triton, OpenAI's programm
 <h3 style="margin: 0;"><a href="https://github.com/bloominstituteoftechnology/portfolio-website">bloominstituteoftechnology/portfolio-website</a></h3>
 </div>
 
-<details>
-<summary>A project to get you up and running with a portfolio site</summary>
-
-</details>
+<p>A project to get you up and running with a portfolio site</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -9621,7 +8769,7 @@ A curated list of resources for learning and exploring Triton, OpenAI's programm
 <details>
 <summary>Billion Mail is a future open-source mail server ,email marketing platform designed to help business...</summary>
 
-Billion Mail is a future open-source mail server ,email marketing platform designed to help businesses and individuals manage their email campaigns with ease
+<div style="margin-top: 10px;">Billion Mail is a future open-source mail server ,email marketing platform designed to help businesses and individuals manage their email campaigns with ease</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -9641,10 +8789,7 @@ Billion Mail is a future open-source mail server ,email marketing platform desig
 <h3 style="margin: 0;"><a href="https://github.com/kristianfreeman/aiwriter">kristianfreeman/aiwriter</a></h3>
 </div>
 
-<details>
-<summary>Generate high-quality articles for your blog using a SERP workflow and AI</summary>
-
-</details>
+<p>Generate high-quality articles for your blog using a SERP workflow and AI</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -9663,10 +8808,7 @@ Billion Mail is a future open-source mail server ,email marketing platform desig
 <h3 style="margin: 0;"><a href="https://github.com/vopani/datatableton">vopani/datatableton</a></h3>
 </div>
 
-<details>
-<summary>100 exercises to learn Python Datatable</summary>
-
-</details>
+<p>100 exercises to learn Python Datatable</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -9685,10 +8827,7 @@ Billion Mail is a future open-source mail server ,email marketing platform desig
 <h3 style="margin: 0;"><a href="https://github.com/Codehagen/propdock">Codehagen/propdock</a></h3>
 </div>
 
-<details>
-<summary>En omfattende plattform for finansiell analyse, verdivurdering og leiekontrakter for næringseiendom</summary>
-
-</details>
+<p>En omfattende plattform for finansiell analyse, verdivurdering og leiekontrakter for næringseiendom</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -9704,10 +8843,7 @@ Billion Mail is a future open-source mail server ,email marketing platform desig
 <h3 style="margin: 0;"><a href="https://github.com/IvanReznikov/DataVerse">IvanReznikov/DataVerse</a></h3>
 </div>
 
-<details>
-<summary>Public code of Dr. Ivan Reznikov used in posts, articles, conferences</summary>
-
-</details>
+<p>Public code of Dr. Ivan Reznikov used in posts, articles, conferences</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -9723,10 +8859,7 @@ Billion Mail is a future open-source mail server ,email marketing platform desig
 <h3 style="margin: 0;"><a href="https://github.com/EvalsOne/MCP-connect">EvalsOne/MCP-connect</a></h3>
 </div>
 
-<details>
-<summary>Enables cloud-based AI services to access local Stdio based MCP servers via HTTP requests</summary>
-
-</details>
+<p>Enables cloud-based AI services to access local Stdio based MCP servers via HTTP requests</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -9745,7 +8878,7 @@ Billion Mail is a future open-source mail server ,email marketing platform desig
 <details>
 <summary>Hands on labs and content for students and educators to learn and teach the Internet of Things at sc...</summary>
 
-Hands on labs and content for students and educators to learn and teach the Internet of Things at schools, universities, coding clubs, community colleges and bootcamps
+<div style="margin-top: 10px;">Hands on labs and content for students and educators to learn and teach the Internet of Things at schools, universities, coding clubs, community colleges and bootcamps</div>
 </details>
 
 <p style="margin: 10px 0;"></p>
@@ -9793,10 +8926,7 @@ Hands on labs and content for students and educators to learn and teach the Inte
 <h3 style="margin: 0;"><a href="https://github.com/FAIRplus/the-fair-cookbook">FAIRplus/the-fair-cookbook</a></h3>
 </div>
 
-<details>
-<summary>The FAIR cookbook, containing recipes to make your data more FAIR. Find the rendered version on:</summary>
-
-</details>
+<p>The FAIR cookbook, containing recipes to make your data more FAIR. Find the rendered version on:</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -9815,10 +8945,7 @@ Hands on labs and content for students and educators to learn and teach the Inte
 <h3 style="margin: 0;"><a href="https://github.com/langchain-ai/robo-blogger">langchain-ai/robo-blogger</a></h3>
 </div>
 
-<details>
-<summary>Assistant for voice-to-blog writing</summary>
-
-</details>
+<p>Assistant for voice-to-blog writing</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -9834,10 +8961,7 @@ Hands on labs and content for students and educators to learn and teach the Inte
 <h3 style="margin: 0;"><a href="https://github.com/nornagon/twitter-bookmark-archiver">nornagon/twitter-bookmark-archiver</a></h3>
 </div>
 
-<details>
-<summary>Download your Twitter bookmarks and associated media</summary>
-
-</details>
+<p>Download your Twitter bookmarks and associated media</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -9881,10 +9005,7 @@ Hands on labs and content for students and educators to learn and teach the Inte
 <h3 style="margin: 0;"><a href="https://github.com/Not-Diamond/awesome-ai-model-routing">Not-Diamond/awesome-ai-model-routing</a></h3>
 </div>
 
-<details>
-<summary>A curated list of awesome approaches to AI model routing</summary>
-
-</details>
+<p>A curated list of awesome approaches to AI model routing</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -9928,10 +9049,7 @@ Hands on labs and content for students and educators to learn and teach the Inte
 <h3 style="margin: 0;"><a href="https://github.com/jaaack-wang/Notes-for-Stanford-CS224N-NLP-with-Deep-Learning">jaaack-wang/Notes-for-Stanford-CS224N-NLP-with-Deep-Learning</a></h3>
 </div>
 
-<details>
-<summary>Notes for Stanford CS224N: Natural Language Processing with Deep Learning.</summary>
-
-</details>
+<p>Notes for Stanford CS224N: Natural Language Processing with Deep Learning.</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -9961,10 +9079,7 @@ Hands on labs and content for students and educators to learn and teach the Inte
 <h3 style="margin: 0;"><a href="https://github.com/manoss96/fluke">manoss96/fluke</a></h3>
 </div>
 
-<details>
-<summary>Cloud-agnostic Python API </summary>
-
-</details>
+<p>Cloud-agnostic Python API </p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -9983,10 +9098,7 @@ Hands on labs and content for students and educators to learn and teach the Inte
 <h3 style="margin: 0;"><a href="https://github.com/wenet-e2e/llm-papers">wenet-e2e/llm-papers</a></h3>
 </div>
 
-<details>
-<summary>List of Large Lanugage Model Papers</summary>
-
-</details>
+<p>List of Large Lanugage Model Papers</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -10002,10 +9114,7 @@ Hands on labs and content for students and educators to learn and teach the Inte
 <h3 style="margin: 0;"><a href="https://github.com/CathyQian/Machine-Learning-System-Design">CathyQian/Machine-Learning-System-Design</a></h3>
 </div>
 
-<details>
-<summary>A collection of useful resources for Machine Learning System Design</summary>
-
-</details>
+<p>A collection of useful resources for Machine Learning System Design</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -10035,10 +9144,7 @@ Hands on labs and content for students and educators to learn and teach the Inte
 <h3 style="margin: 0;"><a href="https://github.com/jabertuhin/image-classification-api">jabertuhin/image-classification-api</a></h3>
 </div>
 
-<details>
-<summary>Serving model through api. FastApi + PytorchLightning</summary>
-
-</details>
+<p>Serving model through api. FastApi + PytorchLightning</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -10057,10 +9163,7 @@ Hands on labs and content for students and educators to learn and teach the Inte
 <h3 style="margin: 0;"><a href="https://github.com/PacktPublishing/Artificial-Intelligence-for-IoT-Cookbook">PacktPublishing/Artificial-Intelligence-for-IoT-Cookbook</a></h3>
 </div>
 
-<details>
-<summary>Artificial Intelligence for IoT Cookbook, published by Packt</summary>
-
-</details>
+<p>Artificial Intelligence for IoT Cookbook, published by Packt</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -10090,10 +9193,7 @@ Hands on labs and content for students and educators to learn and teach the Inte
 <h3 style="margin: 0;"><a href="https://github.com/alckasoc/Stanford-CS224N---Lecture-Notes">alckasoc/Stanford-CS224N---Lecture-Notes</a></h3>
 </div>
 
-<details>
-<summary>My lecture notes on the NLP series provided by Stanford.</summary>
-
-</details>
+<p>My lecture notes on the NLP series provided by Stanford.</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -10123,10 +9223,7 @@ Hands on labs and content for students and educators to learn and teach the Inte
 <h3 style="margin: 0;"><a href="https://github.com/oleg-agapov/oleg-agapov.github.io">oleg-agapov/oleg-agapov.github.io</a></h3>
 </div>
 
-<details>
-<summary>Oleg Agapov's CV website</summary>
-
-</details>
+<p>Oleg Agapov's CV website</p>
 
 <p style="margin: 10px 0;"></p>
 
@@ -10156,10 +9253,7 @@ Hands on labs and content for students and educators to learn and teach the Inte
 <h3 style="margin: 0;"><a href="https://github.com/anukchat/face-watcher">anukchat/face-watcher</a></h3>
 </div>
 
-<details>
-<summary>This repository contains end to end implementation of Face Recognition using FaceNet and MTCNN</summary>
-
-</details>
+<p>This repository contains end to end implementation of Face Recognition using FaceNet and MTCNN</p>
 
 <p style="margin: 10px 0;"></p>
 
