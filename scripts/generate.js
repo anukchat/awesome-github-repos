@@ -2,8 +2,10 @@ const fs = require('fs');
 const path = require('path');
 const { Octokit } = require('@octokit/rest');
 
+// Initialize Octokit with GitHub token
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 
+// Map categories to relevant topics
 const categoryTopicMap = {
   '🧠 Foundation Models':       ['llm', 'gpt', 'bert', 'llama', 't5', 'transformer'],
   '📈 LLM Training':           ['pretraining', 'training', 'distributed-training', 'fine-tuning'],
@@ -25,6 +27,7 @@ const categoryTopicMap = {
   '🔖 Others':                 []
 };
 
+// Helper function to chunk array into rows
 function chunk(arr, n) {
   const rows = [];
   for (let i = 0; i < arr.length; i += n) {
@@ -33,6 +36,7 @@ function chunk(arr, n) {
   return rows;
 }
 
+// Fetch all starred repositories for a user
 async function fetchStars(user) {
   let page = 1, all = [];
   while (true) {
@@ -48,6 +52,7 @@ async function fetchStars(user) {
   return all;
 }
 
+// Fetch topics for a repository
 async function fetchTopics(owner, repo) {
   const res = await octokit.rest.repos.getAllTopics({
     owner,
@@ -57,6 +62,7 @@ async function fetchTopics(owner, repo) {
   return res.data.names;
 }
 
+// Get heat emoji based on stars
 function getHeat(stars) {
   if (stars > 10000) return '🔥🔥🔥';
   if (stars > 5000) return '🔥🔥';
@@ -64,19 +70,31 @@ function getHeat(stars) {
   return '';
 }
 
-;(async () => {
-  const user  = 'anukchat';
+// Format star and fork counts
+function formatCount(count) {
+  if (count >= 1000) {
+    return `${Math.floor(count / 1000)}k`;
+  }
+  return count.toString();
+}
+
+// Main function
+(async () => {
+  const user = 'anukchat';
   const stars = await fetchStars(user);
 
+  // Initialize buckets for each category
   const buckets = {};
   Object.keys(categoryTopicMap).forEach(cat => buckets[cat] = []);
 
+  // Categorize repositories
   for (const r of stars) {
     const fullName = `${r.owner.login}/${r.name}`;
-
+    
     const topics = await fetchTopics(r.owner.login, r.name);
     let placed = false;
 
+    // Try to categorize by topic first
     for (const [cat, topicList] of Object.entries(categoryTopicMap)) {
       if (topicList.some(t => topics.includes(t))) {
         buckets[cat].push(r);
@@ -85,6 +103,7 @@ function getHeat(stars) {
       }
     }
 
+    // If not categorized by topic, try by description
     if (!placed) {
       const desc = (r.description || '').toLowerCase();
       for (const [cat, topicList] of Object.entries(categoryTopicMap)) {
@@ -96,9 +115,11 @@ function getHeat(stars) {
       }
     }
 
+    // If still not categorized, put in Others
     if (!placed) buckets['🔖 Others'].push(r);
   }
 
+  // Start generating markdown
   let md = `
 <p align="center"><img src="assets/awesome-logo.png" width="120" alt="Awesome Repos"/></p>
 <h1 align="center">🚀 Awesome GitHub Repos</h1>
@@ -111,41 +132,59 @@ function getHeat(stars) {
 ---
 
 ## 📑 Table of Contents
+
 `;
 
+  // Generate table of contents
   for (const cat of Object.keys(categoryTopicMap)) {
     const slug = cat.toLowerCase().replace(/[^a-z0-9 ]/g, '').trim().replace(/ +/g, '-');
     md += `- [${cat}](#${slug})\n`;
   }
   md += `\n---\n\n`;
 
+  // Generate content for each category
   for (const cat of Object.keys(categoryTopicMap)) {
     const list = buckets[cat];
     if (!list.length) continue;
     list.sort((a, b) => b.stargazers_count - a.stargazers_count);
 
     const slug = cat.toLowerCase().replace(/[^a-z0-9 ]/g, '').trim().replace(/ +/g, '-');
-    md += `<a id="${slug}"></a>\n`;
-    md += `<details>\n<summary><strong>${cat}</strong></summary>\n\n`;
-    md += `<table><tbody>\n`;
-
-    for (const row of chunk(list, 2)) {
-      md += `  <tr>\n`;
-      for (const r of row) {
-        md += `    <td width="50%" valign="top">\n`;
-        md += `\n### [${r.full_name}](${r.html_url})\n`;
-        md += `${(r.description || '').replace(/\n/g, ' ').slice(0, 100)}${(r.description || '').length > 100 ? '…' : ''}  \n`;
-        md += `${getHeat(r.stargazers_count)}  \n`;
-        md += `![Stars](https://img.shields.io/github/stars/${r.full_name}?style=social) ![Forks](https://img.shields.io/github/forks/${r.full_name}?style=social)\n\n`;
-        md += `    </td>\n`;
+    md += `## ${cat}\n\n`;
+    
+    // Create a clean layout similar to the example
+    const rows = chunk(list, 2);
+    
+    // Start with details tag
+    md += `<details open>\n<summary>Show repositories</summary>\n\n`;
+    
+    for (const row of rows) {
+      // For each repository in the row
+      for (const repo of row) {
+        // Repo name as header with link
+        md += `### [${repo.owner.login}/${repo.name}](${repo.html_url})\n\n`;
+        
+        // Description
+        md += `${(repo.description || '').replace(/\n/g, ' ').slice(0, 100)}${(repo.description || '').length > 100 ? '…' : ''}\n\n`;
+        
+        // Heat indicator
+        md += `${getHeat(repo.stargazers_count)}\n\n`;
+        
+        // Stars and forks with formatted counts
+        md += `![Stars](https://img.shields.io/github/stars/${repo.full_name}?style=social) `;
+        md += `![Forks](https://img.shields.io/github/forks/${repo.full_name}?style=social)\n\n`;
+        
+        // Add separator between repositories (except last one in section)
+        if (!(repo === rows[rows.length - 1][row.length - 1])) {
+          md += `---\n\n`;
+        }
       }
-      if (row.length < 2) md += `    <td width="50%"></td>\n`;
-      md += `  </tr>\n`;
     }
-    md += `</tbody></table>\n\n</details>\n\n`;
+    
+    md += `</details>\n\n`;
   }
 
+  // Write the README file
   const outPath = path.join(__dirname, '..', 'README.md');
   fs.writeFileSync(outPath, md);
-  console.log('✅ README.md generated with two-column layout and automated categorization.');
+  console.log('✅ README.md generated with clean layout and automated categorization.');
 })();
