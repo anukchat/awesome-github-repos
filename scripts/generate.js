@@ -157,29 +157,60 @@ function formatCount(count) {
     // Start with details tag
     md += `<details open>\n<summary>Show repositories</summary>\n\n`;
     
+    // Add category grid container
+    md += `<div align="center">\n\n`;
+    
     for (const row of rows) {
-      // For each repository in the row
+      // Start grid row
+      md += `<div style="display: inline-block; width: 100%;">\n\n`;
+      
       for (const repo of row) {
-        // Repo name as header with link
-        md += `### [${repo.owner.login}/${repo.name}](${repo.html_url})\n\n`;
+        // Repository card with enhanced styling
+        md += `<div style="display: inline-block; width: 45%; margin: 10px; padding: 15px; border-radius: 8px; border: 1px solid #e1e4e8; background-color: #ffffff;">\n\n`;
         
-        // Description
-        md += `${(repo.description || '').replace(/\n/g, ' ').slice(0, 100)}${(repo.description || '').length > 100 ? '…' : ''}\n\n`;
+        // Add avatar and repository header with flex layout
+        md += `<div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">\n`;
+        md += `<img src="${repo.owner.avatar_url}" width="40" height="40" style="border-radius: 50%;" alt="${repo.owner.login}'s avatar"/>\n`;
+        md += `<h3 style="margin: 0;"><a href="${repo.html_url}">${repo.owner.login}/${repo.name}</a> ${getHeat(repo.stargazers_count)}</h3>\n`;
+        md += `</div>\n\n`;
         
-        // Heat indicator
-        md += `${getHeat(repo.stargazers_count)}\n\n`;
+        // Stats bar (stars, forks, last update)
+        md += `<p align="center">\n`;
+        md += `![Stars](https://img.shields.io/github/stars/${repo.full_name}?style=flat-square) `;
+        md += `![Forks](https://img.shields.io/github/forks/${repo.full_name}?style=flat-square) `;
+        md += `![Last Commit](https://img.shields.io/github/last-commit/${repo.full_name}?style=flat-square)\n`;
+        md += `</p>\n\n`;
         
-        // Stars and forks with formatted counts
-        md += `![Stars](https://img.shields.io/github/stars/${repo.full_name}?style=social) `;
-        md += `![Forks](https://img.shields.io/github/forks/${repo.full_name}?style=social)\n\n`;
-        
-        // Add separator between repositories (except last one in section)
-        if (!(repo === rows[rows.length - 1][row.length - 1])) {
-          md += `---\n\n`;
+        // Description with expand/collapse
+        if (repo.description) {
+          const shortDesc = repo.description.replace(/\n/g, ' ').slice(0, 100);
+          const hasMore = repo.description.length > 100;
+          
+          md += `<details>\n`;
+          md += `<summary>${shortDesc}${hasMore ? '...' : ''}</summary>\n\n`;
+          if (hasMore) {
+            md += `${repo.description.replace(/\n/g, ' ')}\n`;
+          }
+          md += `</details>\n\n`;
         }
+        
+        // Topics/tags if available
+        const topics = await fetchTopics(repo.owner.login, repo.name);
+        if (topics.length) {
+          md += `<p style="margin-top: 10px;">\n`;
+          topics.slice(0, 5).forEach(topic => {
+            md += `<code style="margin-right: 5px; padding: 3px 6px; border-radius: 3px; background-color: #f1f8ff; color: #0366d6;">${topic}</code>`;
+          });
+          md += `\n</p>\n`;
+        }
+        
+        md += `</div>\n\n`;
       }
+      
+      md += `</div>\n\n`;
     }
     
+    md += `</div>\n\n`;
     md += `</details>\n\n`;
   }
 
