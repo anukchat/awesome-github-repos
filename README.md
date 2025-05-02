@@ -22,5 +22,3 @@
 - **By Topic**  
   - [AI & ML](by-topic/ai.md)  
   - [CLI Tools](by-topic/cli-tools.md)  
-
-_This repo is generated automatically. Pull requests welcome!_  
