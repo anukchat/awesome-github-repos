@@ -1,5 +1,6 @@
-const { Octokit } = require("@octokit/rest");
-const fs = require("fs");
+const fetch = require('node-fetch');
+const { Octokit } = require('@octokit/rest');
+const fs = require('fs');
 
 // GitHub username and token via environment variables
 const USERNAME = process.env.GITHUB_USER || 'anukchat';
@@ -10,7 +11,11 @@ if (!TOKEN) {
   process.exit(1);
 }
 
-const octokit = new Octokit({ auth: TOKEN });
+// Pass a fetch implementation to Octokit
+const octokit = new Octokit({
+  auth: TOKEN,
+  request: { fetch }
+});
 
 async function fetchAllStarred(username) {
   let page = 1;
@@ -44,7 +49,7 @@ async function main() {
     categories[lang].push(repo);
   });
 
-  // Build README
+  // Build README content
   let md = `# Awesome Starred Repositories for ${USERNAME}\n\n`;
   Object.keys(categories).sort().forEach(lang => {
     const list = categories[lang];

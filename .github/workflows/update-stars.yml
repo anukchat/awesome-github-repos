@@ -1,31 +1,32 @@
 name: Update Starred Repos
 
 on:
+  workflow_dispatch: {}
   schedule:
     - cron: '0 0 * * *'  # Daily at midnight UTC
-  workflow_dispatch: {}
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Check out repository
+        uses: actions/checkout@v3
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '16'
-      - name: Install Dependencies
+      - name: Install dependencies
         run: npm install
       - name: Generate README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USER: 'anukchat'
         run: node fetch-stars.js
-      - name: Commit & Push
+      - name: Commit & Push changes
         run: |
           git config user.name 'github-actions'
           git config user.email 'actions@github.com'
           git add README.md
-          git commit -m 'chore: update starred repos' || echo "No changes to commit"
+          git commit -m 'chore: update starred repos' || echo 'No changes to commit'
           git push

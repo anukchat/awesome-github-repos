@@ -7,6 +7,7 @@
       "start": "node fetch-stars.js"
     },
     "dependencies": {
-      "@octokit/rest": "^20.0.0"
+      "@octokit/rest": "^20.0.0",
+      "node-fetch": "^2.6.7"
     }
   }
