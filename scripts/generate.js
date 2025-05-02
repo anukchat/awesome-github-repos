@@ -126,20 +126,20 @@ function getHeat(stars) {
 
     const slug = cat.toLowerCase().replace(/[^a-z0-9 ]/g, '').trim().replace(/ +/g, '-');
     md += `<a id="${slug}"></a>\n`;
-    md += `<details>\n<summary style="font-size:1.2em;margin:8px 0;"><strong>${cat}</strong></summary>\n\n`;
+    md += `<details>\n<summary><strong>${cat}</strong></summary>\n\n`;
     md += `<table><tbody>\n`;
 
     for (const row of chunk(list, 2)) {
       md += `  <tr>\n`;
       for (const r of row) {
-        md += `    <td width="48%" valign="top">\n`;
-        md += `\n### 🔗 [${r.full_name}](${r.html_url})\n`;
-        md += `${(r.description || '').replace(/[\r\n]+/g, ' ').slice(0, 100)}${(r.description || '').length > 100 ? '…' : ''}  \n`;
+        md += `    <td width="50%" valign="top">\n`;
+        md += `\n### [${r.full_name}](${r.html_url})\n`;
+        md += `${(r.description || '').replace(/\n/g, ' ').slice(0, 100)}${(r.description || '').length > 100 ? '…' : ''}  \n`;
         md += `${getHeat(r.stargazers_count)}  \n`;
         md += `![Stars](https://img.shields.io/github/stars/${r.full_name}?style=social) ![Forks](https://img.shields.io/github/forks/${r.full_name}?style=social)\n\n`;
         md += `    </td>\n`;
       }
-      if (row.length < 2) md += `    <td width="48%"></td>\n`;
+      if (row.length < 2) md += `    <td width="50%"></td>\n`;
       md += `  </tr>\n`;
     }
     md += `</tbody></table>\n\n</details>\n\n`;
