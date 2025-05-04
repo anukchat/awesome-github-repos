@@ -932,7 +932,7 @@
 
 </div>
 
-`ai` `artificial-intelligence` `autonomous-agents` `gpt-4` `openai`
+`ai` `artificial-intelligence` `autonomous-agents` `gpt-4` `llama-api`
 
 ---
 
@@ -2376,20 +2376,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/promptflow](https://github.com/microsoft/promptflow) 🔥🔥🔥
-
-> Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/microsoft/promptflow?style=flat-square&labelColor=343b41)](https://github.com/microsoft/promptflow/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/promptflow?style=flat-square&labelColor=343b41)](https://github.com/microsoft/promptflow/network/members) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/promptflow?style=flat-square&labelColor=343b41)](https://github.com/microsoft/promptflow/commits)
-
-</div>
-
-`ai` `ai-application-development` `ai-applications` `chatgpt` `gpt`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/155852026?v=4" width="20" align="top" alt="instructor-ai"/> [instructor-ai/instructor](https://github.com/instructor-ai/instructor) 🔥🔥🔥
 
 > structured outputs for llms 
@@ -2401,6 +2387,20 @@
 </div>
 
 `openai` `openai-function-calli` `openai-functions` `pydantic-v2` `python`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/promptflow](https://github.com/microsoft/promptflow) 🔥🔥🔥
+
+> Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/microsoft/promptflow?style=flat-square&labelColor=343b41)](https://github.com/microsoft/promptflow/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/promptflow?style=flat-square&labelColor=343b41)](https://github.com/microsoft/promptflow/network/members) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/promptflow?style=flat-square&labelColor=343b41)](https://github.com/microsoft/promptflow/commits)
+
+</div>
+
+`ai` `ai-application-development` `ai-applications` `chatgpt` `gpt`
 
 ---
 
@@ -5248,20 +5248,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/199500616?v=4" width="20" align="top" alt="magnitudedev"/> [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) 🔥
-
-> Open source, AI-native testing framework for web apps
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/magnitudedev/magnitude?style=flat-square&labelColor=343b41)](https://github.com/magnitudedev/magnitude/stargazers) [![Forks](https://img.shields.io/github/forks/magnitudedev/magnitude?style=flat-square&labelColor=343b41)](https://github.com/magnitudedev/magnitude/network/members) [![Last Commit](https://img.shields.io/github/last-commit/magnitudedev/magnitude?style=flat-square&labelColor=343b41)](https://github.com/magnitudedev/magnitude/commits)
-
-</div>
-
-`ai` `automation` `browser` `framework` `javascipt`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/146763322?v=4" width="20" align="top" alt="langwatch"/> [langwatch/langwatch](https://github.com/langwatch/langwatch) 🔥
 
 > The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨
@@ -5273,6 +5259,20 @@
 </div>
 
 `ai` `analytics` `datasets` `dspy` `evaluation`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/199500616?v=4" width="20" align="top" alt="magnitudedev"/> [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) 🔥
+
+> Open source, AI-native testing framework for web apps
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/magnitudedev/magnitude?style=flat-square&labelColor=343b41)](https://github.com/magnitudedev/magnitude/stargazers) [![Forks](https://img.shields.io/github/forks/magnitudedev/magnitude?style=flat-square&labelColor=343b41)](https://github.com/magnitudedev/magnitude/network/members) [![Last Commit](https://img.shields.io/github/last-commit/magnitudedev/magnitude?style=flat-square&labelColor=343b41)](https://github.com/magnitudedev/magnitude/commits)
+
+</div>
+
+`ai` `automation` `browser` `framework` `javascipt`
 
 ---
 
@@ -6042,7 +6042,7 @@
 <h2 id="others">🔖 Others</h2>
 
 <details>
-<summary>Show repositories (29)</summary>
+<summary>Show repositories (31)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6356,6 +6356,16 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/314135?v=4" width="20" align="top" alt="cloudflare"/> [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) 🔥
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/cloudflare/mcp-server-cloudflare?style=flat-square&labelColor=343b41)](https://github.com/cloudflare/mcp-server-cloudflare/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/mcp-server-cloudflare?style=flat-square&labelColor=343b41)](https://github.com/cloudflare/mcp-server-cloudflare/network/members) [![Last Commit](https://img.shields.io/github/last-commit/cloudflare/mcp-server-cloudflare?style=flat-square&labelColor=343b41)](https://github.com/cloudflare/mcp-server-cloudflare/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/26892745?v=4" width="20" align="top" alt="AatmikJain"/> [AatmikJain/ComputerScienceBooks](https://github.com/AatmikJain/ComputerScienceBooks) 🔥
 
 > Some Useful books for Computer Science
@@ -6405,6 +6415,20 @@
 [![Stars](https://img.shields.io/github/stars/IvanReznikov/DataVerse?style=flat-square&labelColor=343b41)](https://github.com/IvanReznikov/DataVerse/stargazers) [![Forks](https://img.shields.io/github/forks/IvanReznikov/DataVerse?style=flat-square&labelColor=343b41)](https://github.com/IvanReznikov/DataVerse/network/members) [![Last Commit](https://img.shields.io/github/last-commit/IvanReznikov/DataVerse?style=flat-square&labelColor=343b41)](https://github.com/IvanReznikov/DataVerse/commits)
 
 </div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/88680502?v=4" width="20" align="top" alt="ucbepic"/> [ucbepic/TWIX](https://github.com/ucbepic/TWIX)
+
+> TWIX is an open-source data extraction tool that reconstructs structured data from documents at scale, accurately and at low cost, by inferring the shared underlying visual template across documents
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/ucbepic/TWIX?style=flat-square&labelColor=343b41)](https://github.com/ucbepic/TWIX/stargazers) [![Forks](https://img.shields.io/github/forks/ucbepic/TWIX?style=flat-square&labelColor=343b41)](https://github.com/ucbepic/TWIX/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ucbepic/TWIX?style=flat-square&labelColor=343b41)](https://github.com/ucbepic/TWIX/commits)
+
+</div>
+
+`document-data-extraction` `document-processing`
 
 ---
 
