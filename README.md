@@ -1700,18 +1700,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/186066426?v=4" width="20" align="top" alt="Clevrr-AI"/> [Clevrr-AI/Clevrr-Computer](https://github.com/Clevrr-AI/Clevrr-Computer)
-
-> An open-source implementation of Anthropic's Computer Use to perform basic tasks using AI Agents.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Clevrr-AI/Clevrr-Computer?style=flat-square&labelColor=343b41)](https://github.com/Clevrr-AI/Clevrr-Computer/stargazers) [![Forks](https://img.shields.io/github/forks/Clevrr-AI/Clevrr-Computer?style=flat-square&labelColor=343b41)](https://github.com/Clevrr-AI/Clevrr-Computer/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Clevrr-AI/Clevrr-Computer?style=flat-square&labelColor=343b41)](https://github.com/Clevrr-AI/Clevrr-Computer/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/195963520?v=4" width="20" align="top" alt="temporal-community"/> [temporal-community/temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent)
 
 > This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow.
@@ -1719,6 +1707,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/temporal-community/temporal-ai-agent?style=flat-square&labelColor=343b41)](https://github.com/temporal-community/temporal-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/temporal-community/temporal-ai-agent?style=flat-square&labelColor=343b41)](https://github.com/temporal-community/temporal-ai-agent/network/members) [![Last Commit](https://img.shields.io/github/last-commit/temporal-community/temporal-ai-agent?style=flat-square&labelColor=343b41)](https://github.com/temporal-community/temporal-ai-agent/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/186066426?v=4" width="20" align="top" alt="Clevrr-AI"/> [Clevrr-AI/Clevrr-Computer](https://github.com/Clevrr-AI/Clevrr-Computer)
+
+> An open-source implementation of Anthropic's Computer Use to perform basic tasks using AI Agents.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Clevrr-AI/Clevrr-Computer?style=flat-square&labelColor=343b41)](https://github.com/Clevrr-AI/Clevrr-Computer/stargazers) [![Forks](https://img.shields.io/github/forks/Clevrr-AI/Clevrr-Computer?style=flat-square&labelColor=343b41)](https://github.com/Clevrr-AI/Clevrr-Computer/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Clevrr-AI/Clevrr-Computer?style=flat-square&labelColor=343b41)](https://github.com/Clevrr-AI/Clevrr-Computer/commits)
 
 </div>
 
@@ -2170,20 +2170,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) 🔥🔥🔥
-
-> Integrate cutting-edge LLM technology quickly and easily into your apps
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=flat-square&labelColor=343b41)](https://github.com/microsoft/semantic-kernel/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/semantic-kernel?style=flat-square&labelColor=343b41)](https://github.com/microsoft/semantic-kernel/network/members) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/semantic-kernel?style=flat-square&labelColor=343b41)](https://github.com/microsoft/semantic-kernel/commits)
-
-</div>
-
-`ai` `artificial-intelligence` `llm` `openai` `sdk`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/1016365?v=4" width="20" align="top" alt="PatrickJS"/> [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) 🔥🔥🔥
 
 > 📄 A curated list of awesome .cursorrules files
@@ -2195,6 +2181,20 @@
 </div>
 
 `awesome` `awesome-list` `cursor` `cursor-ai-editor` `cursorrules`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) 🔥🔥🔥
+
+> Integrate cutting-edge LLM technology quickly and easily into your apps
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=flat-square&labelColor=343b41)](https://github.com/microsoft/semantic-kernel/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/semantic-kernel?style=flat-square&labelColor=343b41)](https://github.com/microsoft/semantic-kernel/network/members) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/semantic-kernel?style=flat-square&labelColor=343b41)](https://github.com/microsoft/semantic-kernel/commits)
+
+</div>
+
+`ai` `artificial-intelligence` `llm` `openai` `sdk`
 
 ---
 
@@ -2432,20 +2432,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/45487711?v=4" width="20" align="top" alt="n8n-io"/> [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) 🔥🔥
-
-> The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/n8n-io/self-hosted-ai-starter-kit?style=flat-square&labelColor=343b41)](https://github.com/n8n-io/self-hosted-ai-starter-kit/stargazers) [![Forks](https://img.shields.io/github/forks/n8n-io/self-hosted-ai-starter-kit?style=flat-square&labelColor=343b41)](https://github.com/n8n-io/self-hosted-ai-starter-kit/network/members) [![Last Commit](https://img.shields.io/github/last-commit/n8n-io/self-hosted-ai-starter-kit?style=flat-square&labelColor=343b41)](https://github.com/n8n-io/self-hosted-ai-starter-kit/commits)
-
-</div>
-
-`ai` `ai-agents` `low-code` `self-hosted` `starter-kit`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/153965?v=4" width="20" align="top" alt="jlowin"/> [jlowin/fastmcp](https://github.com/jlowin/fastmcp) 🔥🔥
 
 > 🚀 The fast, Pythonic way to build MCP servers and clients
@@ -2457,6 +2443,20 @@
 </div>
 
 `anthropic` `api` `claude` `fastmcp` `llm`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/45487711?v=4" width="20" align="top" alt="n8n-io"/> [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) 🔥🔥
+
+> The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/n8n-io/self-hosted-ai-starter-kit?style=flat-square&labelColor=343b41)](https://github.com/n8n-io/self-hosted-ai-starter-kit/stargazers) [![Forks](https://img.shields.io/github/forks/n8n-io/self-hosted-ai-starter-kit?style=flat-square&labelColor=343b41)](https://github.com/n8n-io/self-hosted-ai-starter-kit/network/members) [![Last Commit](https://img.shields.io/github/last-commit/n8n-io/self-hosted-ai-starter-kit?style=flat-square&labelColor=343b41)](https://github.com/n8n-io/self-hosted-ai-starter-kit/commits)
+
+</div>
+
+`ai` `ai-agents` `low-code` `self-hosted` `starter-kit`
 
 ---
 
@@ -2486,16 +2486,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts) 🔥🔥
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/langchain-ai/opengpts?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/opengpts/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/opengpts?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/opengpts/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/opengpts?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/opengpts/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/2386538?v=4" width="20" align="top" alt="krillinai"/> [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) 🔥🔥
 
 >  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
@@ -2507,6 +2497,16 @@
 </div>
 
 `dubbing` `localization` `tts` `video-transcription` `video-translation`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts) 🔥🔥
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/langchain-ai/opengpts?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/opengpts/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/opengpts?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/opengpts/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/opengpts?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/opengpts/commits)
+
+</div>
 
 ---
 
@@ -2796,7 +2796,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/60081994?v=4" width="20" align="top" alt="NitroRCr"/> [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW)
+### <img src="https://avatars.githubusercontent.com/u/60081994?v=4" width="20" align="top" alt="NitroRCr"/> [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) 🔥
 
 > AI as Workspace - A better AI (LLM) client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端
 
@@ -4836,18 +4836,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/7881316?v=4" width="20" align="top" alt="CathyQian"/> [CathyQian/Machine-Learning-System-Design](https://github.com/CathyQian/Machine-Learning-System-Design)
-
-> A collection of useful resources for Machine Learning System Design
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/CathyQian/Machine-Learning-System-Design?style=flat-square&labelColor=343b41)](https://github.com/CathyQian/Machine-Learning-System-Design/stargazers) [![Forks](https://img.shields.io/github/forks/CathyQian/Machine-Learning-System-Design?style=flat-square&labelColor=343b41)](https://github.com/CathyQian/Machine-Learning-System-Design/network/members) [![Last Commit](https://img.shields.io/github/last-commit/CathyQian/Machine-Learning-System-Design?style=flat-square&labelColor=343b41)](https://github.com/CathyQian/Machine-Learning-System-Design/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/18608293?v=4" width="20" align="top" alt="primaprashant"/> [primaprashant/llms-in-production](https://github.com/primaprashant/llms-in-production)
 
 > 📚 Curated collection of engineering blogs detailing real-world applications of LLMs in solving specific business problems.
@@ -4859,6 +4847,18 @@
 </div>
 
 `ai` `applied-machine-learning` `applied-ml` `artificial-intelligence` `awesome-list`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/7881316?v=4" width="20" align="top" alt="CathyQian"/> [CathyQian/Machine-Learning-System-Design](https://github.com/CathyQian/Machine-Learning-System-Design)
+
+> A collection of useful resources for Machine Learning System Design
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/CathyQian/Machine-Learning-System-Design?style=flat-square&labelColor=343b41)](https://github.com/CathyQian/Machine-Learning-System-Design/stargazers) [![Forks](https://img.shields.io/github/forks/CathyQian/Machine-Learning-System-Design?style=flat-square&labelColor=343b41)](https://github.com/CathyQian/Machine-Learning-System-Design/network/members) [![Last Commit](https://img.shields.io/github/last-commit/CathyQian/Machine-Learning-System-Design?style=flat-square&labelColor=343b41)](https://github.com/CathyQian/Machine-Learning-System-Design/commits)
+
+</div>
 
 ---
 
