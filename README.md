@@ -1246,7 +1246,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/170767358?v=4" width="20" align="top" alt="kortix-ai"/> [kortix-ai/suna](https://github.com/kortix-ai/suna) 🔥🔥
+### <img src="https://avatars.githubusercontent.com/u/170767358?v=4" width="20" align="top" alt="kortix-ai"/> [kortix-ai/suna](https://github.com/kortix-ai/suna) 🔥🔥🔥
 
 > Suna - Open Source Generalist AI Agent
 
@@ -1270,20 +1270,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/129434473?v=4" width="20" align="top" alt="e2b-dev"/> [e2b-dev/E2B](https://github.com/e2b-dev/E2B) 🔥🔥
-
-> Secure open source cloud runtime for AI apps & AI agents
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/e2b-dev/E2B?style=flat-square&labelColor=343b41)](https://github.com/e2b-dev/E2B/stargazers) [![Forks](https://img.shields.io/github/forks/e2b-dev/E2B?style=flat-square&labelColor=343b41)](https://github.com/e2b-dev/E2B/network/members) [![Last Commit](https://img.shields.io/github/last-commit/e2b-dev/E2B?style=flat-square&labelColor=343b41)](https://github.com/e2b-dev/E2B/commits)
-
-</div>
-
-`agent` `ai` `ai-agent` `ai-agents` `code-interpreter`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/132832125?v=4" width="20" align="top" alt="getzep"/> [getzep/graphiti](https://github.com/getzep/graphiti) 🔥🔥
 
 > Build Real-Time Knowledge Graphs for AI Agents
@@ -1295,6 +1281,20 @@
 </div>
 
 `agents` `graph` `llms` `rag`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/129434473?v=4" width="20" align="top" alt="e2b-dev"/> [e2b-dev/E2B](https://github.com/e2b-dev/E2B) 🔥🔥
+
+> Secure open source cloud runtime for AI apps & AI agents
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/e2b-dev/E2B?style=flat-square&labelColor=343b41)](https://github.com/e2b-dev/E2B/stargazers) [![Forks](https://img.shields.io/github/forks/e2b-dev/E2B?style=flat-square&labelColor=343b41)](https://github.com/e2b-dev/E2B/network/members) [![Last Commit](https://img.shields.io/github/last-commit/e2b-dev/E2B?style=flat-square&labelColor=343b41)](https://github.com/e2b-dev/E2B/commits)
+
+</div>
+
+`agent` `ai` `ai-agent` `ai-agents` `code-interpreter`
 
 ---
 
@@ -1458,18 +1458,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/172591271?v=4" width="20" align="top" alt="rowboatlabs"/> [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) 🔥
-
-> AI-powered multi-agent builder
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/rowboatlabs/rowboat?style=flat-square&labelColor=343b41)](https://github.com/rowboatlabs/rowboat/stargazers) [![Forks](https://img.shields.io/github/forks/rowboatlabs/rowboat?style=flat-square&labelColor=343b41)](https://github.com/rowboatlabs/rowboat/network/members) [![Last Commit](https://img.shields.io/github/last-commit/rowboatlabs/rowboat?style=flat-square&labelColor=343b41)](https://github.com/rowboatlabs/rowboat/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/199344406?v=4" width="20" align="top" alt="simstudioai"/> [simstudioai/sim](https://github.com/simstudioai/sim) 🔥
 
 > Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
@@ -1481,6 +1469,18 @@
 </div>
 
 `agent-workflow` `agentic-workflow` `agents` `ai` `aiagents`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/172591271?v=4" width="20" align="top" alt="rowboatlabs"/> [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) 🔥
+
+> AI-powered multi-agent builder
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/rowboatlabs/rowboat?style=flat-square&labelColor=343b41)](https://github.com/rowboatlabs/rowboat/stargazers) [![Forks](https://img.shields.io/github/forks/rowboatlabs/rowboat?style=flat-square&labelColor=343b41)](https://github.com/rowboatlabs/rowboat/network/members) [![Last Commit](https://img.shields.io/github/last-commit/rowboatlabs/rowboat?style=flat-square&labelColor=343b41)](https://github.com/rowboatlabs/rowboat/commits)
+
+</div>
 
 ---
 
@@ -1532,6 +1532,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/social-media-agent](https://github.com/langchain-ai/social-media-agent) 🔥
+
+> 📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/langchain-ai/social-media-agent?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/social-media-agent/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/social-media-agent?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/social-media-agent/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/social-media-agent?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/social-media-agent/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="20" align="top" alt="NirDiamant"/> [NirDiamant/Controllable-RAG-Agent](https://github.com/NirDiamant/Controllable-RAG-Agent) 🔥
 
 > This repository provides an advanced Retrieval-Augmented Generation (RAG) solution for complex question answering. It uses sophisticated graph based algorithm to handle the tasks.
@@ -1543,18 +1555,6 @@
 </div>
 
 `advanced-rag` `agent` `genai` `langchain` `langgraph`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/social-media-agent](https://github.com/langchain-ai/social-media-agent) 🔥
-
-> 📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/langchain-ai/social-media-agent?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/social-media-agent/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/social-media-agent?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/social-media-agent/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/social-media-agent?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/social-media-agent/commits)
-
-</div>
 
 ---
 
@@ -1686,18 +1686,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/186066426?v=4" width="20" align="top" alt="Clevrr-AI"/> [Clevrr-AI/Clevrr-Computer](https://github.com/Clevrr-AI/Clevrr-Computer)
-
-> An open-source implementation of Anthropic's Computer Use to perform basic tasks using AI Agents.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Clevrr-AI/Clevrr-Computer?style=flat-square&labelColor=343b41)](https://github.com/Clevrr-AI/Clevrr-Computer/stargazers) [![Forks](https://img.shields.io/github/forks/Clevrr-AI/Clevrr-Computer?style=flat-square&labelColor=343b41)](https://github.com/Clevrr-AI/Clevrr-Computer/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Clevrr-AI/Clevrr-Computer?style=flat-square&labelColor=343b41)](https://github.com/Clevrr-AI/Clevrr-Computer/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/195963520?v=4" width="20" align="top" alt="temporal-community"/> [temporal-community/temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent)
 
 > This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow.
@@ -1705,6 +1693,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/temporal-community/temporal-ai-agent?style=flat-square&labelColor=343b41)](https://github.com/temporal-community/temporal-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/temporal-community/temporal-ai-agent?style=flat-square&labelColor=343b41)](https://github.com/temporal-community/temporal-ai-agent/network/members) [![Last Commit](https://img.shields.io/github/last-commit/temporal-community/temporal-ai-agent?style=flat-square&labelColor=343b41)](https://github.com/temporal-community/temporal-ai-agent/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/186066426?v=4" width="20" align="top" alt="Clevrr-AI"/> [Clevrr-AI/Clevrr-Computer](https://github.com/Clevrr-AI/Clevrr-Computer)
+
+> An open-source implementation of Anthropic's Computer Use to perform basic tasks using AI Agents.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Clevrr-AI/Clevrr-Computer?style=flat-square&labelColor=343b41)](https://github.com/Clevrr-AI/Clevrr-Computer/stargazers) [![Forks](https://img.shields.io/github/forks/Clevrr-AI/Clevrr-Computer?style=flat-square&labelColor=343b41)](https://github.com/Clevrr-AI/Clevrr-Computer/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Clevrr-AI/Clevrr-Computer?style=flat-square&labelColor=343b41)](https://github.com/Clevrr-AI/Clevrr-Computer/commits)
 
 </div>
 
@@ -2184,20 +2184,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/110818415?v=4" width="20" align="top" alt="pydantic"/> [pydantic/pydantic](https://github.com/pydantic/pydantic) 🔥🔥🔥
-
-> Data validation using Python type hints
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/pydantic/pydantic?style=flat-square&labelColor=343b41)](https://github.com/pydantic/pydantic/stargazers) [![Forks](https://img.shields.io/github/forks/pydantic/pydantic?style=flat-square&labelColor=343b41)](https://github.com/pydantic/pydantic/network/members) [![Last Commit](https://img.shields.io/github/last-commit/pydantic/pydantic?style=flat-square&labelColor=343b41)](https://github.com/pydantic/pydantic/commits)
-
-</div>
-
-`hints` `json-schema` `parsing` `pydantic` `python`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/29575074?v=4" width="20" align="top" alt="yeongpin"/> [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) 🔥🔥🔥
 
 > [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
@@ -2209,6 +2195,20 @@
 </div>
 
 `automation` `cursor` `cursor-ai` `cursor-ide` `cursorai`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/110818415?v=4" width="20" align="top" alt="pydantic"/> [pydantic/pydantic](https://github.com/pydantic/pydantic) 🔥🔥🔥
+
+> Data validation using Python type hints
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/pydantic/pydantic?style=flat-square&labelColor=343b41)](https://github.com/pydantic/pydantic/stargazers) [![Forks](https://img.shields.io/github/forks/pydantic/pydantic?style=flat-square&labelColor=343b41)](https://github.com/pydantic/pydantic/network/members) [![Last Commit](https://img.shields.io/github/last-commit/pydantic/pydantic?style=flat-square&labelColor=343b41)](https://github.com/pydantic/pydantic/commits)
+
+</div>
+
+`hints` `json-schema` `parsing` `pydantic` `python`
 
 ---
 
@@ -2850,6 +2850,16 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/agent-protocol](https://github.com/langchain-ai/agent-protocol)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/agent-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/agent-protocol/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/agent-protocol/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/62574431?v=4" width="20" align="top" alt="rkinas"/> [rkinas/triton-resources](https://github.com/rkinas/triton-resources)
 
 > A curated list of resources for learning and exploring Triton, OpenAI's programming language for writing efficient GPU code.
@@ -2861,16 +2871,6 @@
 </div>
 
 `cuda` `triton`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/agent-protocol](https://github.com/langchain-ai/agent-protocol)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/agent-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/agent-protocol/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/agent-protocol/commits)
-
-</div>
 
 ---
 
@@ -6014,7 +6014,7 @@
 <h2 id="others">🔖 Others</h2>
 
 <details>
-<summary>Show repositories (35)</summary>
+<summary>Show repositories (40)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6124,6 +6124,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/29705703?v=4" width="20" align="top" alt="karanpratapsingh"/> [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) 🔥🔥🔥
+
+> Learn how to design systems at scale and prepare for system design interviews
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/karanpratapsingh/system-design?style=flat-square&labelColor=343b41)](https://github.com/karanpratapsingh/system-design/stargazers) [![Forks](https://img.shields.io/github/forks/karanpratapsingh/system-design?style=flat-square&labelColor=343b41)](https://github.com/karanpratapsingh/system-design/network/members) [![Last Commit](https://img.shields.io/github/last-commit/karanpratapsingh/system-design?style=flat-square&labelColor=343b41)](https://github.com/karanpratapsingh/system-design/commits)
+
+</div>
+
+`architecture` `distributed-systems` `system-design` `system-design-interview` `interview`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/1356007?v=4" width="20" align="top" alt="kilimchoi"/> [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) 🔥🔥🔥
 
 > A curated list of engineering blogs
@@ -6222,6 +6236,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/8646889?v=4" width="20" align="top" alt="ashishps1"/> [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) 🔥🔥🔥
+
+> Learn System Design concepts and prepare for interviews using free resources.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/ashishps1/awesome-system-design-resources?style=flat-square&labelColor=343b41)](https://github.com/ashishps1/awesome-system-design-resources/stargazers) [![Forks](https://img.shields.io/github/forks/ashishps1/awesome-system-design-resources?style=flat-square&labelColor=343b41)](https://github.com/ashishps1/awesome-system-design-resources/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ashishps1/awesome-system-design-resources?style=flat-square&labelColor=343b41)](https://github.com/ashishps1/awesome-system-design-resources/commits)
+
+</div>
+
+`awesome` `backend` `computer-science` `distributed-systems` `high-level-design`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/8024624?v=4" width="20" align="top" alt="th-ch"/> [th-ch/youtube-music](https://github.com/th-ch/youtube-music) 🔥🔥🔥
 
 > YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
@@ -6247,6 +6275,20 @@
 </div>
 
 `airtable` `airtable-alternative` `app-builder` `database` `internal-tool`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/84011411?v=4" width="20" align="top" alt="InterviewReady"/> [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) 🔥🔥🔥
+
+> These are the best resources for System Design on the Internet
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/InterviewReady/system-design-resources?style=flat-square&labelColor=343b41)](https://github.com/InterviewReady/system-design-resources/stargazers) [![Forks](https://img.shields.io/github/forks/InterviewReady/system-design-resources?style=flat-square&labelColor=343b41)](https://github.com/InterviewReady/system-design-resources/network/members) [![Last Commit](https://img.shields.io/github/last-commit/InterviewReady/system-design-resources?style=flat-square&labelColor=343b41)](https://github.com/InterviewReady/system-design-resources/commits)
+
+</div>
+
+`cache` `fault-tolerance` `scalability` `system-design`
 
 ---
 
@@ -6292,6 +6334,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/11997567?v=4" width="20" align="top" alt="chiphuyen"/> [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) 🔥🔥
+
+> A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems"
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/chiphuyen/machine-learning-systems-design?style=flat-square&labelColor=343b41)](https://github.com/chiphuyen/machine-learning-systems-design/stargazers) [![Forks](https://img.shields.io/github/forks/chiphuyen/machine-learning-systems-design?style=flat-square&labelColor=343b41)](https://github.com/chiphuyen/machine-learning-systems-design/network/members) [![Last Commit](https://img.shields.io/github/last-commit/chiphuyen/machine-learning-systems-design?style=flat-square&labelColor=343b41)](https://github.com/chiphuyen/machine-learning-systems-design/commits)
+
+</div>
+
+`data-science` `machine-learning-production` `mlops`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/151241629?v=4" width="20" align="top" alt="CapSoftware"/> [CapSoftware/Cap](https://github.com/CapSoftware/Cap) 🔥🔥
 
 > Open source Loom alternative. Beautiful, shareable screen recordings.
@@ -6320,6 +6376,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/12856921?v=4" width="20" align="top" alt="prasadgujar"/> [prasadgujar/low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer) 🔥🔥
+
+> Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/prasadgujar/low-level-design-primer?style=flat-square&labelColor=343b41)](https://github.com/prasadgujar/low-level-design-primer/stargazers) [![Forks](https://img.shields.io/github/forks/prasadgujar/low-level-design-primer?style=flat-square&labelColor=343b41)](https://github.com/prasadgujar/low-level-design-primer/network/members) [![Last Commit](https://img.shields.io/github/last-commit/prasadgujar/low-level-design-primer?style=flat-square&labelColor=343b41)](https://github.com/prasadgujar/low-level-design-primer/commits)
+
+</div>
+
+`design` `system-design` `low-level-design` `design-patterns` `interview-questions`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/1178890?v=4" width="20" align="top" alt="antiwork"/> [antiwork/gumroad](https://github.com/antiwork/gumroad) 🔥🔥
 
 <div align="center">
@@ -6330,7 +6400,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/3299148?v=4" width="20" align="top" alt="awslabs"/> [awslabs/agent-squad](https://github.com/awslabs/agent-squad) 🔥
+### <img src="https://avatars.githubusercontent.com/u/3299148?v=4" width="20" align="top" alt="awslabs"/> [awslabs/agent-squad](https://github.com/awslabs/agent-squad) 🔥🔥
 
 > Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 
@@ -6460,6 +6530,16 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/1279609?v=4" width="20" align="top" alt="llSourcell"/> [llSourcell/InstantLegalDotAI](https://github.com/llSourcell/InstantLegalDotAI)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/llSourcell/InstantLegalDotAI?style=flat-square&labelColor=343b41)](https://github.com/llSourcell/InstantLegalDotAI/stargazers) [![Forks](https://img.shields.io/github/forks/llSourcell/InstantLegalDotAI?style=flat-square&labelColor=343b41)](https://github.com/llSourcell/InstantLegalDotAI/network/members) [![Last Commit](https://img.shields.io/github/last-commit/llSourcell/InstantLegalDotAI?style=flat-square&labelColor=343b41)](https://github.com/llSourcell/InstantLegalDotAI/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/172800?v=4" width="20" align="top" alt="nornagon"/> [nornagon/twitter-bookmark-archiver](https://github.com/nornagon/twitter-bookmark-archiver)
 
 > Download your Twitter bookmarks and associated media
@@ -6467,16 +6547,6 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/nornagon/twitter-bookmark-archiver?style=flat-square&labelColor=343b41)](https://github.com/nornagon/twitter-bookmark-archiver/stargazers) [![Forks](https://img.shields.io/github/forks/nornagon/twitter-bookmark-archiver?style=flat-square&labelColor=343b41)](https://github.com/nornagon/twitter-bookmark-archiver/network/members) [![Last Commit](https://img.shields.io/github/last-commit/nornagon/twitter-bookmark-archiver?style=flat-square&labelColor=343b41)](https://github.com/nornagon/twitter-bookmark-archiver/commits)
-
-</div>
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/1279609?v=4" width="20" align="top" alt="llSourcell"/> [llSourcell/InstantLegalDotAI](https://github.com/llSourcell/InstantLegalDotAI)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/llSourcell/InstantLegalDotAI?style=flat-square&labelColor=343b41)](https://github.com/llSourcell/InstantLegalDotAI/stargazers) [![Forks](https://img.shields.io/github/forks/llSourcell/InstantLegalDotAI?style=flat-square&labelColor=343b41)](https://github.com/llSourcell/InstantLegalDotAI/network/members) [![Last Commit](https://img.shields.io/github/last-commit/llSourcell/InstantLegalDotAI?style=flat-square&labelColor=343b41)](https://github.com/llSourcell/InstantLegalDotAI/commits)
 
 </div>
 
