@@ -1148,20 +1148,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/129434473?v=4" width="20" align="top" alt="e2b-dev"/> [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) 🔥🔥🔥
-
-> A list of AI autonomous agents
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/e2b-dev/awesome-ai-agents?style=flat-square&labelColor=343b41)](https://github.com/e2b-dev/awesome-ai-agents/stargazers) [![Forks](https://img.shields.io/github/forks/e2b-dev/awesome-ai-agents?style=flat-square&labelColor=343b41)](https://github.com/e2b-dev/awesome-ai-agents/network/members) [![Last Commit](https://img.shields.io/github/last-commit/e2b-dev/awesome-ai-agents?style=flat-square&labelColor=343b41)](https://github.com/e2b-dev/awesome-ai-agents/commits)
-
-</div>
-
-`agent` `ai` `artificial-intelligence` `autogpt` `autonomous-agents`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/25720743?v=4" width="20" align="top" alt="huggingface"/> [huggingface/agents-course](https://github.com/huggingface/agents-course) 🔥🔥🔥
 
 > This repository contains the Hugging Face Agents Course. 
@@ -1173,6 +1159,20 @@
 </div>
 
 `agentic-ai` `agents` `course` `huggingface` `langchain`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/129434473?v=4" width="20" align="top" alt="e2b-dev"/> [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) 🔥🔥🔥
+
+> A list of AI autonomous agents
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/e2b-dev/awesome-ai-agents?style=flat-square&labelColor=343b41)](https://github.com/e2b-dev/awesome-ai-agents/stargazers) [![Forks](https://img.shields.io/github/forks/e2b-dev/awesome-ai-agents?style=flat-square&labelColor=343b41)](https://github.com/e2b-dev/awesome-ai-agents/network/members) [![Last Commit](https://img.shields.io/github/last-commit/e2b-dev/awesome-ai-agents?style=flat-square&labelColor=343b41)](https://github.com/e2b-dev/awesome-ai-agents/commits)
+
+</div>
+
+`agent` `ai` `artificial-intelligence` `autogpt` `autonomous-agents`
 
 ---
 
@@ -1444,20 +1444,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/8251002?v=4" width="20" align="top" alt="JoshuaC215"/> [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) 🔥
-
-> Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/JoshuaC215/agent-service-toolkit?style=flat-square&labelColor=343b41)](https://github.com/JoshuaC215/agent-service-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/JoshuaC215/agent-service-toolkit?style=flat-square&labelColor=343b41)](https://github.com/JoshuaC215/agent-service-toolkit/network/members) [![Last Commit](https://img.shields.io/github/last-commit/JoshuaC215/agent-service-toolkit?style=flat-square&labelColor=343b41)](https://github.com/JoshuaC215/agent-service-toolkit/commits)
-
-</div>
-
-`agents` `langgraph` `streamlit`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/199344406?v=4" width="20" align="top" alt="simstudioai"/> [simstudioai/sim](https://github.com/simstudioai/sim) 🔥
 
 > Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
@@ -1469,6 +1455,20 @@
 </div>
 
 `agent-workflow` `agentic-workflow` `agents` `ai` `aiagents`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/8251002?v=4" width="20" align="top" alt="JoshuaC215"/> [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) 🔥
+
+> Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/JoshuaC215/agent-service-toolkit?style=flat-square&labelColor=343b41)](https://github.com/JoshuaC215/agent-service-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/JoshuaC215/agent-service-toolkit?style=flat-square&labelColor=343b41)](https://github.com/JoshuaC215/agent-service-toolkit/network/members) [![Last Commit](https://img.shields.io/github/last-commit/JoshuaC215/agent-service-toolkit?style=flat-square&labelColor=343b41)](https://github.com/JoshuaC215/agent-service-toolkit/commits)
+
+</div>
+
+`agents` `langgraph` `streamlit`
 
 ---
 
@@ -1821,7 +1821,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/139582646?v=4" width="20" align="top" alt="getmaxun"/> [getmaxun/maxun](https://github.com/getmaxun/maxun) 🔥🔥🔥
 
-> 🔥 Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
+> 🔥 Open Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
 
 <div align="center">
 
@@ -1972,7 +1972,7 @@
 
 </div>
 
-`agent` `ai` `anthropic` `backend-as-a-service` `chatbot`
+`agent` `ai` `automation` `backend-as-a-service` `gemini`
 
 ---
 
@@ -2512,7 +2512,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/49202856?v=4" width="20" align="top" alt="katanaml"/> [katanaml/sparrow](https://github.com/katanaml/sparrow) 🔥
 
-> Data processing with ML, LLM and Vision LLM
+> Data processing and instruction calling with ML, LLM and Vision LLM
 
 <div align="center">
 
@@ -4346,7 +4346,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/30384625?v=4" width="20" align="top" alt="dair-ai"/> [dair-ai/Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) 🔥
+### <img src="https://avatars.githubusercontent.com/u/30384625?v=4" width="20" align="top" alt="dair-ai"/> [dair-ai/Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) 🔥🔥
 
 > 🧮  A collection of resources to learn mathematics for machine learning
 
@@ -4520,6 +4520,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/26204670?v=4" width="20" align="top" alt="afshinea"/> [afshinea/stanford-cme-295-transformers-large-language-models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models) 🔥
+
+> VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/afshinea/stanford-cme-295-transformers-large-language-models?style=flat-square&labelColor=343b41)](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/stargazers) [![Forks](https://img.shields.io/github/forks/afshinea/stanford-cme-295-transformers-large-language-models?style=flat-square&labelColor=343b41)](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/network/members) [![Last Commit](https://img.shields.io/github/last-commit/afshinea/stanford-cme-295-transformers-large-language-models?style=flat-square&labelColor=343b41)](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/19848374?v=4" width="20" align="top" alt="camoverride"/> [camoverride/lit](https://github.com/camoverride/lit) 🔥
 
 > Literature for the self-taught AI practitioner! 📚
@@ -4531,18 +4543,6 @@
 </div>
 
 `artificial-intelligence` `books` `bookshelf` `data-science` `math`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/26204670?v=4" width="20" align="top" alt="afshinea"/> [afshinea/stanford-cme-295-transformers-large-language-models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models) 🔥
-
-> VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/afshinea/stanford-cme-295-transformers-large-language-models?style=flat-square&labelColor=343b41)](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/stargazers) [![Forks](https://img.shields.io/github/forks/afshinea/stanford-cme-295-transformers-large-language-models?style=flat-square&labelColor=343b41)](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/network/members) [![Last Commit](https://img.shields.io/github/last-commit/afshinea/stanford-cme-295-transformers-large-language-models?style=flat-square&labelColor=343b41)](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/commits)
-
-</div>
 
 ---
 
@@ -5925,7 +5925,7 @@
 <h2 id="dataextraction">📊 Data Extraction</h2>
 
 <details>
-<summary>Show repositories (6)</summary>
+<summary>Show repositories (5)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/159330290?v=4" width="20" align="top" alt="QuivrHQ"/> [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse) 🔥🔥
 
@@ -5993,20 +5993,6 @@
 
 `nlp` `relation-extraction`
 
----
-
-### <img src="https://avatars.githubusercontent.com/u/913340?v=4" width="20" align="top" alt="VikParuchuri"/> [VikParuchuri/tabled](https://github.com/VikParuchuri/tabled)
-
-> Detect and extract tables to markdown and csv
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/VikParuchuri/tabled?style=flat-square&labelColor=343b41)](https://github.com/VikParuchuri/tabled/stargazers) [![Forks](https://img.shields.io/github/forks/VikParuchuri/tabled?style=flat-square&labelColor=343b41)](https://github.com/VikParuchuri/tabled/network/members) [![Last Commit](https://img.shields.io/github/last-commit/VikParuchuri/tabled?style=flat-square&labelColor=343b41)](https://github.com/VikParuchuri/tabled/commits)
-
-</div>
-
-`deep-learning` `ocr` `tables`
-
 </details>
 
 ---
@@ -6014,7 +6000,7 @@
 <h2 id="others">🔖 Others</h2>
 
 <details>
-<summary>Show repositories (40)</summary>
+<summary>Show repositories (41)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6124,6 +6110,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/83095831?v=4" width="20" align="top" alt="slidevjs"/> [slidevjs/slidev](https://github.com/slidevjs/slidev) 🔥🔥🔥
+
+> Presentation Slides for Developers
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/slidevjs/slidev?style=flat-square&labelColor=343b41)](https://github.com/slidevjs/slidev/stargazers) [![Forks](https://img.shields.io/github/forks/slidevjs/slidev?style=flat-square&labelColor=343b41)](https://github.com/slidevjs/slidev/network/members) [![Last Commit](https://img.shields.io/github/last-commit/slidevjs/slidev?style=flat-square&labelColor=343b41)](https://github.com/slidevjs/slidev/commits)
+
+</div>
+
+`slides` `presentation` `vite` `vueuse` `vue`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/29705703?v=4" width="20" align="top" alt="karanpratapsingh"/> [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) 🔥🔥🔥
 
 > Learn how to design systems at scale and prepare for system design interviews
@@ -6163,6 +6163,20 @@
 </div>
 
 `collaboration` `downloader` `instagram` `javascript` `music`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/137054526?v=4" width="20" align="top" alt="mem0ai"/> [mem0ai/mem0](https://github.com/mem0ai/mem0) 🔥🔥🔥
+
+> Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square&labelColor=343b41)](https://github.com/mem0ai/mem0/stargazers) [![Forks](https://img.shields.io/github/forks/mem0ai/mem0?style=flat-square&labelColor=343b41)](https://github.com/mem0ai/mem0/network/members) [![Last Commit](https://img.shields.io/github/last-commit/mem0ai/mem0?style=flat-square&labelColor=343b41)](https://github.com/mem0ai/mem0/commits)
+
+</div>
+
+`ai` `chatgpt` `llm` `python` `chatbots`
 
 ---
 
@@ -6426,16 +6440,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/314135?v=4" width="20" align="top" alt="cloudflare"/> [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) 🔥
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/cloudflare/mcp-server-cloudflare?style=flat-square&labelColor=343b41)](https://github.com/cloudflare/mcp-server-cloudflare/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/mcp-server-cloudflare?style=flat-square&labelColor=343b41)](https://github.com/cloudflare/mcp-server-cloudflare/network/members) [![Last Commit](https://img.shields.io/github/last-commit/cloudflare/mcp-server-cloudflare?style=flat-square&labelColor=343b41)](https://github.com/cloudflare/mcp-server-cloudflare/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/190910900?v=4" width="20" align="top" alt="u14app"/> [u14app/deep-research](https://github.com/u14app/deep-research) 🔥
 
 > Use any LLMs (Large Language Models) for Deep Research.
@@ -6447,6 +6451,16 @@
 </div>
 
 `deep-research` `deepresearch` `gemini` `gemini-ai` `anthropic`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/314135?v=4" width="20" align="top" alt="cloudflare"/> [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) 🔥
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/cloudflare/mcp-server-cloudflare?style=flat-square&labelColor=343b41)](https://github.com/cloudflare/mcp-server-cloudflare/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/mcp-server-cloudflare?style=flat-square&labelColor=343b41)](https://github.com/cloudflare/mcp-server-cloudflare/network/members) [![Last Commit](https://img.shields.io/github/last-commit/cloudflare/mcp-server-cloudflare?style=flat-square&labelColor=343b41)](https://github.com/cloudflare/mcp-server-cloudflare/commits)
+
+</div>
 
 ---
 
@@ -6478,18 +6492,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/26294749?v=4" width="20" align="top" alt="0xairdropfarmer"/> [0xairdropfarmer/medium-clone-on-node](https://github.com/0xairdropfarmer/medium-clone-on-node)
-
-> clone Medium on Nodejs and Reactjs
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/stargazers) [![Forks](https://img.shields.io/github/forks/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/network/members) [![Last Commit](https://img.shields.io/github/last-commit/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/31841517?v=4" width="20" align="top" alt="aaPanel"/> [aaPanel/Billion-Mail](https://github.com/aaPanel/Billion-Mail)
 
 > Billion Mail is a future open-source mail server ,email marketing platform designed to help businesses and individuals manage their email campaigns with ease
@@ -6500,7 +6502,19 @@
 
 </div>
 
-`email-marketing` `mail` `mailserver`
+`email` `email-marketing` `mail` `mailserver` `server`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/26294749?v=4" width="20" align="top" alt="0xairdropfarmer"/> [0xairdropfarmer/medium-clone-on-node](https://github.com/0xairdropfarmer/medium-clone-on-node)
+
+> clone Medium on Nodejs and Reactjs
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/stargazers) [![Forks](https://img.shields.io/github/forks/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/network/members) [![Last Commit](https://img.shields.io/github/last-commit/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/commits)
+
+</div>
 
 ---
 
@@ -6527,16 +6541,6 @@
 </div>
 
 `document-data-extraction` `document-processing`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/1279609?v=4" width="20" align="top" alt="llSourcell"/> [llSourcell/InstantLegalDotAI](https://github.com/llSourcell/InstantLegalDotAI)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/llSourcell/InstantLegalDotAI?style=flat-square&labelColor=343b41)](https://github.com/llSourcell/InstantLegalDotAI/stargazers) [![Forks](https://img.shields.io/github/forks/llSourcell/InstantLegalDotAI?style=flat-square&labelColor=343b41)](https://github.com/llSourcell/InstantLegalDotAI/network/members) [![Last Commit](https://img.shields.io/github/last-commit/llSourcell/InstantLegalDotAI?style=flat-square&labelColor=343b41)](https://github.com/llSourcell/InstantLegalDotAI/commits)
-
-</div>
 
 ---
 
