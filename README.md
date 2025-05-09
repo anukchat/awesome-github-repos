@@ -2296,6 +2296,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/181171420?v=4" width="20" align="top" alt="voideditor"/> [voideditor/void](https://github.com/voideditor/void) 🔥🔥🔥
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/stargazers) [![Forks](https://img.shields.io/github/forks/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/network/members) [![Last Commit](https://img.shields.io/github/last-commit/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/commits)
+
+</div>
+
+`chatgpt` `claude` `copilot` `cursor` `developer-tools`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="20" align="top" alt="github"/> [github/github-mcp-server](https://github.com/github/github-mcp-server) 🔥🔥🔥
 
 > GitHub's official MCP Server
@@ -2307,18 +2319,6 @@
 </div>
 
 `github` `mcp` `mcp-server`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/181171420?v=4" width="20" align="top" alt="voideditor"/> [voideditor/void](https://github.com/voideditor/void) 🔥🔥🔥
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/stargazers) [![Forks](https://img.shields.io/github/forks/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/network/members) [![Last Commit](https://img.shields.io/github/last-commit/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/commits)
-
-</div>
-
-`chatgpt` `claude` `copilot` `cursor` `developer-tools`
 
 ---
 
@@ -2594,20 +2594,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/20886667?v=4" width="20" align="top" alt="JohannesKaufmann"/> [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) 🔥
-
-> ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/JohannesKaufmann/html-to-markdown?style=flat-square&labelColor=343b41)](https://github.com/JohannesKaufmann/html-to-markdown/stargazers) [![Forks](https://img.shields.io/github/forks/JohannesKaufmann/html-to-markdown?style=flat-square&labelColor=343b41)](https://github.com/JohannesKaufmann/html-to-markdown/network/members) [![Last Commit](https://img.shields.io/github/last-commit/JohannesKaufmann/html-to-markdown?style=flat-square&labelColor=343b41)](https://github.com/JohannesKaufmann/html-to-markdown/commits)
-
-</div>
-
-`cli` `converter` `go` `golang` `html`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/3299148?v=4" width="20" align="top" alt="awslabs"/> [awslabs/mcp](https://github.com/awslabs/mcp) 🔥
 
 > AWS MCP Servers — specialized MCP servers that bring AWS best practices directly to your development workflow
@@ -2619,6 +2605,20 @@
 </div>
 
 `aws` `mcp` `mcp-client` `mcp-clients` `mcp-host`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/20886667?v=4" width="20" align="top" alt="JohannesKaufmann"/> [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) 🔥
+
+> ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/JohannesKaufmann/html-to-markdown?style=flat-square&labelColor=343b41)](https://github.com/JohannesKaufmann/html-to-markdown/stargazers) [![Forks](https://img.shields.io/github/forks/JohannesKaufmann/html-to-markdown?style=flat-square&labelColor=343b41)](https://github.com/JohannesKaufmann/html-to-markdown/network/members) [![Last Commit](https://img.shields.io/github/last-commit/JohannesKaufmann/html-to-markdown?style=flat-square&labelColor=343b41)](https://github.com/JohannesKaufmann/html-to-markdown/commits)
+
+</div>
+
+`cli` `converter` `go` `golang` `html`
 
 ---
 
@@ -2782,20 +2782,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/20955511?v=4" width="20" align="top" alt="DenverCoder1"/> [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-
-> 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/DenverCoder1/custom-icon-badges?style=flat-square&labelColor=343b41)](https://github.com/DenverCoder1/custom-icon-badges/stargazers) [![Forks](https://img.shields.io/github/forks/DenverCoder1/custom-icon-badges?style=flat-square&labelColor=343b41)](https://github.com/DenverCoder1/custom-icon-badges/network/members) [![Last Commit](https://img.shields.io/github/last-commit/DenverCoder1/custom-icon-badges?style=flat-square&labelColor=343b41)](https://github.com/DenverCoder1/custom-icon-badges/commits)
-
-</div>
-
-`badge` `badge-maker` `custom` `github` `hacktoberfest`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/131958672?v=4" width="20" align="top" alt="von-development"/> [von-development/awesome-LangGraph](https://github.com/von-development/awesome-LangGraph)
 
 > A curated list of awesome projects, resources, and tools for building stateful, multi-actor applications with LangGraph 🦜🕸️
@@ -2807,6 +2793,20 @@
 </div>
 
 `ai` `awesome` `awesome-list` `langchain` `langgraph`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/20955511?v=4" width="20" align="top" alt="DenverCoder1"/> [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+
+> 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/DenverCoder1/custom-icon-badges?style=flat-square&labelColor=343b41)](https://github.com/DenverCoder1/custom-icon-badges/stargazers) [![Forks](https://img.shields.io/github/forks/DenverCoder1/custom-icon-badges?style=flat-square&labelColor=343b41)](https://github.com/DenverCoder1/custom-icon-badges/network/members) [![Last Commit](https://img.shields.io/github/last-commit/DenverCoder1/custom-icon-badges?style=flat-square&labelColor=343b41)](https://github.com/DenverCoder1/custom-icon-badges/commits)
+
+</div>
+
+`badge` `badge-maker` `custom` `github` `hacktoberfest`
 
 ---
 
@@ -4506,6 +4506,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/26204670?v=4" width="20" align="top" alt="afshinea"/> [afshinea/stanford-cme-295-transformers-large-language-models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models) 🔥
+
+> VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/afshinea/stanford-cme-295-transformers-large-language-models?style=flat-square&labelColor=343b41)](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/stargazers) [![Forks](https://img.shields.io/github/forks/afshinea/stanford-cme-295-transformers-large-language-models?style=flat-square&labelColor=343b41)](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/network/members) [![Last Commit](https://img.shields.io/github/last-commit/afshinea/stanford-cme-295-transformers-large-language-models?style=flat-square&labelColor=343b41)](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/128913822?v=4" width="20" align="top" alt="premAI-io"/> [premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai) 🔥
 
 > :closed_book: Clarity in the current fast-paced mess of Open Source innovation
@@ -4517,18 +4529,6 @@
 </div>
 
 `ai` `book` `hacktoberfest` `jupyter-book` `ml`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/26204670?v=4" width="20" align="top" alt="afshinea"/> [afshinea/stanford-cme-295-transformers-large-language-models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models) 🔥
-
-> VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/afshinea/stanford-cme-295-transformers-large-language-models?style=flat-square&labelColor=343b41)](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/stargazers) [![Forks](https://img.shields.io/github/forks/afshinea/stanford-cme-295-transformers-large-language-models?style=flat-square&labelColor=343b41)](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/network/members) [![Last Commit](https://img.shields.io/github/last-commit/afshinea/stanford-cme-295-transformers-large-language-models?style=flat-square&labelColor=343b41)](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/commits)
-
-</div>
 
 ---
 
@@ -6000,7 +6000,7 @@
 <h2 id="others">🔖 Others</h2>
 
 <details>
-<summary>Show repositories (41)</summary>
+<summary>Show repositories (45)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6306,6 +6306,34 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/1728152?v=4" width="20" align="top" alt="NVIDIA"/> [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) 🔥🔥🔥
+
+> A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/NVIDIA/NeMo?style=flat-square&labelColor=343b41)](https://github.com/NVIDIA/NeMo/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/NeMo?style=flat-square&labelColor=343b41)](https://github.com/NVIDIA/NeMo/network/members) [![Last Commit](https://img.shields.io/github/last-commit/NVIDIA/NeMo?style=flat-square&labelColor=343b41)](https://github.com/NVIDIA/NeMo/commits)
+
+</div>
+
+`machine-translation` `speaker-recognition` `asr` `tts` `generative-ai`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/111946737?v=4" width="20" align="top" alt="markmap"/> [markmap/markmap](https://github.com/markmap/markmap) 🔥🔥🔥
+
+> Build mindmaps with plain text
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/markmap/markmap?style=flat-square&labelColor=343b41)](https://github.com/markmap/markmap/stargazers) [![Forks](https://img.shields.io/github/forks/markmap/markmap?style=flat-square&labelColor=343b41)](https://github.com/markmap/markmap/network/members) [![Last Commit](https://img.shields.io/github/last-commit/markmap/markmap?style=flat-square&labelColor=343b41)](https://github.com/markmap/markmap/commits)
+
+</div>
+
+`markmap` `mindmap`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/1756674?v=4" width="20" align="top" alt="opf"/> [opf/openproject](https://github.com/opf/openproject) 🔥🔥🔥
 
 > OpenProject is the leading open source project management software.
@@ -6428,6 +6456,34 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/20604835?v=4" width="20" align="top" alt="D4Vinci"/> [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) 🔥
+
+> 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/D4Vinci/Scrapling?style=flat-square&labelColor=343b41)](https://github.com/D4Vinci/Scrapling/stargazers) [![Forks](https://img.shields.io/github/forks/D4Vinci/Scrapling?style=flat-square&labelColor=343b41)](https://github.com/D4Vinci/Scrapling/network/members) [![Last Commit](https://img.shields.io/github/last-commit/D4Vinci/Scrapling?style=flat-square&labelColor=343b41)](https://github.com/D4Vinci/Scrapling/commits)
+
+</div>
+
+`crawler` `crawling` `crawling-python` `hacktoberfest` `playwright`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/122026167?v=4" width="20" align="top" alt="MODSetter"/> [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) 🔥
+
+> Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/MODSetter/SurfSense?style=flat-square&labelColor=343b41)](https://github.com/MODSetter/SurfSense/stargazers) [![Forks](https://img.shields.io/github/forks/MODSetter/SurfSense?style=flat-square&labelColor=343b41)](https://github.com/MODSetter/SurfSense/network/members) [![Last Commit](https://img.shields.io/github/last-commit/MODSetter/SurfSense?style=flat-square&labelColor=343b41)](https://github.com/MODSetter/SurfSense/commits)
+
+</div>
+
+`aceternity-ui` `ai` `fastapi` `langchain` `nextjs`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/18418340?v=4" width="20" align="top" alt="hotheadhacker"/> [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) 🔥
 
 > 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
@@ -6492,9 +6548,9 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/31841517?v=4" width="20" align="top" alt="aaPanel"/> [aaPanel/Billion-Mail](https://github.com/aaPanel/Billion-Mail)
+### <img src="https://avatars.githubusercontent.com/u/31841517?v=4" width="20" align="top" alt="aaPanel"/> [aaPanel/Billion-Mail](https://github.com/aaPanel/Billion-Mail) 🔥
 
-> Billion Mail is a future open-source mail server ,email marketing platform designed to help businesses and individuals manage their email campaigns with ease
+> BillionMail gives you open-source mail server,  email marketing — fully self-hosted, dev-friendly, and free from monthly fees.
 
 <div align="center">
 
@@ -6502,7 +6558,7 @@
 
 </div>
 
-`email` `email-marketing` `mail` `mailserver` `server`
+`dovecot` `email` `email-marketing` `mail` `mailserver`
 
 ---
 
