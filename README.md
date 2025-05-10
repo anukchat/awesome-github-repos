@@ -1532,18 +1532,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/social-media-agent](https://github.com/langchain-ai/social-media-agent) 🔥
-
-> 📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/langchain-ai/social-media-agent?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/social-media-agent/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/social-media-agent?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/social-media-agent/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/social-media-agent?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/social-media-agent/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="20" align="top" alt="NirDiamant"/> [NirDiamant/Controllable-RAG-Agent](https://github.com/NirDiamant/Controllable-RAG-Agent) 🔥
 
 > This repository provides an advanced Retrieval-Augmented Generation (RAG) solution for complex question answering. It uses sophisticated graph based algorithm to handle the tasks.
@@ -1555,6 +1543,18 @@
 </div>
 
 `advanced-rag` `agent` `genai` `langchain` `langgraph`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/social-media-agent](https://github.com/langchain-ai/social-media-agent) 🔥
+
+> 📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/langchain-ai/social-media-agent?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/social-media-agent/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/social-media-agent?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/social-media-agent/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/social-media-agent?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/social-media-agent/commits)
+
+</div>
 
 ---
 
@@ -2170,20 +2170,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) 🔥🔥🔥
-
-> Integrate cutting-edge LLM technology quickly and easily into your apps
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=flat-square&labelColor=343b41)](https://github.com/microsoft/semantic-kernel/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/semantic-kernel?style=flat-square&labelColor=343b41)](https://github.com/microsoft/semantic-kernel/network/members) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/semantic-kernel?style=flat-square&labelColor=343b41)](https://github.com/microsoft/semantic-kernel/commits)
-
-</div>
-
-`ai` `artificial-intelligence` `llm` `openai` `sdk`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/29575074?v=4" width="20" align="top" alt="yeongpin"/> [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) 🔥🔥🔥
 
 > [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
@@ -2195,6 +2181,20 @@
 </div>
 
 `automation` `cursor` `cursor-ai` `cursor-ide` `cursorai`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) 🔥🔥🔥
+
+> Integrate cutting-edge LLM technology quickly and easily into your apps
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=flat-square&labelColor=343b41)](https://github.com/microsoft/semantic-kernel/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/semantic-kernel?style=flat-square&labelColor=343b41)](https://github.com/microsoft/semantic-kernel/network/members) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/semantic-kernel?style=flat-square&labelColor=343b41)](https://github.com/microsoft/semantic-kernel/commits)
+
+</div>
+
+`ai` `artificial-intelligence` `llm` `openai` `sdk`
 
 ---
 
@@ -2268,9 +2268,21 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/181171420?v=4" width="20" align="top" alt="voideditor"/> [voideditor/void](https://github.com/voideditor/void) 🔥🔥🔥
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/stargazers) [![Forks](https://img.shields.io/github/forks/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/network/members) [![Last Commit](https://img.shields.io/github/last-commit/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/commits)
+
+</div>
+
+`chatgpt` `claude` `copilot` `cursor` `developer-tools`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/57262471?v=4" width="20" align="top" alt="Kanaries"/> [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) 🔥🔥🔥
 
-> PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
+> PyGWalker: Turn your dataframe into an interactive UI for visual analysis
 
 <div align="center">
 
@@ -2293,18 +2305,6 @@
 </div>
 
 `commonmark` `gfm` `markdown` `react` `remark`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/181171420?v=4" width="20" align="top" alt="voideditor"/> [voideditor/void](https://github.com/voideditor/void) 🔥🔥🔥
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/stargazers) [![Forks](https://img.shields.io/github/forks/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/network/members) [![Last Commit](https://img.shields.io/github/last-commit/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/commits)
-
-</div>
-
-`chatgpt` `claude` `copilot` `cursor` `developer-tools`
 
 ---
 
@@ -2414,7 +2414,7 @@
 
 </div>
 
-`fastmcp` `llm` `mcp` `mcp-client` `mcp-server`
+`agent` `fastmcp` `llm` `mcp` `mcp-client`
 
 ---
 
@@ -2441,6 +2441,8 @@
 [![Stars](https://img.shields.io/github/stars/google/adk-python?style=flat-square&labelColor=343b41)](https://github.com/google/adk-python/stargazers) [![Forks](https://img.shields.io/github/forks/google/adk-python?style=flat-square&labelColor=343b41)](https://github.com/google/adk-python/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google/adk-python?style=flat-square&labelColor=343b41)](https://github.com/google/adk-python/commits)
 
 </div>
+
+`agent` `agents` `agents-sdk` `ai` `ai-agents`
 
 ---
 
@@ -2482,20 +2484,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/6844498?v=4" width="20" align="top" alt="Azure"/> [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) 🔥
-
-> This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python. 
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Azure/azure-sdk-for-python?style=flat-square&labelColor=343b41)](https://github.com/Azure/azure-sdk-for-python/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-sdk-for-python?style=flat-square&labelColor=343b41)](https://github.com/Azure/azure-sdk-for-python/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Azure/azure-sdk-for-python?style=flat-square&labelColor=343b41)](https://github.com/Azure/azure-sdk-for-python/commits)
-
-</div>
-
-`azure` `azure-sdk` `hacktoberfest` `python`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/140440022?v=4" width="20" align="top" alt="guardrails-ai"/> [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) 🔥
 
 > Adding guardrails to large language models.
@@ -2510,17 +2498,17 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/49202856?v=4" width="20" align="top" alt="katanaml"/> [katanaml/sparrow](https://github.com/katanaml/sparrow) 🔥
+### <img src="https://avatars.githubusercontent.com/u/6844498?v=4" width="20" align="top" alt="Azure"/> [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) 🔥
 
-> Data processing and instruction calling with ML, LLM and Vision LLM
+> This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python. 
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/katanaml/sparrow?style=flat-square&labelColor=343b41)](https://github.com/katanaml/sparrow/stargazers) [![Forks](https://img.shields.io/github/forks/katanaml/sparrow?style=flat-square&labelColor=343b41)](https://github.com/katanaml/sparrow/network/members) [![Last Commit](https://img.shields.io/github/last-commit/katanaml/sparrow?style=flat-square&labelColor=343b41)](https://github.com/katanaml/sparrow/commits)
+[![Stars](https://img.shields.io/github/stars/Azure/azure-sdk-for-python?style=flat-square&labelColor=343b41)](https://github.com/Azure/azure-sdk-for-python/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-sdk-for-python?style=flat-square&labelColor=343b41)](https://github.com/Azure/azure-sdk-for-python/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Azure/azure-sdk-for-python?style=flat-square&labelColor=343b41)](https://github.com/Azure/azure-sdk-for-python/commits)
 
 </div>
 
-`computer-vision` `gpt` `huggingface-transformers` `llm` `machinelearning`
+`azure` `azure-sdk` `hacktoberfest` `python`
 
 ---
 
@@ -2535,6 +2523,20 @@
 </div>
 
 `ai` `authentication` `authorization` `claude` `cursor`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/49202856?v=4" width="20" align="top" alt="katanaml"/> [katanaml/sparrow](https://github.com/katanaml/sparrow) 🔥
+
+> Data processing and instruction calling with ML, LLM and Vision LLM
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/katanaml/sparrow?style=flat-square&labelColor=343b41)](https://github.com/katanaml/sparrow/stargazers) [![Forks](https://img.shields.io/github/forks/katanaml/sparrow?style=flat-square&labelColor=343b41)](https://github.com/katanaml/sparrow/network/members) [![Last Commit](https://img.shields.io/github/last-commit/katanaml/sparrow?style=flat-square&labelColor=343b41)](https://github.com/katanaml/sparrow/commits)
+
+</div>
+
+`computer-vision` `gpt` `huggingface-transformers` `llm` `machinelearning`
 
 ---
 
@@ -4492,6 +4494,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/26204670?v=4" width="20" align="top" alt="afshinea"/> [afshinea/stanford-cme-295-transformers-large-language-models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models) 🔥
+
+> VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/afshinea/stanford-cme-295-transformers-large-language-models?style=flat-square&labelColor=343b41)](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/stargazers) [![Forks](https://img.shields.io/github/forks/afshinea/stanford-cme-295-transformers-large-language-models?style=flat-square&labelColor=343b41)](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/network/members) [![Last Commit](https://img.shields.io/github/last-commit/afshinea/stanford-cme-295-transformers-large-language-models?style=flat-square&labelColor=343b41)](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/7319142?v=4" width="20" align="top" alt="peremartra"/> [peremartra/Large-Language-Model-Notebooks-Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course) 🔥
 
 > Practical course about Large Language Models. 
@@ -4503,18 +4517,6 @@
 </div>
 
 `chatbots` `fine-tuning-llm` `hf` `huggingface` `langchain`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/26204670?v=4" width="20" align="top" alt="afshinea"/> [afshinea/stanford-cme-295-transformers-large-language-models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models) 🔥
-
-> VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/afshinea/stanford-cme-295-transformers-large-language-models?style=flat-square&labelColor=343b41)](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/stargazers) [![Forks](https://img.shields.io/github/forks/afshinea/stanford-cme-295-transformers-large-language-models?style=flat-square&labelColor=343b41)](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/network/members) [![Last Commit](https://img.shields.io/github/last-commit/afshinea/stanford-cme-295-transformers-large-language-models?style=flat-square&labelColor=343b41)](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/commits)
-
-</div>
 
 ---
 
@@ -6000,7 +6002,7 @@
 <h2 id="others">🔖 Others</h2>
 
 <details>
-<summary>Show repositories (45)</summary>
+<summary>Show repositories (46)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6534,20 +6536,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/26892745?v=4" width="20" align="top" alt="AatmikJain"/> [AatmikJain/ComputerScienceBooks](https://github.com/AatmikJain/ComputerScienceBooks) 🔥
-
-> Some Useful books for Computer Science
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/AatmikJain/ComputerScienceBooks?style=flat-square&labelColor=343b41)](https://github.com/AatmikJain/ComputerScienceBooks/stargazers) [![Forks](https://img.shields.io/github/forks/AatmikJain/ComputerScienceBooks?style=flat-square&labelColor=343b41)](https://github.com/AatmikJain/ComputerScienceBooks/network/members) [![Last Commit](https://img.shields.io/github/last-commit/AatmikJain/ComputerScienceBooks?style=flat-square&labelColor=343b41)](https://github.com/AatmikJain/ComputerScienceBooks/commits)
-
-</div>
-
-`books` `computer-science`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/31841517?v=4" width="20" align="top" alt="aaPanel"/> [aaPanel/Billion-Mail](https://github.com/aaPanel/Billion-Mail) 🔥
 
 > BillionMail gives you open-source mail server,  email marketing — fully self-hosted, dev-friendly, and free from monthly fees.
@@ -6562,6 +6550,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/26892745?v=4" width="20" align="top" alt="AatmikJain"/> [AatmikJain/ComputerScienceBooks](https://github.com/AatmikJain/ComputerScienceBooks) 🔥
+
+> Some Useful books for Computer Science
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/AatmikJain/ComputerScienceBooks?style=flat-square&labelColor=343b41)](https://github.com/AatmikJain/ComputerScienceBooks/stargazers) [![Forks](https://img.shields.io/github/forks/AatmikJain/ComputerScienceBooks?style=flat-square&labelColor=343b41)](https://github.com/AatmikJain/ComputerScienceBooks/network/members) [![Last Commit](https://img.shields.io/github/last-commit/AatmikJain/ComputerScienceBooks?style=flat-square&labelColor=343b41)](https://github.com/AatmikJain/ComputerScienceBooks/commits)
+
+</div>
+
+`books` `computer-science`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/26294749?v=4" width="20" align="top" alt="0xairdropfarmer"/> [0xairdropfarmer/medium-clone-on-node](https://github.com/0xairdropfarmer/medium-clone-on-node)
 
 > clone Medium on Nodejs and Reactjs
@@ -6569,6 +6571,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/stargazers) [![Forks](https://img.shields.io/github/forks/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/network/members) [![Last Commit](https://img.shields.io/github/last-commit/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/53078775?v=4" width="20" align="top" alt="Maharshi-Pandya"/> [Maharshi-Pandya/cudacodes](https://github.com/Maharshi-Pandya/cudacodes)
+
+> Learnings and programs related to CUDA
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Maharshi-Pandya/cudacodes?style=flat-square&labelColor=343b41)](https://github.com/Maharshi-Pandya/cudacodes/stargazers) [![Forks](https://img.shields.io/github/forks/Maharshi-Pandya/cudacodes?style=flat-square&labelColor=343b41)](https://github.com/Maharshi-Pandya/cudacodes/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Maharshi-Pandya/cudacodes?style=flat-square&labelColor=343b41)](https://github.com/Maharshi-Pandya/cudacodes/commits)
 
 </div>
 
