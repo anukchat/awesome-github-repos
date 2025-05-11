@@ -1532,6 +1532,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/social-media-agent](https://github.com/langchain-ai/social-media-agent) 🔥
+
+> 📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/langchain-ai/social-media-agent?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/social-media-agent/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/social-media-agent?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/social-media-agent/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/social-media-agent?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/social-media-agent/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="20" align="top" alt="NirDiamant"/> [NirDiamant/Controllable-RAG-Agent](https://github.com/NirDiamant/Controllable-RAG-Agent) 🔥
 
 > This repository provides an advanced Retrieval-Augmented Generation (RAG) solution for complex question answering. It uses sophisticated graph based algorithm to handle the tasks.
@@ -1543,18 +1555,6 @@
 </div>
 
 `advanced-rag` `agent` `genai` `langchain` `langgraph`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/social-media-agent](https://github.com/langchain-ai/social-media-agent) 🔥
-
-> 📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/langchain-ai/social-media-agent?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/social-media-agent/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/social-media-agent?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/social-media-agent/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/social-media-agent?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/social-media-agent/commits)
-
-</div>
 
 ---
 
@@ -2442,7 +2442,7 @@
 
 </div>
 
-`agent` `agents` `agents-sdk` `ai` `ai-agents`
+`agent` `agentic` `agents` `agents-sdk` `ai`
 
 ---
 
@@ -2852,16 +2852,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/agent-protocol](https://github.com/langchain-ai/agent-protocol)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/agent-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/agent-protocol/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/agent-protocol/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/62574431?v=4" width="20" align="top" alt="rkinas"/> [rkinas/triton-resources](https://github.com/rkinas/triton-resources)
 
 > A curated list of resources for learning and exploring Triton, OpenAI's programming language for writing efficient GPU code.
@@ -2873,6 +2863,16 @@
 </div>
 
 `cuda` `triton`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/agent-protocol](https://github.com/langchain-ai/agent-protocol)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/agent-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/agent-protocol/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/agent-protocol/commits)
+
+</div>
 
 ---
 
@@ -4322,18 +4322,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/1134591?v=4" width="20" align="top" alt="lmoroney"/> [lmoroney/dlaicourse](https://github.com/lmoroney/dlaicourse) 🔥🔥
-
-> Notebooks for learning deep learning
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/lmoroney/dlaicourse?style=flat-square&labelColor=343b41)](https://github.com/lmoroney/dlaicourse/stargazers) [![Forks](https://img.shields.io/github/forks/lmoroney/dlaicourse?style=flat-square&labelColor=343b41)](https://github.com/lmoroney/dlaicourse/network/members) [![Last Commit](https://img.shields.io/github/last-commit/lmoroney/dlaicourse?style=flat-square&labelColor=343b41)](https://github.com/lmoroney/dlaicourse/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/2772503?v=4" width="20" align="top" alt="faridrashidi"/> [faridrashidi/kaggle-solutions](https://github.com/faridrashidi/kaggle-solutions) 🔥🔥
 
 > 🏅 Collection of Kaggle Solutions and Ideas 🏅
@@ -4345,6 +4333,18 @@
 </div>
 
 `awesome` `competition` `data-mining` `data-science` `kaggle`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/1134591?v=4" width="20" align="top" alt="lmoroney"/> [lmoroney/dlaicourse](https://github.com/lmoroney/dlaicourse) 🔥🔥
+
+> Notebooks for learning deep learning
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/lmoroney/dlaicourse?style=flat-square&labelColor=343b41)](https://github.com/lmoroney/dlaicourse/stargazers) [![Forks](https://img.shields.io/github/forks/lmoroney/dlaicourse?style=flat-square&labelColor=343b41)](https://github.com/lmoroney/dlaicourse/network/members) [![Last Commit](https://img.shields.io/github/last-commit/lmoroney/dlaicourse?style=flat-square&labelColor=343b41)](https://github.com/lmoroney/dlaicourse/commits)
+
+</div>
 
 ---
 
@@ -6536,17 +6536,17 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/31841517?v=4" width="20" align="top" alt="aaPanel"/> [aaPanel/Billion-Mail](https://github.com/aaPanel/Billion-Mail) 🔥
+### <img src="https://avatars.githubusercontent.com/u/31841517?v=4" width="20" align="top" alt="aaPanel"/> [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) 🔥
 
 > BillionMail gives you open-source mail server,  email marketing — fully self-hosted, dev-friendly, and free from monthly fees.
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/aaPanel/Billion-Mail?style=flat-square&labelColor=343b41)](https://github.com/aaPanel/Billion-Mail/stargazers) [![Forks](https://img.shields.io/github/forks/aaPanel/Billion-Mail?style=flat-square&labelColor=343b41)](https://github.com/aaPanel/Billion-Mail/network/members) [![Last Commit](https://img.shields.io/github/last-commit/aaPanel/Billion-Mail?style=flat-square&labelColor=343b41)](https://github.com/aaPanel/Billion-Mail/commits)
+[![Stars](https://img.shields.io/github/stars/aaPanel/BillionMail?style=flat-square&labelColor=343b41)](https://github.com/aaPanel/BillionMail/stargazers) [![Forks](https://img.shields.io/github/forks/aaPanel/BillionMail?style=flat-square&labelColor=343b41)](https://github.com/aaPanel/BillionMail/network/members) [![Last Commit](https://img.shields.io/github/last-commit/aaPanel/BillionMail?style=flat-square&labelColor=343b41)](https://github.com/aaPanel/BillionMail/commits)
 
 </div>
 
-`dovecot` `email` `email-marketing` `mail` `mailserver`
+`email-marketing` `mail` `mailserver` `email` `server`
 
 ---
 
