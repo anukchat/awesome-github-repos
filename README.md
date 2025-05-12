@@ -6224,20 +6224,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/275001?v=4" width="20" align="top" alt="dgtlmoon"/> [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) 🔥🔥🔥
-
-> The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/dgtlmoon/changedetection.io?style=flat-square&labelColor=343b41)](https://github.com/dgtlmoon/changedetection.io/stargazers) [![Forks](https://img.shields.io/github/forks/dgtlmoon/changedetection.io?style=flat-square&labelColor=343b41)](https://github.com/dgtlmoon/changedetection.io/network/members) [![Last Commit](https://img.shields.io/github/last-commit/dgtlmoon/changedetection.io?style=flat-square&labelColor=343b41)](https://github.com/dgtlmoon/changedetection.io/commits)
-
-</div>
-
-`back-in-stock` `change-alert` `change-detection` `change-monitoring` `changedetection`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/159397742?v=4" width="20" align="top" alt="glanceapp"/> [glanceapp/glance](https://github.com/glanceapp/glance) 🔥🔥🔥
 
 > A self-hosted dashboard that puts all your feeds in one place
@@ -6249,6 +6235,20 @@
 </div>
 
 `aggregator` `dashboard` `docker` `feed-reader` `go`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/275001?v=4" width="20" align="top" alt="dgtlmoon"/> [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) 🔥🔥🔥
+
+> The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/dgtlmoon/changedetection.io?style=flat-square&labelColor=343b41)](https://github.com/dgtlmoon/changedetection.io/stargazers) [![Forks](https://img.shields.io/github/forks/dgtlmoon/changedetection.io?style=flat-square&labelColor=343b41)](https://github.com/dgtlmoon/changedetection.io/network/members) [![Last Commit](https://img.shields.io/github/last-commit/dgtlmoon/changedetection.io?style=flat-square&labelColor=343b41)](https://github.com/dgtlmoon/changedetection.io/commits)
+
+</div>
+
+`back-in-stock` `change-alert` `change-detection` `change-monitoring` `changedetection`
 
 ---
 
@@ -6378,20 +6378,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/11997567?v=4" width="20" align="top" alt="chiphuyen"/> [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) 🔥🔥
-
-> A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems"
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/chiphuyen/machine-learning-systems-design?style=flat-square&labelColor=343b41)](https://github.com/chiphuyen/machine-learning-systems-design/stargazers) [![Forks](https://img.shields.io/github/forks/chiphuyen/machine-learning-systems-design?style=flat-square&labelColor=343b41)](https://github.com/chiphuyen/machine-learning-systems-design/network/members) [![Last Commit](https://img.shields.io/github/last-commit/chiphuyen/machine-learning-systems-design?style=flat-square&labelColor=343b41)](https://github.com/chiphuyen/machine-learning-systems-design/commits)
-
-</div>
-
-`data-science` `machine-learning-production` `mlops`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/151241629?v=4" width="20" align="top" alt="CapSoftware"/> [CapSoftware/Cap](https://github.com/CapSoftware/Cap) 🔥🔥
 
 > Open source Loom alternative. Beautiful, shareable screen recordings.
@@ -6403,6 +6389,20 @@
 </div>
 
 `app` `cap` `coss` `loom` `mac`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/11997567?v=4" width="20" align="top" alt="chiphuyen"/> [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) 🔥🔥
+
+> A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems"
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/chiphuyen/machine-learning-systems-design?style=flat-square&labelColor=343b41)](https://github.com/chiphuyen/machine-learning-systems-design/stargazers) [![Forks](https://img.shields.io/github/forks/chiphuyen/machine-learning-systems-design?style=flat-square&labelColor=343b41)](https://github.com/chiphuyen/machine-learning-systems-design/network/members) [![Last Commit](https://img.shields.io/github/last-commit/chiphuyen/machine-learning-systems-design?style=flat-square&labelColor=343b41)](https://github.com/chiphuyen/machine-learning-systems-design/commits)
+
+</div>
+
+`data-science` `machine-learning-production` `mlops`
 
 ---
 
