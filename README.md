@@ -2254,6 +2254,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/181171420?v=4" width="20" align="top" alt="voideditor"/> [voideditor/void](https://github.com/voideditor/void) 🔥🔥🔥
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/stargazers) [![Forks](https://img.shields.io/github/forks/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/network/members) [![Last Commit](https://img.shields.io/github/last-commit/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/commits)
+
+</div>
+
+`chatgpt` `claude` `copilot` `cursor` `developer-tools`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/59033362?v=4" width="20" align="top" alt="kestra-io"/> [kestra-io/kestra](https://github.com/kestra-io/kestra) 🔥🔥🔥
 
 > :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
@@ -2265,18 +2277,6 @@
 </div>
 
 `automation` `data-orchestration` `devops` `high-availability` `infrastructure-as-code`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/181171420?v=4" width="20" align="top" alt="voideditor"/> [voideditor/void](https://github.com/voideditor/void) 🔥🔥🔥
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/stargazers) [![Forks](https://img.shields.io/github/forks/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/network/members) [![Last Commit](https://img.shields.io/github/last-commit/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/commits)
-
-</div>
-
-`chatgpt` `claude` `copilot` `cursor` `developer-tools`
 
 ---
 
@@ -2540,20 +2540,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/188122941?v=4" width="20" align="top" alt="ag2ai"/> [ag2ai/faststream](https://github.com/ag2ai/faststream) 🔥
-
-> FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/ag2ai/faststream?style=flat-square&labelColor=343b41)](https://github.com/ag2ai/faststream/stargazers) [![Forks](https://img.shields.io/github/forks/ag2ai/faststream?style=flat-square&labelColor=343b41)](https://github.com/ag2ai/faststream/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ag2ai/faststream?style=flat-square&labelColor=343b41)](https://github.com/ag2ai/faststream/commits)
-
-</div>
-
-`asyncapi` `asyncio` `distributed-systems` `fastkafka` `faststream`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/187765721?v=4" width="20" align="top" alt="liam-hq"/> [liam-hq/liam](https://github.com/liam-hq/liam) 🔥
 
 > Automatically generates beautiful and easy-to-read ER diagrams from your database.
@@ -2565,6 +2551,20 @@
 </div>
 
 `data-visualization` `database` `database-schema` `documentation` `documentation-tool`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/188122941?v=4" width="20" align="top" alt="ag2ai"/> [ag2ai/faststream](https://github.com/ag2ai/faststream) 🔥
+
+> FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/ag2ai/faststream?style=flat-square&labelColor=343b41)](https://github.com/ag2ai/faststream/stargazers) [![Forks](https://img.shields.io/github/forks/ag2ai/faststream?style=flat-square&labelColor=343b41)](https://github.com/ag2ai/faststream/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ag2ai/faststream?style=flat-square&labelColor=343b41)](https://github.com/ag2ai/faststream/commits)
+
+</div>
+
+`asyncapi` `asyncio` `distributed-systems` `fastkafka` `faststream`
 
 ---
 
@@ -3229,7 +3229,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/57876960?v=4" width="20" align="top" alt="vladmandic"/> [vladmandic/sdnext](https://github.com/vladmandic/sdnext) 🔥🔥
 
-> SD.Next: All-in-one for AI generative image
+> SD.Next: All-in-one WebUI for AI generative image and video creation
 
 <div align="center">
 
@@ -6002,7 +6002,7 @@
 <h2 id="others">🔖 Others</h2>
 
 <details>
-<summary>Show repositories (46)</summary>
+<summary>Show repositories (47)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6458,7 +6458,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/20604835?v=4" width="20" align="top" alt="D4Vinci"/> [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) 🔥
+### <img src="https://avatars.githubusercontent.com/u/20604835?v=4" width="20" align="top" alt="D4Vinci"/> [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) 🔥🔥
 
 > 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
 
@@ -6583,6 +6583,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/Maharshi-Pandya/cudacodes?style=flat-square&labelColor=343b41)](https://github.com/Maharshi-Pandya/cudacodes/stargazers) [![Forks](https://img.shields.io/github/forks/Maharshi-Pandya/cudacodes?style=flat-square&labelColor=343b41)](https://github.com/Maharshi-Pandya/cudacodes/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Maharshi-Pandya/cudacodes?style=flat-square&labelColor=343b41)](https://github.com/Maharshi-Pandya/cudacodes/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/209775067?v=4" width="20" align="top" alt="ag-ui-protocol"/> [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
+
+> AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/stargazers) [![Forks](https://img.shields.io/github/forks/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/commits)
 
 </div>
 
