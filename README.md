@@ -1418,7 +1418,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) 🔥
 
-> Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which lets AI drive data-driven AI.
+> Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through our open source R&D automation tool R&D-Agent, which lets AI drive data-driven AI.
 
 <div align="center">
 
@@ -2156,20 +2156,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/1016365?v=4" width="20" align="top" alt="PatrickJS"/> [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) 🔥🔥🔥
-
-> 📄 A curated list of awesome .cursorrules files
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/PatrickJS/awesome-cursorrules?style=flat-square&labelColor=343b41)](https://github.com/PatrickJS/awesome-cursorrules/stargazers) [![Forks](https://img.shields.io/github/forks/PatrickJS/awesome-cursorrules?style=flat-square&labelColor=343b41)](https://github.com/PatrickJS/awesome-cursorrules/network/members) [![Last Commit](https://img.shields.io/github/last-commit/PatrickJS/awesome-cursorrules?style=flat-square&labelColor=343b41)](https://github.com/PatrickJS/awesome-cursorrules/commits)
-
-</div>
-
-`awesome` `awesome-list` `cursor` `cursor-ai-editor` `cursorrules`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/29575074?v=4" width="20" align="top" alt="yeongpin"/> [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) 🔥🔥🔥
 
 > [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
@@ -2181,6 +2167,20 @@
 </div>
 
 `automation` `cursor` `cursor-ai` `cursor-ide` `cursorai`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/1016365?v=4" width="20" align="top" alt="PatrickJS"/> [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) 🔥🔥🔥
+
+> 📄 A curated list of awesome .cursorrules files
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/PatrickJS/awesome-cursorrules?style=flat-square&labelColor=343b41)](https://github.com/PatrickJS/awesome-cursorrules/stargazers) [![Forks](https://img.shields.io/github/forks/PatrickJS/awesome-cursorrules?style=flat-square&labelColor=343b41)](https://github.com/PatrickJS/awesome-cursorrules/network/members) [![Last Commit](https://img.shields.io/github/last-commit/PatrickJS/awesome-cursorrules?style=flat-square&labelColor=343b41)](https://github.com/PatrickJS/awesome-cursorrules/commits)
+
+</div>
+
+`awesome` `awesome-list` `cursor` `cursor-ai-editor` `cursorrules`
 
 ---
 
@@ -2390,20 +2390,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/128686189?v=4" width="20" align="top" alt="Chainlit"/> [Chainlit/chainlit](https://github.com/Chainlit/chainlit) 🔥🔥
-
-> Build Conversational AI in minutes ⚡️
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=flat-square&labelColor=343b41)](https://github.com/Chainlit/chainlit/stargazers) [![Forks](https://img.shields.io/github/forks/Chainlit/chainlit?style=flat-square&labelColor=343b41)](https://github.com/Chainlit/chainlit/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Chainlit/chainlit?style=flat-square&labelColor=343b41)](https://github.com/Chainlit/chainlit/commits)
-
-</div>
-
-`chatgpt` `langchain` `llm` `openai` `openai-chatgpt`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/153965?v=4" width="20" align="top" alt="jlowin"/> [jlowin/fastmcp](https://github.com/jlowin/fastmcp) 🔥🔥
 
 > 🚀 The fast, Pythonic way to build MCP servers and clients
@@ -2415,6 +2401,20 @@
 </div>
 
 `agent` `fastmcp` `llm` `mcp` `mcp-client`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/128686189?v=4" width="20" align="top" alt="Chainlit"/> [Chainlit/chainlit](https://github.com/Chainlit/chainlit) 🔥🔥
+
+> Build Conversational AI in minutes ⚡️
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=flat-square&labelColor=343b41)](https://github.com/Chainlit/chainlit/stargazers) [![Forks](https://img.shields.io/github/forks/Chainlit/chainlit?style=flat-square&labelColor=343b41)](https://github.com/Chainlit/chainlit/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Chainlit/chainlit?style=flat-square&labelColor=343b41)](https://github.com/Chainlit/chainlit/commits)
+
+</div>
+
+`chatgpt` `langchain` `llm` `openai` `openai-chatgpt`
 
 ---
 
@@ -2442,7 +2442,7 @@
 
 </div>
 
-`agent` `agentic` `agents` `agents-sdk` `ai`
+`agent` `agentic` `agentic-ai` `agents` `agents-sdk`
 
 ---
 
@@ -4798,18 +4798,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/84374044?v=4" width="20" align="top" alt="wenet-e2e"/> [wenet-e2e/llm-papers](https://github.com/wenet-e2e/llm-papers)
-
-> List of Large Lanugage Model Papers
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/wenet-e2e/llm-papers?style=flat-square&labelColor=343b41)](https://github.com/wenet-e2e/llm-papers/stargazers) [![Forks](https://img.shields.io/github/forks/wenet-e2e/llm-papers?style=flat-square&labelColor=343b41)](https://github.com/wenet-e2e/llm-papers/network/members) [![Last Commit](https://img.shields.io/github/last-commit/wenet-e2e/llm-papers?style=flat-square&labelColor=343b41)](https://github.com/wenet-e2e/llm-papers/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/18608293?v=4" width="20" align="top" alt="primaprashant"/> [primaprashant/llms-in-production](https://github.com/primaprashant/llms-in-production)
 
 > 📚 Curated collection of engineering blogs detailing real-world applications of LLMs in solving specific business problems.
@@ -4821,6 +4809,18 @@
 </div>
 
 `ai` `applied-machine-learning` `applied-ml` `artificial-intelligence` `awesome-list`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/84374044?v=4" width="20" align="top" alt="wenet-e2e"/> [wenet-e2e/llm-papers](https://github.com/wenet-e2e/llm-papers)
+
+> List of Large Lanugage Model Papers
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/wenet-e2e/llm-papers?style=flat-square&labelColor=343b41)](https://github.com/wenet-e2e/llm-papers/stargazers) [![Forks](https://img.shields.io/github/forks/wenet-e2e/llm-papers?style=flat-square&labelColor=343b41)](https://github.com/wenet-e2e/llm-papers/network/members) [![Last Commit](https://img.shields.io/github/last-commit/wenet-e2e/llm-papers?style=flat-square&labelColor=343b41)](https://github.com/wenet-e2e/llm-papers/commits)
+
+</div>
 
 ---
 
@@ -5876,7 +5876,7 @@
 
 </div>
 
-`ai` `automated-scraper` `gpt-3` `gpt-4` `llama3`
+`ai` `ai-scraping` `automated-scraper` `crawler` `html-to-markdown`
 
 ---
 
@@ -6002,7 +6002,7 @@
 <h2 id="others">🔖 Others</h2>
 
 <details>
-<summary>Show repositories (47)</summary>
+<summary>Show repositories (48)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6170,7 +6170,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/137054526?v=4" width="20" align="top" alt="mem0ai"/> [mem0ai/mem0](https://github.com/mem0ai/mem0) 🔥🔥🔥
 
-> Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research
+> Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
 
 <div align="center">
 
@@ -6512,6 +6512,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/142983232?v=4" width="20" align="top" alt="fastrepl"/> [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) 🔥
+
+> Privacy-first AI Notepad for back-to-back meetings
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/fastrepl/hyprnote?style=flat-square&labelColor=343b41)](https://github.com/fastrepl/hyprnote/stargazers) [![Forks](https://img.shields.io/github/forks/fastrepl/hyprnote?style=flat-square&labelColor=343b41)](https://github.com/fastrepl/hyprnote/network/members) [![Last Commit](https://img.shields.io/github/last-commit/fastrepl/hyprnote?style=flat-square&labelColor=343b41)](https://github.com/fastrepl/hyprnote/commits)
+
+</div>
+
+`local-first` `notetaking` `open-source` `react` `rust`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/314135?v=4" width="20" align="top" alt="cloudflare"/> [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) 🔥
 
 <div align="center">
@@ -6564,6 +6578,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/209775067?v=4" width="20" align="top" alt="ag-ui-protocol"/> [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
+
+> AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/stargazers) [![Forks](https://img.shields.io/github/forks/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/26294749?v=4" width="20" align="top" alt="0xairdropfarmer"/> [0xairdropfarmer/medium-clone-on-node](https://github.com/0xairdropfarmer/medium-clone-on-node)
 
 > clone Medium on Nodejs and Reactjs
@@ -6583,18 +6609,6 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/Maharshi-Pandya/cudacodes?style=flat-square&labelColor=343b41)](https://github.com/Maharshi-Pandya/cudacodes/stargazers) [![Forks](https://img.shields.io/github/forks/Maharshi-Pandya/cudacodes?style=flat-square&labelColor=343b41)](https://github.com/Maharshi-Pandya/cudacodes/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Maharshi-Pandya/cudacodes?style=flat-square&labelColor=343b41)](https://github.com/Maharshi-Pandya/cudacodes/commits)
-
-</div>
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/209775067?v=4" width="20" align="top" alt="ag-ui-protocol"/> [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
-
-> AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/stargazers) [![Forks](https://img.shields.io/github/forks/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/commits)
 
 </div>
 
