@@ -1496,18 +1496,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/63742054?v=4" width="20" align="top" alt="Nutlope"/> [Nutlope/llamatutor](https://github.com/Nutlope/llamatutor) 🔥
-
-> An AI personal tutor built with Llama 3.1
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Nutlope/llamatutor?style=flat-square&labelColor=343b41)](https://github.com/Nutlope/llamatutor/stargazers) [![Forks](https://img.shields.io/github/forks/Nutlope/llamatutor?style=flat-square&labelColor=343b41)](https://github.com/Nutlope/llamatutor/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Nutlope/llamatutor?style=flat-square&labelColor=343b41)](https://github.com/Nutlope/llamatutor/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/1936278?v=4" width="20" align="top" alt="evalstate"/> [evalstate/fast-agent](https://github.com/evalstate/fast-agent) 🔥
 
 > Define, Prompt and Test MCP enabled Agents and Workflows
@@ -1515,6 +1503,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/evalstate/fast-agent?style=flat-square&labelColor=343b41)](https://github.com/evalstate/fast-agent/stargazers) [![Forks](https://img.shields.io/github/forks/evalstate/fast-agent?style=flat-square&labelColor=343b41)](https://github.com/evalstate/fast-agent/network/members) [![Last Commit](https://img.shields.io/github/last-commit/evalstate/fast-agent?style=flat-square&labelColor=343b41)](https://github.com/evalstate/fast-agent/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/63742054?v=4" width="20" align="top" alt="Nutlope"/> [Nutlope/llamatutor](https://github.com/Nutlope/llamatutor) 🔥
+
+> An AI personal tutor built with Llama 3.1
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Nutlope/llamatutor?style=flat-square&labelColor=343b41)](https://github.com/Nutlope/llamatutor/stargazers) [![Forks](https://img.shields.io/github/forks/Nutlope/llamatutor?style=flat-square&labelColor=343b41)](https://github.com/Nutlope/llamatutor/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Nutlope/llamatutor?style=flat-square&labelColor=343b41)](https://github.com/Nutlope/llamatutor/commits)
 
 </div>
 
@@ -2240,6 +2240,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/181171420?v=4" width="20" align="top" alt="voideditor"/> [voideditor/void](https://github.com/voideditor/void) 🔥🔥🔥
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/stargazers) [![Forks](https://img.shields.io/github/forks/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/network/members) [![Last Commit](https://img.shields.io/github/last-commit/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/commits)
+
+</div>
+
+`chatgpt` `claude` `copilot` `cursor` `developer-tools`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/131273140?v=4" width="20" align="top" alt="CopilotKit"/> [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) 🔥🔥🔥
 
 > React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
@@ -2251,18 +2263,6 @@
 </div>
 
 `agent` `agents` `ai` `ai-agent` `ai-assistant`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/181171420?v=4" width="20" align="top" alt="voideditor"/> [voideditor/void](https://github.com/voideditor/void) 🔥🔥🔥
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/stargazers) [![Forks](https://img.shields.io/github/forks/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/network/members) [![Last Commit](https://img.shields.io/github/last-commit/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/commits)
-
-</div>
-
-`chatgpt` `claude` `copilot` `cursor` `developer-tools`
 
 ---
 
@@ -2418,20 +2418,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/45487711?v=4" width="20" align="top" alt="n8n-io"/> [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) 🔥🔥
-
-> The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/n8n-io/self-hosted-ai-starter-kit?style=flat-square&labelColor=343b41)](https://github.com/n8n-io/self-hosted-ai-starter-kit/stargazers) [![Forks](https://img.shields.io/github/forks/n8n-io/self-hosted-ai-starter-kit?style=flat-square&labelColor=343b41)](https://github.com/n8n-io/self-hosted-ai-starter-kit/network/members) [![Last Commit](https://img.shields.io/github/last-commit/n8n-io/self-hosted-ai-starter-kit?style=flat-square&labelColor=343b41)](https://github.com/n8n-io/self-hosted-ai-starter-kit/commits)
-
-</div>
-
-`ai` `ai-agents` `low-code` `self-hosted` `starter-kit`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="20" align="top" alt="google"/> [google/adk-python](https://github.com/google/adk-python) 🔥🔥
 
 > An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
@@ -2443,6 +2429,20 @@
 </div>
 
 `agent` `agentic` `agentic-ai` `agents` `agents-sdk`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/45487711?v=4" width="20" align="top" alt="n8n-io"/> [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) 🔥🔥
+
+> The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/n8n-io/self-hosted-ai-starter-kit?style=flat-square&labelColor=343b41)](https://github.com/n8n-io/self-hosted-ai-starter-kit/stargazers) [![Forks](https://img.shields.io/github/forks/n8n-io/self-hosted-ai-starter-kit?style=flat-square&labelColor=343b41)](https://github.com/n8n-io/self-hosted-ai-starter-kit/network/members) [![Last Commit](https://img.shields.io/github/last-commit/n8n-io/self-hosted-ai-starter-kit?style=flat-square&labelColor=343b41)](https://github.com/n8n-io/self-hosted-ai-starter-kit/commits)
+
+</div>
+
+`ai` `ai-agents` `low-code` `self-hosted` `starter-kit`
 
 ---
 
@@ -4362,18 +4362,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/93219893?v=4" width="20" align="top" alt="nlp-with-transformers"/> [nlp-with-transformers/notebooks](https://github.com/nlp-with-transformers/notebooks) 🔥
-
-> Jupyter notebooks for the Natural Language Processing with Transformers book
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/nlp-with-transformers/notebooks?style=flat-square&labelColor=343b41)](https://github.com/nlp-with-transformers/notebooks/stargazers) [![Forks](https://img.shields.io/github/forks/nlp-with-transformers/notebooks?style=flat-square&labelColor=343b41)](https://github.com/nlp-with-transformers/notebooks/network/members) [![Last Commit](https://img.shields.io/github/last-commit/nlp-with-transformers/notebooks?style=flat-square&labelColor=343b41)](https://github.com/nlp-with-transformers/notebooks/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/19315506?v=4" width="20" align="top" alt="poloclub"/> [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) 🔥
 
 > Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
@@ -4385,6 +4373,18 @@
 </div>
 
 `deep-learning` `generative-ai` `gpt` `langauge-model` `llm`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/93219893?v=4" width="20" align="top" alt="nlp-with-transformers"/> [nlp-with-transformers/notebooks](https://github.com/nlp-with-transformers/notebooks) 🔥
+
+> Jupyter notebooks for the Natural Language Processing with Transformers book
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/nlp-with-transformers/notebooks?style=flat-square&labelColor=343b41)](https://github.com/nlp-with-transformers/notebooks/stargazers) [![Forks](https://img.shields.io/github/forks/nlp-with-transformers/notebooks?style=flat-square&labelColor=343b41)](https://github.com/nlp-with-transformers/notebooks/network/members) [![Last Commit](https://img.shields.io/github/last-commit/nlp-with-transformers/notebooks?style=flat-square&labelColor=343b41)](https://github.com/nlp-with-transformers/notebooks/commits)
+
+</div>
 
 ---
 
@@ -5765,20 +5765,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/175308387?v=4" width="20" align="top" alt="qubvel-org"/> [qubvel-org/segmentation_models.pytorch](https://github.com/qubvel-org/segmentation_models.pytorch) 🔥🔥🔥
-
-> Semantic segmentation models with 500+ pretrained convolutional and transformer-based backbones.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/qubvel-org/segmentation_models.pytorch?style=flat-square&labelColor=343b41)](https://github.com/qubvel-org/segmentation_models.pytorch/stargazers) [![Forks](https://img.shields.io/github/forks/qubvel-org/segmentation_models.pytorch?style=flat-square&labelColor=343b41)](https://github.com/qubvel-org/segmentation_models.pytorch/network/members) [![Last Commit](https://img.shields.io/github/last-commit/qubvel-org/segmentation_models.pytorch?style=flat-square&labelColor=343b41)](https://github.com/qubvel-org/segmentation_models.pytorch/commits)
-
-</div>
-
-`computer-vision` `deeplab-v3-plus` `deeplabv3` `dpt` `fpn`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/109945100?v=4" width="20" align="top" alt="modelscope"/> [modelscope/FunASR](https://github.com/modelscope/FunASR) 🔥🔥🔥
 
 > A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.
@@ -5790,6 +5776,20 @@
 </div>
 
 `audio-visual-speech-recognition` `conformer` `dfsmn` `paraformer` `pretrained-model`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/175308387?v=4" width="20" align="top" alt="qubvel-org"/> [qubvel-org/segmentation_models.pytorch](https://github.com/qubvel-org/segmentation_models.pytorch) 🔥🔥🔥
+
+> Semantic segmentation models with 500+ pretrained convolutional and transformer-based backbones.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/qubvel-org/segmentation_models.pytorch?style=flat-square&labelColor=343b41)](https://github.com/qubvel-org/segmentation_models.pytorch/stargazers) [![Forks](https://img.shields.io/github/forks/qubvel-org/segmentation_models.pytorch?style=flat-square&labelColor=343b41)](https://github.com/qubvel-org/segmentation_models.pytorch/network/members) [![Last Commit](https://img.shields.io/github/last-commit/qubvel-org/segmentation_models.pytorch?style=flat-square&labelColor=343b41)](https://github.com/qubvel-org/segmentation_models.pytorch/commits)
+
+</div>
+
+`computer-vision` `deeplab-v3-plus` `deeplabv3` `dpt` `fpn`
 
 ---
 
@@ -6550,6 +6550,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/209775067?v=4" width="20" align="top" alt="ag-ui-protocol"/> [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) 🔥
+
+> AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/stargazers) [![Forks](https://img.shields.io/github/forks/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/31841517?v=4" width="20" align="top" alt="aaPanel"/> [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) 🔥
 
 > BillionMail gives you open-source mail server,  email marketing — fully self-hosted, dev-friendly, and free from monthly fees.
@@ -6575,18 +6587,6 @@
 </div>
 
 `books` `computer-science`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/209775067?v=4" width="20" align="top" alt="ag-ui-protocol"/> [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
-
-> AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/stargazers) [![Forks](https://img.shields.io/github/forks/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/commits)
-
-</div>
 
 ---
 
