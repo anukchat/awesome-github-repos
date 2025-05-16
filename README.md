@@ -191,13 +191,15 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/167452922?v=4" width="20" align="top" alt="oumi-ai"/> [oumi-ai/oumi](https://github.com/oumi-ai/oumi) 🔥🔥
 
-> Everything you need to build state-of-the-art foundation models, end-to-end.
+> Everything you need to build state-of-the-art foundation models, end-to-end. Easily fine-tune Qwen3, DeepSeek-R1, Llama 4 or any open source LLM and VLM.
 
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/oumi-ai/oumi?style=flat-square&labelColor=343b41)](https://github.com/oumi-ai/oumi/stargazers) [![Forks](https://img.shields.io/github/forks/oumi-ai/oumi?style=flat-square&labelColor=343b41)](https://github.com/oumi-ai/oumi/network/members) [![Last Commit](https://img.shields.io/github/last-commit/oumi-ai/oumi?style=flat-square&labelColor=343b41)](https://github.com/oumi-ai/oumi/commits)
 
 </div>
+
+`dpo` `evaluation` `fine-tuning` `inference` `llama`
 
 ---
 
@@ -330,7 +332,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/21003710?v=4" width="20" align="top" alt="pytorch"/> [pytorch/torchtitan](https://github.com/pytorch/torchtitan) 🔥
 
-> A PyTorch native library for large-scale model training
+> A PyTorch native platform for training generative AI models
 
 <div align="center">
 
@@ -2060,7 +2062,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/128289781?v=4" width="20" align="top" alt="FlowiseAI"/> [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) 🔥🔥🔥
 
-> Drag & drop UI to build your customized LLM flow
+> Build AI Agents, Visually
 
 <div align="center">
 
@@ -2068,7 +2070,7 @@
 
 </div>
 
-`artificial-intelligence` `chatbot` `chatgpt` `javascript` `langchain`
+`agentic-ai` `agentic-workflow` `agents` `artificial-intelligence` `chatbot`
 
 ---
 
@@ -4142,18 +4144,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) 🔥🔥🔥
-
-> A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/12550285?v=4" width="20" align="top" alt="aishwaryanr"/> [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) 🔥🔥🔥
 
 > A one stop repository for generative AI research updates, interview resources, notebooks and much more!
@@ -4165,6 +4155,18 @@
 </div>
 
 `awesome` `awesome-list` `generative-ai` `interview-questions` `large-language-models`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) 🔥🔥🔥
+
+> A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/commits)
+
+</div>
 
 ---
 
@@ -5353,7 +5355,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/185671340?v=4" width="20" align="top" alt="x1xhlol"/> [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) 🔥🔥🔥
 
-> FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
+> FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
 
 <div align="center">
 
