@@ -191,7 +191,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/167452922?v=4" width="20" align="top" alt="oumi-ai"/> [oumi-ai/oumi](https://github.com/oumi-ai/oumi) 🔥🔥
 
-> Everything you need to build state-of-the-art foundation models, end-to-end. Easily fine-tune Qwen3, DeepSeek-R1, Llama 4 or any open source LLM and VLM.
+> Easily fine-tune, evaluate and deploy Qwen3, DeepSeek-R1, Llama 4 or any open source LLM / VLM!
 
 <div align="center">
 
@@ -1134,7 +1134,7 @@
 
 </div>
 
-`agents` `ai` `bert` `chatgpt` `generative-ai`
+`agent` `agents` `ai` `gemini` `generative-ai`
 
 ---
 
@@ -1262,16 +1262,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/109101822?v=4" width="20" align="top" alt="togethercomputer"/> [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit) 🔥🔥
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/togethercomputer/OpenChatKit?style=flat-square&labelColor=343b41)](https://github.com/togethercomputer/OpenChatKit/stargazers) [![Forks](https://img.shields.io/github/forks/togethercomputer/OpenChatKit?style=flat-square&labelColor=343b41)](https://github.com/togethercomputer/OpenChatKit/network/members) [![Last Commit](https://img.shields.io/github/last-commit/togethercomputer/OpenChatKit?style=flat-square&labelColor=343b41)](https://github.com/togethercomputer/OpenChatKit/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/132832125?v=4" width="20" align="top" alt="getzep"/> [getzep/graphiti](https://github.com/getzep/graphiti) 🔥🔥
 
 > Build Real-Time Knowledge Graphs for AI Agents
@@ -1283,6 +1273,16 @@
 </div>
 
 `agents` `graph` `llms` `rag`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/109101822?v=4" width="20" align="top" alt="togethercomputer"/> [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit) 🔥🔥
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/togethercomputer/OpenChatKit?style=flat-square&labelColor=343b41)](https://github.com/togethercomputer/OpenChatKit/stargazers) [![Forks](https://img.shields.io/github/forks/togethercomputer/OpenChatKit?style=flat-square&labelColor=343b41)](https://github.com/togethercomputer/OpenChatKit/network/members) [![Last Commit](https://img.shields.io/github/last-commit/togethercomputer/OpenChatKit?style=flat-square&labelColor=343b41)](https://github.com/togethercomputer/OpenChatKit/commits)
+
+</div>
 
 ---
 
@@ -2378,6 +2378,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/153965?v=4" width="20" align="top" alt="jlowin"/> [jlowin/fastmcp](https://github.com/jlowin/fastmcp) 🔥🔥🔥
+
+> 🚀 The fast, Pythonic way to build MCP servers and clients
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/jlowin/fastmcp?style=flat-square&labelColor=343b41)](https://github.com/jlowin/fastmcp/stargazers) [![Forks](https://img.shields.io/github/forks/jlowin/fastmcp?style=flat-square&labelColor=343b41)](https://github.com/jlowin/fastmcp/network/members) [![Last Commit](https://img.shields.io/github/last-commit/jlowin/fastmcp?style=flat-square&labelColor=343b41)](https://github.com/jlowin/fastmcp/commits)
+
+</div>
+
+`agent` `fastmcp` `llm` `mcp` `mcp-client`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/58067660?v=4" width="20" align="top" alt="doccano"/> [doccano/doccano](https://github.com/doccano/doccano) 🔥🔥
 
 > Open source annotation tool for machine learning practitioners.
@@ -2389,20 +2403,6 @@
 </div>
 
 `annotation-tool` `data-labeling` `dataset` `datasets` `machine-learning`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/153965?v=4" width="20" align="top" alt="jlowin"/> [jlowin/fastmcp](https://github.com/jlowin/fastmcp) 🔥🔥
-
-> 🚀 The fast, Pythonic way to build MCP servers and clients
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/jlowin/fastmcp?style=flat-square&labelColor=343b41)](https://github.com/jlowin/fastmcp/stargazers) [![Forks](https://img.shields.io/github/forks/jlowin/fastmcp?style=flat-square&labelColor=343b41)](https://github.com/jlowin/fastmcp/network/members) [![Last Commit](https://img.shields.io/github/last-commit/jlowin/fastmcp?style=flat-square&labelColor=343b41)](https://github.com/jlowin/fastmcp/commits)
-
-</div>
-
-`agent` `fastmcp` `llm` `mcp` `mcp-client`
 
 ---
 
@@ -6566,7 +6566,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/31841517?v=4" width="20" align="top" alt="aaPanel"/> [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) 🔥
 
-> BillionMail gives you open-source mail server,  email marketing — fully self-hosted, dev-friendly, and free from monthly fees.
+> BillionMail gives you open-source mailserver,  email marketing — fully self-hosted, dev-friendly, and free from monthly fees.
 
 <div align="center">
 
