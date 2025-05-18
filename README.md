@@ -1486,18 +1486,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/193029780?v=4" width="20" align="top" alt="MotiaDev"/> [MotiaDev/motia](https://github.com/MotiaDev/motia) 🔥
-
-> Unified Backend Framework for APIs, Events and Agents
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/MotiaDev/motia?style=flat-square&labelColor=343b41)](https://github.com/MotiaDev/motia/stargazers) [![Forks](https://img.shields.io/github/forks/MotiaDev/motia?style=flat-square&labelColor=343b41)](https://github.com/MotiaDev/motia/network/members) [![Last Commit](https://img.shields.io/github/last-commit/MotiaDev/motia?style=flat-square&labelColor=343b41)](https://github.com/MotiaDev/motia/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/1936278?v=4" width="20" align="top" alt="evalstate"/> [evalstate/fast-agent](https://github.com/evalstate/fast-agent) 🔥
 
 > Define, Prompt and Test MCP enabled Agents and Workflows
@@ -1505,6 +1493,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/evalstate/fast-agent?style=flat-square&labelColor=343b41)](https://github.com/evalstate/fast-agent/stargazers) [![Forks](https://img.shields.io/github/forks/evalstate/fast-agent?style=flat-square&labelColor=343b41)](https://github.com/evalstate/fast-agent/network/members) [![Last Commit](https://img.shields.io/github/last-commit/evalstate/fast-agent?style=flat-square&labelColor=343b41)](https://github.com/evalstate/fast-agent/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/193029780?v=4" width="20" align="top" alt="MotiaDev"/> [MotiaDev/motia](https://github.com/MotiaDev/motia) 🔥
+
+> Unified Backend Framework for APIs, Events and Agents
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/MotiaDev/motia?style=flat-square&labelColor=343b41)](https://github.com/MotiaDev/motia/stargazers) [![Forks](https://img.shields.io/github/forks/MotiaDev/motia?style=flat-square&labelColor=343b41)](https://github.com/MotiaDev/motia/network/members) [![Last Commit](https://img.shields.io/github/last-commit/MotiaDev/motia?style=flat-square&labelColor=343b41)](https://github.com/MotiaDev/motia/commits)
 
 </div>
 
@@ -6004,7 +6004,7 @@
 <h2 id="others">🔖 Others</h2>
 
 <details>
-<summary>Show repositories (48)</summary>
+<summary>Show repositories (49)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6599,6 +6599,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/stargazers) [![Forks](https://img.shields.io/github/forks/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/network/members) [![Last Commit](https://img.shields.io/github/last-commit/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/192012301?v=4" width="20" align="top" alt="browser-use"/> [browser-use/workflow-use](https://github.com/browser-use/workflow-use)
+
+> ⚙️ Create and run workflows (RPA 2.0)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/network/members) [![Last Commit](https://img.shields.io/github/last-commit/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/commits)
 
 </div>
 
