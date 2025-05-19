@@ -1032,6 +1032,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/901795?v=4" width="20" align="top" alt="virattt"/> [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) 🔥🔥🔥
+
+> An AI Hedge Fund Team
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/stargazers) [![Forks](https://img.shields.io/github/forks/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/network/members) [![Last Commit](https://img.shields.io/github/last-commit/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/31035808?v=4" width="20" align="top" alt="mindsdb"/> [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) 🔥🔥🔥
 
 > AI's query engine - Platform for building AI that can learn and answer questions over large scale federated data.
@@ -1046,18 +1058,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/901795?v=4" width="20" align="top" alt="virattt"/> [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) 🔥🔥🔥
-
-> An AI Hedge Fund Team
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/stargazers) [![Forks](https://img.shields.io/github/forks/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/network/members) [![Last Commit](https://img.shields.io/github/last-commit/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/89920203?v=4" width="20" align="top" alt="OpenBMB"/> [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) 🔥🔥🔥
 
 > Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
@@ -1065,6 +1065,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=flat-square&labelColor=343b41)](https://github.com/OpenBMB/ChatDev/stargazers) [![Forks](https://img.shields.io/github/forks/OpenBMB/ChatDev?style=flat-square&labelColor=343b41)](https://github.com/OpenBMB/ChatDev/network/members) [![Last Commit](https://img.shields.io/github/last-commit/OpenBMB/ChatDev?style=flat-square&labelColor=343b41)](https://github.com/OpenBMB/ChatDev/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/14957082?v=4" width="20" align="top" alt="openai"/> [openai/codex](https://github.com/openai/codex) 🔥🔥🔥
+
+> Lightweight coding agent that runs in your terminal
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/openai/codex?style=flat-square&labelColor=343b41)](https://github.com/openai/codex/stargazers) [![Forks](https://img.shields.io/github/forks/openai/codex?style=flat-square&labelColor=343b41)](https://github.com/openai/codex/network/members) [![Last Commit](https://img.shields.io/github/last-commit/openai/codex?style=flat-square&labelColor=343b41)](https://github.com/openai/codex/commits)
 
 </div>
 
@@ -1095,18 +1107,6 @@
 </div>
 
 `deep-learning` `platform` `pytorch`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/14957082?v=4" width="20" align="top" alt="openai"/> [openai/codex](https://github.com/openai/codex) 🔥🔥🔥
-
-> Lightweight coding agent that runs in your terminal
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/openai/codex?style=flat-square&labelColor=343b41)](https://github.com/openai/codex/stargazers) [![Forks](https://img.shields.io/github/forks/openai/codex?style=flat-square&labelColor=343b41)](https://github.com/openai/codex/network/members) [![Last Commit](https://img.shields.io/github/last-commit/openai/codex?style=flat-square&labelColor=343b41)](https://github.com/openai/codex/commits)
-
-</div>
 
 ---
 
@@ -2132,7 +2132,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/104874993?v=4" width="20" align="top" alt="agno-agi"/> [agno-agi/agno](https://github.com/agno-agi/agno) 🔥🔥🔥
 
-> Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.
+> Agno is a lightweight, high-performance library for building Agents with memory, knowledge, and reasoning.
 
 <div align="center">
 
@@ -3255,18 +3255,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) 🔥
-
-> 📃 A better UX for chat, writing content, and coding with LLMs.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/langchain-ai/open-canvas?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/open-canvas/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/open-canvas?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/open-canvas/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/open-canvas?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/open-canvas/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/189563271?v=4" width="20" align="top" alt="assistant-ui"/> [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) 🔥
 
 > Typescript/React Library for AI Chat💬🚀
@@ -3278,6 +3266,18 @@
 </div>
 
 `ai-chatbot` `chatbot` `conversational-ai` `copilot` `radix-ui`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) 🔥
+
+> 📃 A better UX for chat, writing content, and coding with LLMs.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/langchain-ai/open-canvas?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/open-canvas/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/open-canvas?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/open-canvas/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/open-canvas?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/open-canvas/commits)
+
+</div>
 
 ---
 
@@ -4814,18 +4814,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/84374044?v=4" width="20" align="top" alt="wenet-e2e"/> [wenet-e2e/llm-papers](https://github.com/wenet-e2e/llm-papers)
-
-> List of Large Lanugage Model Papers
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/wenet-e2e/llm-papers?style=flat-square&labelColor=343b41)](https://github.com/wenet-e2e/llm-papers/stargazers) [![Forks](https://img.shields.io/github/forks/wenet-e2e/llm-papers?style=flat-square&labelColor=343b41)](https://github.com/wenet-e2e/llm-papers/network/members) [![Last Commit](https://img.shields.io/github/last-commit/wenet-e2e/llm-papers?style=flat-square&labelColor=343b41)](https://github.com/wenet-e2e/llm-papers/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/7881316?v=4" width="20" align="top" alt="CathyQian"/> [CathyQian/Machine-Learning-System-Design](https://github.com/CathyQian/Machine-Learning-System-Design)
 
 > A collection of useful resources for Machine Learning System Design
@@ -4833,6 +4821,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/CathyQian/Machine-Learning-System-Design?style=flat-square&labelColor=343b41)](https://github.com/CathyQian/Machine-Learning-System-Design/stargazers) [![Forks](https://img.shields.io/github/forks/CathyQian/Machine-Learning-System-Design?style=flat-square&labelColor=343b41)](https://github.com/CathyQian/Machine-Learning-System-Design/network/members) [![Last Commit](https://img.shields.io/github/last-commit/CathyQian/Machine-Learning-System-Design?style=flat-square&labelColor=343b41)](https://github.com/CathyQian/Machine-Learning-System-Design/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/84374044?v=4" width="20" align="top" alt="wenet-e2e"/> [wenet-e2e/llm-papers](https://github.com/wenet-e2e/llm-papers)
+
+> List of Large Lanugage Model Papers
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/wenet-e2e/llm-papers?style=flat-square&labelColor=343b41)](https://github.com/wenet-e2e/llm-papers/stargazers) [![Forks](https://img.shields.io/github/forks/wenet-e2e/llm-papers?style=flat-square&labelColor=343b41)](https://github.com/wenet-e2e/llm-papers/network/members) [![Last Commit](https://img.shields.io/github/last-commit/wenet-e2e/llm-papers?style=flat-square&labelColor=343b41)](https://github.com/wenet-e2e/llm-papers/commits)
 
 </div>
 
@@ -6592,18 +6592,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/26294749?v=4" width="20" align="top" alt="0xairdropfarmer"/> [0xairdropfarmer/medium-clone-on-node](https://github.com/0xairdropfarmer/medium-clone-on-node)
-
-> clone Medium on Nodejs and Reactjs
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/stargazers) [![Forks](https://img.shields.io/github/forks/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/network/members) [![Last Commit](https://img.shields.io/github/last-commit/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/192012301?v=4" width="20" align="top" alt="browser-use"/> [browser-use/workflow-use](https://github.com/browser-use/workflow-use)
 
 > ⚙️ Create and run workflows (RPA 2.0)
@@ -6611,6 +6599,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/network/members) [![Last Commit](https://img.shields.io/github/last-commit/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/26294749?v=4" width="20" align="top" alt="0xairdropfarmer"/> [0xairdropfarmer/medium-clone-on-node](https://github.com/0xairdropfarmer/medium-clone-on-node)
+
+> clone Medium on Nodejs and Reactjs
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/stargazers) [![Forks](https://img.shields.io/github/forks/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/network/members) [![Last Commit](https://img.shields.io/github/last-commit/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/commits)
 
 </div>
 
