@@ -1574,6 +1574,16 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/langgraph-swarm-py](https://github.com/langchain-ai/langgraph-swarm-py)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/langchain-ai/langgraph-swarm-py?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/langgraph-swarm-py/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langgraph-swarm-py?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/langgraph-swarm-py/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/langgraph-swarm-py?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/langgraph-swarm-py/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/37864549?v=4" width="20" align="top" alt="hrithikkoduri"/> [hrithikkoduri/WebRover](https://github.com/hrithikkoduri/WebRover)
 
 > WebRover is an autonomous AI agent designed to interpret user input and execute actions by interacting with web elements to accomplish tasks or answer questions. It leverages advanced language models and web automation tools to navigate the web, gather information, and provide structured responses based on the user's needs.
@@ -1581,16 +1591,6 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/hrithikkoduri/WebRover?style=flat-square&labelColor=343b41)](https://github.com/hrithikkoduri/WebRover/stargazers) [![Forks](https://img.shields.io/github/forks/hrithikkoduri/WebRover?style=flat-square&labelColor=343b41)](https://github.com/hrithikkoduri/WebRover/network/members) [![Last Commit](https://img.shields.io/github/last-commit/hrithikkoduri/WebRover?style=flat-square&labelColor=343b41)](https://github.com/hrithikkoduri/WebRover/commits)
-
-</div>
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/langgraph-swarm-py](https://github.com/langchain-ai/langgraph-swarm-py)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/langchain-ai/langgraph-swarm-py?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/langgraph-swarm-py/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langgraph-swarm-py?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/langgraph-swarm-py/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/langgraph-swarm-py?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/langgraph-swarm-py/commits)
 
 </div>
 
@@ -2214,20 +2214,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/104714959?v=4" width="20" align="top" alt="reflex-dev"/> [reflex-dev/reflex](https://github.com/reflex-dev/reflex) 🔥🔥🔥
-
-> 🕸️ Web apps in pure Python 🐍
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/reflex-dev/reflex?style=flat-square&labelColor=343b41)](https://github.com/reflex-dev/reflex/stargazers) [![Forks](https://img.shields.io/github/forks/reflex-dev/reflex?style=flat-square&labelColor=343b41)](https://github.com/reflex-dev/reflex/network/members) [![Last Commit](https://img.shields.io/github/last-commit/reflex-dev/reflex?style=flat-square&labelColor=343b41)](https://github.com/reflex-dev/reflex/commits)
-
-</div>
-
-`framework` `gui` `hacktoberfest` `open-source` `python`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/121462774?v=4" width="20" align="top" alt="BerriAI"/> [BerriAI/litellm](https://github.com/BerriAI/litellm) 🔥🔥🔥
 
 > Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
@@ -2239,6 +2225,20 @@
 </div>
 
 `ai-gateway` `anthropic` `azure-openai` `bedrock` `gateway`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/104714959?v=4" width="20" align="top" alt="reflex-dev"/> [reflex-dev/reflex](https://github.com/reflex-dev/reflex) 🔥🔥🔥
+
+> 🕸️ Web apps in pure Python 🐍
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/reflex-dev/reflex?style=flat-square&labelColor=343b41)](https://github.com/reflex-dev/reflex/stargazers) [![Forks](https://img.shields.io/github/forks/reflex-dev/reflex?style=flat-square&labelColor=343b41)](https://github.com/reflex-dev/reflex/network/members) [![Last Commit](https://img.shields.io/github/last-commit/reflex-dev/reflex?style=flat-square&labelColor=343b41)](https://github.com/reflex-dev/reflex/commits)
+
+</div>
+
+`framework` `gui` `hacktoberfest` `open-source` `python`
 
 ---
 
@@ -2706,6 +2706,16 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters) 🔥
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/langchain-ai/langchain-mcp-adapters?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/langchain-mcp-adapters/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langchain-mcp-adapters?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/langchain-mcp-adapters/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/langchain-mcp-adapters?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/langchain-mcp-adapters/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/1983160?v=4" width="20" align="top" alt="ashvardanian"/> [ashvardanian/less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp) 🔥
 
 > Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO
@@ -2717,16 +2727,6 @@
 </div>
 
 `assembly` `assembly-language` `avx512` `benchmark` `coroutines`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters) 🔥
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/langchain-ai/langchain-mcp-adapters?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/langchain-mcp-adapters/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langchain-mcp-adapters?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/langchain-mcp-adapters/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/langchain-mcp-adapters?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/langchain-mcp-adapters/commits)
-
-</div>
 
 ---
 
@@ -2774,7 +2774,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/60081994?v=4" width="20" align="top" alt="NitroRCr"/> [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) 🔥
 
-> AI as Workspace - A better AI (LLM) client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端
+> AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端
 
 <div align="center">
 
@@ -4046,20 +4046,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/10162068?v=4" width="20" align="top" alt="FavioVazquez"/> [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) 🔥🔥🔥
-
-> List of Data Science Cheatsheets to rule the world
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/FavioVazquez/ds-cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/FavioVazquez/ds-cheatsheets/stargazers) [![Forks](https://img.shields.io/github/forks/FavioVazquez/ds-cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/FavioVazquez/ds-cheatsheets/network/members) [![Last Commit](https://img.shields.io/github/last-commit/FavioVazquez/ds-cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/FavioVazquez/ds-cheatsheets/commits)
-
-</div>
-
-`cheatsheet` `datascience` `jupyter` `programming` `python`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/150462874?v=4" width="20" align="top" alt="docmost"/> [docmost/docmost](https://github.com/docmost/docmost) 🔥🔥🔥
 
 > Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
@@ -4071,6 +4057,20 @@
 </div>
 
 `confluence` `documentation` `knowledge-base` `notion` `notion-alternative`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/10162068?v=4" width="20" align="top" alt="FavioVazquez"/> [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) 🔥🔥🔥
+
+> List of Data Science Cheatsheets to rule the world
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/FavioVazquez/ds-cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/FavioVazquez/ds-cheatsheets/stargazers) [![Forks](https://img.shields.io/github/forks/FavioVazquez/ds-cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/FavioVazquez/ds-cheatsheets/network/members) [![Last Commit](https://img.shields.io/github/last-commit/FavioVazquez/ds-cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/FavioVazquez/ds-cheatsheets/commits)
+
+</div>
+
+`cheatsheet` `datascience` `jupyter` `programming` `python`
 
 ---
 
@@ -6366,7 +6366,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/48356807?v=4" width="20" align="top" alt="ourongxing"/> [ourongxing/newsnow](https://github.com/ourongxing/newsnow) 🔥🔥
+### <img src="https://avatars.githubusercontent.com/u/48356807?v=4" width="20" align="top" alt="ourongxing"/> [ourongxing/newsnow](https://github.com/ourongxing/newsnow) 🔥🔥🔥
 
 > Elegant reading of real-time and hottest news
 
@@ -6538,6 +6538,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/209775067?v=4" width="20" align="top" alt="ag-ui-protocol"/> [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) 🔥
+
+> AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/stargazers) [![Forks](https://img.shields.io/github/forks/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/454718?v=4" width="20" align="top" alt="gosom"/> [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) 🔥
 
 > scrape data  data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place
@@ -6552,13 +6564,13 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/209775067?v=4" width="20" align="top" alt="ag-ui-protocol"/> [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) 🔥
+### <img src="https://avatars.githubusercontent.com/u/192012301?v=4" width="20" align="top" alt="browser-use"/> [browser-use/workflow-use](https://github.com/browser-use/workflow-use) 🔥
 
-> AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
+> ⚙️ Create and run workflows (RPA 2.0)
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/stargazers) [![Forks](https://img.shields.io/github/forks/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/commits)
+[![Stars](https://img.shields.io/github/stars/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/network/members) [![Last Commit](https://img.shields.io/github/last-commit/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/commits)
 
 </div>
 
@@ -6589,18 +6601,6 @@
 </div>
 
 `books` `computer-science`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/192012301?v=4" width="20" align="top" alt="browser-use"/> [browser-use/workflow-use](https://github.com/browser-use/workflow-use)
-
-> ⚙️ Create and run workflows (RPA 2.0)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/network/members) [![Last Commit](https://img.shields.io/github/last-commit/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/commits)
-
-</div>
 
 ---
 
