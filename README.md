@@ -1018,6 +1018,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/901795?v=4" width="20" align="top" alt="virattt"/> [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) 🔥🔥🔥
+
+> An AI Hedge Fund Team
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/stargazers) [![Forks](https://img.shields.io/github/forks/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/network/members) [![Last Commit](https://img.shields.io/github/last-commit/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/50654?v=4" width="20" align="top" alt="danielmiessler"/> [danielmiessler/fabric](https://github.com/danielmiessler/fabric) 🔥🔥🔥
 
 > fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
@@ -1029,18 +1041,6 @@
 </div>
 
 `ai` `augmentation` `flourishing` `life` `work`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/901795?v=4" width="20" align="top" alt="virattt"/> [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) 🔥🔥🔥
-
-> An AI Hedge Fund Team
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/stargazers) [![Forks](https://img.shields.io/github/forks/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/network/members) [![Last Commit](https://img.shields.io/github/last-commit/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/commits)
-
-</div>
 
 ---
 
@@ -2144,20 +2144,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/127876214?v=4" width="20" align="top" alt="continuedev"/> [continuedev/continue](https://github.com/continuedev/continue) 🔥🔥🔥
-
-> ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/continuedev/continue?style=flat-square&labelColor=343b41)](https://github.com/continuedev/continue/stargazers) [![Forks](https://img.shields.io/github/forks/continuedev/continue?style=flat-square&labelColor=343b41)](https://github.com/continuedev/continue/network/members) [![Last Commit](https://img.shields.io/github/last-commit/continuedev/continue?style=flat-square&labelColor=343b41)](https://github.com/continuedev/continue/commits)
-
-</div>
-
-`ai` `chatgpt` `copilot` `developer-tools` `intellij`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/29575074?v=4" width="20" align="top" alt="yeongpin"/> [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) 🔥🔥🔥
 
 > [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
@@ -2169,6 +2155,20 @@
 </div>
 
 `automation` `cursor` `cursor-ai` `cursor-ide` `cursorai`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/127876214?v=4" width="20" align="top" alt="continuedev"/> [continuedev/continue](https://github.com/continuedev/continue) 🔥🔥🔥
+
+> ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/continuedev/continue?style=flat-square&labelColor=343b41)](https://github.com/continuedev/continue/stargazers) [![Forks](https://img.shields.io/github/forks/continuedev/continue?style=flat-square&labelColor=343b41)](https://github.com/continuedev/continue/network/members) [![Last Commit](https://img.shields.io/github/last-commit/continuedev/continue?style=flat-square&labelColor=343b41)](https://github.com/continuedev/continue/commits)
+
+</div>
+
+`ai` `chatgpt` `copilot` `developer-tools` `intellij`
 
 ---
 
@@ -2570,20 +2570,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/818368?v=4" width="20" align="top" alt="cheahjs"/> [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) 🔥
-
-> A list of free LLM inference resources accessible via API.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/cheahjs/free-llm-api-resources?style=flat-square&labelColor=343b41)](https://github.com/cheahjs/free-llm-api-resources/stargazers) [![Forks](https://img.shields.io/github/forks/cheahjs/free-llm-api-resources?style=flat-square&labelColor=343b41)](https://github.com/cheahjs/free-llm-api-resources/network/members) [![Last Commit](https://img.shields.io/github/last-commit/cheahjs/free-llm-api-resources?style=flat-square&labelColor=343b41)](https://github.com/cheahjs/free-llm-api-resources/commits)
-
-</div>
-
-`ai` `claude` `gemini` `llama` `llm`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/108313943?v=4" width="20" align="top" alt="punkpeye"/> [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) 🔥
 
 > A collection of MCP clients.
@@ -2595,6 +2581,20 @@
 </div>
 
 `clients` `mcp`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/818368?v=4" width="20" align="top" alt="cheahjs"/> [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) 🔥
+
+> A list of free LLM inference resources accessible via API.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/cheahjs/free-llm-api-resources?style=flat-square&labelColor=343b41)](https://github.com/cheahjs/free-llm-api-resources/stargazers) [![Forks](https://img.shields.io/github/forks/cheahjs/free-llm-api-resources?style=flat-square&labelColor=343b41)](https://github.com/cheahjs/free-llm-api-resources/network/members) [![Last Commit](https://img.shields.io/github/last-commit/cheahjs/free-llm-api-resources?style=flat-square&labelColor=343b41)](https://github.com/cheahjs/free-llm-api-resources/commits)
+
+</div>
+
+`ai` `claude` `gemini` `llama` `llm`
 
 ---
 
@@ -2854,6 +2854,16 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/agent-protocol](https://github.com/langchain-ai/agent-protocol)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/agent-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/agent-protocol/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/agent-protocol/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/62574431?v=4" width="20" align="top" alt="rkinas"/> [rkinas/triton-resources](https://github.com/rkinas/triton-resources)
 
 > A curated list of resources for learning and exploring Triton, OpenAI's programming language for writing efficient GPU code.
@@ -2865,16 +2875,6 @@
 </div>
 
 `cuda` `triton`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/agent-protocol](https://github.com/langchain-ai/agent-protocol)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/agent-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/agent-protocol/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/agent-protocol/commits)
-
-</div>
 
 ---
 
@@ -6502,7 +6502,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/190910900?v=4" width="20" align="top" alt="u14app"/> [u14app/deep-research](https://github.com/u14app/deep-research) 🔥
 
-> Use any LLMs (Large Language Models) for Deep Research.
+> Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
 
 <div align="center">
 
@@ -6510,7 +6510,7 @@
 
 </div>
 
-`deep-research` `deepresearch` `gemini` `gemini-ai` `anthropic`
+`deep-research` `deepresearch` `gemini` `anthropic` `deepseek`
 
 ---
 
@@ -6525,6 +6525,18 @@
 </div>
 
 `local-first` `notetaking` `open-source` `react` `rust`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/192012301?v=4" width="20" align="top" alt="browser-use"/> [browser-use/workflow-use](https://github.com/browser-use/workflow-use) 🔥
+
+> ⚙️ Create and run workflows (RPA 2.0)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/network/members) [![Last Commit](https://img.shields.io/github/last-commit/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/commits)
+
+</div>
 
 ---
 
@@ -6561,18 +6573,6 @@
 </div>
 
 `golang` `google-maps-scraping` `web-scraper` `web-scraping` `distributed-scraper`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/192012301?v=4" width="20" align="top" alt="browser-use"/> [browser-use/workflow-use](https://github.com/browser-use/workflow-use) 🔥
-
-> ⚙️ Create and run workflows (RPA 2.0)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/network/members) [![Last Commit](https://img.shields.io/github/last-commit/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/commits)
-
-</div>
 
 ---
 
