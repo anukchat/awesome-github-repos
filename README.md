@@ -749,7 +749,7 @@
 
 </div>
 
-`agent` `agents` `ai-search` `chatbot` `chatgpt`
+`agent` `agents` `ai` `ai-search` `chatbot`
 
 ---
 
@@ -1004,6 +1004,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/901795?v=4" width="20" align="top" alt="virattt"/> [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) 🔥🔥🔥
+
+> An AI Hedge Fund Team
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/stargazers) [![Forks](https://img.shields.io/github/forks/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/network/members) [![Last Commit](https://img.shields.io/github/last-commit/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="20" align="top" alt="crewAIInc"/> [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) 🔥🔥🔥
 
 > Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
@@ -1015,18 +1027,6 @@
 </div>
 
 `agents` `ai` `ai-agents` `aiagentframework` `llms`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/901795?v=4" width="20" align="top" alt="virattt"/> [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) 🔥🔥🔥
-
-> An AI Hedge Fund Team
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/stargazers) [![Forks](https://img.shields.io/github/forks/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/network/members) [![Last Commit](https://img.shields.io/github/last-commit/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/commits)
-
-</div>
 
 ---
 
@@ -1608,20 +1608,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/178647201?v=4" width="20" align="top" alt="test-zeus-ai"/> [test-zeus-ai/testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules)
-
-> Hercules is the world’s first open-source testing agent, enabling UI, API, Security, Accessibility, and Visual validations – all without code or maintenance. Automate testing effortlessly and let Hercules handle the heavy lifting! ⚡
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/test-zeus-ai/testzeus-hercules?style=flat-square&labelColor=343b41)](https://github.com/test-zeus-ai/testzeus-hercules/stargazers) [![Forks](https://img.shields.io/github/forks/test-zeus-ai/testzeus-hercules?style=flat-square&labelColor=343b41)](https://github.com/test-zeus-ai/testzeus-hercules/network/members) [![Last Commit](https://img.shields.io/github/last-commit/test-zeus-ai/testzeus-hercules?style=flat-square&labelColor=343b41)](https://github.com/test-zeus-ai/testzeus-hercules/commits)
-
-</div>
-
-`agent` `agentic-ai` `agents` `ai` `autogen`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/104874993?v=4" width="20" align="top" alt="agno-agi"/> [agno-agi/agent-ui](https://github.com/agno-agi/agent-ui)
 
 > A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript. 
@@ -1633,6 +1619,20 @@
 </div>
 
 `agent` `agno` `ai` `chat` `self-hosted`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/178647201?v=4" width="20" align="top" alt="test-zeus-ai"/> [test-zeus-ai/testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules)
+
+> Hercules is the world’s first open-source testing agent, enabling UI, API, Security, Accessibility, and Visual validations – all without code or maintenance. Automate testing effortlessly and let Hercules handle the heavy lifting! ⚡
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/test-zeus-ai/testzeus-hercules?style=flat-square&labelColor=343b41)](https://github.com/test-zeus-ai/testzeus-hercules/stargazers) [![Forks](https://img.shields.io/github/forks/test-zeus-ai/testzeus-hercules?style=flat-square&labelColor=343b41)](https://github.com/test-zeus-ai/testzeus-hercules/network/members) [![Last Commit](https://img.shields.io/github/last-commit/test-zeus-ai/testzeus-hercules?style=flat-square&labelColor=343b41)](https://github.com/test-zeus-ai/testzeus-hercules/commits)
+
+</div>
+
+`agent` `agentic-ai` `agents` `ai` `autogen`
 
 ---
 
@@ -2132,7 +2132,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/104874993?v=4" width="20" align="top" alt="agno-agi"/> [agno-agi/agno](https://github.com/agno-agi/agno) 🔥🔥🔥
 
-> Agno is a lightweight, high-performance library for building Agents with memory, knowledge, and reasoning.
+> Agno is a lightweight, high-performance library for building Agents.
 
 <div align="center">
 
@@ -2364,20 +2364,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/promptflow](https://github.com/microsoft/promptflow) 🔥🔥🔥
-
-> Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/microsoft/promptflow?style=flat-square&labelColor=343b41)](https://github.com/microsoft/promptflow/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/promptflow?style=flat-square&labelColor=343b41)](https://github.com/microsoft/promptflow/network/members) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/promptflow?style=flat-square&labelColor=343b41)](https://github.com/microsoft/promptflow/commits)
-
-</div>
-
-`ai` `ai-application-development` `ai-applications` `chatgpt` `gpt`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/153965?v=4" width="20" align="top" alt="jlowin"/> [jlowin/fastmcp](https://github.com/jlowin/fastmcp) 🔥🔥🔥
 
 > 🚀 The fast, Pythonic way to build MCP servers and clients
@@ -2389,6 +2375,20 @@
 </div>
 
 `agent` `fastmcp` `llm` `mcp` `mcp-client`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/promptflow](https://github.com/microsoft/promptflow) 🔥🔥🔥
+
+> Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/microsoft/promptflow?style=flat-square&labelColor=343b41)](https://github.com/microsoft/promptflow/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/promptflow?style=flat-square&labelColor=343b41)](https://github.com/microsoft/promptflow/network/members) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/promptflow?style=flat-square&labelColor=343b41)](https://github.com/microsoft/promptflow/commits)
+
+</div>
+
+`ai` `ai-application-development` `ai-applications` `chatgpt` `gpt`
 
 ---
 
@@ -2500,20 +2500,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/6844498?v=4" width="20" align="top" alt="Azure"/> [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) 🔥
-
-> This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python. 
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Azure/azure-sdk-for-python?style=flat-square&labelColor=343b41)](https://github.com/Azure/azure-sdk-for-python/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-sdk-for-python?style=flat-square&labelColor=343b41)](https://github.com/Azure/azure-sdk-for-python/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Azure/azure-sdk-for-python?style=flat-square&labelColor=343b41)](https://github.com/Azure/azure-sdk-for-python/commits)
-
-</div>
-
-`azure` `azure-sdk` `hacktoberfest` `python`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/177023663?v=4" width="20" align="top" alt="tadata-org"/> [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) 🔥
 
 > Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
@@ -2525,6 +2511,20 @@
 </div>
 
 `ai` `authentication` `authorization` `claude` `cursor`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/6844498?v=4" width="20" align="top" alt="Azure"/> [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) 🔥
+
+> This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python. 
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Azure/azure-sdk-for-python?style=flat-square&labelColor=343b41)](https://github.com/Azure/azure-sdk-for-python/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-sdk-for-python?style=flat-square&labelColor=343b41)](https://github.com/Azure/azure-sdk-for-python/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Azure/azure-sdk-for-python?style=flat-square&labelColor=343b41)](https://github.com/Azure/azure-sdk-for-python/commits)
+
+</div>
+
+`azure` `azure-sdk` `hacktoberfest` `python`
 
 ---
 
@@ -2692,6 +2692,16 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters) 🔥
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/langchain-ai/langchain-mcp-adapters?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/langchain-mcp-adapters/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langchain-mcp-adapters?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/langchain-mcp-adapters/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/langchain-mcp-adapters?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/langchain-mcp-adapters/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/158137808?v=4" width="20" align="top" alt="open-webui"/> [open-webui/pipelines](https://github.com/open-webui/pipelines) 🔥
 
 > Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework 
@@ -2703,16 +2713,6 @@
 </div>
 
 `open-webui`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters) 🔥
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/langchain-ai/langchain-mcp-adapters?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/langchain-mcp-adapters/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langchain-mcp-adapters?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/langchain-mcp-adapters/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/langchain-mcp-adapters?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/langchain-mcp-adapters/commits)
-
-</div>
 
 ---
 
@@ -4800,6 +4800,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/7881316?v=4" width="20" align="top" alt="CathyQian"/> [CathyQian/Machine-Learning-System-Design](https://github.com/CathyQian/Machine-Learning-System-Design)
+
+> A collection of useful resources for Machine Learning System Design
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/CathyQian/Machine-Learning-System-Design?style=flat-square&labelColor=343b41)](https://github.com/CathyQian/Machine-Learning-System-Design/stargazers) [![Forks](https://img.shields.io/github/forks/CathyQian/Machine-Learning-System-Design?style=flat-square&labelColor=343b41)](https://github.com/CathyQian/Machine-Learning-System-Design/network/members) [![Last Commit](https://img.shields.io/github/last-commit/CathyQian/Machine-Learning-System-Design?style=flat-square&labelColor=343b41)](https://github.com/CathyQian/Machine-Learning-System-Design/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/18608293?v=4" width="20" align="top" alt="primaprashant"/> [primaprashant/llms-in-production](https://github.com/primaprashant/llms-in-production)
 
 > 📚 Curated collection of engineering blogs detailing real-world applications of LLMs in solving specific business problems.
@@ -4811,18 +4823,6 @@
 </div>
 
 `ai` `applied-machine-learning` `applied-ml` `artificial-intelligence` `awesome-list`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/7881316?v=4" width="20" align="top" alt="CathyQian"/> [CathyQian/Machine-Learning-System-Design](https://github.com/CathyQian/Machine-Learning-System-Design)
-
-> A collection of useful resources for Machine Learning System Design
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/CathyQian/Machine-Learning-System-Design?style=flat-square&labelColor=343b41)](https://github.com/CathyQian/Machine-Learning-System-Design/stargazers) [![Forks](https://img.shields.io/github/forks/CathyQian/Machine-Learning-System-Design?style=flat-square&labelColor=343b41)](https://github.com/CathyQian/Machine-Learning-System-Design/network/members) [![Last Commit](https://img.shields.io/github/last-commit/CathyQian/Machine-Learning-System-Design?style=flat-square&labelColor=343b41)](https://github.com/CathyQian/Machine-Learning-System-Design/commits)
-
-</div>
 
 ---
 
@@ -6004,7 +6004,7 @@
 <h2 id="others">🔖 Others</h2>
 
 <details>
-<summary>Show repositories (49)</summary>
+<summary>Show repositories (54)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6031,6 +6031,20 @@
 </div>
 
 `awesome` `awesome-list` `cloud` `free-software` `hosting`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/vscode](https://github.com/microsoft/vscode) 🔥🔥🔥
+
+> Visual Studio Code
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/microsoft/vscode?style=flat-square&labelColor=343b41)](https://github.com/microsoft/vscode/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/vscode?style=flat-square&labelColor=343b41)](https://github.com/microsoft/vscode/network/members) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/vscode?style=flat-square&labelColor=343b41)](https://github.com/microsoft/vscode/commits)
+
+</div>
+
+`editor` `electron` `visual-studio-code` `typescript` `microsoft`
 
 ---
 
@@ -6181,6 +6195,20 @@
 </div>
 
 `ai` `chatgpt` `llm` `python` `chatbots`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/103972607?v=4" width="20" align="top" alt="HeyPuter"/> [HeyPuter/puter](https://github.com/HeyPuter/puter) 🔥🔥🔥
+
+> 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/HeyPuter/puter?style=flat-square&labelColor=343b41)](https://github.com/HeyPuter/puter/stargazers) [![Forks](https://img.shields.io/github/forks/HeyPuter/puter?style=flat-square&labelColor=343b41)](https://github.com/HeyPuter/puter/network/members) [![Last Commit](https://img.shields.io/github/last-commit/HeyPuter/puter?style=flat-square&labelColor=343b41)](https://github.com/HeyPuter/puter/commits)
+
+</div>
+
+`desktop` `desktop-environment` `osjs` `web-desktop` `webtop`
 
 ---
 
@@ -6500,6 +6528,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/192012301?v=4" width="20" align="top" alt="browser-use"/> [browser-use/workflow-use](https://github.com/browser-use/workflow-use) 🔥
+
+> ⚙️ Create and run workflows (RPA 2.0)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/network/members) [![Last Commit](https://img.shields.io/github/last-commit/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/190910900?v=4" width="20" align="top" alt="u14app"/> [u14app/deep-research](https://github.com/u14app/deep-research) 🔥
 
 > Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
@@ -6528,13 +6568,13 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/192012301?v=4" width="20" align="top" alt="browser-use"/> [browser-use/workflow-use](https://github.com/browser-use/workflow-use) 🔥
+### <img src="https://avatars.githubusercontent.com/u/209775067?v=4" width="20" align="top" alt="ag-ui-protocol"/> [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) 🔥
 
-> ⚙️ Create and run workflows (RPA 2.0)
+> AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/network/members) [![Last Commit](https://img.shields.io/github/last-commit/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/commits)
+[![Stars](https://img.shields.io/github/stars/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/stargazers) [![Forks](https://img.shields.io/github/forks/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/commits)
 
 </div>
 
@@ -6545,18 +6585,6 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/cloudflare/mcp-server-cloudflare?style=flat-square&labelColor=343b41)](https://github.com/cloudflare/mcp-server-cloudflare/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/mcp-server-cloudflare?style=flat-square&labelColor=343b41)](https://github.com/cloudflare/mcp-server-cloudflare/network/members) [![Last Commit](https://img.shields.io/github/last-commit/cloudflare/mcp-server-cloudflare?style=flat-square&labelColor=343b41)](https://github.com/cloudflare/mcp-server-cloudflare/commits)
-
-</div>
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/209775067?v=4" width="20" align="top" alt="ag-ui-protocol"/> [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) 🔥
-
-> AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/stargazers) [![Forks](https://img.shields.io/github/forks/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/commits)
 
 </div>
 
@@ -6604,6 +6632,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/161364575?v=4" width="20" align="top" alt="google-labs-code"/> [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list)
+
+> Some awesome prompts for Jules Agent
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/google-labs-code/jules-awesome-list?style=flat-square&labelColor=343b41)](https://github.com/google-labs-code/jules-awesome-list/stargazers) [![Forks](https://img.shields.io/github/forks/google-labs-code/jules-awesome-list?style=flat-square&labelColor=343b41)](https://github.com/google-labs-code/jules-awesome-list/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-labs-code/jules-awesome-list?style=flat-square&labelColor=343b41)](https://github.com/google-labs-code/jules-awesome-list/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/26294749?v=4" width="20" align="top" alt="0xairdropfarmer"/> [0xairdropfarmer/medium-clone-on-node](https://github.com/0xairdropfarmer/medium-clone-on-node)
 
 > clone Medium on Nodejs and Reactjs
@@ -6613,6 +6653,20 @@
 [![Stars](https://img.shields.io/github/stars/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/stargazers) [![Forks](https://img.shields.io/github/forks/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/network/members) [![Last Commit](https://img.shields.io/github/last-commit/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/commits)
 
 </div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/182288589?v=4" width="20" align="top" alt="modelcontextprotocol"/> [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)
+
+> A community driven registry service for Model Context Protocol (MCP) servers.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/modelcontextprotocol/registry?style=flat-square&labelColor=343b41)](https://github.com/modelcontextprotocol/registry/stargazers) [![Forks](https://img.shields.io/github/forks/modelcontextprotocol/registry?style=flat-square&labelColor=343b41)](https://github.com/modelcontextprotocol/registry/network/members) [![Last Commit](https://img.shields.io/github/last-commit/modelcontextprotocol/registry?style=flat-square&labelColor=343b41)](https://github.com/modelcontextprotocol/registry/commits)
+
+</div>
+
+`mcp` `mcp-servers`
 
 ---
 
@@ -6661,6 +6715,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/nornagon/twitter-bookmark-archiver?style=flat-square&labelColor=343b41)](https://github.com/nornagon/twitter-bookmark-archiver/stargazers) [![Forks](https://img.shields.io/github/forks/nornagon/twitter-bookmark-archiver?style=flat-square&labelColor=343b41)](https://github.com/nornagon/twitter-bookmark-archiver/network/members) [![Last Commit](https://img.shields.io/github/last-commit/nornagon/twitter-bookmark-archiver?style=flat-square&labelColor=343b41)](https://github.com/nornagon/twitter-bookmark-archiver/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/128747374?v=4" width="20" align="top" alt="hdresearch"/> [hdresearch/mcp-python](https://github.com/hdresearch/mcp-python)
+
+> A python repl for MCP
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/hdresearch/mcp-python?style=flat-square&labelColor=343b41)](https://github.com/hdresearch/mcp-python/stargazers) [![Forks](https://img.shields.io/github/forks/hdresearch/mcp-python?style=flat-square&labelColor=343b41)](https://github.com/hdresearch/mcp-python/network/members) [![Last Commit](https://img.shields.io/github/last-commit/hdresearch/mcp-python?style=flat-square&labelColor=343b41)](https://github.com/hdresearch/mcp-python/commits)
 
 </div>
 
