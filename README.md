@@ -1046,7 +1046,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/31035808?v=4" width="20" align="top" alt="mindsdb"/> [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) 🔥🔥🔥
 
-> AI's query engine - Platform for building AI that can learn and answer questions over large scale federated data.
+> AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
 
 <div align="center">
 
@@ -1054,7 +1054,7 @@
 
 </div>
 
-`agi` `ai` `artificial-inteligence` `databases` `llms`
+`agents` `agi` `ai` `artificial-inteligence` `databases`
 
 ---
 
@@ -1234,20 +1234,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="20" align="top" alt="NirDiamant"/> [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) 🔥🔥🔥
-
-> This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/NirDiamant/GenAI_Agents?style=flat-square&labelColor=343b41)](https://github.com/NirDiamant/GenAI_Agents/stargazers) [![Forks](https://img.shields.io/github/forks/NirDiamant/GenAI_Agents?style=flat-square&labelColor=343b41)](https://github.com/NirDiamant/GenAI_Agents/network/members) [![Last Commit](https://img.shields.io/github/last-commit/NirDiamant/GenAI_Agents?style=flat-square&labelColor=343b41)](https://github.com/NirDiamant/GenAI_Agents/commits)
-
-</div>
-
-`agents` `ai` `genai` `langchain` `langgraph`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/170767358?v=4" width="20" align="top" alt="kortix-ai"/> [kortix-ai/suna](https://github.com/kortix-ai/suna) 🔥🔥🔥
 
 > Suna - Open Source Generalist AI Agent
@@ -1259,6 +1245,20 @@
 </div>
 
 `ai` `ai-agents` `llm`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="20" align="top" alt="NirDiamant"/> [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) 🔥🔥🔥
+
+> This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/NirDiamant/GenAI_Agents?style=flat-square&labelColor=343b41)](https://github.com/NirDiamant/GenAI_Agents/stargazers) [![Forks](https://img.shields.io/github/forks/NirDiamant/GenAI_Agents?style=flat-square&labelColor=343b41)](https://github.com/NirDiamant/GenAI_Agents/network/members) [![Last Commit](https://img.shields.io/github/last-commit/NirDiamant/GenAI_Agents?style=flat-square&labelColor=343b41)](https://github.com/NirDiamant/GenAI_Agents/commits)
+
+</div>
+
+`agents` `ai` `genai` `langchain` `langgraph`
 
 ---
 
@@ -2102,20 +2102,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/438516?v=4" width="20" align="top" alt="lutzroeder"/> [lutzroeder/netron](https://github.com/lutzroeder/netron) 🔥🔥🔥
-
-> Visualizer for neural network, deep learning and machine learning models
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/lutzroeder/netron?style=flat-square&labelColor=343b41)](https://github.com/lutzroeder/netron/stargazers) [![Forks](https://img.shields.io/github/forks/lutzroeder/netron?style=flat-square&labelColor=343b41)](https://github.com/lutzroeder/netron/network/members) [![Last Commit](https://img.shields.io/github/last-commit/lutzroeder/netron?style=flat-square&labelColor=343b41)](https://github.com/lutzroeder/netron/commits)
-
-</div>
-
-`ai` `coreml` `deep-learning` `deeplearning` `keras`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/188446108?v=4" width="20" align="top" alt="docling-project"/> [docling-project/docling](https://github.com/docling-project/docling) 🔥🔥🔥
 
 > Get your documents ready for gen AI
@@ -2127,6 +2113,20 @@
 </div>
 
 `ai` `convert` `document-parser` `document-parsing` `documents`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/438516?v=4" width="20" align="top" alt="lutzroeder"/> [lutzroeder/netron](https://github.com/lutzroeder/netron) 🔥🔥🔥
+
+> Visualizer for neural network, deep learning and machine learning models
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/lutzroeder/netron?style=flat-square&labelColor=343b41)](https://github.com/lutzroeder/netron/stargazers) [![Forks](https://img.shields.io/github/forks/lutzroeder/netron?style=flat-square&labelColor=343b41)](https://github.com/lutzroeder/netron/network/members) [![Last Commit](https://img.shields.io/github/last-commit/lutzroeder/netron?style=flat-square&labelColor=343b41)](https://github.com/lutzroeder/netron/commits)
+
+</div>
+
+`ai` `coreml` `deep-learning` `deeplearning` `keras`
 
 ---
 
@@ -6170,20 +6170,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/152056268?v=4" width="20" align="top" alt="imputnet"/> [imputnet/cobalt](https://github.com/imputnet/cobalt) 🔥🔥🔥
-
-> best way to save what you love
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/imputnet/cobalt?style=flat-square&labelColor=343b41)](https://github.com/imputnet/cobalt/stargazers) [![Forks](https://img.shields.io/github/forks/imputnet/cobalt?style=flat-square&labelColor=343b41)](https://github.com/imputnet/cobalt/network/members) [![Last Commit](https://img.shields.io/github/last-commit/imputnet/cobalt?style=flat-square&labelColor=343b41)](https://github.com/imputnet/cobalt/commits)
-
-</div>
-
-`collaboration` `downloader` `instagram` `javascript` `music`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/137054526?v=4" width="20" align="top" alt="mem0ai"/> [mem0ai/mem0](https://github.com/mem0ai/mem0) 🔥🔥🔥
 
 > Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
@@ -6209,6 +6195,20 @@
 </div>
 
 `desktop` `desktop-environment` `osjs` `web-desktop` `webtop`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/152056268?v=4" width="20" align="top" alt="imputnet"/> [imputnet/cobalt](https://github.com/imputnet/cobalt) 🔥🔥🔥
+
+> best way to save what you love
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/imputnet/cobalt?style=flat-square&labelColor=343b41)](https://github.com/imputnet/cobalt/stargazers) [![Forks](https://img.shields.io/github/forks/imputnet/cobalt?style=flat-square&labelColor=343b41)](https://github.com/imputnet/cobalt/network/members) [![Last Commit](https://img.shields.io/github/last-commit/imputnet/cobalt?style=flat-square&labelColor=343b41)](https://github.com/imputnet/cobalt/commits)
+
+</div>
+
+`collaboration` `downloader` `instagram` `javascript` `music`
 
 ---
 
@@ -6554,6 +6554,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/209775067?v=4" width="20" align="top" alt="ag-ui-protocol"/> [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) 🔥
+
+> AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/stargazers) [![Forks](https://img.shields.io/github/forks/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/142983232?v=4" width="20" align="top" alt="fastrepl"/> [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) 🔥
 
 > Privacy-first AI Notepad for back-to-back meetings
@@ -6565,18 +6577,6 @@
 </div>
 
 `local-first` `notetaking` `open-source` `react` `rust`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/209775067?v=4" width="20" align="top" alt="ag-ui-protocol"/> [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) 🔥
-
-> AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/stargazers) [![Forks](https://img.shields.io/github/forks/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/commits)
-
-</div>
 
 ---
 
@@ -6644,18 +6644,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/26294749?v=4" width="20" align="top" alt="0xairdropfarmer"/> [0xairdropfarmer/medium-clone-on-node](https://github.com/0xairdropfarmer/medium-clone-on-node)
-
-> clone Medium on Nodejs and Reactjs
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/stargazers) [![Forks](https://img.shields.io/github/forks/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/network/members) [![Last Commit](https://img.shields.io/github/last-commit/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/182288589?v=4" width="20" align="top" alt="modelcontextprotocol"/> [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)
 
 > A community driven registry service for Model Context Protocol (MCP) servers.
@@ -6667,6 +6655,18 @@
 </div>
 
 `mcp` `mcp-servers`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/26294749?v=4" width="20" align="top" alt="0xairdropfarmer"/> [0xairdropfarmer/medium-clone-on-node](https://github.com/0xairdropfarmer/medium-clone-on-node)
+
+> clone Medium on Nodejs and Reactjs
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/stargazers) [![Forks](https://img.shields.io/github/forks/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/network/members) [![Last Commit](https://img.shields.io/github/last-commit/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/commits)
+
+</div>
 
 ---
 
