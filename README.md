@@ -1206,20 +1206,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/141457985?v=4" width="20" align="top" alt="Skyvern-AI"/> [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) 🔥🔥🔥
-
-> Automate browser-based workflows with LLMs and Computer Vision
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=flat-square&labelColor=343b41)](https://github.com/Skyvern-AI/skyvern/stargazers) [![Forks](https://img.shields.io/github/forks/Skyvern-AI/skyvern?style=flat-square&labelColor=343b41)](https://github.com/Skyvern-AI/skyvern/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Skyvern-AI/skyvern?style=flat-square&labelColor=343b41)](https://github.com/Skyvern-AI/skyvern/commits)
-
-</div>
-
-`api` `automation` `browser` `browser-automation` `computer`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/4488133?v=4" width="20" align="top" alt="78"/> [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) 🔥🔥🔥
 
 > Build your own AI friend
@@ -1231,6 +1217,20 @@
 </div>
 
 `chatbot` `esp32` `llm`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/141457985?v=4" width="20" align="top" alt="Skyvern-AI"/> [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) 🔥🔥🔥
+
+> Automate browser-based workflows with LLMs and Computer Vision
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=flat-square&labelColor=343b41)](https://github.com/Skyvern-AI/skyvern/stargazers) [![Forks](https://img.shields.io/github/forks/Skyvern-AI/skyvern?style=flat-square&labelColor=343b41)](https://github.com/Skyvern-AI/skyvern/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Skyvern-AI/skyvern?style=flat-square&labelColor=343b41)](https://github.com/Skyvern-AI/skyvern/commits)
+
+</div>
+
+`api` `automation` `browser` `browser-automation` `computer`
 
 ---
 
@@ -2486,20 +2486,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/140440022?v=4" width="20" align="top" alt="guardrails-ai"/> [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) 🔥
-
-> Adding guardrails to large language models.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?style=flat-square&labelColor=343b41)](https://github.com/guardrails-ai/guardrails/stargazers) [![Forks](https://img.shields.io/github/forks/guardrails-ai/guardrails?style=flat-square&labelColor=343b41)](https://github.com/guardrails-ai/guardrails/network/members) [![Last Commit](https://img.shields.io/github/last-commit/guardrails-ai/guardrails?style=flat-square&labelColor=343b41)](https://github.com/guardrails-ai/guardrails/commits)
-
-</div>
-
-`ai` `foundation-model` `gpt-3` `llm` `openai`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/177023663?v=4" width="20" align="top" alt="tadata-org"/> [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) 🔥
 
 > Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
@@ -2511,6 +2497,20 @@
 </div>
 
 `ai` `authentication` `authorization` `claude` `cursor`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/140440022?v=4" width="20" align="top" alt="guardrails-ai"/> [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) 🔥
+
+> Adding guardrails to large language models.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?style=flat-square&labelColor=343b41)](https://github.com/guardrails-ai/guardrails/stargazers) [![Forks](https://img.shields.io/github/forks/guardrails-ai/guardrails?style=flat-square&labelColor=343b41)](https://github.com/guardrails-ai/guardrails/network/members) [![Last Commit](https://img.shields.io/github/last-commit/guardrails-ai/guardrails?style=flat-square&labelColor=343b41)](https://github.com/guardrails-ai/guardrails/commits)
+
+</div>
+
+`ai` `foundation-model` `gpt-3` `llm` `openai`
 
 ---
 
@@ -6004,7 +6004,7 @@
 <h2 id="others">🔖 Others</h2>
 
 <details>
-<summary>Show repositories (54)</summary>
+<summary>Show repositories (55)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6170,20 +6170,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/137054526?v=4" width="20" align="top" alt="mem0ai"/> [mem0ai/mem0](https://github.com/mem0ai/mem0) 🔥🔥🔥
-
-> Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square&labelColor=343b41)](https://github.com/mem0ai/mem0/stargazers) [![Forks](https://img.shields.io/github/forks/mem0ai/mem0?style=flat-square&labelColor=343b41)](https://github.com/mem0ai/mem0/network/members) [![Last Commit](https://img.shields.io/github/last-commit/mem0ai/mem0?style=flat-square&labelColor=343b41)](https://github.com/mem0ai/mem0/commits)
-
-</div>
-
-`ai` `chatgpt` `llm` `python` `chatbots`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/103972607?v=4" width="20" align="top" alt="HeyPuter"/> [HeyPuter/puter](https://github.com/HeyPuter/puter) 🔥🔥🔥
 
 > 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
@@ -6195,6 +6181,20 @@
 </div>
 
 `desktop` `desktop-environment` `osjs` `web-desktop` `webtop`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/137054526?v=4" width="20" align="top" alt="mem0ai"/> [mem0ai/mem0](https://github.com/mem0ai/mem0) 🔥🔥🔥
+
+> Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square&labelColor=343b41)](https://github.com/mem0ai/mem0/stargazers) [![Forks](https://img.shields.io/github/forks/mem0ai/mem0?style=flat-square&labelColor=343b41)](https://github.com/mem0ai/mem0/network/members) [![Last Commit](https://img.shields.io/github/last-commit/mem0ai/mem0?style=flat-square&labelColor=343b41)](https://github.com/mem0ai/mem0/commits)
+
+</div>
+
+`ai` `chatgpt` `llm` `python` `chatbots`
 
 ---
 
@@ -6528,6 +6528,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/NLWeb](https://github.com/microsoft/NLWeb) 🔥
+
+> Natural Language Web
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/microsoft/NLWeb?style=flat-square&labelColor=343b41)](https://github.com/microsoft/NLWeb/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/NLWeb?style=flat-square&labelColor=343b41)](https://github.com/microsoft/NLWeb/network/members) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/NLWeb?style=flat-square&labelColor=343b41)](https://github.com/microsoft/NLWeb/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/192012301?v=4" width="20" align="top" alt="browser-use"/> [browser-use/workflow-use](https://github.com/browser-use/workflow-use) 🔥
 
 > ⚙️ Create and run workflows (RPA 2.0)
@@ -6606,7 +6618,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/31841517?v=4" width="20" align="top" alt="aaPanel"/> [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) 🔥
 
-> BillionMail gives you open-source mailserver,  email marketing — fully self-hosted, dev-friendly, and free from monthly fees.
+> BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees.
 
 <div align="center">
 
@@ -6632,18 +6644,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/161364575?v=4" width="20" align="top" alt="google-labs-code"/> [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list)
-
-> Some awesome prompts for Jules Agent
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/google-labs-code/jules-awesome-list?style=flat-square&labelColor=343b41)](https://github.com/google-labs-code/jules-awesome-list/stargazers) [![Forks](https://img.shields.io/github/forks/google-labs-code/jules-awesome-list?style=flat-square&labelColor=343b41)](https://github.com/google-labs-code/jules-awesome-list/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-labs-code/jules-awesome-list?style=flat-square&labelColor=343b41)](https://github.com/google-labs-code/jules-awesome-list/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/182288589?v=4" width="20" align="top" alt="modelcontextprotocol"/> [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)
 
 > A community driven registry service for Model Context Protocol (MCP) servers.
@@ -6655,6 +6655,18 @@
 </div>
 
 `mcp` `mcp-servers`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/161364575?v=4" width="20" align="top" alt="google-labs-code"/> [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list)
+
+> Some awesome prompts for Jules Agent
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/google-labs-code/jules-awesome-list?style=flat-square&labelColor=343b41)](https://github.com/google-labs-code/jules-awesome-list/stargazers) [![Forks](https://img.shields.io/github/forks/google-labs-code/jules-awesome-list?style=flat-square&labelColor=343b41)](https://github.com/google-labs-code/jules-awesome-list/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-labs-code/jules-awesome-list?style=flat-square&labelColor=343b41)](https://github.com/google-labs-code/jules-awesome-list/commits)
+
+</div>
 
 ---
 
