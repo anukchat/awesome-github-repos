@@ -1058,18 +1058,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/89920203?v=4" width="20" align="top" alt="OpenBMB"/> [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) 🔥🔥🔥
-
-> Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=flat-square&labelColor=343b41)](https://github.com/OpenBMB/ChatDev/stargazers) [![Forks](https://img.shields.io/github/forks/OpenBMB/ChatDev?style=flat-square&labelColor=343b41)](https://github.com/OpenBMB/ChatDev/network/members) [![Last Commit](https://img.shields.io/github/last-commit/OpenBMB/ChatDev?style=flat-square&labelColor=343b41)](https://github.com/OpenBMB/ChatDev/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/14957082?v=4" width="20" align="top" alt="openai"/> [openai/codex](https://github.com/openai/codex) 🔥🔥🔥
 
 > Lightweight coding agent that runs in your terminal
@@ -1077,6 +1065,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/openai/codex?style=flat-square&labelColor=343b41)](https://github.com/openai/codex/stargazers) [![Forks](https://img.shields.io/github/forks/openai/codex?style=flat-square&labelColor=343b41)](https://github.com/openai/codex/network/members) [![Last Commit](https://img.shields.io/github/last-commit/openai/codex?style=flat-square&labelColor=343b41)](https://github.com/openai/codex/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/89920203?v=4" width="20" align="top" alt="OpenBMB"/> [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) 🔥🔥🔥
+
+> Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=flat-square&labelColor=343b41)](https://github.com/OpenBMB/ChatDev/stargazers) [![Forks](https://img.shields.io/github/forks/OpenBMB/ChatDev?style=flat-square&labelColor=343b41)](https://github.com/OpenBMB/ChatDev/network/members) [![Last Commit](https://img.shields.io/github/last-commit/OpenBMB/ChatDev?style=flat-square&labelColor=343b41)](https://github.com/OpenBMB/ChatDev/commits)
 
 </div>
 
@@ -1326,20 +1326,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/163125966?v=4" width="20" align="top" alt="lavague-ai"/> [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) 🔥🔥
-
-> Large Action Model framework to develop AI Web Agents
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/lavague-ai/LaVague?style=flat-square&labelColor=343b41)](https://github.com/lavague-ai/LaVague/stargazers) [![Forks](https://img.shields.io/github/forks/lavague-ai/LaVague?style=flat-square&labelColor=343b41)](https://github.com/lavague-ai/LaVague/network/members) [![Last Commit](https://img.shields.io/github/last-commit/lavague-ai/LaVague?style=flat-square&labelColor=343b41)](https://github.com/lavague-ai/LaVague/commits)
-
-</div>
-
-`ai` `browser` `large-action-model` `llm` `oss`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/69438833?v=4" width="20" align="top" alt="livekit"/> [livekit/agents](https://github.com/livekit/agents) 🔥🔥
 
 > A powerful framework for building realtime voice AI agents 🤖🎙️📹 
@@ -1351,6 +1337,20 @@
 </div>
 
 `agents` `ai` `openai` `real-time` `video`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/163125966?v=4" width="20" align="top" alt="lavague-ai"/> [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) 🔥🔥
+
+> Large Action Model framework to develop AI Web Agents
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/lavague-ai/LaVague?style=flat-square&labelColor=343b41)](https://github.com/lavague-ai/LaVague/stargazers) [![Forks](https://img.shields.io/github/forks/lavague-ai/LaVague?style=flat-square&labelColor=343b41)](https://github.com/lavague-ai/LaVague/network/members) [![Last Commit](https://img.shields.io/github/last-commit/lavague-ai/LaVague?style=flat-square&labelColor=343b41)](https://github.com/lavague-ai/LaVague/commits)
+
+</div>
+
+`ai` `browser` `large-action-model` `llm` `oss`
 
 ---
 
@@ -1420,7 +1420,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) 🔥
 
-> Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through our open source R&D automation tool R&D-Agent, which lets AI drive data-driven AI.
+> Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
 
 <div align="center">
 
@@ -2392,7 +2392,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/58067660?v=4" width="20" align="top" alt="doccano"/> [doccano/doccano](https://github.com/doccano/doccano) 🔥🔥
+### <img src="https://avatars.githubusercontent.com/u/58067660?v=4" width="20" align="top" alt="doccano"/> [doccano/doccano](https://github.com/doccano/doccano) 🔥🔥🔥
 
 > Open source annotation tool for machine learning practitioners.
 
@@ -2486,7 +2486,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/177023663?v=4" width="20" align="top" alt="tadata-org"/> [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) 🔥
+### <img src="https://avatars.githubusercontent.com/u/177023663?v=4" width="20" align="top" alt="tadata-org"/> [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) 🔥🔥
 
 > Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 
@@ -2570,20 +2570,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/108313943?v=4" width="20" align="top" alt="punkpeye"/> [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) 🔥
-
-> A collection of MCP clients.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-clients?style=flat-square&labelColor=343b41)](https://github.com/punkpeye/awesome-mcp-clients/stargazers) [![Forks](https://img.shields.io/github/forks/punkpeye/awesome-mcp-clients?style=flat-square&labelColor=343b41)](https://github.com/punkpeye/awesome-mcp-clients/network/members) [![Last Commit](https://img.shields.io/github/last-commit/punkpeye/awesome-mcp-clients?style=flat-square&labelColor=343b41)](https://github.com/punkpeye/awesome-mcp-clients/commits)
-
-</div>
-
-`clients` `mcp`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/818368?v=4" width="20" align="top" alt="cheahjs"/> [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) 🔥
 
 > A list of free LLM inference resources accessible via API.
@@ -2595,6 +2581,20 @@
 </div>
 
 `ai` `claude` `gemini` `llama` `llm`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/108313943?v=4" width="20" align="top" alt="punkpeye"/> [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) 🔥
+
+> A collection of MCP clients.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-clients?style=flat-square&labelColor=343b41)](https://github.com/punkpeye/awesome-mcp-clients/stargazers) [![Forks](https://img.shields.io/github/forks/punkpeye/awesome-mcp-clients?style=flat-square&labelColor=343b41)](https://github.com/punkpeye/awesome-mcp-clients/network/members) [![Last Commit](https://img.shields.io/github/last-commit/punkpeye/awesome-mcp-clients?style=flat-square&labelColor=343b41)](https://github.com/punkpeye/awesome-mcp-clients/commits)
+
+</div>
+
+`clients` `mcp`
 
 ---
 
@@ -3011,20 +3011,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/11601040?v=4" width="20" align="top" alt="3b1b"/> [3b1b/manim](https://github.com/3b1b/manim) 🔥🔥🔥
-
-> Animation engine for explanatory math videos
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/3b1b/manim?style=flat-square&labelColor=343b41)](https://github.com/3b1b/manim/stargazers) [![Forks](https://img.shields.io/github/forks/3b1b/manim?style=flat-square&labelColor=343b41)](https://github.com/3b1b/manim/network/members) [![Last Commit](https://img.shields.io/github/last-commit/3b1b/manim?style=flat-square&labelColor=343b41)](https://github.com/3b1b/manim/commits)
-
-</div>
-
-`3b1b-videos` `animation` `explanatory-math-videos` `python`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/121283862?v=4" width="20" align="top" alt="comfyanonymous"/> [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) 🔥🔥🔥
 
 > The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -3036,6 +3022,20 @@
 </div>
 
 `pytorch` `stable-diffusion`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/11601040?v=4" width="20" align="top" alt="3b1b"/> [3b1b/manim](https://github.com/3b1b/manim) 🔥🔥🔥
+
+> Animation engine for explanatory math videos
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/3b1b/manim?style=flat-square&labelColor=343b41)](https://github.com/3b1b/manim/stargazers) [![Forks](https://img.shields.io/github/forks/3b1b/manim?style=flat-square&labelColor=343b41)](https://github.com/3b1b/manim/network/members) [![Last Commit](https://img.shields.io/github/last-commit/3b1b/manim?style=flat-square&labelColor=343b41)](https://github.com/3b1b/manim/commits)
+
+</div>
+
+`3b1b-videos` `animation` `explanatory-math-videos` `python`
 
 ---
 
@@ -3952,6 +3952,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/38466901?v=4" width="20" align="top" alt="Hannibal046"/> [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) 🔥🔥🔥
+
+> Awesome-LLM: a curated list of Large Language Model
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=flat-square&labelColor=343b41)](https://github.com/Hannibal046/Awesome-LLM/stargazers) [![Forks](https://img.shields.io/github/forks/Hannibal046/Awesome-LLM?style=flat-square&labelColor=343b41)](https://github.com/Hannibal046/Awesome-LLM/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Hannibal046/Awesome-LLM?style=flat-square&labelColor=343b41)](https://github.com/Hannibal046/Awesome-LLM/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/3000285?v=4" width="20" align="top" alt="trekhleb"/> [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) 🔥🔥🔥
 
 > 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
@@ -3963,18 +3975,6 @@
 </div>
 
 `algorithm` `jupyter` `jupyter-notebook` `machine-learning` `machine-learning-algorithms`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/38466901?v=4" width="20" align="top" alt="Hannibal046"/> [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) 🔥🔥🔥
-
-> Awesome-LLM: a curated list of Large Language Model
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=flat-square&labelColor=343b41)](https://github.com/Hannibal046/Awesome-LLM/stargazers) [![Forks](https://img.shields.io/github/forks/Hannibal046/Awesome-LLM?style=flat-square&labelColor=343b41)](https://github.com/Hannibal046/Awesome-LLM/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Hannibal046/Awesome-LLM?style=flat-square&labelColor=343b41)](https://github.com/Hannibal046/Awesome-LLM/commits)
-
-</div>
 
 ---
 
@@ -4800,18 +4800,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/7881316?v=4" width="20" align="top" alt="CathyQian"/> [CathyQian/Machine-Learning-System-Design](https://github.com/CathyQian/Machine-Learning-System-Design)
-
-> A collection of useful resources for Machine Learning System Design
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/CathyQian/Machine-Learning-System-Design?style=flat-square&labelColor=343b41)](https://github.com/CathyQian/Machine-Learning-System-Design/stargazers) [![Forks](https://img.shields.io/github/forks/CathyQian/Machine-Learning-System-Design?style=flat-square&labelColor=343b41)](https://github.com/CathyQian/Machine-Learning-System-Design/network/members) [![Last Commit](https://img.shields.io/github/last-commit/CathyQian/Machine-Learning-System-Design?style=flat-square&labelColor=343b41)](https://github.com/CathyQian/Machine-Learning-System-Design/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/18608293?v=4" width="20" align="top" alt="primaprashant"/> [primaprashant/llms-in-production](https://github.com/primaprashant/llms-in-production)
 
 > 📚 Curated collection of engineering blogs detailing real-world applications of LLMs in solving specific business problems.
@@ -4823,6 +4811,18 @@
 </div>
 
 `ai` `applied-machine-learning` `applied-ml` `artificial-intelligence` `awesome-list`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/7881316?v=4" width="20" align="top" alt="CathyQian"/> [CathyQian/Machine-Learning-System-Design](https://github.com/CathyQian/Machine-Learning-System-Design)
+
+> A collection of useful resources for Machine Learning System Design
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/CathyQian/Machine-Learning-System-Design?style=flat-square&labelColor=343b41)](https://github.com/CathyQian/Machine-Learning-System-Design/stargazers) [![Forks](https://img.shields.io/github/forks/CathyQian/Machine-Learning-System-Design?style=flat-square&labelColor=343b41)](https://github.com/CathyQian/Machine-Learning-System-Design/network/members) [![Last Commit](https://img.shields.io/github/last-commit/CathyQian/Machine-Learning-System-Design?style=flat-square&labelColor=343b41)](https://github.com/CathyQian/Machine-Learning-System-Design/commits)
+
+</div>
 
 ---
 
@@ -6004,7 +6004,7 @@
 <h2 id="others">🔖 Others</h2>
 
 <details>
-<summary>Show repositories (55)</summary>
+<summary>Show repositories (56)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6240,20 +6240,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/10793962?v=4" width="20" align="top" alt="keon"/> [keon/algorithms](https://github.com/keon/algorithms) 🔥🔥🔥
-
-> Minimal examples of data structures and algorithms in Python
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/keon/algorithms?style=flat-square&labelColor=343b41)](https://github.com/keon/algorithms/stargazers) [![Forks](https://img.shields.io/github/forks/keon/algorithms?style=flat-square&labelColor=343b41)](https://github.com/keon/algorithms/network/members) [![Last Commit](https://img.shields.io/github/last-commit/keon/algorithms?style=flat-square&labelColor=343b41)](https://github.com/keon/algorithms/commits)
-
-</div>
-
-`algorithm` `algorithms` `competitive-programming` `data-structure` `graph`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/159397742?v=4" width="20" align="top" alt="glanceapp"/> [glanceapp/glance](https://github.com/glanceapp/glance) 🔥🔥🔥
 
 > A self-hosted dashboard that puts all your feeds in one place
@@ -6265,6 +6251,20 @@
 </div>
 
 `aggregator` `dashboard` `docker` `feed-reader` `go`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/10793962?v=4" width="20" align="top" alt="keon"/> [keon/algorithms](https://github.com/keon/algorithms) 🔥🔥🔥
+
+> Minimal examples of data structures and algorithms in Python
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/keon/algorithms?style=flat-square&labelColor=343b41)](https://github.com/keon/algorithms/stargazers) [![Forks](https://img.shields.io/github/forks/keon/algorithms?style=flat-square&labelColor=343b41)](https://github.com/keon/algorithms/network/members) [![Last Commit](https://img.shields.io/github/last-commit/keon/algorithms?style=flat-square&labelColor=343b41)](https://github.com/keon/algorithms/commits)
+
+</div>
+
+`algorithm` `algorithms` `competitive-programming` `data-structure` `graph`
 
 ---
 
@@ -6516,18 +6516,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/18418340?v=4" width="20" align="top" alt="hotheadhacker"/> [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) 🔥
-
-> 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/stargazers) [![Forks](https://img.shields.io/github/forks/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/network/members) [![Last Commit](https://img.shields.io/github/last-commit/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/NLWeb](https://github.com/microsoft/NLWeb) 🔥
 
 > Natural Language Web
@@ -6535,6 +6523,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/microsoft/NLWeb?style=flat-square&labelColor=343b41)](https://github.com/microsoft/NLWeb/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/NLWeb?style=flat-square&labelColor=343b41)](https://github.com/microsoft/NLWeb/network/members) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/NLWeb?style=flat-square&labelColor=343b41)](https://github.com/microsoft/NLWeb/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/18418340?v=4" width="20" align="top" alt="hotheadhacker"/> [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) 🔥
+
+> 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/stargazers) [![Forks](https://img.shields.io/github/forks/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/network/members) [![Last Commit](https://img.shields.io/github/last-commit/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/commits)
 
 </div>
 
@@ -6630,6 +6630,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/182288589?v=4" width="20" align="top" alt="modelcontextprotocol"/> [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) 🔥
+
+> A community driven registry service for Model Context Protocol (MCP) servers.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/modelcontextprotocol/registry?style=flat-square&labelColor=343b41)](https://github.com/modelcontextprotocol/registry/stargazers) [![Forks](https://img.shields.io/github/forks/modelcontextprotocol/registry?style=flat-square&labelColor=343b41)](https://github.com/modelcontextprotocol/registry/network/members) [![Last Commit](https://img.shields.io/github/last-commit/modelcontextprotocol/registry?style=flat-square&labelColor=343b41)](https://github.com/modelcontextprotocol/registry/commits)
+
+</div>
+
+`mcp` `mcp-servers`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/26892745?v=4" width="20" align="top" alt="AatmikJain"/> [AatmikJain/ComputerScienceBooks](https://github.com/AatmikJain/ComputerScienceBooks) 🔥
 
 > Some Useful books for Computer Science
@@ -6641,20 +6655,6 @@
 </div>
 
 `books` `computer-science`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/182288589?v=4" width="20" align="top" alt="modelcontextprotocol"/> [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)
-
-> A community driven registry service for Model Context Protocol (MCP) servers.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/modelcontextprotocol/registry?style=flat-square&labelColor=343b41)](https://github.com/modelcontextprotocol/registry/stargazers) [![Forks](https://img.shields.io/github/forks/modelcontextprotocol/registry?style=flat-square&labelColor=343b41)](https://github.com/modelcontextprotocol/registry/network/members) [![Last Commit](https://img.shields.io/github/last-commit/modelcontextprotocol/registry?style=flat-square&labelColor=343b41)](https://github.com/modelcontextprotocol/registry/commits)
-
-</div>
-
-`mcp` `mcp-servers`
 
 ---
 
@@ -6727,6 +6727,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/nornagon/twitter-bookmark-archiver?style=flat-square&labelColor=343b41)](https://github.com/nornagon/twitter-bookmark-archiver/stargazers) [![Forks](https://img.shields.io/github/forks/nornagon/twitter-bookmark-archiver?style=flat-square&labelColor=343b41)](https://github.com/nornagon/twitter-bookmark-archiver/network/members) [![Last Commit](https://img.shields.io/github/last-commit/nornagon/twitter-bookmark-archiver?style=flat-square&labelColor=343b41)](https://github.com/nornagon/twitter-bookmark-archiver/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/34525670?v=4" width="20" align="top" alt="landing-ai"/> [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc)
+
+> Python library for Agentic Document Extraction from LandingAI
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/stargazers) [![Forks](https://img.shields.io/github/forks/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/network/members) [![Last Commit](https://img.shields.io/github/last-commit/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/commits)
 
 </div>
 
