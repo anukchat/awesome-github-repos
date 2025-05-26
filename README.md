@@ -990,6 +990,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/901795?v=4" width="20" align="top" alt="virattt"/> [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) 🔥🔥🔥
+
+> An AI Hedge Fund Team
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/stargazers) [![Forks](https://img.shields.io/github/forks/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/network/members) [![Last Commit](https://img.shields.io/github/last-commit/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/123263103?v=4" width="20" align="top" alt="Pythagora-io"/> [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) 🔥🔥🔥
 
 > The first real AI developer
@@ -1001,18 +1013,6 @@
 </div>
 
 `ai` `codegen` `coding-assistant` `developer-tools` `gpt-4`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/901795?v=4" width="20" align="top" alt="virattt"/> [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) 🔥🔥🔥
-
-> An AI Hedge Fund Team
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/stargazers) [![Forks](https://img.shields.io/github/forks/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/network/members) [![Last Commit](https://img.shields.io/github/last-commit/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/commits)
-
-</div>
 
 ---
 
@@ -5170,7 +5170,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/1178890?v=4" width="20" align="top" alt="antiwork"/> [antiwork/shortest](https://github.com/antiwork/shortest) 🔥
+### <img src="https://avatars.githubusercontent.com/u/1178890?v=4" width="20" align="top" alt="antiwork"/> [antiwork/shortest](https://github.com/antiwork/shortest) 🔥🔥
 
 > QA via natural language AI tests
 
