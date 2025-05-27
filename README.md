@@ -1,5 +1,4 @@
-
-<p align="center"><img src="assets/awesome-logo.png" width="120" alt="Awesome Repos"/></p>
+<p align="center"><img src="assets/awesome-logo.png" width="120" alt="Awesome Repos"/></p>;
 <h1 align="center">🚀 Awesome GitHub Repos</h1>
 <p align="center">A categorized showcase of my ⭐️-starred repositories.</p>
 
@@ -1404,20 +1403,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/98760976?v=4" width="20" align="top" alt="kyegomez"/> [kyegomez/swarms](https://github.com/kyegomez/swarms) 🔥
-
-> The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/kyegomez/swarms?style=flat-square&labelColor=343b41)](https://github.com/kyegomez/swarms/stargazers) [![Forks](https://img.shields.io/github/forks/kyegomez/swarms?style=flat-square&labelColor=343b41)](https://github.com/kyegomez/swarms/network/members) [![Last Commit](https://img.shields.io/github/last-commit/kyegomez/swarms?style=flat-square&labelColor=343b41)](https://github.com/kyegomez/swarms/commits)
-
-</div>
-
-`agents` `ai` `artificial-intelligence` `attention-mechanism` `chatgpt`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) 🔥
 
 > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
@@ -1429,6 +1414,20 @@
 </div>
 
 `agent` `ai` `automation` `data-mining` `data-science`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/98760976?v=4" width="20" align="top" alt="kyegomez"/> [kyegomez/swarms](https://github.com/kyegomez/swarms) 🔥
+
+> The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/kyegomez/swarms?style=flat-square&labelColor=343b41)](https://github.com/kyegomez/swarms/stargazers) [![Forks](https://img.shields.io/github/forks/kyegomez/swarms?style=flat-square&labelColor=343b41)](https://github.com/kyegomez/swarms/network/members) [![Last Commit](https://img.shields.io/github/last-commit/kyegomez/swarms?style=flat-square&labelColor=343b41)](https://github.com/kyegomez/swarms/commits)
+
+</div>
+
+`agents` `ai` `artificial-intelligence` `attention-mechanism` `chatgpt`
 
 ---
 
@@ -1823,7 +1822,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/139582646?v=4" width="20" align="top" alt="getmaxun"/> [getmaxun/maxun](https://github.com/getmaxun/maxun) 🔥🔥🔥
 
-> 🔥 Open Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
+> ⚡️ Open Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes ⚡️
 
 <div align="center">
 
@@ -2158,20 +2157,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/127876214?v=4" width="20" align="top" alt="continuedev"/> [continuedev/continue](https://github.com/continuedev/continue) 🔥🔥🔥
-
-> ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/continuedev/continue?style=flat-square&labelColor=343b41)](https://github.com/continuedev/continue/stargazers) [![Forks](https://img.shields.io/github/forks/continuedev/continue?style=flat-square&labelColor=343b41)](https://github.com/continuedev/continue/network/members) [![Last Commit](https://img.shields.io/github/last-commit/continuedev/continue?style=flat-square&labelColor=343b41)](https://github.com/continuedev/continue/commits)
-
-</div>
-
-`ai` `chatgpt` `copilot` `developer-tools` `intellij`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/1016365?v=4" width="20" align="top" alt="PatrickJS"/> [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) 🔥🔥🔥
 
 > 📄 A curated list of awesome .cursorrules files
@@ -2183,6 +2168,20 @@
 </div>
 
 `awesome` `awesome-list` `cursor` `cursor-ai-editor` `cursorrules`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/127876214?v=4" width="20" align="top" alt="continuedev"/> [continuedev/continue](https://github.com/continuedev/continue) 🔥🔥🔥
+
+> ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/continuedev/continue?style=flat-square&labelColor=343b41)](https://github.com/continuedev/continue/stargazers) [![Forks](https://img.shields.io/github/forks/continuedev/continue?style=flat-square&labelColor=343b41)](https://github.com/continuedev/continue/network/members) [![Last Commit](https://img.shields.io/github/last-commit/continuedev/continue?style=flat-square&labelColor=343b41)](https://github.com/continuedev/continue/commits)
+
+</div>
+
+`ai` `chatgpt` `copilot` `developer-tools` `intellij`
 
 ---
 
@@ -2296,20 +2295,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/16309564?v=4" width="20" align="top" alt="remarkjs"/> [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) 🔥🔥🔥
-
-> Markdown component for React
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/remarkjs/react-markdown?style=flat-square&labelColor=343b41)](https://github.com/remarkjs/react-markdown/stargazers) [![Forks](https://img.shields.io/github/forks/remarkjs/react-markdown?style=flat-square&labelColor=343b41)](https://github.com/remarkjs/react-markdown/network/members) [![Last Commit](https://img.shields.io/github/last-commit/remarkjs/react-markdown?style=flat-square&labelColor=343b41)](https://github.com/remarkjs/react-markdown/commits)
-
-</div>
-
-`commonmark` `gfm` `markdown` `react` `remark`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="20" align="top" alt="github"/> [github/github-mcp-server](https://github.com/github/github-mcp-server) 🔥🔥🔥
 
 > GitHub's official MCP Server
@@ -2321,6 +2306,20 @@
 </div>
 
 `github` `mcp` `mcp-server`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/16309564?v=4" width="20" align="top" alt="remarkjs"/> [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) 🔥🔥🔥
+
+> Markdown component for React
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/remarkjs/react-markdown?style=flat-square&labelColor=343b41)](https://github.com/remarkjs/react-markdown/stargazers) [![Forks](https://img.shields.io/github/forks/remarkjs/react-markdown?style=flat-square&labelColor=343b41)](https://github.com/remarkjs/react-markdown/network/members) [![Last Commit](https://img.shields.io/github/last-commit/remarkjs/react-markdown?style=flat-square&labelColor=343b41)](https://github.com/remarkjs/react-markdown/commits)
+
+</div>
+
+`commonmark` `gfm` `markdown` `react` `remark`
 
 ---
 
@@ -2500,7 +2499,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/140440022?v=4" width="20" align="top" alt="guardrails-ai"/> [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) 🔥
+### <img src="https://avatars.githubusercontent.com/u/140440022?v=4" width="20" align="top" alt="guardrails-ai"/> [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) 🔥🔥
 
 > Adding guardrails to large language models.
 
@@ -5696,18 +5695,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/31459889?v=4" width="20" align="top" alt="jordancharest"/> [jordancharest/AI-for-Robotics](https://github.com/jordancharest/AI-for-Robotics)
-
-> Artificial Intelligence for Robotics. An effort to learn the basics of localization, search, PID control, and SLAM
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/jordancharest/AI-for-Robotics?style=flat-square&labelColor=343b41)](https://github.com/jordancharest/AI-for-Robotics/stargazers) [![Forks](https://img.shields.io/github/forks/jordancharest/AI-for-Robotics?style=flat-square&labelColor=343b41)](https://github.com/jordancharest/AI-for-Robotics/network/members) [![Last Commit](https://img.shields.io/github/last-commit/jordancharest/AI-for-Robotics?style=flat-square&labelColor=343b41)](https://github.com/jordancharest/AI-for-Robotics/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/22428774?v=4" width="20" align="top" alt="turhancan97"/> [turhancan97/Artificial-Intelligence-for-Robotics](https://github.com/turhancan97/Artificial-Intelligence-for-Robotics)
 
 > Basic methods in Artificial Intelligence, including: probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics. Extensive programming examples and assignments will apply these methods in the context of building self-driving cars.
@@ -5719,6 +5706,18 @@
 </div>
 
 `ai` `artificial-intelligence` `probability` `robotics`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/31459889?v=4" width="20" align="top" alt="jordancharest"/> [jordancharest/AI-for-Robotics](https://github.com/jordancharest/AI-for-Robotics)
+
+> Artificial Intelligence for Robotics. An effort to learn the basics of localization, search, PID control, and SLAM
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/jordancharest/AI-for-Robotics?style=flat-square&labelColor=343b41)](https://github.com/jordancharest/AI-for-Robotics/stargazers) [![Forks](https://img.shields.io/github/forks/jordancharest/AI-for-Robotics?style=flat-square&labelColor=343b41)](https://github.com/jordancharest/AI-for-Robotics/network/members) [![Last Commit](https://img.shields.io/github/last-commit/jordancharest/AI-for-Robotics?style=flat-square&labelColor=343b41)](https://github.com/jordancharest/AI-for-Robotics/commits)
+
+</div>
 
 </details>
 
@@ -6006,7 +6005,7 @@
 <h2 id="others">🔖 Others</h2>
 
 <details>
-<summary>Show repositories (57)</summary>
+<summary>Show repositories (58)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6450,6 +6449,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/49105846?v=4" width="20" align="top" alt="Fosowl"/> [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) 🔥🔥
+
+> Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/stargazers) [![Forks](https://img.shields.io/github/forks/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/commits)
+
+</div>
+
+`agentic-ai` `agents` `ai` `deepseek-r1` `llm`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/145366395?v=4" width="20" align="top" alt="midday-ai"/> [midday-ai/midday](https://github.com/midday-ai/midday) 🔥🔥
 
 > Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
@@ -6478,16 +6491,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/1178890?v=4" width="20" align="top" alt="antiwork"/> [antiwork/gumroad](https://github.com/antiwork/gumroad) 🔥🔥
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/stargazers) [![Forks](https://img.shields.io/github/forks/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/network/members) [![Last Commit](https://img.shields.io/github/last-commit/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/3299148?v=4" width="20" align="top" alt="awslabs"/> [awslabs/agent-squad](https://github.com/awslabs/agent-squad) 🔥🔥
 
 > Flexible and powerful framework for managing multiple AI agents and handling complex conversations
@@ -6499,6 +6502,16 @@
 </div>
 
 `aws` `aws-bedrock` `anthropic-claude` `aws-cdk` `aws-lambda`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/1178890?v=4" width="20" align="top" alt="antiwork"/> [antiwork/gumroad](https://github.com/antiwork/gumroad) 🔥🔥
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/stargazers) [![Forks](https://img.shields.io/github/forks/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/network/members) [![Last Commit](https://img.shields.io/github/last-commit/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/commits)
+
+</div>
 
 ---
 
@@ -6658,6 +6671,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/161364575?v=4" width="20" align="top" alt="google-labs-code"/> [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) 🔥
+
+> Some awesome prompts for Jules Agent
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/google-labs-code/jules-awesome-list?style=flat-square&labelColor=343b41)](https://github.com/google-labs-code/jules-awesome-list/stargazers) [![Forks](https://img.shields.io/github/forks/google-labs-code/jules-awesome-list?style=flat-square&labelColor=343b41)](https://github.com/google-labs-code/jules-awesome-list/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-labs-code/jules-awesome-list?style=flat-square&labelColor=343b41)](https://github.com/google-labs-code/jules-awesome-list/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/26892745?v=4" width="20" align="top" alt="AatmikJain"/> [AatmikJain/ComputerScienceBooks](https://github.com/AatmikJain/ComputerScienceBooks) 🔥
 
 > Some Useful books for Computer Science
@@ -6669,18 +6694,6 @@
 </div>
 
 `books` `computer-science`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/161364575?v=4" width="20" align="top" alt="google-labs-code"/> [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) 🔥
-
-> Some awesome prompts for Jules Agent
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/google-labs-code/jules-awesome-list?style=flat-square&labelColor=343b41)](https://github.com/google-labs-code/jules-awesome-list/stargazers) [![Forks](https://img.shields.io/github/forks/google-labs-code/jules-awesome-list?style=flat-square&labelColor=343b41)](https://github.com/google-labs-code/jules-awesome-list/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-labs-code/jules-awesome-list?style=flat-square&labelColor=343b41)](https://github.com/google-labs-code/jules-awesome-list/commits)
-
-</div>
 
 ---
 
