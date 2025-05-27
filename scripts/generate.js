@@ -246,7 +246,7 @@ Do not include any other text, explanations, or formatting in your response.`;
   }
 
   // Start generating markdown
-  let md = `<p align="center"><img src="assets/awesome-logo.png" width="120" alt="Awesome Repos"/></p>`;
+  let md = `<p align="center"><img src="assets/awesome-logo.png" width="120" alt="Awesome Repos"/></p>;
 <h1 align="center">🚀 Awesome GitHub Repos</h1>
 <p align="center">A categorized showcase of my ⭐️-starred repositories.</p>
 
