@@ -1596,18 +1596,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/167638923?v=4" width="20" align="top" alt="s-smits"/> [s-smits/agentic-cursorrules](https://github.com/s-smits/agentic-cursorrules)
-
-> A practical approach to managing multiple AI agents in Cursor through strict file-tree partitioning and domain boundaries.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/s-smits/agentic-cursorrules?style=flat-square&labelColor=343b41)](https://github.com/s-smits/agentic-cursorrules/stargazers) [![Forks](https://img.shields.io/github/forks/s-smits/agentic-cursorrules?style=flat-square&labelColor=343b41)](https://github.com/s-smits/agentic-cursorrules/network/members) [![Last Commit](https://img.shields.io/github/last-commit/s-smits/agentic-cursorrules?style=flat-square&labelColor=343b41)](https://github.com/s-smits/agentic-cursorrules/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/104874993?v=4" width="20" align="top" alt="agno-agi"/> [agno-agi/agent-ui](https://github.com/agno-agi/agent-ui)
 
 > A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript. 
@@ -1619,6 +1607,18 @@
 </div>
 
 `agent` `agno` `ai` `chat` `self-hosted`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/167638923?v=4" width="20" align="top" alt="s-smits"/> [s-smits/agentic-cursorrules](https://github.com/s-smits/agentic-cursorrules)
+
+> A practical approach to managing multiple AI agents in Cursor through strict file-tree partitioning and domain boundaries.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/s-smits/agentic-cursorrules?style=flat-square&labelColor=343b41)](https://github.com/s-smits/agentic-cursorrules/stargazers) [![Forks](https://img.shields.io/github/forks/s-smits/agentic-cursorrules?style=flat-square&labelColor=343b41)](https://github.com/s-smits/agentic-cursorrules/network/members) [![Last Commit](https://img.shields.io/github/last-commit/s-smits/agentic-cursorrules?style=flat-square&labelColor=343b41)](https://github.com/s-smits/agentic-cursorrules/commits)
+
+</div>
 
 ---
 
@@ -1674,6 +1674,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/195963520?v=4" width="20" align="top" alt="temporal-community"/> [temporal-community/temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent)
+
+> This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/temporal-community/temporal-ai-agent?style=flat-square&labelColor=343b41)](https://github.com/temporal-community/temporal-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/temporal-community/temporal-ai-agent?style=flat-square&labelColor=343b41)](https://github.com/temporal-community/temporal-ai-agent/network/members) [![Last Commit](https://img.shields.io/github/last-commit/temporal-community/temporal-ai-agent?style=flat-square&labelColor=343b41)](https://github.com/temporal-community/temporal-ai-agent/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/30129211?v=4" width="20" align="top" alt="e-johnstonn"/> [e-johnstonn/SalesCopilot](https://github.com/e-johnstonn/SalesCopilot)
 
 > Intelligent sales assistant built using Deep Lake, Whisper, LangChain, and GPT 3.5/4
@@ -1685,18 +1697,6 @@
 </div>
 
 `deeplake` `whisper-ai`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/195963520?v=4" width="20" align="top" alt="temporal-community"/> [temporal-community/temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent)
-
-> This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/temporal-community/temporal-ai-agent?style=flat-square&labelColor=343b41)](https://github.com/temporal-community/temporal-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/temporal-community/temporal-ai-agent?style=flat-square&labelColor=343b41)](https://github.com/temporal-community/temporal-ai-agent/network/members) [![Last Commit](https://img.shields.io/github/last-commit/temporal-community/temporal-ai-agent?style=flat-square&labelColor=343b41)](https://github.com/temporal-community/temporal-ai-agent/commits)
-
-</div>
 
 ---
 
@@ -2130,20 +2130,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/104874993?v=4" width="20" align="top" alt="agno-agi"/> [agno-agi/agno](https://github.com/agno-agi/agno) 🔥🔥🔥
-
-> Agno is a lightweight, high-performance library for building Agents.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/agno-agi/agno?style=flat-square&labelColor=343b41)](https://github.com/agno-agi/agno/stargazers) [![Forks](https://img.shields.io/github/forks/agno-agi/agno?style=flat-square&labelColor=343b41)](https://github.com/agno-agi/agno/network/members) [![Last Commit](https://img.shields.io/github/last-commit/agno-agi/agno?style=flat-square&labelColor=343b41)](https://github.com/agno-agi/agno/commits)
-
-</div>
-
-`agents` `agi` `ai` `developer-tools` `framework`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/29575074?v=4" width="20" align="top" alt="yeongpin"/> [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) 🔥🔥🔥
 
 > [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
@@ -2155,6 +2141,20 @@
 </div>
 
 `automation` `cursor` `cursor-ai` `cursor-ide` `cursorai`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/104874993?v=4" width="20" align="top" alt="agno-agi"/> [agno-agi/agno](https://github.com/agno-agi/agno) 🔥🔥🔥
+
+> Agno is a lightweight, high-performance library for building Agents.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/agno-agi/agno?style=flat-square&labelColor=343b41)](https://github.com/agno-agi/agno/stargazers) [![Forks](https://img.shields.io/github/forks/agno-agi/agno?style=flat-square&labelColor=343b41)](https://github.com/agno-agi/agno/network/members) [![Last Commit](https://img.shields.io/github/last-commit/agno-agi/agno?style=flat-square&labelColor=343b41)](https://github.com/agno-agi/agno/commits)
+
+</div>
+
+`agents` `agi` `ai` `developer-tools` `framework`
 
 ---
 
@@ -2828,6 +2828,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/48523873?v=4" width="20" align="top" alt="rohitg00"/> [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server)
+
+> Chat with your Kubernetes Cluster using AI tools and IDEs like Claude and Cursor!
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/rohitg00/kubectl-mcp-server?style=flat-square&labelColor=343b41)](https://github.com/rohitg00/kubectl-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/rohitg00/kubectl-mcp-server?style=flat-square&labelColor=343b41)](https://github.com/rohitg00/kubectl-mcp-server/network/members) [![Last Commit](https://img.shields.io/github/last-commit/rohitg00/kubectl-mcp-server?style=flat-square&labelColor=343b41)](https://github.com/rohitg00/kubectl-mcp-server/commits)
+
+</div>
+
+`ai` `deployment` `devops` `genai` `kubernetes`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/113581962?v=4" width="20" align="top" alt="meetpateltech"/> [meetpateltech/AI-Infinity](https://github.com/meetpateltech/AI-Infinity)
 
 > A set of AI tools that will help you explore the infinite possibilities of AI.
@@ -2842,28 +2856,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/48523873?v=4" width="20" align="top" alt="rohitg00"/> [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server)
-
-> A Model Context Protocol (MCP) server for Kubernetes that enables AI assistants like Claude, Cursor, and others to interact with Kubernetes clusters through natural language.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/rohitg00/kubectl-mcp-server?style=flat-square&labelColor=343b41)](https://github.com/rohitg00/kubectl-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/rohitg00/kubectl-mcp-server?style=flat-square&labelColor=343b41)](https://github.com/rohitg00/kubectl-mcp-server/network/members) [![Last Commit](https://img.shields.io/github/last-commit/rohitg00/kubectl-mcp-server?style=flat-square&labelColor=343b41)](https://github.com/rohitg00/kubectl-mcp-server/commits)
-
-</div>
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/agent-protocol](https://github.com/langchain-ai/agent-protocol)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/agent-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/agent-protocol/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/agent-protocol/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/62574431?v=4" width="20" align="top" alt="rkinas"/> [rkinas/triton-resources](https://github.com/rkinas/triton-resources)
 
 > A curated list of resources for learning and exploring Triton, OpenAI's programming language for writing efficient GPU code.
@@ -2875,6 +2867,16 @@
 </div>
 
 `cuda` `triton`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/agent-protocol](https://github.com/langchain-ai/agent-protocol)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/agent-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/agent-protocol/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41)](https://github.com/langchain-ai/agent-protocol/commits)
+
+</div>
 
 ---
 
@@ -4170,6 +4172,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/courses](https://github.com/anthropics/courses) 🔥🔥🔥
+
+> Anthropic's educational courses
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/11657655?v=4" width="20" align="top" alt="ritchieng"/> [ritchieng/the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) 🔥🔥🔥
 
 > The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch. 
@@ -4181,18 +4195,6 @@
 </div>
 
 `deep-learning` `deep-learning-library` `deep-learning-tutorial` `deep-neural-networks` `python`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/courses](https://github.com/anthropics/courses) 🔥🔥🔥
-
-> Anthropic's educational courses
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/commits)
-
-</div>
 
 ---
 
@@ -6004,7 +6006,7 @@
 <h2 id="others">🔖 Others</h2>
 
 <details>
-<summary>Show repositories (56)</summary>
+<summary>Show repositories (57)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6114,6 +6116,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/241138?v=4" width="20" align="top" alt="karpathy"/> [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) 🔥🔥🔥
+
+> The simplest, fastest repository for training/finetuning medium-sized GPTs.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/karpathy/nanoGPT?style=flat-square&labelColor=343b41)](https://github.com/karpathy/nanoGPT/stargazers) [![Forks](https://img.shields.io/github/forks/karpathy/nanoGPT?style=flat-square&labelColor=343b41)](https://github.com/karpathy/nanoGPT/network/members) [![Last Commit](https://img.shields.io/github/last-commit/karpathy/nanoGPT?style=flat-square&labelColor=343b41)](https://github.com/karpathy/nanoGPT/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/135057108?v=4" width="20" align="top" alt="mendableai"/> [mendableai/firecrawl](https://github.com/mendableai/firecrawl) 🔥🔥🔥
 
 > 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
@@ -6170,20 +6184,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/103972607?v=4" width="20" align="top" alt="HeyPuter"/> [HeyPuter/puter](https://github.com/HeyPuter/puter) 🔥🔥🔥
-
-> 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/HeyPuter/puter?style=flat-square&labelColor=343b41)](https://github.com/HeyPuter/puter/stargazers) [![Forks](https://img.shields.io/github/forks/HeyPuter/puter?style=flat-square&labelColor=343b41)](https://github.com/HeyPuter/puter/network/members) [![Last Commit](https://img.shields.io/github/last-commit/HeyPuter/puter?style=flat-square&labelColor=343b41)](https://github.com/HeyPuter/puter/commits)
-
-</div>
-
-`desktop` `desktop-environment` `osjs` `web-desktop` `webtop`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/137054526?v=4" width="20" align="top" alt="mem0ai"/> [mem0ai/mem0](https://github.com/mem0ai/mem0) 🔥🔥🔥
 
 > Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
@@ -6195,6 +6195,20 @@
 </div>
 
 `ai` `chatgpt` `llm` `python` `chatbots`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/103972607?v=4" width="20" align="top" alt="HeyPuter"/> [HeyPuter/puter](https://github.com/HeyPuter/puter) 🔥🔥🔥
+
+> 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/HeyPuter/puter?style=flat-square&labelColor=343b41)](https://github.com/HeyPuter/puter/stargazers) [![Forks](https://img.shields.io/github/forks/HeyPuter/puter?style=flat-square&labelColor=343b41)](https://github.com/HeyPuter/puter/network/members) [![Last Commit](https://img.shields.io/github/last-commit/HeyPuter/puter?style=flat-square&labelColor=343b41)](https://github.com/HeyPuter/puter/commits)
+
+</div>
+
+`desktop` `desktop-environment` `osjs` `web-desktop` `webtop`
 
 ---
 
@@ -6618,7 +6632,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/31841517?v=4" width="20" align="top" alt="aaPanel"/> [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) 🔥
 
-> BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees.
+> BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV
 
 <div align="center">
 
@@ -6658,7 +6672,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/161364575?v=4" width="20" align="top" alt="google-labs-code"/> [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list)
+### <img src="https://avatars.githubusercontent.com/u/161364575?v=4" width="20" align="top" alt="google-labs-code"/> [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) 🔥
 
 > Some awesome prompts for Jules Agent
 
