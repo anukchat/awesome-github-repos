@@ -1459,6 +1459,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/172591271?v=4" width="20" align="top" alt="rowboatlabs"/> [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) 🔥
+
+> AI-powered multi-agent builder
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/rowboatlabs/rowboat?style=flat-square&labelColor=343b41)](https://github.com/rowboatlabs/rowboat/stargazers) [![Forks](https://img.shields.io/github/forks/rowboatlabs/rowboat?style=flat-square&labelColor=343b41)](https://github.com/rowboatlabs/rowboat/network/members) [![Last Commit](https://img.shields.io/github/last-commit/rowboatlabs/rowboat?style=flat-square&labelColor=343b41)](https://github.com/rowboatlabs/rowboat/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/8251002?v=4" width="20" align="top" alt="JoshuaC215"/> [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) 🔥
 
 > Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
@@ -1470,18 +1482,6 @@
 </div>
 
 `agents` `langgraph` `streamlit`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/172591271?v=4" width="20" align="top" alt="rowboatlabs"/> [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) 🔥
-
-> AI-powered multi-agent builder
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/rowboatlabs/rowboat?style=flat-square&labelColor=343b41)](https://github.com/rowboatlabs/rowboat/stargazers) [![Forks](https://img.shields.io/github/forks/rowboatlabs/rowboat?style=flat-square&labelColor=343b41)](https://github.com/rowboatlabs/rowboat/network/members) [![Last Commit](https://img.shields.io/github/last-commit/rowboatlabs/rowboat?style=flat-square&labelColor=343b41)](https://github.com/rowboatlabs/rowboat/commits)
-
-</div>
 
 ---
 
@@ -1836,7 +1836,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/158221360?v=4" width="20" align="top" alt="browserbase"/> [browserbase/stagehand](https://github.com/browserbase/stagehand) 🔥🔥🔥
 
-> An AI web browsing framework focused on simplicity and extensibility.
+> The TypeScript framework for automating browsers with AI
 
 <div align="center">
 
@@ -6435,20 +6435,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/11997567?v=4" width="20" align="top" alt="chiphuyen"/> [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) 🔥🔥
-
-> A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems"
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/chiphuyen/machine-learning-systems-design?style=flat-square&labelColor=343b41)](https://github.com/chiphuyen/machine-learning-systems-design/stargazers) [![Forks](https://img.shields.io/github/forks/chiphuyen/machine-learning-systems-design?style=flat-square&labelColor=343b41)](https://github.com/chiphuyen/machine-learning-systems-design/network/members) [![Last Commit](https://img.shields.io/github/last-commit/chiphuyen/machine-learning-systems-design?style=flat-square&labelColor=343b41)](https://github.com/chiphuyen/machine-learning-systems-design/commits)
-
-</div>
-
-`data-science` `machine-learning-production` `mlops`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/49105846?v=4" width="20" align="top" alt="Fosowl"/> [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) 🔥🔥
 
 > Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
@@ -6460,6 +6446,20 @@
 </div>
 
 `agentic-ai` `agents` `ai` `deepseek-r1` `llm`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/11997567?v=4" width="20" align="top" alt="chiphuyen"/> [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) 🔥🔥
+
+> A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems"
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/chiphuyen/machine-learning-systems-design?style=flat-square&labelColor=343b41)](https://github.com/chiphuyen/machine-learning-systems-design/stargazers) [![Forks](https://img.shields.io/github/forks/chiphuyen/machine-learning-systems-design?style=flat-square&labelColor=343b41)](https://github.com/chiphuyen/machine-learning-systems-design/network/members) [![Last Commit](https://img.shields.io/github/last-commit/chiphuyen/machine-learning-systems-design?style=flat-square&labelColor=343b41)](https://github.com/chiphuyen/machine-learning-systems-design/commits)
+
+</div>
+
+`data-science` `machine-learning-production` `mlops`
 
 ---
 
