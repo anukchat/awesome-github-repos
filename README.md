@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/awesome-logo.png" width="120" alt="Awesome Repos"/></p>;
+<p align="center"><img src="assets/awesome-logo.png" width="120" alt="Awesome Repos"/></p>
 <h1 align="center">🚀 Awesome GitHub Repos</h1>
 <p align="center">A categorized showcase of my ⭐️-starred repositories.</p>
 
@@ -1391,19 +1391,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/163192481?v=4" width="20" align="top" alt="OpenInterpreter"/> [OpenInterpreter/01](https://github.com/OpenInterpreter/01) 🔥🔥
-
-> The #1 open-source voice interface for desktop, mobile, and ESP32 chips.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/OpenInterpreter/01?style=flat-square&labelColor=343b41)](https://github.com/OpenInterpreter/01/stargazers) [![Forks](https://img.shields.io/github/forks/OpenInterpreter/01?style=flat-square&labelColor=343b41)](https://github.com/OpenInterpreter/01/network/members) [![Last Commit](https://img.shields.io/github/last-commit/OpenInterpreter/01?style=flat-square&labelColor=343b41)](https://github.com/OpenInterpreter/01/commits)
-
-</div>
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) 🔥
+### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) 🔥🔥
 
 > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
 
@@ -1414,6 +1402,18 @@
 </div>
 
 `agent` `ai` `automation` `data-mining` `data-science`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/163192481?v=4" width="20" align="top" alt="OpenInterpreter"/> [OpenInterpreter/01](https://github.com/OpenInterpreter/01) 🔥🔥
+
+> The #1 open-source voice interface for desktop, mobile, and ESP32 chips.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/OpenInterpreter/01?style=flat-square&labelColor=343b41)](https://github.com/OpenInterpreter/01/stargazers) [![Forks](https://img.shields.io/github/forks/OpenInterpreter/01?style=flat-square&labelColor=343b41)](https://github.com/OpenInterpreter/01/network/members) [![Last Commit](https://img.shields.io/github/last-commit/OpenInterpreter/01?style=flat-square&labelColor=343b41)](https://github.com/OpenInterpreter/01/commits)
+
+</div>
 
 ---
 
@@ -1935,7 +1935,7 @@
 <h2 id="aisdkstools">🛠️ AI SDKs & Tools</h2>
 
 <details>
-<summary>Show repositories (78)</summary>
+<summary>Show repositories (77)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/51121562?v=4" width="20" align="top" alt="public-apis"/> [public-apis/public-apis](https://github.com/public-apis/public-apis) 🔥🔥🔥
 
@@ -2349,20 +2349,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/93734037?v=4" width="20" align="top" alt="xpipe-io"/> [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) 🔥🔥🔥
-
-> Access your entire server infrastructure from your local desktop
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/xpipe-io/xpipe?style=flat-square&labelColor=343b41)](https://github.com/xpipe-io/xpipe/stargazers) [![Forks](https://img.shields.io/github/forks/xpipe-io/xpipe?style=flat-square&labelColor=343b41)](https://github.com/xpipe-io/xpipe/network/members) [![Last Commit](https://img.shields.io/github/last-commit/xpipe-io/xpipe?style=flat-square&labelColor=343b41)](https://github.com/xpipe-io/xpipe/commits)
-
-</div>
-
-`bash` `docker` `filemanager` `files` `incus`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/153965?v=4" width="20" align="top" alt="jlowin"/> [jlowin/fastmcp](https://github.com/jlowin/fastmcp) 🔥🔥🔥
 
 > 🚀 The fast, Pythonic way to build MCP servers and clients
@@ -2374,6 +2360,20 @@
 </div>
 
 `agent` `fastmcp` `llm` `mcp` `mcp-client`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/93734037?v=4" width="20" align="top" alt="xpipe-io"/> [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) 🔥🔥🔥
+
+> Access your entire server infrastructure from your local desktop
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/xpipe-io/xpipe?style=flat-square&labelColor=343b41)](https://github.com/xpipe-io/xpipe/stargazers) [![Forks](https://img.shields.io/github/forks/xpipe-io/xpipe?style=flat-square&labelColor=343b41)](https://github.com/xpipe-io/xpipe/network/members) [![Last Commit](https://img.shields.io/github/last-commit/xpipe-io/xpipe?style=flat-square&labelColor=343b41)](https://github.com/xpipe-io/xpipe/commits)
+
+</div>
+
+`bash` `docker` `filemanager` `files` `incus`
 
 ---
 
@@ -2458,20 +2458,6 @@
 </div>
 
 `ollama` `python`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/2386538?v=4" width="20" align="top" alt="krillinai"/> [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) 🔥🔥
-
->  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/krillinai/KrillinAI?style=flat-square&labelColor=343b41)](https://github.com/krillinai/KrillinAI/stargazers) [![Forks](https://img.shields.io/github/forks/krillinai/KrillinAI?style=flat-square&labelColor=343b41)](https://github.com/krillinai/KrillinAI/network/members) [![Last Commit](https://img.shields.io/github/last-commit/krillinai/KrillinAI?style=flat-square&labelColor=343b41)](https://github.com/krillinai/KrillinAI/commits)
-
-</div>
-
-`dubbing` `localization` `tts` `video-transcription` `video-translation`
 
 ---
 
@@ -5396,7 +5382,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/54472864?v=4" width="20" align="top" alt="srbhr"/> [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) 🔥🔥
 
-> Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions. 
+> Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
 
 <div align="center">
 
@@ -5405,6 +5391,18 @@
 </div>
 
 `applicant-tracking-system` `ats` `hacktoberfest` `machine-learning` `natural-language-processing`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) 🔥
+
+> Anthropic's Interactive Prompt Engineering Tutorial
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/anthropics/prompt-eng-interactive-tutorial?style=flat-square&labelColor=343b41)](https://github.com/anthropics/prompt-eng-interactive-tutorial/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/prompt-eng-interactive-tutorial?style=flat-square&labelColor=343b41)](https://github.com/anthropics/prompt-eng-interactive-tutorial/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/prompt-eng-interactive-tutorial?style=flat-square&labelColor=343b41)](https://github.com/anthropics/prompt-eng-interactive-tutorial/commits)
+
+</div>
 
 ---
 
@@ -5419,18 +5417,6 @@
 </div>
 
 `elevenlabs` `gemini` `genai` `notebooklm` `openai`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) 🔥
-
-> Anthropic's Interactive Prompt Engineering Tutorial
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/anthropics/prompt-eng-interactive-tutorial?style=flat-square&labelColor=343b41)](https://github.com/anthropics/prompt-eng-interactive-tutorial/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/prompt-eng-interactive-tutorial?style=flat-square&labelColor=343b41)](https://github.com/anthropics/prompt-eng-interactive-tutorial/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/prompt-eng-interactive-tutorial?style=flat-square&labelColor=343b41)](https://github.com/anthropics/prompt-eng-interactive-tutorial/commits)
-
-</div>
 
 ---
 
@@ -6005,7 +5991,7 @@
 <h2 id="others">🔖 Others</h2>
 
 <details>
-<summary>Show repositories (58)</summary>
+<summary>Show repositories (61)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6365,6 +6351,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/49105846?v=4" width="20" align="top" alt="Fosowl"/> [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) 🔥🔥🔥
+
+> Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/stargazers) [![Forks](https://img.shields.io/github/forks/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/commits)
+
+</div>
+
+`agentic-ai` `agents` `ai` `deepseek-r1` `llm`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/111946737?v=4" width="20" align="top" alt="markmap"/> [markmap/markmap](https://github.com/markmap/markmap) 🔥🔥🔥
 
 > Build mindmaps with plain text
@@ -6435,20 +6435,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/49105846?v=4" width="20" align="top" alt="Fosowl"/> [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) 🔥🔥
-
-> Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/stargazers) [![Forks](https://img.shields.io/github/forks/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/commits)
-
-</div>
-
-`agentic-ai` `agents` `ai` `deepseek-r1` `llm`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/11997567?v=4" width="20" align="top" alt="chiphuyen"/> [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) 🔥🔥
 
 > A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems"
@@ -6474,6 +6460,20 @@
 </div>
 
 `finance` `nextjs` `supabase` `tailwind` `typescript`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/2386538?v=4" width="20" align="top" alt="krillinai"/> [krillinai/KlicStudio](https://github.com/krillinai/KlicStudio) 🔥🔥
+
+>  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/krillinai/KlicStudio?style=flat-square&labelColor=343b41)](https://github.com/krillinai/KlicStudio/stargazers) [![Forks](https://img.shields.io/github/forks/krillinai/KlicStudio?style=flat-square&labelColor=343b41)](https://github.com/krillinai/KlicStudio/network/members) [![Last Commit](https://img.shields.io/github/last-commit/krillinai/KlicStudio?style=flat-square&labelColor=343b41)](https://github.com/krillinai/KlicStudio/commits)
+
+</div>
+
+`video-transcription` `video-translation` `dubbing` `localization` `tts`
 
 ---
 
@@ -6605,6 +6605,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/31841517?v=4" width="20" align="top" alt="aaPanel"/> [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) 🔥
+
+> BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/aaPanel/BillionMail?style=flat-square&labelColor=343b41)](https://github.com/aaPanel/BillionMail/stargazers) [![Forks](https://img.shields.io/github/forks/aaPanel/BillionMail?style=flat-square&labelColor=343b41)](https://github.com/aaPanel/BillionMail/network/members) [![Last Commit](https://img.shields.io/github/last-commit/aaPanel/BillionMail?style=flat-square&labelColor=343b41)](https://github.com/aaPanel/BillionMail/commits)
+
+</div>
+
+`email-marketing` `mail` `mailserver` `email` `server`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/142983232?v=4" width="20" align="top" alt="fastrepl"/> [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) 🔥
 
 > Privacy-first AI Notepad for back-to-back meetings
@@ -6643,17 +6657,17 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/31841517?v=4" width="20" align="top" alt="aaPanel"/> [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) 🔥
+### <img src="https://avatars.githubusercontent.com/u/603317?v=4" width="20" align="top" alt="codelion"/> [codelion/openevolve](https://github.com/codelion/openevolve) 🔥
 
-> BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV
+> Open-source implementation of AlphaEvolve
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/aaPanel/BillionMail?style=flat-square&labelColor=343b41)](https://github.com/aaPanel/BillionMail/stargazers) [![Forks](https://img.shields.io/github/forks/aaPanel/BillionMail?style=flat-square&labelColor=343b41)](https://github.com/aaPanel/BillionMail/network/members) [![Last Commit](https://img.shields.io/github/last-commit/aaPanel/BillionMail?style=flat-square&labelColor=343b41)](https://github.com/aaPanel/BillionMail/commits)
+[![Stars](https://img.shields.io/github/stars/codelion/openevolve?style=flat-square&labelColor=343b41)](https://github.com/codelion/openevolve/stargazers) [![Forks](https://img.shields.io/github/forks/codelion/openevolve?style=flat-square&labelColor=343b41)](https://github.com/codelion/openevolve/network/members) [![Last Commit](https://img.shields.io/github/last-commit/codelion/openevolve?style=flat-square&labelColor=343b41)](https://github.com/codelion/openevolve/commits)
 
 </div>
 
-`email-marketing` `mail` `mailserver` `email` `server`
+`alphacode` `coding-agent` `deepmind` `deepmind-lab` `discovery`
 
 ---
 
@@ -6709,6 +6723,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/188105732?v=4" width="20" align="top" alt="vlm-run"/> [vlm-run/vlmrun-hub](https://github.com/vlm-run/vlmrun-hub)
+
+> A hub for various industry-specific schemas to be used with VLMs.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/vlm-run/vlmrun-hub?style=flat-square&labelColor=343b41)](https://github.com/vlm-run/vlmrun-hub/stargazers) [![Forks](https://img.shields.io/github/forks/vlm-run/vlmrun-hub?style=flat-square&labelColor=343b41)](https://github.com/vlm-run/vlmrun-hub/network/members) [![Last Commit](https://img.shields.io/github/last-commit/vlm-run/vlmrun-hub?style=flat-square&labelColor=343b41)](https://github.com/vlm-run/vlmrun-hub/commits)
+
+</div>
+
+`ai` `computer-vision` `etl` `genai` `json`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/53078775?v=4" width="20" align="top" alt="Maharshi-Pandya"/> [Maharshi-Pandya/cudacodes](https://github.com/Maharshi-Pandya/cudacodes)
 
 > Learnings and programs related to CUDA
@@ -6747,18 +6775,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/172800?v=4" width="20" align="top" alt="nornagon"/> [nornagon/twitter-bookmark-archiver](https://github.com/nornagon/twitter-bookmark-archiver)
-
-> Download your Twitter bookmarks and associated media
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/nornagon/twitter-bookmark-archiver?style=flat-square&labelColor=343b41)](https://github.com/nornagon/twitter-bookmark-archiver/stargazers) [![Forks](https://img.shields.io/github/forks/nornagon/twitter-bookmark-archiver?style=flat-square&labelColor=343b41)](https://github.com/nornagon/twitter-bookmark-archiver/network/members) [![Last Commit](https://img.shields.io/github/last-commit/nornagon/twitter-bookmark-archiver?style=flat-square&labelColor=343b41)](https://github.com/nornagon/twitter-bookmark-archiver/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/34525670?v=4" width="20" align="top" alt="landing-ai"/> [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc)
 
 > Python library for Agentic Document Extraction from LandingAI
@@ -6766,6 +6782,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/stargazers) [![Forks](https://img.shields.io/github/forks/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/network/members) [![Last Commit](https://img.shields.io/github/last-commit/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/172800?v=4" width="20" align="top" alt="nornagon"/> [nornagon/twitter-bookmark-archiver](https://github.com/nornagon/twitter-bookmark-archiver)
+
+> Download your Twitter bookmarks and associated media
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/nornagon/twitter-bookmark-archiver?style=flat-square&labelColor=343b41)](https://github.com/nornagon/twitter-bookmark-archiver/stargazers) [![Forks](https://img.shields.io/github/forks/nornagon/twitter-bookmark-archiver?style=flat-square&labelColor=343b41)](https://github.com/nornagon/twitter-bookmark-archiver/network/members) [![Last Commit](https://img.shields.io/github/last-commit/nornagon/twitter-bookmark-archiver?style=flat-square&labelColor=343b41)](https://github.com/nornagon/twitter-bookmark-archiver/commits)
 
 </div>
 
