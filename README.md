@@ -4405,20 +4405,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/10974906?v=4" width="20" align="top" alt="PacktPublishing"/> [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) 🔥
-
-> The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/PacktPublishing/LLM-Engineers-Handbook?style=flat-square&labelColor=343b41)](https://github.com/PacktPublishing/LLM-Engineers-Handbook/stargazers) [![Forks](https://img.shields.io/github/forks/PacktPublishing/LLM-Engineers-Handbook?style=flat-square&labelColor=343b41)](https://github.com/PacktPublishing/LLM-Engineers-Handbook/network/members) [![Last Commit](https://img.shields.io/github/last-commit/PacktPublishing/LLM-Engineers-Handbook?style=flat-square&labelColor=343b41)](https://github.com/PacktPublishing/LLM-Engineers-Handbook/commits)
-
-</div>
-
-`aws` `fine-tuning-llm` `genai` `llm` `llm-evaluation`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/30384625?v=4" width="20" align="top" alt="dair-ai"/> [dair-ai/ML-Notebooks](https://github.com/dair-ai/ML-Notebooks) 🔥
 
 > :fire: Machine Learning Notebooks
@@ -4430,6 +4416,20 @@
 </div>
 
 `ai` `deep-learning` `machine-learning` `python` `pytorch`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/10974906?v=4" width="20" align="top" alt="PacktPublishing"/> [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) 🔥
+
+> The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/PacktPublishing/LLM-Engineers-Handbook?style=flat-square&labelColor=343b41)](https://github.com/PacktPublishing/LLM-Engineers-Handbook/stargazers) [![Forks](https://img.shields.io/github/forks/PacktPublishing/LLM-Engineers-Handbook?style=flat-square&labelColor=343b41)](https://github.com/PacktPublishing/LLM-Engineers-Handbook/network/members) [![Last Commit](https://img.shields.io/github/last-commit/PacktPublishing/LLM-Engineers-Handbook?style=flat-square&labelColor=343b41)](https://github.com/PacktPublishing/LLM-Engineers-Handbook/commits)
+
+</div>
+
+`aws` `fine-tuning-llm` `genai` `llm` `llm-evaluation`
 
 ---
 
@@ -6567,20 +6567,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/190910900?v=4" width="20" align="top" alt="u14app"/> [u14app/deep-research](https://github.com/u14app/deep-research) 🔥
-
-> Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/u14app/deep-research?style=flat-square&labelColor=343b41)](https://github.com/u14app/deep-research/stargazers) [![Forks](https://img.shields.io/github/forks/u14app/deep-research?style=flat-square&labelColor=343b41)](https://github.com/u14app/deep-research/network/members) [![Last Commit](https://img.shields.io/github/last-commit/u14app/deep-research?style=flat-square&labelColor=343b41)](https://github.com/u14app/deep-research/commits)
-
-</div>
-
-`deep-research` `deepresearch` `gemini` `anthropic` `deepseek`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/31841517?v=4" width="20" align="top" alt="aaPanel"/> [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) 🔥
 
 > BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV
@@ -6592,6 +6578,20 @@
 </div>
 
 `email-marketing` `mail` `mailserver` `email` `server`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/190910900?v=4" width="20" align="top" alt="u14app"/> [u14app/deep-research](https://github.com/u14app/deep-research) 🔥
+
+> Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/u14app/deep-research?style=flat-square&labelColor=343b41)](https://github.com/u14app/deep-research/stargazers) [![Forks](https://img.shields.io/github/forks/u14app/deep-research?style=flat-square&labelColor=343b41)](https://github.com/u14app/deep-research/network/members) [![Last Commit](https://img.shields.io/github/last-commit/u14app/deep-research?style=flat-square&labelColor=343b41)](https://github.com/u14app/deep-research/commits)
+
+</div>
+
+`deep-research` `deepresearch` `gemini` `anthropic` `deepseek`
 
 ---
 
@@ -6761,6 +6761,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/34525670?v=4" width="20" align="top" alt="landing-ai"/> [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc)
+
+> Python library for Agentic Document Extraction from LandingAI
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/stargazers) [![Forks](https://img.shields.io/github/forks/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/network/members) [![Last Commit](https://img.shields.io/github/last-commit/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/88680502?v=4" width="20" align="top" alt="ucbepic"/> [ucbepic/TWIX](https://github.com/ucbepic/TWIX)
 
 > TWIX is an open-source data extraction tool that reconstructs structured data from documents at scale, accurately and at low cost, by inferring the shared underlying visual template across documents
@@ -6772,18 +6784,6 @@
 </div>
 
 `document-data-extraction` `document-processing`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/34525670?v=4" width="20" align="top" alt="landing-ai"/> [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc)
-
-> Python library for Agentic Document Extraction from LandingAI
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/stargazers) [![Forks](https://img.shields.io/github/forks/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/network/members) [![Last Commit](https://img.shields.io/github/last-commit/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/commits)
-
-</div>
 
 ---
 
