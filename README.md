@@ -1219,20 +1219,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/141457985?v=4" width="20" align="top" alt="Skyvern-AI"/> [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) 🔥🔥🔥
-
-> Automate browser-based workflows with LLMs and Computer Vision
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=flat-square&labelColor=343b41)](https://github.com/Skyvern-AI/skyvern/stargazers) [![Forks](https://img.shields.io/github/forks/Skyvern-AI/skyvern?style=flat-square&labelColor=343b41)](https://github.com/Skyvern-AI/skyvern/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Skyvern-AI/skyvern?style=flat-square&labelColor=343b41)](https://github.com/Skyvern-AI/skyvern/commits)
-
-</div>
-
-`api` `automation` `browser` `browser-automation` `computer`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/170767358?v=4" width="20" align="top" alt="kortix-ai"/> [kortix-ai/suna](https://github.com/kortix-ai/suna) 🔥🔥🔥
 
 > Suna - Open Source Generalist AI Agent
@@ -1244,6 +1230,20 @@
 </div>
 
 `ai` `ai-agents` `llm`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/141457985?v=4" width="20" align="top" alt="Skyvern-AI"/> [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) 🔥🔥🔥
+
+> Automate browser-based workflows with LLMs and Computer Vision
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=flat-square&labelColor=343b41)](https://github.com/Skyvern-AI/skyvern/stargazers) [![Forks](https://img.shields.io/github/forks/Skyvern-AI/skyvern?style=flat-square&labelColor=343b41)](https://github.com/Skyvern-AI/skyvern/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Skyvern-AI/skyvern?style=flat-square&labelColor=343b41)](https://github.com/Skyvern-AI/skyvern/commits)
+
+</div>
+
+`api` `automation` `browser` `browser-automation` `computer`
 
 ---
 
@@ -1836,7 +1836,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/158221360?v=4" width="20" align="top" alt="browserbase"/> [browserbase/stagehand](https://github.com/browserbase/stagehand) 🔥🔥🔥
 
-> The TypeScript framework for automating browsers with AI
+> The AI Browser Automation Framework
 
 <div align="center">
 
@@ -4405,20 +4405,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/30384625?v=4" width="20" align="top" alt="dair-ai"/> [dair-ai/ML-Notebooks](https://github.com/dair-ai/ML-Notebooks) 🔥
-
-> :fire: Machine Learning Notebooks
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/dair-ai/ML-Notebooks?style=flat-square&labelColor=343b41)](https://github.com/dair-ai/ML-Notebooks/stargazers) [![Forks](https://img.shields.io/github/forks/dair-ai/ML-Notebooks?style=flat-square&labelColor=343b41)](https://github.com/dair-ai/ML-Notebooks/network/members) [![Last Commit](https://img.shields.io/github/last-commit/dair-ai/ML-Notebooks?style=flat-square&labelColor=343b41)](https://github.com/dair-ai/ML-Notebooks/commits)
-
-</div>
-
-`ai` `deep-learning` `machine-learning` `python` `pytorch`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/10974906?v=4" width="20" align="top" alt="PacktPublishing"/> [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) 🔥
 
 > The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices
@@ -4430,6 +4416,20 @@
 </div>
 
 `aws` `fine-tuning-llm` `genai` `llm` `llm-evaluation`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/30384625?v=4" width="20" align="top" alt="dair-ai"/> [dair-ai/ML-Notebooks](https://github.com/dair-ai/ML-Notebooks) 🔥
+
+> :fire: Machine Learning Notebooks
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/dair-ai/ML-Notebooks?style=flat-square&labelColor=343b41)](https://github.com/dair-ai/ML-Notebooks/stargazers) [![Forks](https://img.shields.io/github/forks/dair-ai/ML-Notebooks?style=flat-square&labelColor=343b41)](https://github.com/dair-ai/ML-Notebooks/network/members) [![Last Commit](https://img.shields.io/github/last-commit/dair-ai/ML-Notebooks?style=flat-square&labelColor=343b41)](https://github.com/dair-ai/ML-Notebooks/commits)
+
+</div>
+
+`ai` `deep-learning` `machine-learning` `python` `pytorch`
 
 ---
 
@@ -4459,18 +4459,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/8931462?v=4" width="20" align="top" alt="aws-samples"/> [aws-samples/amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop) 🔥
-
-> This is a workshop designed for Amazon Bedrock a foundational model service.  
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/aws-samples/amazon-bedrock-workshop?style=flat-square&labelColor=343b41)](https://github.com/aws-samples/amazon-bedrock-workshop/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/amazon-bedrock-workshop?style=flat-square&labelColor=343b41)](https://github.com/aws-samples/amazon-bedrock-workshop/network/members) [![Last Commit](https://img.shields.io/github/last-commit/aws-samples/amazon-bedrock-workshop?style=flat-square&labelColor=343b41)](https://github.com/aws-samples/amazon-bedrock-workshop/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/26204670?v=4" width="20" align="top" alt="afshinea"/> [afshinea/stanford-cme-295-transformers-large-language-models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models) 🔥
 
 > VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models
@@ -4478,6 +4466,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/afshinea/stanford-cme-295-transformers-large-language-models?style=flat-square&labelColor=343b41)](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/stargazers) [![Forks](https://img.shields.io/github/forks/afshinea/stanford-cme-295-transformers-large-language-models?style=flat-square&labelColor=343b41)](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/network/members) [![Last Commit](https://img.shields.io/github/last-commit/afshinea/stanford-cme-295-transformers-large-language-models?style=flat-square&labelColor=343b41)](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/8931462?v=4" width="20" align="top" alt="aws-samples"/> [aws-samples/amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop) 🔥
+
+> This is a workshop designed for Amazon Bedrock a foundational model service.  
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/aws-samples/amazon-bedrock-workshop?style=flat-square&labelColor=343b41)](https://github.com/aws-samples/amazon-bedrock-workshop/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/amazon-bedrock-workshop?style=flat-square&labelColor=343b41)](https://github.com/aws-samples/amazon-bedrock-workshop/network/members) [![Last Commit](https://img.shields.io/github/last-commit/aws-samples/amazon-bedrock-workshop?style=flat-square&labelColor=343b41)](https://github.com/aws-samples/amazon-bedrock-workshop/commits)
 
 </div>
 
@@ -5382,7 +5382,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) 🔥
+### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) 🔥🔥
 
 > Anthropic's Interactive Prompt Engineering Tutorial
 
@@ -5979,7 +5979,7 @@
 <h2 id="others">🔖 Others</h2>
 
 <details>
-<summary>Show repositories (62)</summary>
+<summary>Show repositories (66)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6143,20 +6143,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/1356007?v=4" width="20" align="top" alt="kilimchoi"/> [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) 🔥🔥🔥
-
-> A curated list of engineering blogs
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/kilimchoi/engineering-blogs?style=flat-square&labelColor=343b41)](https://github.com/kilimchoi/engineering-blogs/stargazers) [![Forks](https://img.shields.io/github/forks/kilimchoi/engineering-blogs?style=flat-square&labelColor=343b41)](https://github.com/kilimchoi/engineering-blogs/network/members) [![Last Commit](https://img.shields.io/github/last-commit/kilimchoi/engineering-blogs?style=flat-square&labelColor=343b41)](https://github.com/kilimchoi/engineering-blogs/commits)
-
-</div>
-
-`engineering-blogs` `lists` `programming-blogs` `software-development` `tech`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/137054526?v=4" width="20" align="top" alt="mem0ai"/> [mem0ai/mem0](https://github.com/mem0ai/mem0) 🔥🔥🔥
 
 > Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
@@ -6168,6 +6154,20 @@
 </div>
 
 `ai` `chatgpt` `llm` `python` `chatbots`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/1356007?v=4" width="20" align="top" alt="kilimchoi"/> [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) 🔥🔥🔥
+
+> A curated list of engineering blogs
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/kilimchoi/engineering-blogs?style=flat-square&labelColor=343b41)](https://github.com/kilimchoi/engineering-blogs/stargazers) [![Forks](https://img.shields.io/github/forks/kilimchoi/engineering-blogs?style=flat-square&labelColor=343b41)](https://github.com/kilimchoi/engineering-blogs/network/members) [![Last Commit](https://img.shields.io/github/last-commit/kilimchoi/engineering-blogs?style=flat-square&labelColor=343b41)](https://github.com/kilimchoi/engineering-blogs/commits)
+
+</div>
+
+`engineering-blogs` `lists` `programming-blogs` `software-development` `tech`
 
 ---
 
@@ -6280,6 +6280,20 @@
 </div>
 
 `awesome` `backend` `computer-science` `distributed-systems` `high-level-design`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/qlib](https://github.com/microsoft/qlib) 🔥🔥🔥
+
+> Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/microsoft/qlib?style=flat-square&labelColor=343b41)](https://github.com/microsoft/qlib/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/qlib?style=flat-square&labelColor=343b41)](https://github.com/microsoft/qlib/network/members) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/qlib?style=flat-square&labelColor=343b41)](https://github.com/microsoft/qlib/commits)
+
+</div>
+
+`quantitative-finance` `machine-learning` `stock-data` `platform` `finance`
 
 ---
 
@@ -6543,6 +6557,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/31841517?v=4" width="20" align="top" alt="aaPanel"/> [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) 🔥
+
+> BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/aaPanel/BillionMail?style=flat-square&labelColor=343b41)](https://github.com/aaPanel/BillionMail/stargazers) [![Forks](https://img.shields.io/github/forks/aaPanel/BillionMail?style=flat-square&labelColor=343b41)](https://github.com/aaPanel/BillionMail/network/members) [![Last Commit](https://img.shields.io/github/last-commit/aaPanel/BillionMail?style=flat-square&labelColor=343b41)](https://github.com/aaPanel/BillionMail/commits)
+
+</div>
+
+`email-marketing` `mail` `mailserver` `email` `server`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/18418340?v=4" width="20" align="top" alt="hotheadhacker"/> [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) 🔥
 
 > 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
@@ -6564,20 +6592,6 @@
 [![Stars](https://img.shields.io/github/stars/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/network/members) [![Last Commit](https://img.shields.io/github/last-commit/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/commits)
 
 </div>
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/31841517?v=4" width="20" align="top" alt="aaPanel"/> [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) 🔥
-
-> BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/aaPanel/BillionMail?style=flat-square&labelColor=343b41)](https://github.com/aaPanel/BillionMail/stargazers) [![Forks](https://img.shields.io/github/forks/aaPanel/BillionMail?style=flat-square&labelColor=343b41)](https://github.com/aaPanel/BillionMail/network/members) [![Last Commit](https://img.shields.io/github/last-commit/aaPanel/BillionMail?style=flat-square&labelColor=343b41)](https://github.com/aaPanel/BillionMail/commits)
-
-</div>
-
-`email-marketing` `mail` `mailserver` `email` `server`
 
 ---
 
@@ -6645,6 +6659,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/108261537?v=4" width="20" align="top" alt="ML-GSAI"/> [ML-GSAI/LLaDA](https://github.com/ML-GSAI/LLaDA) 🔥
+
+> Official PyTorch implementation for "Large Language Diffusion Models"
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/ML-GSAI/LLaDA?style=flat-square&labelColor=343b41)](https://github.com/ML-GSAI/LLaDA/stargazers) [![Forks](https://img.shields.io/github/forks/ML-GSAI/LLaDA?style=flat-square&labelColor=343b41)](https://github.com/ML-GSAI/LLaDA/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ML-GSAI/LLaDA?style=flat-square&labelColor=343b41)](https://github.com/ML-GSAI/LLaDA/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/603317?v=4" width="20" align="top" alt="codelion"/> [codelion/openevolve](https://github.com/codelion/openevolve) 🔥
 
 > Open-source implementation of AlphaEvolve
@@ -6656,6 +6682,18 @@
 </div>
 
 `alphacode` `coding-agent` `deepmind` `deepmind-lab` `discovery`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥
+
+> all of the workflows of n8n i could find (also from the site itself)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
+
+</div>
 
 ---
 
@@ -6696,6 +6734,18 @@
 </div>
 
 `books` `computer-science`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/19221939?v=4" width="20" align="top" alt="UKGovernmentBEIS"/> [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai)
+
+> Inspect: A framework for large language model evaluations
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=flat-square&labelColor=343b41)](https://github.com/UKGovernmentBEIS/inspect_ai/stargazers) [![Forks](https://img.shields.io/github/forks/UKGovernmentBEIS/inspect_ai?style=flat-square&labelColor=343b41)](https://github.com/UKGovernmentBEIS/inspect_ai/network/members) [![Last Commit](https://img.shields.io/github/last-commit/UKGovernmentBEIS/inspect_ai?style=flat-square&labelColor=343b41)](https://github.com/UKGovernmentBEIS/inspect_ai/commits)
+
+</div>
 
 ---
 
@@ -6749,18 +6799,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/72954069?v=4" width="20" align="top" alt="featureform"/> [featureform/enrichmcp](https://github.com/featureform/enrichmcp)
-
-> EnrichMCP is a python framework for building data driven MCP servers
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/featureform/enrichmcp?style=flat-square&labelColor=343b41)](https://github.com/featureform/enrichmcp/stargazers) [![Forks](https://img.shields.io/github/forks/featureform/enrichmcp?style=flat-square&labelColor=343b41)](https://github.com/featureform/enrichmcp/network/members) [![Last Commit](https://img.shields.io/github/last-commit/featureform/enrichmcp?style=flat-square&labelColor=343b41)](https://github.com/featureform/enrichmcp/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/34525670?v=4" width="20" align="top" alt="landing-ai"/> [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc)
 
 > Python library for Agentic Document Extraction from LandingAI
@@ -6768,6 +6806,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/stargazers) [![Forks](https://img.shields.io/github/forks/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/network/members) [![Last Commit](https://img.shields.io/github/last-commit/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/72954069?v=4" width="20" align="top" alt="featureform"/> [featureform/enrichmcp](https://github.com/featureform/enrichmcp)
+
+> EnrichMCP is a python framework for building data driven MCP servers
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/featureform/enrichmcp?style=flat-square&labelColor=343b41)](https://github.com/featureform/enrichmcp/stargazers) [![Forks](https://img.shields.io/github/forks/featureform/enrichmcp?style=flat-square&labelColor=343b41)](https://github.com/featureform/enrichmcp/network/members) [![Last Commit](https://img.shields.io/github/last-commit/featureform/enrichmcp?style=flat-square&labelColor=343b41)](https://github.com/featureform/enrichmcp/commits)
 
 </div>
 
