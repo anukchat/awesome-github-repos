@@ -4119,20 +4119,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/12550285?v=4" width="20" align="top" alt="aishwaryanr"/> [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) 🔥🔥🔥
-
-> A one stop repository for generative AI research updates, interview resources, notebooks and much more!
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/aishwaryanr/awesome-generative-ai-guide?style=flat-square&labelColor=343b41)](https://github.com/aishwaryanr/awesome-generative-ai-guide/stargazers) [![Forks](https://img.shields.io/github/forks/aishwaryanr/awesome-generative-ai-guide?style=flat-square&labelColor=343b41)](https://github.com/aishwaryanr/awesome-generative-ai-guide/network/members) [![Last Commit](https://img.shields.io/github/last-commit/aishwaryanr/awesome-generative-ai-guide?style=flat-square&labelColor=343b41)](https://github.com/aishwaryanr/awesome-generative-ai-guide/commits)
-
-</div>
-
-`awesome` `awesome-list` `generative-ai` `interview-questions` `large-language-models`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) 🔥🔥🔥
 
 > A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
@@ -4154,6 +4140,20 @@
 [![Stars](https://img.shields.io/github/stars/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/commits)
 
 </div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/12550285?v=4" width="20" align="top" alt="aishwaryanr"/> [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) 🔥🔥🔥
+
+> A one stop repository for generative AI research updates, interview resources, notebooks and much more!
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/aishwaryanr/awesome-generative-ai-guide?style=flat-square&labelColor=343b41)](https://github.com/aishwaryanr/awesome-generative-ai-guide/stargazers) [![Forks](https://img.shields.io/github/forks/aishwaryanr/awesome-generative-ai-guide?style=flat-square&labelColor=343b41)](https://github.com/aishwaryanr/awesome-generative-ai-guide/network/members) [![Last Commit](https://img.shields.io/github/last-commit/aishwaryanr/awesome-generative-ai-guide?style=flat-square&labelColor=343b41)](https://github.com/aishwaryanr/awesome-generative-ai-guide/commits)
+
+</div>
+
+`awesome` `awesome-list` `generative-ai` `interview-questions` `large-language-models`
 
 ---
 
@@ -5979,7 +5979,7 @@
 <h2 id="others">🔖 Others</h2>
 
 <details>
-<summary>Show repositories (66)</summary>
+<summary>Show repositories (68)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6269,6 +6269,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/qlib](https://github.com/microsoft/qlib) 🔥🔥🔥
+
+> Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/microsoft/qlib?style=flat-square&labelColor=343b41)](https://github.com/microsoft/qlib/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/qlib?style=flat-square&labelColor=343b41)](https://github.com/microsoft/qlib/network/members) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/qlib?style=flat-square&labelColor=343b41)](https://github.com/microsoft/qlib/commits)
+
+</div>
+
+`quantitative-finance` `machine-learning` `stock-data` `platform` `finance`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/8646889?v=4" width="20" align="top" alt="ashishps1"/> [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) 🔥🔥🔥
 
 > Learn System Design concepts and prepare for interviews using free resources.
@@ -6283,17 +6297,17 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/qlib](https://github.com/microsoft/qlib) 🔥🔥🔥
+### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) 🔥🔥🔥
 
-> Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+> 11 Lessons to Get Started Building AI Agents
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/microsoft/qlib?style=flat-square&labelColor=343b41)](https://github.com/microsoft/qlib/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/qlib?style=flat-square&labelColor=343b41)](https://github.com/microsoft/qlib/network/members) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/qlib?style=flat-square&labelColor=343b41)](https://github.com/microsoft/qlib/commits)
+[![Stars](https://img.shields.io/github/stars/microsoft/ai-agents-for-beginners?style=flat-square&labelColor=343b41)](https://github.com/microsoft/ai-agents-for-beginners/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/ai-agents-for-beginners?style=flat-square&labelColor=343b41)](https://github.com/microsoft/ai-agents-for-beginners/network/members) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/ai-agents-for-beginners?style=flat-square&labelColor=343b41)](https://github.com/microsoft/ai-agents-for-beginners/commits)
 
 </div>
 
-`quantitative-finance` `machine-learning` `stock-data` `platform` `finance`
+`agentic-ai` `agentic-framework` `agentic-rag` `ai-agents` `ai-agents-framework`
 
 ---
 
@@ -6621,6 +6635,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="20" align="top" alt="google"/> [google/adk-samples](https://github.com/google/adk-samples) 🔥
+
+> A collection of sample agents built with Agent Development (ADK) 
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/google/adk-samples?style=flat-square&labelColor=343b41)](https://github.com/google/adk-samples/stargazers) [![Forks](https://img.shields.io/github/forks/google/adk-samples?style=flat-square&labelColor=343b41)](https://github.com/google/adk-samples/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google/adk-samples?style=flat-square&labelColor=343b41)](https://github.com/google/adk-samples/commits)
+
+</div>
+
+`adk` `agents` `agent-samples`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/142983232?v=4" width="20" align="top" alt="fastrepl"/> [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) 🔥
 
 > Privacy-first AI Notepad for back-to-back meetings
@@ -6671,6 +6699,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥
+
+> all of the workflows of n8n i could find (also from the site itself)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/603317?v=4" width="20" align="top" alt="codelion"/> [codelion/openevolve](https://github.com/codelion/openevolve) 🔥
 
 > Open-source implementation of AlphaEvolve
@@ -6682,18 +6722,6 @@
 </div>
 
 `alphacode` `coding-agent` `deepmind` `deepmind-lab` `discovery`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥
-
-> all of the workflows of n8n i could find (also from the site itself)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
-
-</div>
 
 ---
 
