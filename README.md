@@ -1119,7 +1119,7 @@
 
 </div>
 
-`agent` `ai` `automation` `llms` `openai`
+`agent` `ai` `automation` `deepresearch` `llms`
 
 ---
 
@@ -1207,7 +1207,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/4488133?v=4" width="20" align="top" alt="78"/> [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) 🔥🔥🔥
 
-> Build your own AI friend
+> A MCP based chatbot
 
 <div align="center">
 
@@ -1215,7 +1215,7 @@
 
 </div>
 
-`chatbot` `esp32` `llm`
+`chatbot` `esp32` `mcp`
 
 ---
 
@@ -2996,7 +2996,7 @@
 
 </div>
 
-`pytorch` `stable-diffusion`
+`ai` `python` `pytorch` `stable-diffusion`
 
 ---
 
@@ -4105,6 +4105,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/courses](https://github.com/anthropics/courses) 🔥🔥🔥
+
+> Anthropic's educational courses
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20" align="top" alt="google-gemini"/> [google-gemini/cookbook](https://github.com/google-gemini/cookbook) 🔥🔥🔥
 
 > Examples and guides for using the Gemini API
@@ -4126,18 +4138,6 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/commits)
-
-</div>
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/courses](https://github.com/anthropics/courses) 🔥🔥🔥
-
-> Anthropic's educational courses
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/commits)
 
 </div>
 
@@ -5979,7 +5979,7 @@
 <h2 id="others">🔖 Others</h2>
 
 <details>
-<summary>Show repositories (68)</summary>
+<summary>Show repositories (75)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6020,6 +6020,20 @@
 </div>
 
 `editor` `electron` `visual-studio-code` `typescript` `microsoft`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/156354296?v=4" width="20" align="top" alt="fastapi"/> [fastapi/fastapi](https://github.com/fastapi/fastapi) 🔥🔥🔥
+
+> FastAPI framework, high performance, easy to learn, fast to code, ready for production
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/fastapi/fastapi?style=flat-square&labelColor=343b41)](https://github.com/fastapi/fastapi/stargazers) [![Forks](https://img.shields.io/github/forks/fastapi/fastapi?style=flat-square&labelColor=343b41)](https://github.com/fastapi/fastapi/network/members) [![Last Commit](https://img.shields.io/github/last-commit/fastapi/fastapi?style=flat-square&labelColor=343b41)](https://github.com/fastapi/fastapi/commits)
+
+</div>
+
+`python` `json` `swagger-ui` `redoc` `starlette`
 
 ---
 
@@ -6283,20 +6297,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/8646889?v=4" width="20" align="top" alt="ashishps1"/> [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) 🔥🔥🔥
-
-> Learn System Design concepts and prepare for interviews using free resources.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/ashishps1/awesome-system-design-resources?style=flat-square&labelColor=343b41)](https://github.com/ashishps1/awesome-system-design-resources/stargazers) [![Forks](https://img.shields.io/github/forks/ashishps1/awesome-system-design-resources?style=flat-square&labelColor=343b41)](https://github.com/ashishps1/awesome-system-design-resources/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ashishps1/awesome-system-design-resources?style=flat-square&labelColor=343b41)](https://github.com/ashishps1/awesome-system-design-resources/commits)
-
-</div>
-
-`awesome` `backend` `computer-science` `distributed-systems` `high-level-design`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) 🔥🔥🔥
 
 > 11 Lessons to Get Started Building AI Agents
@@ -6308,6 +6308,20 @@
 </div>
 
 `agentic-ai` `agentic-framework` `agentic-rag` `ai-agents` `ai-agents-framework`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/8646889?v=4" width="20" align="top" alt="ashishps1"/> [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) 🔥🔥🔥
+
+> Learn System Design concepts and prepare for interviews using free resources.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/ashishps1/awesome-system-design-resources?style=flat-square&labelColor=343b41)](https://github.com/ashishps1/awesome-system-design-resources/stargazers) [![Forks](https://img.shields.io/github/forks/ashishps1/awesome-system-design-resources?style=flat-square&labelColor=343b41)](https://github.com/ashishps1/awesome-system-design-resources/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ashishps1/awesome-system-design-resources?style=flat-square&labelColor=343b41)](https://github.com/ashishps1/awesome-system-design-resources/commits)
+
+</div>
+
+`awesome` `backend` `computer-science` `distributed-systems` `high-level-design`
 
 ---
 
@@ -6353,6 +6367,34 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/213684959?v=4" width="20" align="top" alt="google-a2a"/> [google-a2a/A2A](https://github.com/google-a2a/A2A) 🔥🔥🔥
+
+> An open protocol enabling communication and interoperability between opaque agentic applications.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/google-a2a/A2A?style=flat-square&labelColor=343b41)](https://github.com/google-a2a/A2A/stargazers) [![Forks](https://img.shields.io/github/forks/google-a2a/A2A?style=flat-square&labelColor=343b41)](https://github.com/google-a2a/A2A/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-a2a/A2A?style=flat-square&labelColor=343b41)](https://github.com/google-a2a/A2A/commits)
+
+</div>
+
+`a2a` `a2a-mcp` `a2a-protocol` `a2a-server` `agents`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/49105846?v=4" width="20" align="top" alt="Fosowl"/> [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) 🔥🔥🔥
+
+> Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/stargazers) [![Forks](https://img.shields.io/github/forks/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/commits)
+
+</div>
+
+`agentic-ai` `agents` `ai` `deepseek-r1` `llm`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/1728152?v=4" width="20" align="top" alt="NVIDIA"/> [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) 🔥🔥🔥
 
 > A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
@@ -6364,20 +6406,6 @@
 </div>
 
 `machine-translation` `speaker-recognition` `asr` `tts` `generative-ai`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/49105846?v=4" width="20" align="top" alt="Fosowl"/> [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) 🔥🔥🔥
-
-> Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/stargazers) [![Forks](https://img.shields.io/github/forks/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/commits)
-
-</div>
-
-`agentic-ai` `agents` `ai` `deepseek-r1` `llm`
 
 ---
 
@@ -6437,6 +6465,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/157326433?v=4" width="20" align="top" alt="onlook-dev"/> [onlook-dev/onlook](https://github.com/onlook-dev/onlook) 🔥🔥🔥
+
+> The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/onlook-dev/onlook?style=flat-square&labelColor=343b41)](https://github.com/onlook-dev/onlook/stargazers) [![Forks](https://img.shields.io/github/forks/onlook-dev/onlook?style=flat-square&labelColor=343b41)](https://github.com/onlook-dev/onlook/network/members) [![Last Commit](https://img.shields.io/github/last-commit/onlook-dev/onlook?style=flat-square&labelColor=343b41)](https://github.com/onlook-dev/onlook/commits)
+
+</div>
+
+`react` `typescript` `tailwindcss` `nextjs` `webflow`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/151241629?v=4" width="20" align="top" alt="CapSoftware"/> [CapSoftware/Cap](https://github.com/CapSoftware/Cap) 🔥🔥
 
 > Open source Loom alternative. Beautiful, shareable screen recordings.
@@ -6493,6 +6535,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/38891707?v=4" width="20" align="top" alt="frdel"/> [frdel/agent-zero](https://github.com/frdel/agent-zero) 🔥🔥
+
+> Agent Zero AI framework
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/frdel/agent-zero?style=flat-square&labelColor=343b41)](https://github.com/frdel/agent-zero/stargazers) [![Forks](https://img.shields.io/github/forks/frdel/agent-zero?style=flat-square&labelColor=343b41)](https://github.com/frdel/agent-zero/network/members) [![Last Commit](https://img.shields.io/github/last-commit/frdel/agent-zero?style=flat-square&labelColor=343b41)](https://github.com/frdel/agent-zero/commits)
+
+</div>
+
+`agent` `ai` `assistant` `autonomous` `linux`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/12856921?v=4" width="20" align="top" alt="prasadgujar"/> [prasadgujar/low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer) 🔥🔥
 
 > Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.
@@ -6507,6 +6563,16 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/1178890?v=4" width="20" align="top" alt="antiwork"/> [antiwork/gumroad](https://github.com/antiwork/gumroad) 🔥🔥
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/stargazers) [![Forks](https://img.shields.io/github/forks/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/network/members) [![Last Commit](https://img.shields.io/github/last-commit/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/3299148?v=4" width="20" align="top" alt="awslabs"/> [awslabs/agent-squad](https://github.com/awslabs/agent-squad) 🔥🔥
 
 > Flexible and powerful framework for managing multiple AI agents and handling complex conversations
@@ -6518,16 +6584,6 @@
 </div>
 
 `aws` `aws-bedrock` `anthropic-claude` `aws-cdk` `aws-lambda`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/1178890?v=4" width="20" align="top" alt="antiwork"/> [antiwork/gumroad](https://github.com/antiwork/gumroad) 🔥🔥
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/stargazers) [![Forks](https://img.shields.io/github/forks/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/network/members) [![Last Commit](https://img.shields.io/github/last-commit/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/commits)
-
-</div>
 
 ---
 
@@ -6649,6 +6705,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/48055421?v=4" width="20" align="top" alt="going-doer"/> [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code) 🔥
+
+> Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/going-doer/Paper2Code?style=flat-square&labelColor=343b41)](https://github.com/going-doer/Paper2Code/stargazers) [![Forks](https://img.shields.io/github/forks/going-doer/Paper2Code?style=flat-square&labelColor=343b41)](https://github.com/going-doer/Paper2Code/network/members) [![Last Commit](https://img.shields.io/github/last-commit/going-doer/Paper2Code?style=flat-square&labelColor=343b41)](https://github.com/going-doer/Paper2Code/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/142983232?v=4" width="20" align="top" alt="fastrepl"/> [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) 🔥
 
 > Privacy-first AI Notepad for back-to-back meetings
@@ -6660,6 +6728,18 @@
 </div>
 
 `local-first` `notetaking` `open-source` `react` `rust`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥
+
+> all of the workflows of n8n i could find (also from the site itself)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
+
+</div>
 
 ---
 
@@ -6699,18 +6779,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥
-
-> all of the workflows of n8n i could find (also from the site itself)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/603317?v=4" width="20" align="top" alt="codelion"/> [codelion/openevolve](https://github.com/codelion/openevolve) 🔥
 
 > Open-source implementation of AlphaEvolve
@@ -6722,6 +6790,20 @@
 </div>
 
 `alphacode` `coding-agent` `deepmind` `deepmind-lab` `discovery`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/211618649?v=4" width="20" align="top" alt="Paper2Poster"/> [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) 🔥
+
+> Open-source Multi-agent Poster Generation from Papers
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Paper2Poster/Paper2Poster?style=flat-square&labelColor=343b41)](https://github.com/Paper2Poster/Paper2Poster/stargazers) [![Forks](https://img.shields.io/github/forks/Paper2Poster/Paper2Poster?style=flat-square&labelColor=343b41)](https://github.com/Paper2Poster/Paper2Poster/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Paper2Poster/Paper2Poster?style=flat-square&labelColor=343b41)](https://github.com/Paper2Poster/Paper2Poster/commits)
+
+</div>
+
+`agent` `multi-agent-systems` `paper` `poster` `pptx`
 
 ---
 
@@ -6810,6 +6892,16 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/Maharshi-Pandya/cudacodes?style=flat-square&labelColor=343b41)](https://github.com/Maharshi-Pandya/cudacodes/stargazers) [![Forks](https://img.shields.io/github/forks/Maharshi-Pandya/cudacodes?style=flat-square&labelColor=343b41)](https://github.com/Maharshi-Pandya/cudacodes/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Maharshi-Pandya/cudacodes?style=flat-square&labelColor=343b41)](https://github.com/Maharshi-Pandya/cudacodes/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/137054526?v=4" width="20" align="top" alt="mem0ai"/> [mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/mem0ai/mem0-mcp?style=flat-square&labelColor=343b41)](https://github.com/mem0ai/mem0-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/mem0ai/mem0-mcp?style=flat-square&labelColor=343b41)](https://github.com/mem0ai/mem0-mcp/network/members) [![Last Commit](https://img.shields.io/github/last-commit/mem0ai/mem0-mcp?style=flat-square&labelColor=343b41)](https://github.com/mem0ai/mem0-mcp/commits)
 
 </div>
 
