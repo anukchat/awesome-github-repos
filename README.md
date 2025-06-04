@@ -979,16 +979,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/17916698?v=4" width="20" align="top" alt="chenfei-wu"/> [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) 🔥🔥🔥
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/chenfei-wu/TaskMatrix?style=flat-square&labelColor=343b41)](https://github.com/chenfei-wu/TaskMatrix/stargazers) [![Forks](https://img.shields.io/github/forks/chenfei-wu/TaskMatrix?style=flat-square&labelColor=343b41)](https://github.com/chenfei-wu/TaskMatrix/network/members) [![Last Commit](https://img.shields.io/github/last-commit/chenfei-wu/TaskMatrix?style=flat-square&labelColor=343b41)](https://github.com/chenfei-wu/TaskMatrix/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/901795?v=4" width="20" align="top" alt="virattt"/> [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) 🔥🔥🔥
 
 > An AI Hedge Fund Team
@@ -996,6 +986,16 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/stargazers) [![Forks](https://img.shields.io/github/forks/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/network/members) [![Last Commit](https://img.shields.io/github/last-commit/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41)](https://github.com/virattt/ai-hedge-fund/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/17916698?v=4" width="20" align="top" alt="chenfei-wu"/> [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) 🔥🔥🔥
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/chenfei-wu/TaskMatrix?style=flat-square&labelColor=343b41)](https://github.com/chenfei-wu/TaskMatrix/stargazers) [![Forks](https://img.shields.io/github/forks/chenfei-wu/TaskMatrix?style=flat-square&labelColor=343b41)](https://github.com/chenfei-wu/TaskMatrix/network/members) [![Last Commit](https://img.shields.io/github/last-commit/chenfei-wu/TaskMatrix?style=flat-square&labelColor=343b41)](https://github.com/chenfei-wu/TaskMatrix/commits)
 
 </div>
 
@@ -1029,20 +1029,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/50654?v=4" width="20" align="top" alt="danielmiessler"/> [danielmiessler/fabric](https://github.com/danielmiessler/fabric) 🔥🔥🔥
-
-> fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/danielmiessler/fabric?style=flat-square&labelColor=343b41)](https://github.com/danielmiessler/fabric/stargazers) [![Forks](https://img.shields.io/github/forks/danielmiessler/fabric?style=flat-square&labelColor=343b41)](https://github.com/danielmiessler/fabric/network/members) [![Last Commit](https://img.shields.io/github/last-commit/danielmiessler/fabric?style=flat-square&labelColor=343b41)](https://github.com/danielmiessler/fabric/commits)
-
-</div>
-
-`ai` `augmentation` `flourishing` `life` `work`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/31035808?v=4" width="20" align="top" alt="mindsdb"/> [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) 🔥🔥🔥
 
 > AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
@@ -1054,6 +1040,20 @@
 </div>
 
 `agents` `agi` `ai` `artificial-inteligence` `databases`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/50654?v=4" width="20" align="top" alt="danielmiessler"/> [danielmiessler/fabric](https://github.com/danielmiessler/fabric) 🔥🔥🔥
+
+> fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/danielmiessler/fabric?style=flat-square&labelColor=343b41)](https://github.com/danielmiessler/fabric/stargazers) [![Forks](https://img.shields.io/github/forks/danielmiessler/fabric?style=flat-square&labelColor=343b41)](https://github.com/danielmiessler/fabric/network/members) [![Last Commit](https://img.shields.io/github/last-commit/danielmiessler/fabric?style=flat-square&labelColor=343b41)](https://github.com/danielmiessler/fabric/commits)
+
+</div>
+
+`ai` `augmentation` `flourishing` `life` `work`
 
 ---
 
@@ -1207,7 +1207,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/4488133?v=4" width="20" align="top" alt="78"/> [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) 🔥🔥🔥
 
-> A MCP based chatbot
+> An MCP-based chatbot | 一个基于MCP的聊天机器人
 
 <div align="center">
 
@@ -2237,7 +2237,7 @@
 
 </div>
 
-`framework` `gui` `hacktoberfest` `open-source` `python`
+`framework` `gui` `open-source` `python` `web`
 
 ---
 
@@ -5354,6 +5354,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) 🔥🔥
+
+> Anthropic's Interactive Prompt Engineering Tutorial
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/anthropics/prompt-eng-interactive-tutorial?style=flat-square&labelColor=343b41)](https://github.com/anthropics/prompt-eng-interactive-tutorial/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/prompt-eng-interactive-tutorial?style=flat-square&labelColor=343b41)](https://github.com/anthropics/prompt-eng-interactive-tutorial/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/prompt-eng-interactive-tutorial?style=flat-square&labelColor=343b41)](https://github.com/anthropics/prompt-eng-interactive-tutorial/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/54472864?v=4" width="20" align="top" alt="srbhr"/> [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) 🔥🔥
 
 > Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
@@ -5365,18 +5377,6 @@
 </div>
 
 `applicant-tracking-system` `ats` `hacktoberfest` `machine-learning` `natural-language-processing`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) 🔥🔥
-
-> Anthropic's Interactive Prompt Engineering Tutorial
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/anthropics/prompt-eng-interactive-tutorial?style=flat-square&labelColor=343b41)](https://github.com/anthropics/prompt-eng-interactive-tutorial/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/prompt-eng-interactive-tutorial?style=flat-square&labelColor=343b41)](https://github.com/anthropics/prompt-eng-interactive-tutorial/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/prompt-eng-interactive-tutorial?style=flat-square&labelColor=343b41)](https://github.com/anthropics/prompt-eng-interactive-tutorial/commits)
-
-</div>
 
 ---
 
@@ -6493,20 +6493,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/145366395?v=4" width="20" align="top" alt="midday-ai"/> [midday-ai/midday](https://github.com/midday-ai/midday) 🔥🔥
-
-> Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/midday-ai/midday?style=flat-square&labelColor=343b41)](https://github.com/midday-ai/midday/stargazers) [![Forks](https://img.shields.io/github/forks/midday-ai/midday?style=flat-square&labelColor=343b41)](https://github.com/midday-ai/midday/network/members) [![Last Commit](https://img.shields.io/github/last-commit/midday-ai/midday?style=flat-square&labelColor=343b41)](https://github.com/midday-ai/midday/commits)
-
-</div>
-
-`finance` `nextjs` `supabase` `tailwind` `typescript`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/38891707?v=4" width="20" align="top" alt="frdel"/> [frdel/agent-zero](https://github.com/frdel/agent-zero) 🔥🔥
 
 > Agent Zero AI framework
@@ -6518,6 +6504,20 @@
 </div>
 
 `agent` `ai` `assistant` `autonomous` `linux`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/145366395?v=4" width="20" align="top" alt="midday-ai"/> [midday-ai/midday](https://github.com/midday-ai/midday) 🔥🔥
+
+> Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/midday-ai/midday?style=flat-square&labelColor=343b41)](https://github.com/midday-ai/midday/stargazers) [![Forks](https://img.shields.io/github/forks/midday-ai/midday?style=flat-square&labelColor=343b41)](https://github.com/midday-ai/midday/network/members) [![Last Commit](https://img.shields.io/github/last-commit/midday-ai/midday?style=flat-square&labelColor=343b41)](https://github.com/midday-ai/midday/commits)
+
+</div>
+
+`finance` `nextjs` `supabase` `tailwind` `typescript`
 
 ---
 
@@ -6559,20 +6559,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/3299148?v=4" width="20" align="top" alt="awslabs"/> [awslabs/agent-squad](https://github.com/awslabs/agent-squad) 🔥🔥
-
-> Flexible and powerful framework for managing multiple AI agents and handling complex conversations
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/awslabs/agent-squad?style=flat-square&labelColor=343b41)](https://github.com/awslabs/agent-squad/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/agent-squad?style=flat-square&labelColor=343b41)](https://github.com/awslabs/agent-squad/network/members) [![Last Commit](https://img.shields.io/github/last-commit/awslabs/agent-squad?style=flat-square&labelColor=343b41)](https://github.com/awslabs/agent-squad/commits)
-
-</div>
-
-`aws` `aws-bedrock` `anthropic-claude` `aws-cdk` `aws-lambda`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/14985020?v=4" width="20" align="top" alt="vercel"/> [vercel/next-forge](https://github.com/vercel/next-forge) 🔥🔥
 
 > Production-grade Turborepo template for Next.js apps.
@@ -6584,6 +6570,20 @@
 </div>
 
 `nextjs` `prisma` `react` `tailwindcss` `typescript`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/3299148?v=4" width="20" align="top" alt="awslabs"/> [awslabs/agent-squad](https://github.com/awslabs/agent-squad) 🔥🔥
+
+> Flexible and powerful framework for managing multiple AI agents and handling complex conversations
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/awslabs/agent-squad?style=flat-square&labelColor=343b41)](https://github.com/awslabs/agent-squad/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/agent-squad?style=flat-square&labelColor=343b41)](https://github.com/awslabs/agent-squad/network/members) [![Last Commit](https://img.shields.io/github/last-commit/awslabs/agent-squad?style=flat-square&labelColor=343b41)](https://github.com/awslabs/agent-squad/commits)
+
+</div>
+
+`aws` `aws-bedrock` `anthropic-claude` `aws-cdk` `aws-lambda`
 
 ---
 
@@ -6629,7 +6629,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/31841517?v=4" width="20" align="top" alt="aaPanel"/> [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) 🔥
 
-> BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV
+> BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
 
 <div align="center">
 
@@ -6653,18 +6653,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/192012301?v=4" width="20" align="top" alt="browser-use"/> [browser-use/workflow-use](https://github.com/browser-use/workflow-use) 🔥
-
-> ⚙️ Create and run workflows (RPA 2.0)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/network/members) [![Last Commit](https://img.shields.io/github/last-commit/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/209775067?v=4" width="20" align="top" alt="ag-ui-protocol"/> [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) 🔥
 
 > AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
@@ -6672,6 +6660,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/stargazers) [![Forks](https://img.shields.io/github/forks/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/192012301?v=4" width="20" align="top" alt="browser-use"/> [browser-use/workflow-use](https://github.com/browser-use/workflow-use) 🔥
+
+> ⚙️ Create and run workflows (RPA 2.0)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/network/members) [![Last Commit](https://img.shields.io/github/last-commit/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/commits)
 
 </div>
 
@@ -6705,18 +6705,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/48055421?v=4" width="20" align="top" alt="going-doer"/> [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code) 🔥
-
-> Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/going-doer/Paper2Code?style=flat-square&labelColor=343b41)](https://github.com/going-doer/Paper2Code/stargazers) [![Forks](https://img.shields.io/github/forks/going-doer/Paper2Code?style=flat-square&labelColor=343b41)](https://github.com/going-doer/Paper2Code/network/members) [![Last Commit](https://img.shields.io/github/last-commit/going-doer/Paper2Code?style=flat-square&labelColor=343b41)](https://github.com/going-doer/Paper2Code/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥
 
 > all of the workflows of n8n i could find (also from the site itself)
@@ -6724,6 +6712,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/48055421?v=4" width="20" align="top" alt="going-doer"/> [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code) 🔥
+
+> Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/going-doer/Paper2Code?style=flat-square&labelColor=343b41)](https://github.com/going-doer/Paper2Code/stargazers) [![Forks](https://img.shields.io/github/forks/going-doer/Paper2Code?style=flat-square&labelColor=343b41)](https://github.com/going-doer/Paper2Code/network/members) [![Last Commit](https://img.shields.io/github/last-commit/going-doer/Paper2Code?style=flat-square&labelColor=343b41)](https://github.com/going-doer/Paper2Code/commits)
 
 </div>
 
@@ -6753,6 +6753,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/603317?v=4" width="20" align="top" alt="codelion"/> [codelion/openevolve](https://github.com/codelion/openevolve) 🔥
+
+> Open-source implementation of AlphaEvolve
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/codelion/openevolve?style=flat-square&labelColor=343b41)](https://github.com/codelion/openevolve/stargazers) [![Forks](https://img.shields.io/github/forks/codelion/openevolve?style=flat-square&labelColor=343b41)](https://github.com/codelion/openevolve/network/members) [![Last Commit](https://img.shields.io/github/last-commit/codelion/openevolve?style=flat-square&labelColor=343b41)](https://github.com/codelion/openevolve/commits)
+
+</div>
+
+`alphacode` `coding-agent` `deepmind` `deepmind-lab` `discovery`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/108261537?v=4" width="20" align="top" alt="ML-GSAI"/> [ML-GSAI/LLaDA](https://github.com/ML-GSAI/LLaDA) 🔥
 
 > Official PyTorch implementation for "Large Language Diffusion Models"
@@ -6779,17 +6793,15 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/603317?v=4" width="20" align="top" alt="codelion"/> [codelion/openevolve](https://github.com/codelion/openevolve) 🔥
+### <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20" align="top" alt="google-gemini"/> [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) 🔥
 
-> Open-source implementation of AlphaEvolve
+> Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/codelion/openevolve?style=flat-square&labelColor=343b41)](https://github.com/codelion/openevolve/stargazers) [![Forks](https://img.shields.io/github/forks/codelion/openevolve?style=flat-square&labelColor=343b41)](https://github.com/codelion/openevolve/network/members) [![Last Commit](https://img.shields.io/github/last-commit/codelion/openevolve?style=flat-square&labelColor=343b41)](https://github.com/codelion/openevolve/commits)
+[![Stars](https://img.shields.io/github/stars/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/stargazers) [![Forks](https://img.shields.io/github/forks/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/commits)
 
 </div>
-
-`alphacode` `coding-agent` `deepmind` `deepmind-lab` `discovery`
 
 ---
 
@@ -6907,18 +6919,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/25007854?v=4" width="20" align="top" alt="IvanReznikov"/> [IvanReznikov/DataVerse](https://github.com/IvanReznikov/DataVerse)
-
-> Public code of Dr. Ivan Reznikov used in posts, articles, conferences
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/IvanReznikov/DataVerse?style=flat-square&labelColor=343b41)](https://github.com/IvanReznikov/DataVerse/stargazers) [![Forks](https://img.shields.io/github/forks/IvanReznikov/DataVerse?style=flat-square&labelColor=343b41)](https://github.com/IvanReznikov/DataVerse/network/members) [![Last Commit](https://img.shields.io/github/last-commit/IvanReznikov/DataVerse?style=flat-square&labelColor=343b41)](https://github.com/IvanReznikov/DataVerse/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/34525670?v=4" width="20" align="top" alt="landing-ai"/> [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc)
 
 > Python library for Agentic Document Extraction from LandingAI
@@ -6926,6 +6926,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/stargazers) [![Forks](https://img.shields.io/github/forks/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/network/members) [![Last Commit](https://img.shields.io/github/last-commit/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/25007854?v=4" width="20" align="top" alt="IvanReznikov"/> [IvanReznikov/DataVerse](https://github.com/IvanReznikov/DataVerse)
+
+> Public code of Dr. Ivan Reznikov used in posts, articles, conferences
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/IvanReznikov/DataVerse?style=flat-square&labelColor=343b41)](https://github.com/IvanReznikov/DataVerse/stargazers) [![Forks](https://img.shields.io/github/forks/IvanReznikov/DataVerse?style=flat-square&labelColor=343b41)](https://github.com/IvanReznikov/DataVerse/network/members) [![Last Commit](https://img.shields.io/github/last-commit/IvanReznikov/DataVerse?style=flat-square&labelColor=343b41)](https://github.com/IvanReznikov/DataVerse/commits)
 
 </div>
 
@@ -6954,18 +6966,6 @@
 </div>
 
 `document-data-extraction` `document-processing`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20" align="top" alt="google-gemini"/> [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart)
-
-> Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/stargazers) [![Forks](https://img.shields.io/github/forks/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/commits)
-
-</div>
 
 ---
 
