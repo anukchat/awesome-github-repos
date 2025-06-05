@@ -2,9 +2,21 @@
 <h1 align="center">🚀 Awesome GitHub Repos</h1>
 <p align="center">A categorized showcase of my ⭐️-starred repositories.</p>
 
-<p align="center">
-  <a href="#table-of-contents">📑 Table of Contents</a>
-</p>
+## 🆕 Recent Starred Repos
+
+- <img src="https://avatars.githubusercontent.com/u/118165258?v=4" width="20"/> [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent) 🔥 &nbsp;&nbsp;&nbsp;&nbsp; - <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20"/> [unslothai/notebooks](https://github.com/unslothai/notebooks) 
+- <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20"/> [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) 🔥🔥 &nbsp;&nbsp;&nbsp;&nbsp; - <img src="https://avatars.githubusercontent.com/u/213684959?v=4" width="20"/> [google-a2a/A2A](https://github.com/google-a2a/A2A) 🔥🔥🔥
+- <img src="https://avatars.githubusercontent.com/u/137054526?v=4" width="20"/> [mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp)  &nbsp;&nbsp;&nbsp;&nbsp; - <img src="https://avatars.githubusercontent.com/u/157326433?v=4" width="20"/> [onlook-dev/onlook](https://github.com/onlook-dev/onlook) 🔥🔥🔥
+- <img src="https://avatars.githubusercontent.com/u/38891707?v=4" width="20"/> [frdel/agent-zero](https://github.com/frdel/agent-zero) 🔥🔥 &nbsp;&nbsp;&nbsp;&nbsp; - <img src="https://avatars.githubusercontent.com/u/156354296?v=4" width="20"/> [fastapi/fastapi](https://github.com/fastapi/fastapi) 🔥🔥🔥
+- <img src="https://avatars.githubusercontent.com/u/211618649?v=4" width="20"/> [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) 🔥 &nbsp;&nbsp;&nbsp;&nbsp; - <img src="https://avatars.githubusercontent.com/u/48055421?v=4" width="20"/> [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code) 🔥
+
+## 🌟 Top Starred Repos
+
+- <img src="https://avatars.githubusercontent.com/u/58904235?v=4" width="20"/> [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) 🔥🔥🔥 &nbsp;&nbsp;&nbsp;&nbsp; - <img src="https://avatars.githubusercontent.com/u/170270?v=4" width="20"/> [sindresorhus/awesome](https://github.com/sindresorhus/awesome) 🔥🔥🔥
+- <img src="https://avatars.githubusercontent.com/u/51121562?v=4" width="20"/> [public-apis/public-apis](https://github.com/public-apis/public-apis) 🔥🔥🔥 &nbsp;&nbsp;&nbsp;&nbsp; - <img src="https://avatars.githubusercontent.com/u/4921183?v=4" width="20"/> [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) 🔥🔥🔥
+- <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥 &nbsp;&nbsp;&nbsp;&nbsp; - <img src="https://avatars.githubusercontent.com/u/5458997?v=4" width="20"/> [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) 🔥🔥🔥
+- <img src="https://avatars.githubusercontent.com/u/652070?v=4" width="20"/> [vinta/awesome-python](https://github.com/vinta/awesome-python) 🔥🔥🔥 &nbsp;&nbsp;&nbsp;&nbsp; - <img src="https://avatars.githubusercontent.com/u/24270415?v=4" width="20"/> [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 🔥🔥🔥
+- <img src="https://avatars.githubusercontent.com/u/89421154?v=4" width="20"/> [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) 🔥🔥🔥 &nbsp;&nbsp;&nbsp;&nbsp; - <img src="https://avatars.githubusercontent.com/u/20487725?v=4" width="20"/> [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) 🔥🔥🔥
 
 ---
 
@@ -33,8 +45,7 @@
 
 <h2 id="foundationmodels">🧠 Foundation Models</h2>
 
-<details>
-<summary>Show repositories (18)</summary>
+<details><summary>Show repositories (18)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/25720743?v=4" width="20" align="top" alt="huggingface"/> [huggingface/transformers](https://github.com/huggingface/transformers) 🔥🔥🔥
 
@@ -272,8 +283,7 @@
 
 <h2 id="llmtraining">📈 LLM Training</h2>
 
-<details>
-<summary>Show repositories (13)</summary>
+<details><summary>Show repositories (13)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/16256802?v=4" width="20" align="top" alt="hiyouga"/> [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) 🔥🔥🔥
 
@@ -441,8 +451,7 @@
 
 <h2 id="llminference">⚙️ LLM Inference</h2>
 
-<details>
-<summary>Show repositories (18)</summary>
+<details><summary>Show repositories (18)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/151674099?v=4" width="20" align="top" alt="ollama"/> [ollama/ollama](https://github.com/ollama/ollama) 🔥🔥🔥
 
@@ -688,8 +697,7 @@
 
 <h2 id="embeddingsvectordbs">🧩 Embeddings & Vector DBs</h2>
 
-<details>
-<summary>Show repositories (3)</summary>
+<details><summary>Show repositories (3)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/8986001?v=4" width="20" align="top" alt="timescale"/> [timescale/pgai](https://github.com/timescale/pgai) 🔥
 
@@ -735,8 +743,7 @@
 
 <h2 id="ragretrieval">🔍 RAG & Retrieval</h2>
 
-<details>
-<summary>Show repositories (13)</summary>
+<details><summary>Show repositories (13)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/69962740?v=4" width="20" align="top" alt="infiniflow"/> [infiniflow/ragflow](https://github.com/infiniflow/ragflow) 🔥🔥🔥
 
@@ -920,8 +927,7 @@
 
 <h2 id="aiagents">🤖 AI Agents</h2>
 
-<details>
-<summary>Show repositories (68)</summary>
+<details><summary>Show repositories (68)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/130738209?v=4" width="20" align="top" alt="Significant-Gravitas"/> [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) 🔥🔥🔥
 
@@ -1803,8 +1809,7 @@
 
 <h2 id="browserautomation">🌐 Browser Automation</h2>
 
-<details>
-<summary>Show repositories (9)</summary>
+<details><summary>Show repositories (9)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/192012301?v=4" width="20" align="top" alt="browser-use"/> [browser-use/browser-use](https://github.com/browser-use/browser-use) 🔥🔥🔥
 
@@ -1934,8 +1939,7 @@
 
 <h2 id="aisdkstools">🛠️ AI SDKs & Tools</h2>
 
-<details>
-<summary>Show repositories (76)</summary>
+<details><summary>Show repositories (76)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/51121562?v=4" width="20" align="top" alt="public-apis"/> [public-apis/public-apis](https://github.com/public-apis/public-apis) 🔥🔥🔥
 
@@ -2969,8 +2973,7 @@
 
 <h2 id="generativeuidemos">🎨 Generative UI & Demos</h2>
 
-<details>
-<summary>Show repositories (43)</summary>
+<details><summary>Show repositories (43)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/158137808?v=4" width="20" align="top" alt="open-webui"/> [open-webui/open-webui](https://github.com/open-webui/open-webui) 🔥🔥🔥
 
@@ -3548,8 +3551,7 @@
 
 <h2 id="docsknowledgebases">📚 Docs & Knowledge Bases</h2>
 
-<details>
-<summary>Show repositories (99)</summary>
+<details><summary>Show repositories (99)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/58904235?v=4" width="20" align="top" alt="codecrafters-io"/> [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) 🔥🔥🔥
 
@@ -4879,8 +4881,7 @@
 
 <h2 id="mlopsdeployment">🚀 MLOps & Deployment</h2>
 
-<details>
-<summary>Show repositories (16)</summary>
+<details><summary>Show repositories (16)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/28732122?v=4" width="20" align="top" alt="localstack"/> [localstack/localstack](https://github.com/localstack/localstack) 🔥🔥🔥
 
@@ -5102,8 +5103,7 @@
 
 <h2 id="testingevaluation">🧪 Testing & Evaluation</h2>
 
-<details>
-<summary>Show repositories (14)</summary>
+<details><summary>Show repositories (14)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/14957082?v=4" width="20" align="top" alt="openai"/> [openai/evals](https://github.com/openai/evals) 🔥🔥🔥
 
@@ -5297,8 +5297,7 @@
 
 <h2 id="promptengineering">✍️ Prompt Engineering</h2>
 
-<details>
-<summary>Show repositories (14)</summary>
+<details><summary>Show repositories (14)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/30384625?v=4" width="20" align="top" alt="dair-ai"/> [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) 🔥🔥🔥
 
@@ -5482,8 +5481,7 @@
 
 <h2 id="robotics">🤖 Robotics</h2>
 
-<details>
-<summary>Show repositories (15)</summary>
+<details><summary>Show repositories (15)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/16128714?v=4" width="20" align="top" alt="commaai"/> [commaai/openpilot](https://github.com/commaai/openpilot) 🔥🔥🔥
 
@@ -5685,8 +5683,7 @@
 
 <h2 id="ocrvision">📸 OCR & Vision</h2>
 
-<details>
-<summary>Show repositories (9)</summary>
+<details><summary>Show repositories (9)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/109746326?v=4" width="20" align="top" alt="immich-app"/> [immich-app/immich](https://github.com/immich-app/immich) 🔥🔥🔥
 
@@ -5814,8 +5811,7 @@
 
 <h2 id="webscraping">🕸️ Web Scraping</h2>
 
-<details>
-<summary>Show repositories (5)</summary>
+<details><summary>Show repositories (5)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/12494079?v=4" width="20" align="top" alt="unclecode"/> [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) 🔥🔥🔥
 
@@ -5889,8 +5885,7 @@
 
 <h2 id="dataextraction">📊 Data Extraction</h2>
 
-<details>
-<summary>Show repositories (5)</summary>
+<details><summary>Show repositories (5)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/159330290?v=4" width="20" align="top" alt="QuivrHQ"/> [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse) 🔥🔥
 
@@ -5964,8 +5959,7 @@
 
 <h2 id="others">🔖 Others</h2>
 
-<details>
-<summary>Show repositories (79)</summary>
+<details><summary>Show repositories (79)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6255,20 +6249,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/275001?v=4" width="20" align="top" alt="dgtlmoon"/> [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) 🔥🔥🔥
-
-> The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/dgtlmoon/changedetection.io?style=flat-square&labelColor=343b41)](https://github.com/dgtlmoon/changedetection.io/stargazers) [![Forks](https://img.shields.io/github/forks/dgtlmoon/changedetection.io?style=flat-square&labelColor=343b41)](https://github.com/dgtlmoon/changedetection.io/network/members) [![Last Commit](https://img.shields.io/github/last-commit/dgtlmoon/changedetection.io?style=flat-square&labelColor=343b41)](https://github.com/dgtlmoon/changedetection.io/commits)
-
-</div>
-
-`back-in-stock` `change-alert` `change-detection` `change-monitoring` `changedetection`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) 🔥🔥🔥
 
 > 11 Lessons to Get Started Building AI Agents
@@ -6280,6 +6260,20 @@
 </div>
 
 `agentic-ai` `agentic-framework` `agentic-rag` `ai-agents` `ai-agents-framework`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/275001?v=4" width="20" align="top" alt="dgtlmoon"/> [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) 🔥🔥🔥
+
+> The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/dgtlmoon/changedetection.io?style=flat-square&labelColor=343b41)](https://github.com/dgtlmoon/changedetection.io/stargazers) [![Forks](https://img.shields.io/github/forks/dgtlmoon/changedetection.io?style=flat-square&labelColor=343b41)](https://github.com/dgtlmoon/changedetection.io/network/members) [![Last Commit](https://img.shields.io/github/last-commit/dgtlmoon/changedetection.io?style=flat-square&labelColor=343b41)](https://github.com/dgtlmoon/changedetection.io/commits)
+
+</div>
+
+`back-in-stock` `change-alert` `change-detection` `change-monitoring` `changedetection`
 
 ---
 
@@ -6313,7 +6307,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/8024624?v=4" width="20" align="top" alt="th-ch"/> [th-ch/youtube-music](https://github.com/th-ch/youtube-music) 🔥🔥🔥
 
-> YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+> YouTube Music Desktop App bundled with custom plugins
 
 <div align="center">
 
@@ -6321,7 +6315,7 @@
 
 </div>
 
-`adblock` `adblocker` `blocker` `desktop-app` `electron`
+`adblocker` `desktop-app` `electron` `linux` `mac`
 
 ---
 
@@ -6521,6 +6515,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20" align="top" alt="google-gemini"/> [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) 🔥🔥
+
+> Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/stargazers) [![Forks](https://img.shields.io/github/forks/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/2386538?v=4" width="20" align="top" alt="krillinai"/> [krillinai/KlicStudio](https://github.com/krillinai/KlicStudio) 🔥🔥
 
 >  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
@@ -6549,16 +6555,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/1178890?v=4" width="20" align="top" alt="antiwork"/> [antiwork/gumroad](https://github.com/antiwork/gumroad) 🔥🔥
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/stargazers) [![Forks](https://img.shields.io/github/forks/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/network/members) [![Last Commit](https://img.shields.io/github/last-commit/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/14985020?v=4" width="20" align="top" alt="vercel"/> [vercel/next-forge](https://github.com/vercel/next-forge) 🔥🔥
 
 > Production-grade Turborepo template for Next.js apps.
@@ -6573,6 +6569,16 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/1178890?v=4" width="20" align="top" alt="antiwork"/> [antiwork/gumroad](https://github.com/antiwork/gumroad) 🔥🔥
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/stargazers) [![Forks](https://img.shields.io/github/forks/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/network/members) [![Last Commit](https://img.shields.io/github/last-commit/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/3299148?v=4" width="20" align="top" alt="awslabs"/> [awslabs/agent-squad](https://github.com/awslabs/agent-squad) 🔥🔥
 
 > Flexible and powerful framework for managing multiple AI agents and handling complex conversations
@@ -6584,18 +6590,6 @@
 </div>
 
 `aws` `aws-bedrock` `anthropic-claude` `aws-cdk` `aws-lambda`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20" align="top" alt="google-gemini"/> [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) 🔥🔥
-
-> Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/stargazers) [![Forks](https://img.shields.io/github/forks/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/commits)
-
-</div>
 
 ---
 
