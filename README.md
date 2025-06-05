@@ -2281,20 +2281,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/57262471?v=4" width="20" align="top" alt="Kanaries"/> [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) 🔥🔥🔥
-
-> PyGWalker: Turn your dataframe into an interactive UI for visual analysis
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Kanaries/pygwalker?style=flat-square&labelColor=343b41)](https://github.com/Kanaries/pygwalker/stargazers) [![Forks](https://img.shields.io/github/forks/Kanaries/pygwalker?style=flat-square&labelColor=343b41)](https://github.com/Kanaries/pygwalker/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Kanaries/pygwalker?style=flat-square&labelColor=343b41)](https://github.com/Kanaries/pygwalker/commits)
-
-</div>
-
-`data-analysis` `data-exploration` `dataframe` `matplotlib` `pandas`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="20" align="top" alt="github"/> [github/github-mcp-server](https://github.com/github/github-mcp-server) 🔥🔥🔥
 
 > GitHub's official MCP Server
@@ -2306,6 +2292,20 @@
 </div>
 
 `github` `mcp` `mcp-server`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/57262471?v=4" width="20" align="top" alt="Kanaries"/> [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) 🔥🔥🔥
+
+> PyGWalker: Turn your dataframe into an interactive UI for visual analysis
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Kanaries/pygwalker?style=flat-square&labelColor=343b41)](https://github.com/Kanaries/pygwalker/stargazers) [![Forks](https://img.shields.io/github/forks/Kanaries/pygwalker?style=flat-square&labelColor=343b41)](https://github.com/Kanaries/pygwalker/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Kanaries/pygwalker?style=flat-square&labelColor=343b41)](https://github.com/Kanaries/pygwalker/commits)
+
+</div>
+
+`data-analysis` `data-exploration` `dataframe` `matplotlib` `pandas`
 
 ---
 
@@ -4727,16 +4727,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/26503379?v=4" width="20" align="top" alt="business-science"/> [business-science/cheatsheets](https://github.com/business-science/cheatsheets)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/business-science/cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/business-science/cheatsheets/stargazers) [![Forks](https://img.shields.io/github/forks/business-science/cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/business-science/cheatsheets/network/members) [![Last Commit](https://img.shields.io/github/last-commit/business-science/cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/business-science/cheatsheets/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/136373660?v=4" width="20" align="top" alt="Not-Diamond"/> [Not-Diamond/awesome-ai-model-routing](https://github.com/Not-Diamond/awesome-ai-model-routing)
 
 > A curated list of awesome approaches to AI model routing
@@ -4744,6 +4734,16 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/Not-Diamond/awesome-ai-model-routing?style=flat-square&labelColor=343b41)](https://github.com/Not-Diamond/awesome-ai-model-routing/stargazers) [![Forks](https://img.shields.io/github/forks/Not-Diamond/awesome-ai-model-routing?style=flat-square&labelColor=343b41)](https://github.com/Not-Diamond/awesome-ai-model-routing/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Not-Diamond/awesome-ai-model-routing?style=flat-square&labelColor=343b41)](https://github.com/Not-Diamond/awesome-ai-model-routing/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/26503379?v=4" width="20" align="top" alt="business-science"/> [business-science/cheatsheets](https://github.com/business-science/cheatsheets)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/business-science/cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/business-science/cheatsheets/stargazers) [![Forks](https://img.shields.io/github/forks/business-science/cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/business-science/cheatsheets/network/members) [![Last Commit](https://img.shields.io/github/last-commit/business-science/cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/business-science/cheatsheets/commits)
 
 </div>
 
@@ -5965,7 +5965,7 @@
 <h2 id="others">🔖 Others</h2>
 
 <details>
-<summary>Show repositories (77)</summary>
+<summary>Show repositories (79)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6381,20 +6381,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/1728152?v=4" width="20" align="top" alt="NVIDIA"/> [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) 🔥🔥🔥
-
-> A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/NVIDIA/NeMo?style=flat-square&labelColor=343b41)](https://github.com/NVIDIA/NeMo/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/NeMo?style=flat-square&labelColor=343b41)](https://github.com/NVIDIA/NeMo/network/members) [![Last Commit](https://img.shields.io/github/last-commit/NVIDIA/NeMo?style=flat-square&labelColor=343b41)](https://github.com/NVIDIA/NeMo/commits)
-
-</div>
-
-`machine-translation` `speaker-recognition` `asr` `tts` `generative-ai`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/157326433?v=4" width="20" align="top" alt="onlook-dev"/> [onlook-dev/onlook](https://github.com/onlook-dev/onlook) 🔥🔥🔥
 
 > The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
@@ -6406,6 +6392,20 @@
 </div>
 
 `react` `typescript` `tailwindcss` `nextjs` `webflow`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/1728152?v=4" width="20" align="top" alt="NVIDIA"/> [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) 🔥🔥🔥
+
+> A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/NVIDIA/NeMo?style=flat-square&labelColor=343b41)](https://github.com/NVIDIA/NeMo/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/NeMo?style=flat-square&labelColor=343b41)](https://github.com/NVIDIA/NeMo/network/members) [![Last Commit](https://img.shields.io/github/last-commit/NVIDIA/NeMo?style=flat-square&labelColor=343b41)](https://github.com/NVIDIA/NeMo/commits)
+
+</div>
+
+`machine-translation` `speaker-recognition` `asr` `tts` `generative-ai`
 
 ---
 
@@ -6587,6 +6587,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20" align="top" alt="google-gemini"/> [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) 🔥🔥
+
+> Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/stargazers) [![Forks](https://img.shields.io/github/forks/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/20604835?v=4" width="20" align="top" alt="D4Vinci"/> [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) 🔥🔥
 
 > 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
@@ -6627,6 +6639,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/118165258?v=4" width="20" align="top" alt="HKUDS"/> [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent) 🔥
+
+> "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/HKUDS/AutoAgent?style=flat-square&labelColor=343b41)](https://github.com/HKUDS/AutoAgent/stargazers) [![Forks](https://img.shields.io/github/forks/HKUDS/AutoAgent?style=flat-square&labelColor=343b41)](https://github.com/HKUDS/AutoAgent/network/members) [![Last Commit](https://img.shields.io/github/last-commit/HKUDS/AutoAgent?style=flat-square&labelColor=343b41)](https://github.com/HKUDS/AutoAgent/commits)
+
+</div>
+
+`agent` `llms`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/31841517?v=4" width="20" align="top" alt="aaPanel"/> [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) 🔥
 
 > BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
@@ -6641,18 +6667,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/18418340?v=4" width="20" align="top" alt="hotheadhacker"/> [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) 🔥
-
-> 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/stargazers) [![Forks](https://img.shields.io/github/forks/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/network/members) [![Last Commit](https://img.shields.io/github/last-commit/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/209775067?v=4" width="20" align="top" alt="ag-ui-protocol"/> [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) 🔥
 
 > AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
@@ -6660,6 +6674,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/stargazers) [![Forks](https://img.shields.io/github/forks/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/18418340?v=4" width="20" align="top" alt="hotheadhacker"/> [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) 🔥
+
+> 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/stargazers) [![Forks](https://img.shields.io/github/forks/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/network/members) [![Last Commit](https://img.shields.io/github/last-commit/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/commits)
 
 </div>
 
@@ -6793,18 +6819,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20" align="top" alt="google-gemini"/> [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) 🔥
-
-> Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/stargazers) [![Forks](https://img.shields.io/github/forks/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/211618649?v=4" width="20" align="top" alt="Paper2Poster"/> [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) 🔥
 
 > Open-source Multi-agent Poster Generation from Papers
@@ -6871,6 +6885,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20" align="top" alt="unslothai"/> [unslothai/notebooks](https://github.com/unslothai/notebooks)
+
+> Unsloth Fine-tuning Notebooks for Google Colab, Kaggle, Hugging Face and more.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/stargazers) [![Forks](https://img.shields.io/github/forks/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/network/members) [![Last Commit](https://img.shields.io/github/last-commit/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/26294749?v=4" width="20" align="top" alt="0xairdropfarmer"/> [0xairdropfarmer/medium-clone-on-node](https://github.com/0xairdropfarmer/medium-clone-on-node)
 
 > clone Medium on Nodejs and Reactjs
@@ -6909,16 +6935,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/137054526?v=4" width="20" align="top" alt="mem0ai"/> [mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/mem0ai/mem0-mcp?style=flat-square&labelColor=343b41)](https://github.com/mem0ai/mem0-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/mem0ai/mem0-mcp?style=flat-square&labelColor=343b41)](https://github.com/mem0ai/mem0-mcp/network/members) [![Last Commit](https://img.shields.io/github/last-commit/mem0ai/mem0-mcp?style=flat-square&labelColor=343b41)](https://github.com/mem0ai/mem0-mcp/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/34525670?v=4" width="20" align="top" alt="landing-ai"/> [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc)
 
 > Python library for Agentic Document Extraction from LandingAI
@@ -6926,6 +6942,16 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/stargazers) [![Forks](https://img.shields.io/github/forks/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/network/members) [![Last Commit](https://img.shields.io/github/last-commit/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/137054526?v=4" width="20" align="top" alt="mem0ai"/> [mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/mem0ai/mem0-mcp?style=flat-square&labelColor=343b41)](https://github.com/mem0ai/mem0-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/mem0ai/mem0-mcp?style=flat-square&labelColor=343b41)](https://github.com/mem0ai/mem0-mcp/network/members) [![Last Commit](https://img.shields.io/github/last-commit/mem0ai/mem0-mcp?style=flat-square&labelColor=343b41)](https://github.com/mem0ai/mem0-mcp/commits)
 
 </div>
 
