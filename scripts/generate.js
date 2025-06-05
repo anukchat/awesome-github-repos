@@ -93,7 +93,7 @@ function formatCount(count) {
 
 async function categorizeWithGemini(repos) {
   const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash-001" });
-  const prompt = `You are a repository categorization assistant...` // same prompt as before
+  const prompt = `You are a repository categorization assistant...`;
   try {
     const result = await model.generateContent(prompt);
     const response = await result.response;
@@ -146,22 +146,34 @@ async function categorizeWithGemini(repos) {
   const topRepos = [...stars].sort((a, b) => b.stargazers_count - a.stargazers_count).slice(0, 10);
 
   function renderRepoGrid(repos) {
-    return chunk(repos, 2).map(row =>
-      row.map(repo => {
-        const heat = getHeat(repo.stargazers_count);
-        return `- <img src="${repo.owner.avatar_url}" width="20"/> [${repo.full_name}](${repo.html_url}) ${heat}`;
-      }).join(' &nbsp;&nbsp;&nbsp;&nbsp; ')
-    ).join('\n');
+    return `<div align="center"><table><tr>${repos.map(repo => {
+      const heat = getHeat(repo.stargazers_count);
+      return `<td valign="top" width="45%">
+        <a href="${repo.html_url}"><img src="${repo.owner.avatar_url}" width="20"/></a>
+        <a href="${repo.html_url}"><b>${repo.full_name}</b></a> ${heat}<br/>
+        ${repo.description ? `<i>${repo.description}</i><br/>` : ''}
+        ⭐ ${formatCount(repo.stargazers_count)}
+      </td>`;
+    }).join('')}</tr></table></div>`;
   }
 
   let md = `<p align="center"><img src="assets/awesome-logo.png" width="120" alt="Awesome Repos"/></p>
 <h1 align="center">🚀 Awesome GitHub Repos</h1>
 <p align="center">A categorized showcase of my ⭐️-starred repositories.</p>
 
-## 🆕 Recent Starred Repos\n\n${renderRepoGrid(recentRepos)}\n\n`;
-  md += `## 🌟 Top Starred Repos\n\n${renderRepoGrid(topRepos)}\n\n---\n\n`;
+## 🆕 Recent Starred Repos
 
-  md += `## 📑 Table of Contents\n\n`;
+${renderRepoGrid(recentRepos)}
+
+## 🌟 Top Starred Repos
+
+${renderRepoGrid(topRepos)}
+
+---
+
+## 📑 Table of Contents
+
+`;
   for (const cat of Object.keys(categoryTopicMap)) {
     const slug = cat.toLowerCase().replace(/[^a-z0-9]/g, '').trim();
     md += `- [${cat}](#${slug})\n`;
@@ -174,22 +186,10 @@ async function categorizeWithGemini(repos) {
     list.sort((a, b) => b.stargazers_count - a.stargazers_count);
     const slug = cat.toLowerCase().replace(/[^a-z0-9]/g, '').trim();
     md += `<h2 id="${slug}">${cat}</h2>\n\n<details><summary>Show repositories (${list.length})</summary>\n\n`;
-    for (const repo of list) {
-      md += `### <img src="${repo.owner.avatar_url}" width="20" align="top" alt="${repo.owner.login}"/> [${repo.owner.login}/${repo.name}](${repo.html_url})`;
-      const heat = getHeat(repo.stargazers_count);
-      if (heat) md += ` ${heat}`;
-      md += `\n\n`;
-      if (repo.description) md += `> ${repo.description}\n\n`;
-      md += `<div align="center">\n\n`;
-      md += `[![Stars](https://img.shields.io/github/stars/${repo.full_name}?style=flat-square&labelColor=343b41)](${repo.html_url}/stargazers) `;
-      md += `[![Forks](https://img.shields.io/github/forks/${repo.full_name}?style=flat-square&labelColor=343b41)](${repo.html_url}/network/members) `;
-      md += `[![Last Commit](https://img.shields.io/github/last-commit/${repo.full_name}?style=flat-square&labelColor=343b41)](${repo.html_url}/commits)\n\n</div>\n\n`;
-      if (repo.topics?.length) md += repo.topics.slice(0, 5).map(t => `\`${t}\``).join(' ') + '\n\n';
-      if (list.indexOf(repo) !== list.length - 1) md += '---\n\n';
-    }
-    md += `</details>\n\n---\n\n`;
+    md += renderRepoGrid(list);
+    md += `\n\n</details>\n\n---\n\n`;
   }
 
   fs.writeFileSync(path.join(__dirname, '..', 'README.md'), md);
-  console.log('✅ README.md generated with GitHub-compatible layout');
+  console.log('✅ README.md generated with GitHub-compatible grid layout');
 })();
