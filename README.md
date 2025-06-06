@@ -7,7 +7,7 @@
 <table><tbody>
 <tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/118165258?v=4" width="20"/> <a href="https://github.com/HKUDS/AutoAgent">HKUDS/AutoAgent</a> 🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20"/> <a href="https://github.com/unslothai/notebooks">unslothai/notebooks</a> </td>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20"/> <a href="https://github.com/unslothai/notebooks">unslothai/notebooks</a> 🔥</td>
 </tr>
 <tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20"/> <a href="https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart">google-gemini/gemini-fullstack-langgraph-quickstart</a> 🔥🔥</td>
@@ -2595,7 +2595,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/3299148?v=4" width="20" align="top" alt="awslabs"/> [awslabs/mcp](https://github.com/awslabs/mcp) 🔥
 
-> AWS MCP Servers — specialized MCP servers that bring AWS best practices directly to your development workflow
+> AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.
 
 <div align="center">
 
@@ -4763,6 +4763,16 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/26503379?v=4" width="20" align="top" alt="business-science"/> [business-science/cheatsheets](https://github.com/business-science/cheatsheets)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/business-science/cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/business-science/cheatsheets/stargazers) [![Forks](https://img.shields.io/github/forks/business-science/cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/business-science/cheatsheets/network/members) [![Last Commit](https://img.shields.io/github/last-commit/business-science/cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/business-science/cheatsheets/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/136373660?v=4" width="20" align="top" alt="Not-Diamond"/> [Not-Diamond/awesome-ai-model-routing](https://github.com/Not-Diamond/awesome-ai-model-routing)
 
 > A curated list of awesome approaches to AI model routing
@@ -4770,16 +4780,6 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/Not-Diamond/awesome-ai-model-routing?style=flat-square&labelColor=343b41)](https://github.com/Not-Diamond/awesome-ai-model-routing/stargazers) [![Forks](https://img.shields.io/github/forks/Not-Diamond/awesome-ai-model-routing?style=flat-square&labelColor=343b41)](https://github.com/Not-Diamond/awesome-ai-model-routing/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Not-Diamond/awesome-ai-model-routing?style=flat-square&labelColor=343b41)](https://github.com/Not-Diamond/awesome-ai-model-routing/commits)
-
-</div>
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/26503379?v=4" width="20" align="top" alt="business-science"/> [business-science/cheatsheets](https://github.com/business-science/cheatsheets)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/business-science/cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/business-science/cheatsheets/stargazers) [![Forks](https://img.shields.io/github/forks/business-science/cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/business-science/cheatsheets/network/members) [![Last Commit](https://img.shields.io/github/last-commit/business-science/cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/business-science/cheatsheets/commits)
 
 </div>
 
@@ -6381,20 +6381,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/213684959?v=4" width="20" align="top" alt="google-a2a"/> [google-a2a/A2A](https://github.com/google-a2a/A2A) 🔥🔥🔥
-
-> An open protocol enabling communication and interoperability between opaque agentic applications.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/google-a2a/A2A?style=flat-square&labelColor=343b41)](https://github.com/google-a2a/A2A/stargazers) [![Forks](https://img.shields.io/github/forks/google-a2a/A2A?style=flat-square&labelColor=343b41)](https://github.com/google-a2a/A2A/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-a2a/A2A?style=flat-square&labelColor=343b41)](https://github.com/google-a2a/A2A/commits)
-
-</div>
-
-`a2a` `a2a-mcp` `a2a-protocol` `a2a-server` `agents`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/49105846?v=4" width="20" align="top" alt="Fosowl"/> [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) 🔥🔥🔥
 
 > Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake.
@@ -6406,6 +6392,20 @@
 </div>
 
 `agentic-ai` `agents` `ai` `deepseek-r1` `llm`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/213684959?v=4" width="20" align="top" alt="google-a2a"/> [google-a2a/A2A](https://github.com/google-a2a/A2A) 🔥🔥🔥
+
+> An open protocol enabling communication and interoperability between opaque agentic applications.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/google-a2a/A2A?style=flat-square&labelColor=343b41)](https://github.com/google-a2a/A2A/stargazers) [![Forks](https://img.shields.io/github/forks/google-a2a/A2A?style=flat-square&labelColor=343b41)](https://github.com/google-a2a/A2A/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-a2a/A2A?style=flat-square&labelColor=343b41)](https://github.com/google-a2a/A2A/commits)
+
+</div>
+
+`a2a` `a2a-mcp` `a2a-protocol` `a2a-server` `agents`
 
 ---
 
@@ -6535,6 +6535,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20" align="top" alt="google-gemini"/> [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) 🔥🔥
+
+> Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/stargazers) [![Forks](https://img.shields.io/github/forks/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/145366395?v=4" width="20" align="top" alt="midday-ai"/> [midday-ai/midday](https://github.com/midday-ai/midday) 🔥🔥
 
 > Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
@@ -6546,18 +6558,6 @@
 </div>
 
 `finance` `nextjs` `supabase` `tailwind` `typescript`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20" align="top" alt="google-gemini"/> [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) 🔥🔥
-
-> Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/stargazers) [![Forks](https://img.shields.io/github/forks/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/commits)
-
-</div>
 
 ---
 
@@ -6901,6 +6901,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20" align="top" alt="unslothai"/> [unslothai/notebooks](https://github.com/unslothai/notebooks) 🔥
+
+> Unsloth Fine-tuning Notebooks for Google Colab, Kaggle, Hugging Face and more.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/stargazers) [![Forks](https://img.shields.io/github/forks/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/network/members) [![Last Commit](https://img.shields.io/github/last-commit/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/19221939?v=4" width="20" align="top" alt="UKGovernmentBEIS"/> [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai)
 
 > Inspect: A framework for large language model evaluations
@@ -6908,18 +6920,6 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=flat-square&labelColor=343b41)](https://github.com/UKGovernmentBEIS/inspect_ai/stargazers) [![Forks](https://img.shields.io/github/forks/UKGovernmentBEIS/inspect_ai?style=flat-square&labelColor=343b41)](https://github.com/UKGovernmentBEIS/inspect_ai/network/members) [![Last Commit](https://img.shields.io/github/last-commit/UKGovernmentBEIS/inspect_ai?style=flat-square&labelColor=343b41)](https://github.com/UKGovernmentBEIS/inspect_ai/commits)
-
-</div>
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20" align="top" alt="unslothai"/> [unslothai/notebooks](https://github.com/unslothai/notebooks)
-
-> Unsloth Fine-tuning Notebooks for Google Colab, Kaggle, Hugging Face and more.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/stargazers) [![Forks](https://img.shields.io/github/forks/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/network/members) [![Last Commit](https://img.shields.io/github/last-commit/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/commits)
 
 </div>
 
