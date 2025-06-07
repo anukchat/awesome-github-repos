@@ -6,24 +6,24 @@
 
 <table><tbody>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/23534030?v=4" width="20"/> <a href="https://github.com/PaddlePaddle/PaddleOCR">PaddlePaddle/PaddleOCR</a> 🔥🔥🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/118165258?v=4" width="20"/> <a href="https://github.com/HKUDS/AutoAgent">HKUDS/AutoAgent</a> 🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20"/> <a href="https://github.com/unslothai/notebooks">unslothai/notebooks</a> 🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20"/> <a href="https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart">google-gemini/gemini-fullstack-langgraph-quickstart</a> 🔥🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/213684959?v=4" width="20"/> <a href="https://github.com/google-a2a/A2A">google-a2a/A2A</a> 🔥🔥🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/137054526?v=4" width="20"/> <a href="https://github.com/mem0ai/mem0-mcp">mem0ai/mem0-mcp</a> </td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/157326433?v=4" width="20"/> <a href="https://github.com/onlook-dev/onlook">onlook-dev/onlook</a> 🔥🔥🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/38891707?v=4" width="20"/> <a href="https://github.com/frdel/agent-zero">frdel/agent-zero</a> 🔥🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/156354296?v=4" width="20"/> <a href="https://github.com/fastapi/fastapi">fastapi/fastapi</a> 🔥🔥🔥</td>
 </tr>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/156354296?v=4" width="20"/> <a href="https://github.com/fastapi/fastapi">fastapi/fastapi</a> 🔥🔥🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/211618649?v=4" width="20"/> <a href="https://github.com/Paper2Poster/Paper2Poster">Paper2Poster/Paper2Poster</a> 🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/48055421?v=4" width="20"/> <a href="https://github.com/going-doer/Paper2Code">going-doer/Paper2Code</a> 🔥</td>
 </tr>
 </tbody></table>
 
@@ -4763,16 +4763,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/26503379?v=4" width="20" align="top" alt="business-science"/> [business-science/cheatsheets](https://github.com/business-science/cheatsheets)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/business-science/cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/business-science/cheatsheets/stargazers) [![Forks](https://img.shields.io/github/forks/business-science/cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/business-science/cheatsheets/network/members) [![Last Commit](https://img.shields.io/github/last-commit/business-science/cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/business-science/cheatsheets/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/136373660?v=4" width="20" align="top" alt="Not-Diamond"/> [Not-Diamond/awesome-ai-model-routing](https://github.com/Not-Diamond/awesome-ai-model-routing)
 
 > A curated list of awesome approaches to AI model routing
@@ -4780,6 +4770,16 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/Not-Diamond/awesome-ai-model-routing?style=flat-square&labelColor=343b41)](https://github.com/Not-Diamond/awesome-ai-model-routing/stargazers) [![Forks](https://img.shields.io/github/forks/Not-Diamond/awesome-ai-model-routing?style=flat-square&labelColor=343b41)](https://github.com/Not-Diamond/awesome-ai-model-routing/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Not-Diamond/awesome-ai-model-routing?style=flat-square&labelColor=343b41)](https://github.com/Not-Diamond/awesome-ai-model-routing/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/26503379?v=4" width="20" align="top" alt="business-science"/> [business-science/cheatsheets](https://github.com/business-science/cheatsheets)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/business-science/cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/business-science/cheatsheets/stargazers) [![Forks](https://img.shields.io/github/forks/business-science/cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/business-science/cheatsheets/network/members) [![Last Commit](https://img.shields.io/github/last-commit/business-science/cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/business-science/cheatsheets/commits)
 
 </div>
 
@@ -5387,7 +5387,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) 🔥🔥
+### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) 🔥🔥🔥
 
 > Anthropic's Interactive Prompt Engineering Tutorial
 
@@ -5993,7 +5993,7 @@
 
 <h2 id="others">🔖 Others</h2>
 
-<details><summary>Show repositories (79)</summary>
+<details><summary>Show repositories (80)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6103,6 +6103,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/23534030?v=4" width="20" align="top" alt="PaddlePaddle"/> [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) 🔥🔥🔥
+
+> Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=flat-square&labelColor=343b41)](https://github.com/PaddlePaddle/PaddleOCR/stargazers) [![Forks](https://img.shields.io/github/forks/PaddlePaddle/PaddleOCR?style=flat-square&labelColor=343b41)](https://github.com/PaddlePaddle/PaddleOCR/network/members) [![Last Commit](https://img.shields.io/github/last-commit/PaddlePaddle/PaddleOCR?style=flat-square&labelColor=343b41)](https://github.com/PaddlePaddle/PaddleOCR/commits)
+
+</div>
+
+`ocr` `crnn` `ocrlite` `db` `chineseocr`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/6368483?v=4" width="20" align="top" alt="odoo"/> [odoo/odoo](https://github.com/odoo/odoo) 🔥🔥🔥
 
 > Odoo. Open Source Apps To Grow Your Business.
@@ -6199,20 +6213,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/1356007?v=4" width="20" align="top" alt="kilimchoi"/> [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) 🔥🔥🔥
-
-> A curated list of engineering blogs
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/kilimchoi/engineering-blogs?style=flat-square&labelColor=343b41)](https://github.com/kilimchoi/engineering-blogs/stargazers) [![Forks](https://img.shields.io/github/forks/kilimchoi/engineering-blogs?style=flat-square&labelColor=343b41)](https://github.com/kilimchoi/engineering-blogs/network/members) [![Last Commit](https://img.shields.io/github/last-commit/kilimchoi/engineering-blogs?style=flat-square&labelColor=343b41)](https://github.com/kilimchoi/engineering-blogs/commits)
-
-</div>
-
-`engineering-blogs` `lists` `programming-blogs` `software-development` `tech`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/103972607?v=4" width="20" align="top" alt="HeyPuter"/> [HeyPuter/puter](https://github.com/HeyPuter/puter) 🔥🔥🔥
 
 > 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
@@ -6224,6 +6224,20 @@
 </div>
 
 `desktop` `desktop-environment` `osjs` `web-desktop` `webtop`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/1356007?v=4" width="20" align="top" alt="kilimchoi"/> [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) 🔥🔥🔥
+
+> A curated list of engineering blogs
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/kilimchoi/engineering-blogs?style=flat-square&labelColor=343b41)](https://github.com/kilimchoi/engineering-blogs/stargazers) [![Forks](https://img.shields.io/github/forks/kilimchoi/engineering-blogs?style=flat-square&labelColor=343b41)](https://github.com/kilimchoi/engineering-blogs/network/members) [![Last Commit](https://img.shields.io/github/last-commit/kilimchoi/engineering-blogs?style=flat-square&labelColor=343b41)](https://github.com/kilimchoi/engineering-blogs/commits)
+
+</div>
+
+`engineering-blogs` `lists` `programming-blogs` `software-development` `tech`
 
 ---
 
@@ -6297,20 +6311,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/275001?v=4" width="20" align="top" alt="dgtlmoon"/> [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) 🔥🔥🔥
-
-> The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/dgtlmoon/changedetection.io?style=flat-square&labelColor=343b41)](https://github.com/dgtlmoon/changedetection.io/stargazers) [![Forks](https://img.shields.io/github/forks/dgtlmoon/changedetection.io?style=flat-square&labelColor=343b41)](https://github.com/dgtlmoon/changedetection.io/network/members) [![Last Commit](https://img.shields.io/github/last-commit/dgtlmoon/changedetection.io?style=flat-square&labelColor=343b41)](https://github.com/dgtlmoon/changedetection.io/commits)
-
-</div>
-
-`back-in-stock` `change-alert` `change-detection` `change-monitoring` `changedetection`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/qlib](https://github.com/microsoft/qlib) 🔥🔥🔥
 
 > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
@@ -6322,6 +6322,20 @@
 </div>
 
 `quantitative-finance` `machine-learning` `stock-data` `platform` `finance`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/275001?v=4" width="20" align="top" alt="dgtlmoon"/> [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) 🔥🔥🔥
+
+> The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/dgtlmoon/changedetection.io?style=flat-square&labelColor=343b41)](https://github.com/dgtlmoon/changedetection.io/stargazers) [![Forks](https://img.shields.io/github/forks/dgtlmoon/changedetection.io?style=flat-square&labelColor=343b41)](https://github.com/dgtlmoon/changedetection.io/network/members) [![Last Commit](https://img.shields.io/github/last-commit/dgtlmoon/changedetection.io?style=flat-square&labelColor=343b41)](https://github.com/dgtlmoon/changedetection.io/commits)
+
+</div>
+
+`back-in-stock` `change-alert` `change-detection` `change-monitoring` `changedetection`
 
 ---
 
@@ -6367,20 +6381,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/84011411?v=4" width="20" align="top" alt="InterviewReady"/> [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) 🔥🔥🔥
-
-> These are the best resources for System Design on the Internet
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/InterviewReady/system-design-resources?style=flat-square&labelColor=343b41)](https://github.com/InterviewReady/system-design-resources/stargazers) [![Forks](https://img.shields.io/github/forks/InterviewReady/system-design-resources?style=flat-square&labelColor=343b41)](https://github.com/InterviewReady/system-design-resources/network/members) [![Last Commit](https://img.shields.io/github/last-commit/InterviewReady/system-design-resources?style=flat-square&labelColor=343b41)](https://github.com/InterviewReady/system-design-resources/commits)
-
-</div>
-
-`cache` `fault-tolerance` `scalability` `system-design`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/49105846?v=4" width="20" align="top" alt="Fosowl"/> [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) 🔥🔥🔥
 
 > Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake.
@@ -6395,20 +6395,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/213684959?v=4" width="20" align="top" alt="google-a2a"/> [google-a2a/A2A](https://github.com/google-a2a/A2A) 🔥🔥🔥
-
-> An open protocol enabling communication and interoperability between opaque agentic applications.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/google-a2a/A2A?style=flat-square&labelColor=343b41)](https://github.com/google-a2a/A2A/stargazers) [![Forks](https://img.shields.io/github/forks/google-a2a/A2A?style=flat-square&labelColor=343b41)](https://github.com/google-a2a/A2A/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-a2a/A2A?style=flat-square&labelColor=343b41)](https://github.com/google-a2a/A2A/commits)
-
-</div>
-
-`a2a` `a2a-mcp` `a2a-protocol` `a2a-server` `agents`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/157326433?v=4" width="20" align="top" alt="onlook-dev"/> [onlook-dev/onlook](https://github.com/onlook-dev/onlook) 🔥🔥🔥
 
 > The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
@@ -6420,6 +6406,34 @@
 </div>
 
 `react` `typescript` `tailwindcss` `nextjs` `webflow`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/84011411?v=4" width="20" align="top" alt="InterviewReady"/> [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) 🔥🔥🔥
+
+> These are the best resources for System Design on the Internet
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/InterviewReady/system-design-resources?style=flat-square&labelColor=343b41)](https://github.com/InterviewReady/system-design-resources/stargazers) [![Forks](https://img.shields.io/github/forks/InterviewReady/system-design-resources?style=flat-square&labelColor=343b41)](https://github.com/InterviewReady/system-design-resources/network/members) [![Last Commit](https://img.shields.io/github/last-commit/InterviewReady/system-design-resources?style=flat-square&labelColor=343b41)](https://github.com/InterviewReady/system-design-resources/commits)
+
+</div>
+
+`cache` `fault-tolerance` `scalability` `system-design`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/213684959?v=4" width="20" align="top" alt="google-a2a"/> [google-a2a/A2A](https://github.com/google-a2a/A2A) 🔥🔥🔥
+
+> An open protocol enabling communication and interoperability between opaque agentic applications.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/google-a2a/A2A?style=flat-square&labelColor=343b41)](https://github.com/google-a2a/A2A/stargazers) [![Forks](https://img.shields.io/github/forks/google-a2a/A2A?style=flat-square&labelColor=343b41)](https://github.com/google-a2a/A2A/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-a2a/A2A?style=flat-square&labelColor=343b41)](https://github.com/google-a2a/A2A/commits)
+
+</div>
+
+`a2a` `a2a-mcp` `a2a-protocol` `a2a-server` `agents`
 
 ---
 
@@ -6521,6 +6535,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20" align="top" alt="google-gemini"/> [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) 🔥🔥
+
+> Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/stargazers) [![Forks](https://img.shields.io/github/forks/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/38891707?v=4" width="20" align="top" alt="frdel"/> [frdel/agent-zero](https://github.com/frdel/agent-zero) 🔥🔥
 
 > Agent Zero AI framework
@@ -6532,18 +6558,6 @@
 </div>
 
 `agent` `ai` `assistant` `autonomous` `linux`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20" align="top" alt="google-gemini"/> [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) 🔥🔥
-
-> Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/stargazers) [![Forks](https://img.shields.io/github/forks/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/commits)
-
-</div>
 
 ---
 
@@ -6627,20 +6641,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/20604835?v=4" width="20" align="top" alt="D4Vinci"/> [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) 🔥🔥
-
-> 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/D4Vinci/Scrapling?style=flat-square&labelColor=343b41)](https://github.com/D4Vinci/Scrapling/stargazers) [![Forks](https://img.shields.io/github/forks/D4Vinci/Scrapling?style=flat-square&labelColor=343b41)](https://github.com/D4Vinci/Scrapling/network/members) [![Last Commit](https://img.shields.io/github/last-commit/D4Vinci/Scrapling?style=flat-square&labelColor=343b41)](https://github.com/D4Vinci/Scrapling/commits)
-
-</div>
-
-`crawler` `crawling` `crawling-python` `hacktoberfest` `playwright`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/122026167?v=4" width="20" align="top" alt="MODSetter"/> [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) 🔥🔥
 
 > Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
@@ -6652,6 +6652,20 @@
 </div>
 
 `aceternity-ui` `ai` `fastapi` `langchain` `nextjs`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/20604835?v=4" width="20" align="top" alt="D4Vinci"/> [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) 🔥🔥
+
+> 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/D4Vinci/Scrapling?style=flat-square&labelColor=343b41)](https://github.com/D4Vinci/Scrapling/stargazers) [![Forks](https://img.shields.io/github/forks/D4Vinci/Scrapling?style=flat-square&labelColor=343b41)](https://github.com/D4Vinci/Scrapling/network/members) [![Last Commit](https://img.shields.io/github/last-commit/D4Vinci/Scrapling?style=flat-square&labelColor=343b41)](https://github.com/D4Vinci/Scrapling/commits)
+
+</div>
+
+`crawler` `crawling` `crawling-python` `hacktoberfest` `playwright`
 
 ---
 
@@ -6667,20 +6681,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/118165258?v=4" width="20" align="top" alt="HKUDS"/> [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent) 🔥
-
-> "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/HKUDS/AutoAgent?style=flat-square&labelColor=343b41)](https://github.com/HKUDS/AutoAgent/stargazers) [![Forks](https://img.shields.io/github/forks/HKUDS/AutoAgent?style=flat-square&labelColor=343b41)](https://github.com/HKUDS/AutoAgent/network/members) [![Last Commit](https://img.shields.io/github/last-commit/HKUDS/AutoAgent?style=flat-square&labelColor=343b41)](https://github.com/HKUDS/AutoAgent/commits)
-
-</div>
-
-`agent` `llms`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/31841517?v=4" width="20" align="top" alt="aaPanel"/> [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) 🔥
 
 > BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
@@ -6692,6 +6692,20 @@
 </div>
 
 `email-marketing` `mail` `mailserver` `email` `server`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/118165258?v=4" width="20" align="top" alt="HKUDS"/> [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent) 🔥
+
+> "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/HKUDS/AutoAgent?style=flat-square&labelColor=343b41)](https://github.com/HKUDS/AutoAgent/stargazers) [![Forks](https://img.shields.io/github/forks/HKUDS/AutoAgent?style=flat-square&labelColor=343b41)](https://github.com/HKUDS/AutoAgent/network/members) [![Last Commit](https://img.shields.io/github/last-commit/HKUDS/AutoAgent?style=flat-square&labelColor=343b41)](https://github.com/HKUDS/AutoAgent/commits)
+
+</div>
+
+`agent` `llms`
 
 ---
 
@@ -6887,6 +6901,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20" align="top" alt="unslothai"/> [unslothai/notebooks](https://github.com/unslothai/notebooks) 🔥
+
+> Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/stargazers) [![Forks](https://img.shields.io/github/forks/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/network/members) [![Last Commit](https://img.shields.io/github/last-commit/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/26892745?v=4" width="20" align="top" alt="AatmikJain"/> [AatmikJain/ComputerScienceBooks](https://github.com/AatmikJain/ComputerScienceBooks) 🔥
 
 > Some Useful books for Computer Science
@@ -6898,18 +6924,6 @@
 </div>
 
 `books` `computer-science`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20" align="top" alt="unslothai"/> [unslothai/notebooks](https://github.com/unslothai/notebooks) 🔥
-
-> Unsloth Fine-tuning Notebooks for Google Colab, Kaggle, Hugging Face and more.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/stargazers) [![Forks](https://img.shields.io/github/forks/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/network/members) [![Last Commit](https://img.shields.io/github/last-commit/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/commits)
-
-</div>
 
 ---
 
@@ -6951,18 +6965,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/53078775?v=4" width="20" align="top" alt="Maharshi-Pandya"/> [Maharshi-Pandya/cudacodes](https://github.com/Maharshi-Pandya/cudacodes)
-
-> Learnings and programs related to CUDA
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Maharshi-Pandya/cudacodes?style=flat-square&labelColor=343b41)](https://github.com/Maharshi-Pandya/cudacodes/stargazers) [![Forks](https://img.shields.io/github/forks/Maharshi-Pandya/cudacodes?style=flat-square&labelColor=343b41)](https://github.com/Maharshi-Pandya/cudacodes/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Maharshi-Pandya/cudacodes?style=flat-square&labelColor=343b41)](https://github.com/Maharshi-Pandya/cudacodes/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/34525670?v=4" width="20" align="top" alt="landing-ai"/> [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc)
 
 > Python library for Agentic Document Extraction from LandingAI
@@ -6970,6 +6972,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/stargazers) [![Forks](https://img.shields.io/github/forks/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/network/members) [![Last Commit](https://img.shields.io/github/last-commit/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/53078775?v=4" width="20" align="top" alt="Maharshi-Pandya"/> [Maharshi-Pandya/cudacodes](https://github.com/Maharshi-Pandya/cudacodes)
+
+> Learnings and programs related to CUDA
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Maharshi-Pandya/cudacodes?style=flat-square&labelColor=343b41)](https://github.com/Maharshi-Pandya/cudacodes/stargazers) [![Forks](https://img.shields.io/github/forks/Maharshi-Pandya/cudacodes?style=flat-square&labelColor=343b41)](https://github.com/Maharshi-Pandya/cudacodes/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Maharshi-Pandya/cudacodes?style=flat-square&labelColor=343b41)](https://github.com/Maharshi-Pandya/cudacodes/commits)
 
 </div>
 
