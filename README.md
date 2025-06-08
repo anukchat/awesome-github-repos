@@ -6,24 +6,24 @@
 
 <table><tbody>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/173073912?v=4" width="20"/> <a href="https://github.com/Intelligent-Internet/ii-agent">Intelligent-Internet/ii-agent</a> 🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/23534030?v=4" width="20"/> <a href="https://github.com/PaddlePaddle/PaddleOCR">PaddlePaddle/PaddleOCR</a> 🔥🔥🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/118165258?v=4" width="20"/> <a href="https://github.com/HKUDS/AutoAgent">HKUDS/AutoAgent</a> 🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20"/> <a href="https://github.com/unslothai/notebooks">unslothai/notebooks</a> 🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20"/> <a href="https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart">google-gemini/gemini-fullstack-langgraph-quickstart</a> 🔥🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/213684959?v=4" width="20"/> <a href="https://github.com/google-a2a/A2A">google-a2a/A2A</a> 🔥🔥🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/137054526?v=4" width="20"/> <a href="https://github.com/mem0ai/mem0-mcp">mem0ai/mem0-mcp</a> </td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/157326433?v=4" width="20"/> <a href="https://github.com/onlook-dev/onlook">onlook-dev/onlook</a> 🔥🔥🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/38891707?v=4" width="20"/> <a href="https://github.com/frdel/agent-zero">frdel/agent-zero</a> 🔥🔥</td>
 </tr>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/38891707?v=4" width="20"/> <a href="https://github.com/frdel/agent-zero">frdel/agent-zero</a> 🔥🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/156354296?v=4" width="20"/> <a href="https://github.com/fastapi/fastapi">fastapi/fastapi</a> 🔥🔥🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/211618649?v=4" width="20"/> <a href="https://github.com/Paper2Poster/Paper2Poster">Paper2Poster/Paper2Poster</a> 🔥</td>
 </tr>
 </tbody></table>
 
@@ -1407,20 +1407,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/129118469?v=4" width="20" align="top" alt="aiwaves-cn"/> [aiwaves-cn/agents](https://github.com/aiwaves-cn/agents) 🔥🔥
-
-> An Open-source Framework for Data-centric, Self-evolving Autonomous Language Agents
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/aiwaves-cn/agents?style=flat-square&labelColor=343b41)](https://github.com/aiwaves-cn/agents/stargazers) [![Forks](https://img.shields.io/github/forks/aiwaves-cn/agents?style=flat-square&labelColor=343b41)](https://github.com/aiwaves-cn/agents/network/members) [![Last Commit](https://img.shields.io/github/last-commit/aiwaves-cn/agents?style=flat-square&labelColor=343b41)](https://github.com/aiwaves-cn/agents/commits)
-
-</div>
-
-`autonomous-agents` `language-model` `llm`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) 🔥🔥
 
 > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
@@ -1432,6 +1418,20 @@
 </div>
 
 `agent` `ai` `automation` `data-mining` `data-science`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/129118469?v=4" width="20" align="top" alt="aiwaves-cn"/> [aiwaves-cn/agents](https://github.com/aiwaves-cn/agents) 🔥🔥
+
+> An Open-source Framework for Data-centric, Self-evolving Autonomous Language Agents
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/aiwaves-cn/agents?style=flat-square&labelColor=343b41)](https://github.com/aiwaves-cn/agents/stargazers) [![Forks](https://img.shields.io/github/forks/aiwaves-cn/agents?style=flat-square&labelColor=343b41)](https://github.com/aiwaves-cn/agents/network/members) [![Last Commit](https://img.shields.io/github/last-commit/aiwaves-cn/agents?style=flat-square&labelColor=343b41)](https://github.com/aiwaves-cn/agents/commits)
+
+</div>
+
+`autonomous-agents` `language-model` `llm`
 
 ---
 
@@ -2443,20 +2443,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/128686189?v=4" width="20" align="top" alt="Chainlit"/> [Chainlit/chainlit](https://github.com/Chainlit/chainlit) 🔥🔥
-
-> Build Conversational AI in minutes ⚡️
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=flat-square&labelColor=343b41)](https://github.com/Chainlit/chainlit/stargazers) [![Forks](https://img.shields.io/github/forks/Chainlit/chainlit?style=flat-square&labelColor=343b41)](https://github.com/Chainlit/chainlit/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Chainlit/chainlit?style=flat-square&labelColor=343b41)](https://github.com/Chainlit/chainlit/commits)
-
-</div>
-
-`chatgpt` `langchain` `llm` `openai` `openai-chatgpt`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="20" align="top" alt="google"/> [google/adk-python](https://github.com/google/adk-python) 🔥🔥
 
 > An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
@@ -2468,6 +2454,20 @@
 </div>
 
 `agent` `agentic` `agentic-ai` `agents` `agents-sdk`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/128686189?v=4" width="20" align="top" alt="Chainlit"/> [Chainlit/chainlit](https://github.com/Chainlit/chainlit) 🔥🔥
+
+> Build Conversational AI in minutes ⚡️
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=flat-square&labelColor=343b41)](https://github.com/Chainlit/chainlit/stargazers) [![Forks](https://img.shields.io/github/forks/Chainlit/chainlit?style=flat-square&labelColor=343b41)](https://github.com/Chainlit/chainlit/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Chainlit/chainlit?style=flat-square&labelColor=343b41)](https://github.com/Chainlit/chainlit/commits)
+
+</div>
+
+`chatgpt` `langchain` `llm` `openai` `openai-chatgpt`
 
 ---
 
@@ -5993,7 +5993,7 @@
 
 <h2 id="others">🔖 Others</h2>
 
-<details><summary>Show repositories (80)</summary>
+<details><summary>Show repositories (81)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6283,20 +6283,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/10793962?v=4" width="20" align="top" alt="keon"/> [keon/algorithms](https://github.com/keon/algorithms) 🔥🔥🔥
-
-> Minimal examples of data structures and algorithms in Python
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/keon/algorithms?style=flat-square&labelColor=343b41)](https://github.com/keon/algorithms/stargazers) [![Forks](https://img.shields.io/github/forks/keon/algorithms?style=flat-square&labelColor=343b41)](https://github.com/keon/algorithms/network/members) [![Last Commit](https://img.shields.io/github/last-commit/keon/algorithms?style=flat-square&labelColor=343b41)](https://github.com/keon/algorithms/commits)
-
-</div>
-
-`algorithm` `algorithms` `competitive-programming` `data-structure` `graph`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) 🔥🔥🔥
 
 > 11 Lessons to Get Started Building AI Agents
@@ -6308,6 +6294,20 @@
 </div>
 
 `agentic-ai` `agentic-framework` `agentic-rag` `ai-agents` `ai-agents-framework`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/10793962?v=4" width="20" align="top" alt="keon"/> [keon/algorithms](https://github.com/keon/algorithms) 🔥🔥🔥
+
+> Minimal examples of data structures and algorithms in Python
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/keon/algorithms?style=flat-square&labelColor=343b41)](https://github.com/keon/algorithms/stargazers) [![Forks](https://img.shields.io/github/forks/keon/algorithms?style=flat-square&labelColor=343b41)](https://github.com/keon/algorithms/network/members) [![Last Commit](https://img.shields.io/github/last-commit/keon/algorithms?style=flat-square&labelColor=343b41)](https://github.com/keon/algorithms/commits)
+
+</div>
+
+`algorithm` `algorithms` `competitive-programming` `data-structure` `graph`
 
 ---
 
@@ -6507,6 +6507,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20" align="top" alt="google-gemini"/> [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) 🔥🔥
+
+> Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/stargazers) [![Forks](https://img.shields.io/github/forks/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/151241629?v=4" width="20" align="top" alt="CapSoftware"/> [CapSoftware/Cap](https://github.com/CapSoftware/Cap) 🔥🔥
 
 > Open source Loom alternative. Beautiful, shareable screen recordings.
@@ -6532,18 +6544,6 @@
 </div>
 
 `data-science` `machine-learning-production` `mlops`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20" align="top" alt="google-gemini"/> [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) 🔥🔥
-
-> Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/stargazers) [![Forks](https://img.shields.io/github/forks/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/commits)
-
-</div>
 
 ---
 
@@ -6811,6 +6811,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/173073912?v=4" width="20" align="top" alt="Intelligent-Internet"/> [Intelligent-Internet/ii-agent](https://github.com/Intelligent-Internet/ii-agent) 🔥
+
+> II-Agent: a new open-source framework to build and deploy intelligent agents
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Intelligent-Internet/ii-agent?style=flat-square&labelColor=343b41)](https://github.com/Intelligent-Internet/ii-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Intelligent-Internet/ii-agent?style=flat-square&labelColor=343b41)](https://github.com/Intelligent-Internet/ii-agent/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Intelligent-Internet/ii-agent?style=flat-square&labelColor=343b41)](https://github.com/Intelligent-Internet/ii-agent/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/314135?v=4" width="20" align="top" alt="cloudflare"/> [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) 🔥
 
 <div align="center">
@@ -6875,6 +6887,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20" align="top" alt="unslothai"/> [unslothai/notebooks](https://github.com/unslothai/notebooks) 🔥
+
+> Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/stargazers) [![Forks](https://img.shields.io/github/forks/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/network/members) [![Last Commit](https://img.shields.io/github/last-commit/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/182288589?v=4" width="20" align="top" alt="modelcontextprotocol"/> [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) 🔥
 
 > A community driven registry service for Model Context Protocol (MCP) servers.
@@ -6896,18 +6920,6 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/google-labs-code/jules-awesome-list?style=flat-square&labelColor=343b41)](https://github.com/google-labs-code/jules-awesome-list/stargazers) [![Forks](https://img.shields.io/github/forks/google-labs-code/jules-awesome-list?style=flat-square&labelColor=343b41)](https://github.com/google-labs-code/jules-awesome-list/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-labs-code/jules-awesome-list?style=flat-square&labelColor=343b41)](https://github.com/google-labs-code/jules-awesome-list/commits)
-
-</div>
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20" align="top" alt="unslothai"/> [unslothai/notebooks](https://github.com/unslothai/notebooks) 🔥
-
-> Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/stargazers) [![Forks](https://img.shields.io/github/forks/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/network/members) [![Last Commit](https://img.shields.io/github/last-commit/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/commits)
 
 </div>
 
@@ -6951,6 +6963,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/34525670?v=4" width="20" align="top" alt="landing-ai"/> [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc)
+
+> Python library for Agentic Document Extraction from LandingAI
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/stargazers) [![Forks](https://img.shields.io/github/forks/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/network/members) [![Last Commit](https://img.shields.io/github/last-commit/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/188105732?v=4" width="20" align="top" alt="vlm-run"/> [vlm-run/vlmrun-hub](https://github.com/vlm-run/vlmrun-hub)
 
 > A hub for various industry-specific schemas to be used with VLMs.
@@ -6962,18 +6986,6 @@
 </div>
 
 `ai` `computer-vision` `etl` `genai` `json`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/34525670?v=4" width="20" align="top" alt="landing-ai"/> [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc)
-
-> Python library for Agentic Document Extraction from LandingAI
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/stargazers) [![Forks](https://img.shields.io/github/forks/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/network/members) [![Last Commit](https://img.shields.io/github/last-commit/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/commits)
-
-</div>
 
 ---
 
