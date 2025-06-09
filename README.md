@@ -14,7 +14,7 @@
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20"/> <a href="https://github.com/unslothai/notebooks">unslothai/notebooks</a> 🔥</td>
 </tr>
 <tr>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20"/> <a href="https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart">google-gemini/gemini-fullstack-langgraph-quickstart</a> 🔥🔥</td>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20"/> <a href="https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart">google-gemini/gemini-fullstack-langgraph-quickstart</a> 🔥🔥🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/213684959?v=4" width="20"/> <a href="https://github.com/google-a2a/A2A">google-a2a/A2A</a> 🔥🔥🔥</td>
 </tr>
 <tr>
@@ -4099,6 +4099,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/courses](https://github.com/anthropics/courses) 🔥🔥🔥
+
+> Anthropic's educational courses
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/8646889?v=4" width="20" align="top" alt="ashishps1"/> [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) 🔥🔥🔥
 
 > Learn Low Level Design (LLD) and prepare for interviews using free resources.
@@ -4110,18 +4122,6 @@
 </div>
 
 `awesome` `design-patterns` `interview` `interview-practice` `interview-questions`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/courses](https://github.com/anthropics/courses) 🔥🔥🔥
-
-> Anthropic's educational courses
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/commits)
-
-</div>
 
 ---
 
@@ -6381,20 +6381,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/49105846?v=4" width="20" align="top" alt="Fosowl"/> [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) 🔥🔥🔥
-
-> Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/stargazers) [![Forks](https://img.shields.io/github/forks/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/commits)
-
-</div>
-
-`agentic-ai` `agents` `ai` `deepseek-r1` `llm`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/157326433?v=4" width="20" align="top" alt="onlook-dev"/> [onlook-dev/onlook](https://github.com/onlook-dev/onlook) 🔥🔥🔥
 
 > The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
@@ -6406,6 +6392,20 @@
 </div>
 
 `react` `typescript` `tailwindcss` `nextjs` `webflow`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/49105846?v=4" width="20" align="top" alt="Fosowl"/> [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) 🔥🔥🔥
+
+> Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/stargazers) [![Forks](https://img.shields.io/github/forks/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/commits)
+
+</div>
+
+`agentic-ai` `agents` `ai` `deepseek-r1` `llm`
 
 ---
 
@@ -6507,7 +6507,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20" align="top" alt="google-gemini"/> [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) 🔥🔥
+### <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20" align="top" alt="google-gemini"/> [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) 🔥🔥🔥
 
 > Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
 
