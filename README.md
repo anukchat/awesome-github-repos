@@ -2265,6 +2265,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/181171420?v=4" width="20" align="top" alt="voideditor"/> [voideditor/void](https://github.com/voideditor/void) 🔥🔥🔥
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/stargazers) [![Forks](https://img.shields.io/github/forks/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/network/members) [![Last Commit](https://img.shields.io/github/last-commit/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/commits)
+
+</div>
+
+`chatgpt` `claude` `copilot` `cursor` `developer-tools`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/104714959?v=4" width="20" align="top" alt="reflex-dev"/> [reflex-dev/reflex](https://github.com/reflex-dev/reflex) 🔥🔥🔥
 
 > 🕸️ Web apps in pure Python 🐍
@@ -2276,18 +2288,6 @@
 </div>
 
 `framework` `gui` `open-source` `python` `web`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/181171420?v=4" width="20" align="top" alt="voideditor"/> [voideditor/void](https://github.com/voideditor/void) 🔥🔥🔥
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/stargazers) [![Forks](https://img.shields.io/github/forks/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/network/members) [![Last Commit](https://img.shields.io/github/last-commit/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/commits)
-
-</div>
-
-`chatgpt` `claude` `copilot` `cursor` `developer-tools`
 
 ---
 
@@ -5789,7 +5789,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/53104118?v=4" width="20" align="top" alt="roboflow"/> [roboflow/notebooks](https://github.com/roboflow/notebooks) 🔥🔥
 
-> This repository offers a comprehensive collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like YOLO11, RT-DETR, SAM 2, Florence-2, PaliGemma 2, and Qwen2.5VL.
+> A collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like YOLO11, RT-DETR, SAM 2, Florence-2, PaliGemma 2, and Qwen2.5VL.
 
 <div align="center">
 
@@ -6269,20 +6269,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/159397742?v=4" width="20" align="top" alt="glanceapp"/> [glanceapp/glance](https://github.com/glanceapp/glance) 🔥🔥🔥
-
-> A self-hosted dashboard that puts all your feeds in one place
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/glanceapp/glance?style=flat-square&labelColor=343b41)](https://github.com/glanceapp/glance/stargazers) [![Forks](https://img.shields.io/github/forks/glanceapp/glance?style=flat-square&labelColor=343b41)](https://github.com/glanceapp/glance/network/members) [![Last Commit](https://img.shields.io/github/last-commit/glanceapp/glance?style=flat-square&labelColor=343b41)](https://github.com/glanceapp/glance/commits)
-
-</div>
-
-`aggregator` `dashboard` `docker` `feed-reader` `go`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) 🔥🔥🔥
 
 > 11 Lessons to Get Started Building AI Agents
@@ -6297,17 +6283,17 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/10793962?v=4" width="20" align="top" alt="keon"/> [keon/algorithms](https://github.com/keon/algorithms) 🔥🔥🔥
+### <img src="https://avatars.githubusercontent.com/u/159397742?v=4" width="20" align="top" alt="glanceapp"/> [glanceapp/glance](https://github.com/glanceapp/glance) 🔥🔥🔥
 
-> Minimal examples of data structures and algorithms in Python
+> A self-hosted dashboard that puts all your feeds in one place
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/keon/algorithms?style=flat-square&labelColor=343b41)](https://github.com/keon/algorithms/stargazers) [![Forks](https://img.shields.io/github/forks/keon/algorithms?style=flat-square&labelColor=343b41)](https://github.com/keon/algorithms/network/members) [![Last Commit](https://img.shields.io/github/last-commit/keon/algorithms?style=flat-square&labelColor=343b41)](https://github.com/keon/algorithms/commits)
+[![Stars](https://img.shields.io/github/stars/glanceapp/glance?style=flat-square&labelColor=343b41)](https://github.com/glanceapp/glance/stargazers) [![Forks](https://img.shields.io/github/forks/glanceapp/glance?style=flat-square&labelColor=343b41)](https://github.com/glanceapp/glance/network/members) [![Last Commit](https://img.shields.io/github/last-commit/glanceapp/glance?style=flat-square&labelColor=343b41)](https://github.com/glanceapp/glance/commits)
 
 </div>
 
-`algorithm` `algorithms` `competitive-programming` `data-structure` `graph`
+`aggregator` `dashboard` `docker` `feed-reader` `go`
 
 ---
 
@@ -6322,6 +6308,20 @@
 </div>
 
 `quantitative-finance` `machine-learning` `stock-data` `platform` `finance`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/10793962?v=4" width="20" align="top" alt="keon"/> [keon/algorithms](https://github.com/keon/algorithms) 🔥🔥🔥
+
+> Minimal examples of data structures and algorithms in Python
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/keon/algorithms?style=flat-square&labelColor=343b41)](https://github.com/keon/algorithms/stargazers) [![Forks](https://img.shields.io/github/forks/keon/algorithms?style=flat-square&labelColor=343b41)](https://github.com/keon/algorithms/network/members) [![Last Commit](https://img.shields.io/github/last-commit/keon/algorithms?style=flat-square&labelColor=343b41)](https://github.com/keon/algorithms/commits)
+
+</div>
+
+`algorithm` `algorithms` `competitive-programming` `data-structure` `graph`
 
 ---
 
@@ -6479,6 +6479,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20" align="top" alt="google-gemini"/> [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) 🔥🔥🔥
+
+> Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/stargazers) [![Forks](https://img.shields.io/github/forks/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/152629781?v=4" width="20" align="top" alt="567-labs"/> [567-labs/instructor](https://github.com/567-labs/instructor) 🔥🔥🔥
 
 > structured outputs for llms 
@@ -6504,18 +6516,6 @@
 </div>
 
 `elegant` `news`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20" align="top" alt="google-gemini"/> [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) 🔥🔥🔥
-
-> Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/stargazers) [![Forks](https://img.shields.io/github/forks/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-gemini/gemini-fullstack-langgraph-quickstart?style=flat-square&labelColor=343b41)](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/commits)
-
-</div>
 
 ---
 
@@ -6669,7 +6669,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/NLWeb](https://github.com/microsoft/NLWeb) 🔥
+### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/NLWeb](https://github.com/microsoft/NLWeb) 🔥🔥
 
 > Natural Language Web
 
@@ -6873,6 +6873,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20" align="top" alt="unslothai"/> [unslothai/notebooks](https://github.com/unslothai/notebooks) 🔥
+
+> Fine-tune LLMs for free with 100+ Notebooks on Google Colab, Kaggle, and more.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/stargazers) [![Forks](https://img.shields.io/github/forks/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/network/members) [![Last Commit](https://img.shields.io/github/last-commit/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/211618649?v=4" width="20" align="top" alt="Paper2Poster"/> [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) 🔥
 
 > Open-source Multi-agent Poster Generation from Papers
@@ -6884,18 +6896,6 @@
 </div>
 
 `agent` `multi-agent-systems` `paper` `poster` `pptx`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20" align="top" alt="unslothai"/> [unslothai/notebooks](https://github.com/unslothai/notebooks) 🔥
-
-> Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/stargazers) [![Forks](https://img.shields.io/github/forks/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/network/members) [![Last Commit](https://img.shields.io/github/last-commit/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/commits)
-
-</div>
 
 ---
 
@@ -6951,18 +6951,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/26294749?v=4" width="20" align="top" alt="0xairdropfarmer"/> [0xairdropfarmer/medium-clone-on-node](https://github.com/0xairdropfarmer/medium-clone-on-node)
-
-> clone Medium on Nodejs and Reactjs
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/stargazers) [![Forks](https://img.shields.io/github/forks/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/network/members) [![Last Commit](https://img.shields.io/github/last-commit/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/34525670?v=4" width="20" align="top" alt="landing-ai"/> [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc)
 
 > Python library for Agentic Document Extraction from LandingAI
@@ -6970,6 +6958,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/stargazers) [![Forks](https://img.shields.io/github/forks/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/network/members) [![Last Commit](https://img.shields.io/github/last-commit/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/26294749?v=4" width="20" align="top" alt="0xairdropfarmer"/> [0xairdropfarmer/medium-clone-on-node](https://github.com/0xairdropfarmer/medium-clone-on-node)
+
+> clone Medium on Nodejs and Reactjs
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/stargazers) [![Forks](https://img.shields.io/github/forks/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/network/members) [![Last Commit](https://img.shields.io/github/last-commit/0xairdropfarmer/medium-clone-on-node?style=flat-square&labelColor=343b41)](https://github.com/0xairdropfarmer/medium-clone-on-node/commits)
 
 </div>
 
