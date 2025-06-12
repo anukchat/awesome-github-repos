@@ -83,7 +83,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/25720743?v=4" width="20" align="top" alt="huggingface"/> [huggingface/transformers](https://github.com/huggingface/transformers) 🔥🔥🔥
 
-> 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+> 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 
 <div align="center">
 
@@ -91,7 +91,7 @@
 
 </div>
 
-`bert` `deep-learning` `flax` `hacktoberfest` `jax`
+`audio` `deep-learning` `deepseek` `gemma` `glm`
 
 ---
 
@@ -1991,7 +1991,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/127165244?v=4" width="20" align="top" alt="langgenius"/> [langgenius/dify](https://github.com/langgenius/dify) 🔥🔥🔥
 
-> Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+> Production-ready platform for agentic workflow development.
 
 <div align="center">
 
@@ -1999,7 +1999,7 @@
 
 </div>
 
-`agent` `ai` `automation` `backend-as-a-service` `gemini`
+`agent` `agentic-ai` `agentic-framework` `agentic-workflow` `ai`
 
 ---
 
@@ -2385,7 +2385,7 @@
 
 </div>
 
-`agent` `fastmcp` `llm` `mcp` `mcp-client`
+`agents` `fastmcp` `llms` `mcp` `mcp-clients`
 
 ---
 
@@ -2431,7 +2431,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="20" align="top" alt="google"/> [google/adk-python](https://github.com/google/adk-python) 🔥🔥
+### <img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="20" align="top" alt="google"/> [google/adk-python](https://github.com/google/adk-python) 🔥🔥🔥
 
 > An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 
@@ -4507,6 +4507,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/85207154?v=4" width="20" align="top" alt="DorsaRoh"/> [DorsaRoh/Machine-Learning](https://github.com/DorsaRoh/Machine-Learning) 🔥
+
+> ML from scratch
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/DorsaRoh/Machine-Learning?style=flat-square&labelColor=343b41)](https://github.com/DorsaRoh/Machine-Learning/stargazers) [![Forks](https://img.shields.io/github/forks/DorsaRoh/Machine-Learning?style=flat-square&labelColor=343b41)](https://github.com/DorsaRoh/Machine-Learning/network/members) [![Last Commit](https://img.shields.io/github/last-commit/DorsaRoh/Machine-Learning?style=flat-square&labelColor=343b41)](https://github.com/DorsaRoh/Machine-Learning/commits)
+
+</div>
+
+`machine-learning`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/7319142?v=4" width="20" align="top" alt="peremartra"/> [peremartra/Large-Language-Model-Notebooks-Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course) 🔥
 
 > Practical course about Large Language Models. 
@@ -4546,20 +4560,6 @@
 </div>
 
 `artificial-intelligence` `books` `bookshelf` `data-science` `math`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/85207154?v=4" width="20" align="top" alt="DorsaRoh"/> [DorsaRoh/Machine-Learning](https://github.com/DorsaRoh/Machine-Learning) 🔥
-
-> ML from scratch
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/DorsaRoh/Machine-Learning?style=flat-square&labelColor=343b41)](https://github.com/DorsaRoh/Machine-Learning/stargazers) [![Forks](https://img.shields.io/github/forks/DorsaRoh/Machine-Learning?style=flat-square&labelColor=343b41)](https://github.com/DorsaRoh/Machine-Learning/network/members) [![Last Commit](https://img.shields.io/github/last-commit/DorsaRoh/Machine-Learning?style=flat-square&labelColor=343b41)](https://github.com/DorsaRoh/Machine-Learning/commits)
-
-</div>
-
-`machine-learning`
 
 ---
 
@@ -6657,18 +6657,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/NLWeb](https://github.com/microsoft/NLWeb) 🔥🔥
-
-> Natural Language Web
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/microsoft/NLWeb?style=flat-square&labelColor=343b41)](https://github.com/microsoft/NLWeb/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/NLWeb?style=flat-square&labelColor=343b41)](https://github.com/microsoft/NLWeb/network/members) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/NLWeb?style=flat-square&labelColor=343b41)](https://github.com/microsoft/NLWeb/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/31841517?v=4" width="20" align="top" alt="aaPanel"/> [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) 🔥🔥
 
 > BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
@@ -6680,6 +6668,18 @@
 </div>
 
 `email-marketing` `mail` `mailserver` `email` `server`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/NLWeb](https://github.com/microsoft/NLWeb) 🔥🔥
+
+> Natural Language Web
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/microsoft/NLWeb?style=flat-square&labelColor=343b41)](https://github.com/microsoft/NLWeb/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/NLWeb?style=flat-square&labelColor=343b41)](https://github.com/microsoft/NLWeb/network/members) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/NLWeb?style=flat-square&labelColor=343b41)](https://github.com/microsoft/NLWeb/commits)
+
+</div>
 
 ---
 
@@ -6709,13 +6709,13 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/18418340?v=4" width="20" align="top" alt="hotheadhacker"/> [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) 🔥
+### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥
 
-> 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
+> all of the workflows of n8n i could find (also from the site itself)
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/stargazers) [![Forks](https://img.shields.io/github/forks/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/network/members) [![Last Commit](https://img.shields.io/github/last-commit/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/commits)
+[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
 
 </div>
 
@@ -6733,13 +6733,13 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥
+### <img src="https://avatars.githubusercontent.com/u/18418340?v=4" width="20" align="top" alt="hotheadhacker"/> [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) 🔥
 
-> all of the workflows of n8n i could find (also from the site itself)
+> 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
+[![Stars](https://img.shields.io/github/stars/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/stargazers) [![Forks](https://img.shields.io/github/forks/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/network/members) [![Last Commit](https://img.shields.io/github/last-commit/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/commits)
 
 </div>
 
@@ -6773,18 +6773,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/48055421?v=4" width="20" align="top" alt="going-doer"/> [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code) 🔥
-
-> Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/going-doer/Paper2Code?style=flat-square&labelColor=343b41)](https://github.com/going-doer/Paper2Code/stargazers) [![Forks](https://img.shields.io/github/forks/going-doer/Paper2Code?style=flat-square&labelColor=343b41)](https://github.com/going-doer/Paper2Code/network/members) [![Last Commit](https://img.shields.io/github/last-commit/going-doer/Paper2Code?style=flat-square&labelColor=343b41)](https://github.com/going-doer/Paper2Code/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/98949449?v=4" width="20" align="top" alt="latitude-dev"/> [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) 🔥
 
 > Latitude is the open-source prompt engineering platform to build, evaluate, and refine your prompts with AI
@@ -6792,6 +6780,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/latitude-dev/latitude-llm?style=flat-square&labelColor=343b41)](https://github.com/latitude-dev/latitude-llm/stargazers) [![Forks](https://img.shields.io/github/forks/latitude-dev/latitude-llm?style=flat-square&labelColor=343b41)](https://github.com/latitude-dev/latitude-llm/network/members) [![Last Commit](https://img.shields.io/github/last-commit/latitude-dev/latitude-llm?style=flat-square&labelColor=343b41)](https://github.com/latitude-dev/latitude-llm/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/48055421?v=4" width="20" align="top" alt="going-doer"/> [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code) 🔥
+
+> Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/going-doer/Paper2Code?style=flat-square&labelColor=343b41)](https://github.com/going-doer/Paper2Code/stargazers) [![Forks](https://img.shields.io/github/forks/going-doer/Paper2Code?style=flat-square&labelColor=343b41)](https://github.com/going-doer/Paper2Code/network/members) [![Last Commit](https://img.shields.io/github/last-commit/going-doer/Paper2Code?style=flat-square&labelColor=343b41)](https://github.com/going-doer/Paper2Code/commits)
 
 </div>
 
@@ -6859,6 +6859,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20" align="top" alt="unslothai"/> [unslothai/notebooks](https://github.com/unslothai/notebooks) 🔥
+
+> Fine-tune LLMs for free with 100+ Notebooks on Google Colab, Kaggle, and more.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/stargazers) [![Forks](https://img.shields.io/github/forks/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/network/members) [![Last Commit](https://img.shields.io/github/last-commit/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/454718?v=4" width="20" align="top" alt="gosom"/> [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) 🔥
 
 > scrape data  data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place
@@ -6870,18 +6882,6 @@
 </div>
 
 `golang` `google-maps-scraping` `web-scraper` `web-scraping` `distributed-scraper`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20" align="top" alt="unslothai"/> [unslothai/notebooks](https://github.com/unslothai/notebooks) 🔥
-
-> Fine-tune LLMs for free with 100+ Notebooks on Google Colab, Kaggle, and more.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/stargazers) [![Forks](https://img.shields.io/github/forks/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/network/members) [![Last Commit](https://img.shields.io/github/last-commit/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/commits)
-
-</div>
 
 ---
 
@@ -6939,7 +6939,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/19221939?v=4" width="20" align="top" alt="UKGovernmentBEIS"/> [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) 🔥
+### <img src="https://avatars.githubusercontent.com/u/19221939?v=4" width="20" align="top" alt="UKGovernmentBEIS"/> [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai)
 
 > Inspect: A framework for large language model evaluations
 
