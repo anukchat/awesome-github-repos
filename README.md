@@ -6,6 +6,10 @@
 
 <table><tbody>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/88680502?v=4" width="20"/> <a href="https://github.com/ucbepic/docetl">ucbepic/docetl</a> 🔥</td>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/14957082?v=4" width="20"/> <a href="https://github.com/openai/openai-testing-agent-demo">openai/openai-testing-agent-demo</a> </td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/98949449?v=4" width="20"/> <a href="https://github.com/latitude-dev/latitude-llm">latitude-dev/latitude-llm</a> 🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/173073912?v=4" width="20"/> <a href="https://github.com/Intelligent-Internet/ii-agent">Intelligent-Internet/ii-agent</a> 🔥</td>
 </tr>
@@ -20,10 +24,6 @@
 <tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/213684959?v=4" width="20"/> <a href="https://github.com/google-a2a/A2A">google-a2a/A2A</a> 🔥🔥🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/137054526?v=4" width="20"/> <a href="https://github.com/mem0ai/mem0-mcp">mem0ai/mem0-mcp</a> </td>
-</tr>
-<tr>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/157326433?v=4" width="20"/> <a href="https://github.com/onlook-dev/onlook">onlook-dev/onlook</a> 🔥🔥🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/38891707?v=4" width="20"/> <a href="https://github.com/frdel/agent-zero">frdel/agent-zero</a> 🔥🔥</td>
 </tr>
 </tbody></table>
 
@@ -335,7 +335,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20" align="top" alt="unslothai"/> [unslothai/unsloth](https://github.com/unslothai/unsloth) 🔥🔥🔥
 
-> Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥
+> Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
 
 <div align="center">
 
@@ -1041,20 +1041,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/123263103?v=4" width="20" align="top" alt="Pythagora-io"/> [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) 🔥🔥🔥
-
-> The first real AI developer
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=flat-square&labelColor=343b41)](https://github.com/Pythagora-io/gpt-pilot/stargazers) [![Forks](https://img.shields.io/github/forks/Pythagora-io/gpt-pilot?style=flat-square&labelColor=343b41)](https://github.com/Pythagora-io/gpt-pilot/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Pythagora-io/gpt-pilot?style=flat-square&labelColor=343b41)](https://github.com/Pythagora-io/gpt-pilot/commits)
-
-</div>
-
-`ai` `codegen` `coding-assistant` `developer-tools` `gpt-4`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="20" align="top" alt="crewAIInc"/> [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) 🔥🔥🔥
 
 > Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
@@ -1066,6 +1052,20 @@
 </div>
 
 `agents` `ai` `ai-agents` `aiagentframework` `llms`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/123263103?v=4" width="20" align="top" alt="Pythagora-io"/> [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) 🔥🔥🔥
+
+> The first real AI developer
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=flat-square&labelColor=343b41)](https://github.com/Pythagora-io/gpt-pilot/stargazers) [![Forks](https://img.shields.io/github/forks/Pythagora-io/gpt-pilot?style=flat-square&labelColor=343b41)](https://github.com/Pythagora-io/gpt-pilot/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Pythagora-io/gpt-pilot?style=flat-square&labelColor=343b41)](https://github.com/Pythagora-io/gpt-pilot/commits)
+
+</div>
+
+`ai` `codegen` `coding-assistant` `developer-tools` `gpt-4`
 
 ---
 
@@ -4483,6 +4483,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/85207154?v=4" width="20" align="top" alt="DorsaRoh"/> [DorsaRoh/Machine-Learning](https://github.com/DorsaRoh/Machine-Learning) 🔥
+
+> ML from scratch
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/DorsaRoh/Machine-Learning?style=flat-square&labelColor=343b41)](https://github.com/DorsaRoh/Machine-Learning/stargazers) [![Forks](https://img.shields.io/github/forks/DorsaRoh/Machine-Learning?style=flat-square&labelColor=343b41)](https://github.com/DorsaRoh/Machine-Learning/network/members) [![Last Commit](https://img.shields.io/github/last-commit/DorsaRoh/Machine-Learning?style=flat-square&labelColor=343b41)](https://github.com/DorsaRoh/Machine-Learning/commits)
+
+</div>
+
+`machine-learning`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/20547620?v=4" width="20" align="top" alt="fastai"/> [fastai/lm-hackers](https://github.com/fastai/lm-hackers) 🔥
 
 > Hackers' Guide to Language Models
@@ -4504,20 +4518,6 @@
 [![Stars](https://img.shields.io/github/stars/aws-samples/amazon-bedrock-workshop?style=flat-square&labelColor=343b41)](https://github.com/aws-samples/amazon-bedrock-workshop/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/amazon-bedrock-workshop?style=flat-square&labelColor=343b41)](https://github.com/aws-samples/amazon-bedrock-workshop/network/members) [![Last Commit](https://img.shields.io/github/last-commit/aws-samples/amazon-bedrock-workshop?style=flat-square&labelColor=343b41)](https://github.com/aws-samples/amazon-bedrock-workshop/commits)
 
 </div>
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/85207154?v=4" width="20" align="top" alt="DorsaRoh"/> [DorsaRoh/Machine-Learning](https://github.com/DorsaRoh/Machine-Learning) 🔥
-
-> ML from scratch
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/DorsaRoh/Machine-Learning?style=flat-square&labelColor=343b41)](https://github.com/DorsaRoh/Machine-Learning/stargazers) [![Forks](https://img.shields.io/github/forks/DorsaRoh/Machine-Learning?style=flat-square&labelColor=343b41)](https://github.com/DorsaRoh/Machine-Learning/network/members) [![Last Commit](https://img.shields.io/github/last-commit/DorsaRoh/Machine-Learning?style=flat-square&labelColor=343b41)](https://github.com/DorsaRoh/Machine-Learning/commits)
-
-</div>
-
-`machine-learning`
 
 ---
 
@@ -5981,7 +5981,7 @@
 
 <h2 id="others">🔖 Others</h2>
 
-<details><summary>Show repositories (82)</summary>
+<details><summary>Show repositories (83)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6175,7 +6175,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/137054526?v=4" width="20" align="top" alt="mem0ai"/> [mem0ai/mem0](https://github.com/mem0ai/mem0) 🔥🔥🔥
 
-> Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
+> Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 
 <div align="center">
 
@@ -6271,20 +6271,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/159397742?v=4" width="20" align="top" alt="glanceapp"/> [glanceapp/glance](https://github.com/glanceapp/glance) 🔥🔥🔥
-
-> A self-hosted dashboard that puts all your feeds in one place
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/glanceapp/glance?style=flat-square&labelColor=343b41)](https://github.com/glanceapp/glance/stargazers) [![Forks](https://img.shields.io/github/forks/glanceapp/glance?style=flat-square&labelColor=343b41)](https://github.com/glanceapp/glance/network/members) [![Last Commit](https://img.shields.io/github/last-commit/glanceapp/glance?style=flat-square&labelColor=343b41)](https://github.com/glanceapp/glance/commits)
-
-</div>
-
-`aggregator` `dashboard` `docker` `feed-reader` `go`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/qlib](https://github.com/microsoft/qlib) 🔥🔥🔥
 
 > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
@@ -6296,6 +6282,20 @@
 </div>
 
 `quantitative-finance` `machine-learning` `stock-data` `platform` `finance`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/159397742?v=4" width="20" align="top" alt="glanceapp"/> [glanceapp/glance](https://github.com/glanceapp/glance) 🔥🔥🔥
+
+> A self-hosted dashboard that puts all your feeds in one place
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/glanceapp/glance?style=flat-square&labelColor=343b41)](https://github.com/glanceapp/glance/stargazers) [![Forks](https://img.shields.io/github/forks/glanceapp/glance?style=flat-square&labelColor=343b41)](https://github.com/glanceapp/glance/network/members) [![Last Commit](https://img.shields.io/github/last-commit/glanceapp/glance?style=flat-square&labelColor=343b41)](https://github.com/glanceapp/glance/commits)
+
+</div>
+
+`aggregator` `dashboard` `docker` `feed-reader` `go`
 
 ---
 
@@ -6629,20 +6629,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/122026167?v=4" width="20" align="top" alt="MODSetter"/> [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) 🔥🔥
-
-> Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/MODSetter/SurfSense?style=flat-square&labelColor=343b41)](https://github.com/MODSetter/SurfSense/stargazers) [![Forks](https://img.shields.io/github/forks/MODSetter/SurfSense?style=flat-square&labelColor=343b41)](https://github.com/MODSetter/SurfSense/network/members) [![Last Commit](https://img.shields.io/github/last-commit/MODSetter/SurfSense?style=flat-square&labelColor=343b41)](https://github.com/MODSetter/SurfSense/commits)
-
-</div>
-
-`aceternity-ui` `ai` `fastapi` `langchain` `nextjs`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/20604835?v=4" width="20" align="top" alt="D4Vinci"/> [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) 🔥🔥
 
 > 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
@@ -6697,18 +6683,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/209775067?v=4" width="20" align="top" alt="ag-ui-protocol"/> [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) 🔥
-
-> AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/stargazers) [![Forks](https://img.shields.io/github/forks/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥
 
 > all of the workflows of n8n i could find (also from the site itself)
@@ -6716,6 +6690,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/209775067?v=4" width="20" align="top" alt="ag-ui-protocol"/> [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) 🔥
+
+> AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/stargazers) [![Forks](https://img.shields.io/github/forks/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/commits)
 
 </div>
 
@@ -6807,6 +6793,22 @@
 
 </div>
 
+`agent` `agentic-ai` `ai` `ai-agent` `ai-agent-framework`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/603317?v=4" width="20" align="top" alt="codelion"/> [codelion/openevolve](https://github.com/codelion/openevolve) 🔥
+
+> Open-source implementation of AlphaEvolve
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/codelion/openevolve?style=flat-square&labelColor=343b41)](https://github.com/codelion/openevolve/stargazers) [![Forks](https://img.shields.io/github/forks/codelion/openevolve?style=flat-square&labelColor=343b41)](https://github.com/codelion/openevolve/network/members) [![Last Commit](https://img.shields.io/github/last-commit/codelion/openevolve?style=flat-square&labelColor=343b41)](https://github.com/codelion/openevolve/commits)
+
+</div>
+
+`alphacode` `coding-agent` `deepmind` `deepmind-lab` `discovery`
+
 ---
 
 ### <img src="https://avatars.githubusercontent.com/u/142983232?v=4" width="20" align="top" alt="fastrepl"/> [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) 🔥
@@ -6833,20 +6835,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/603317?v=4" width="20" align="top" alt="codelion"/> [codelion/openevolve](https://github.com/codelion/openevolve) 🔥
-
-> Open-source implementation of AlphaEvolve
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/codelion/openevolve?style=flat-square&labelColor=343b41)](https://github.com/codelion/openevolve/stargazers) [![Forks](https://img.shields.io/github/forks/codelion/openevolve?style=flat-square&labelColor=343b41)](https://github.com/codelion/openevolve/network/members) [![Last Commit](https://img.shields.io/github/last-commit/codelion/openevolve?style=flat-square&labelColor=343b41)](https://github.com/codelion/openevolve/commits)
-
-</div>
-
-`alphacode` `coding-agent` `deepmind` `deepmind-lab` `discovery`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/108261537?v=4" width="20" align="top" alt="ML-GSAI"/> [ML-GSAI/LLaDA](https://github.com/ML-GSAI/LLaDA) 🔥
 
 > Official PyTorch implementation for "Large Language Diffusion Models"
@@ -6856,6 +6844,20 @@
 [![Stars](https://img.shields.io/github/stars/ML-GSAI/LLaDA?style=flat-square&labelColor=343b41)](https://github.com/ML-GSAI/LLaDA/stargazers) [![Forks](https://img.shields.io/github/forks/ML-GSAI/LLaDA?style=flat-square&labelColor=343b41)](https://github.com/ML-GSAI/LLaDA/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ML-GSAI/LLaDA?style=flat-square&labelColor=343b41)](https://github.com/ML-GSAI/LLaDA/commits)
 
 </div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/88680502?v=4" width="20" align="top" alt="ucbepic"/> [ucbepic/docetl](https://github.com/ucbepic/docetl) 🔥
+
+> A system for agentic LLM-powered data processing and ETL
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/ucbepic/docetl?style=flat-square&labelColor=343b41)](https://github.com/ucbepic/docetl/stargazers) [![Forks](https://img.shields.io/github/forks/ucbepic/docetl?style=flat-square&labelColor=343b41)](https://github.com/ucbepic/docetl/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ucbepic/docetl?style=flat-square&labelColor=343b41)](https://github.com/ucbepic/docetl/commits)
+
+</div>
+
+`data` `etl` `llm` `python` `data-pipelines`
 
 ---
 
@@ -7006,6 +7008,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/mem0ai/mem0-mcp?style=flat-square&labelColor=343b41)](https://github.com/mem0ai/mem0-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/mem0ai/mem0-mcp?style=flat-square&labelColor=343b41)](https://github.com/mem0ai/mem0-mcp/network/members) [![Last Commit](https://img.shields.io/github/last-commit/mem0ai/mem0-mcp?style=flat-square&labelColor=343b41)](https://github.com/mem0ai/mem0-mcp/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/14957082?v=4" width="20" align="top" alt="openai"/> [openai/openai-testing-agent-demo](https://github.com/openai/openai-testing-agent-demo)
+
+> Demo of a UI testing agent using the OpenAI CUA model and the Responses API.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/openai/openai-testing-agent-demo?style=flat-square&labelColor=343b41)](https://github.com/openai/openai-testing-agent-demo/stargazers) [![Forks](https://img.shields.io/github/forks/openai/openai-testing-agent-demo?style=flat-square&labelColor=343b41)](https://github.com/openai/openai-testing-agent-demo/network/members) [![Last Commit](https://img.shields.io/github/last-commit/openai/openai-testing-agent-demo?style=flat-square&labelColor=343b41)](https://github.com/openai/openai-testing-agent-demo/commits)
 
 </div>
 
