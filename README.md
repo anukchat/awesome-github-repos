@@ -6,24 +6,24 @@
 
 <table><tbody>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/63067900?v=4" width="20"/> <a href="https://github.com/FareedKhan-dev/all-rag-techniques">FareedKhan-dev/all-rag-techniques</a> 🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/88680502?v=4" width="20"/> <a href="https://github.com/ucbepic/docetl">ucbepic/docetl</a> 🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/14957082?v=4" width="20"/> <a href="https://github.com/openai/openai-testing-agent-demo">openai/openai-testing-agent-demo</a> </td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/98949449?v=4" width="20"/> <a href="https://github.com/latitude-dev/latitude-llm">latitude-dev/latitude-llm</a> 🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/173073912?v=4" width="20"/> <a href="https://github.com/Intelligent-Internet/ii-agent">Intelligent-Internet/ii-agent</a> 🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/23534030?v=4" width="20"/> <a href="https://github.com/PaddlePaddle/PaddleOCR">PaddlePaddle/PaddleOCR</a> 🔥🔥🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/118165258?v=4" width="20"/> <a href="https://github.com/HKUDS/AutoAgent">HKUDS/AutoAgent</a> 🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20"/> <a href="https://github.com/unslothai/notebooks">unslothai/notebooks</a> 🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20"/> <a href="https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart">google-gemini/gemini-fullstack-langgraph-quickstart</a> 🔥🔥🔥</td>
 </tr>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20"/> <a href="https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart">google-gemini/gemini-fullstack-langgraph-quickstart</a> 🔥🔥🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/213684959?v=4" width="20"/> <a href="https://github.com/google-a2a/A2A">google-a2a/A2A</a> 🔥🔥🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/137054526?v=4" width="20"/> <a href="https://github.com/mem0ai/mem0-mcp">mem0ai/mem0-mcp</a> </td>
 </tr>
 </tbody></table>
 
@@ -1231,20 +1231,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/179202840?v=4" width="20" align="top" alt="mediar-ai"/> [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) 🔥🔥🔥
-
-> AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/mediar-ai/screenpipe?style=flat-square&labelColor=343b41)](https://github.com/mediar-ai/screenpipe/stargazers) [![Forks](https://img.shields.io/github/forks/mediar-ai/screenpipe?style=flat-square&labelColor=343b41)](https://github.com/mediar-ai/screenpipe/network/members) [![Last Commit](https://img.shields.io/github/last-commit/mediar-ai/screenpipe?style=flat-square&labelColor=343b41)](https://github.com/mediar-ai/screenpipe/commits)
-
-</div>
-
-`agents` `agi` `ai` `computer-vision` `llm`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/4488133?v=4" width="20" align="top" alt="78"/> [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) 🔥🔥🔥
 
 > An MCP-based chatbot | 一个基于MCP的聊天机器人
@@ -1256,6 +1242,20 @@
 </div>
 
 `chatbot` `esp32` `mcp`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/179202840?v=4" width="20" align="top" alt="mediar-ai"/> [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) 🔥🔥🔥
+
+> AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/mediar-ai/screenpipe?style=flat-square&labelColor=343b41)](https://github.com/mediar-ai/screenpipe/stargazers) [![Forks](https://img.shields.io/github/forks/mediar-ai/screenpipe?style=flat-square&labelColor=343b41)](https://github.com/mediar-ai/screenpipe/network/members) [![Last Commit](https://img.shields.io/github/last-commit/mediar-ai/screenpipe?style=flat-square&labelColor=343b41)](https://github.com/mediar-ai/screenpipe/commits)
+
+</div>
+
+`agents` `agi` `ai` `computer-vision` `llm`
 
 ---
 
@@ -1539,7 +1539,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/193029780?v=4" width="20" align="top" alt="MotiaDev"/> [MotiaDev/motia](https://github.com/MotiaDev/motia) 🔥
 
-> Unified Backend Framework for APIs, Events and Agents
+> Unified Backend Framework for APIs, Events and AI Agents
 
 <div align="center">
 
@@ -2417,20 +2417,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/58067660?v=4" width="20" align="top" alt="doccano"/> [doccano/doccano](https://github.com/doccano/doccano) 🔥🔥🔥
-
-> Open source annotation tool for machine learning practitioners.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/doccano/doccano?style=flat-square&labelColor=343b41)](https://github.com/doccano/doccano/stargazers) [![Forks](https://img.shields.io/github/forks/doccano/doccano?style=flat-square&labelColor=343b41)](https://github.com/doccano/doccano/network/members) [![Last Commit](https://img.shields.io/github/last-commit/doccano/doccano?style=flat-square&labelColor=343b41)](https://github.com/doccano/doccano/commits)
-
-</div>
-
-`annotation-tool` `data-labeling` `dataset` `datasets` `machine-learning`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="20" align="top" alt="google"/> [google/adk-python](https://github.com/google/adk-python) 🔥🔥🔥
 
 > An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
@@ -2442,6 +2428,20 @@
 </div>
 
 `agent` `agentic` `agentic-ai` `agents` `agents-sdk`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/58067660?v=4" width="20" align="top" alt="doccano"/> [doccano/doccano](https://github.com/doccano/doccano) 🔥🔥🔥
+
+> Open source annotation tool for machine learning practitioners.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/doccano/doccano?style=flat-square&labelColor=343b41)](https://github.com/doccano/doccano/stargazers) [![Forks](https://img.shields.io/github/forks/doccano/doccano?style=flat-square&labelColor=343b41)](https://github.com/doccano/doccano/network/members) [![Last Commit](https://img.shields.io/github/last-commit/doccano/doccano?style=flat-square&labelColor=343b41)](https://github.com/doccano/doccano/commits)
+
+</div>
+
+`annotation-tool` `data-labeling` `dataset` `datasets` `machine-learning`
 
 ---
 
@@ -4073,6 +4073,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/courses](https://github.com/anthropics/courses) 🔥🔥🔥
+
+> Anthropic's educational courses
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/30384625?v=4" width="20" align="top" alt="dair-ai"/> [dair-ai/ml-visuals](https://github.com/dair-ai/ml-visuals) 🔥🔥🔥
 
 > 🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.
@@ -4084,18 +4096,6 @@
 </div>
 
 `artificial-intelligence` `deep-learning` `design` `machine-learning` `natural-language-processing`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/courses](https://github.com/anthropics/courses) 🔥🔥🔥
-
-> Anthropic's educational courses
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/commits)
-
-</div>
 
 ---
 
@@ -5981,7 +5981,7 @@
 
 <h2 id="others">🔖 Others</h2>
 
-<details><summary>Show repositories (83)</summary>
+<details><summary>Show repositories (84)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6397,20 +6397,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/84011411?v=4" width="20" align="top" alt="InterviewReady"/> [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) 🔥🔥🔥
-
-> These are the best resources for System Design on the Internet
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/InterviewReady/system-design-resources?style=flat-square&labelColor=343b41)](https://github.com/InterviewReady/system-design-resources/stargazers) [![Forks](https://img.shields.io/github/forks/InterviewReady/system-design-resources?style=flat-square&labelColor=343b41)](https://github.com/InterviewReady/system-design-resources/network/members) [![Last Commit](https://img.shields.io/github/last-commit/InterviewReady/system-design-resources?style=flat-square&labelColor=343b41)](https://github.com/InterviewReady/system-design-resources/commits)
-
-</div>
-
-`cache` `fault-tolerance` `scalability` `system-design`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/213684959?v=4" width="20" align="top" alt="google-a2a"/> [google-a2a/A2A](https://github.com/google-a2a/A2A) 🔥🔥🔥
 
 > An open protocol enabling communication and interoperability between opaque agentic applications.
@@ -6422,6 +6408,20 @@
 </div>
 
 `a2a` `a2a-mcp` `a2a-protocol` `a2a-server` `agents`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/84011411?v=4" width="20" align="top" alt="InterviewReady"/> [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) 🔥🔥🔥
+
+> These are the best resources for System Design on the Internet
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/InterviewReady/system-design-resources?style=flat-square&labelColor=343b41)](https://github.com/InterviewReady/system-design-resources/stargazers) [![Forks](https://img.shields.io/github/forks/InterviewReady/system-design-resources?style=flat-square&labelColor=343b41)](https://github.com/InterviewReady/system-design-resources/network/members) [![Last Commit](https://img.shields.io/github/last-commit/InterviewReady/system-design-resources?style=flat-square&labelColor=343b41)](https://github.com/InterviewReady/system-design-resources/commits)
+
+</div>
+
+`cache` `fault-tolerance` `scalability` `system-design`
 
 ---
 
@@ -6629,20 +6629,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/20604835?v=4" width="20" align="top" alt="D4Vinci"/> [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) 🔥🔥
-
-> 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/D4Vinci/Scrapling?style=flat-square&labelColor=343b41)](https://github.com/D4Vinci/Scrapling/stargazers) [![Forks](https://img.shields.io/github/forks/D4Vinci/Scrapling?style=flat-square&labelColor=343b41)](https://github.com/D4Vinci/Scrapling/network/members) [![Last Commit](https://img.shields.io/github/last-commit/D4Vinci/Scrapling?style=flat-square&labelColor=343b41)](https://github.com/D4Vinci/Scrapling/commits)
-
-</div>
-
-`crawler` `crawling` `crawling-python` `hacktoberfest` `playwright`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/31841517?v=4" width="20" align="top" alt="aaPanel"/> [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) 🔥🔥
 
 > BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
@@ -6654,6 +6640,20 @@
 </div>
 
 `email-marketing` `mail` `mailserver` `email` `server`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/20604835?v=4" width="20" align="top" alt="D4Vinci"/> [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) 🔥🔥
+
+> 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/D4Vinci/Scrapling?style=flat-square&labelColor=343b41)](https://github.com/D4Vinci/Scrapling/stargazers) [![Forks](https://img.shields.io/github/forks/D4Vinci/Scrapling?style=flat-square&labelColor=343b41)](https://github.com/D4Vinci/Scrapling/network/members) [![Last Commit](https://img.shields.io/github/last-commit/D4Vinci/Scrapling?style=flat-square&labelColor=343b41)](https://github.com/D4Vinci/Scrapling/commits)
+
+</div>
+
+`crawler` `crawling` `crawling-python` `hacktoberfest` `playwright`
 
 ---
 
@@ -6692,6 +6692,20 @@
 [![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
 
 </div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/63067900?v=4" width="20" align="top" alt="FareedKhan-dev"/> [FareedKhan-dev/all-rag-techniques](https://github.com/FareedKhan-dev/all-rag-techniques) 🔥
+
+> Implementation of all RAG techniques in a simpler way
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/FareedKhan-dev/all-rag-techniques?style=flat-square&labelColor=343b41)](https://github.com/FareedKhan-dev/all-rag-techniques/stargazers) [![Forks](https://img.shields.io/github/forks/FareedKhan-dev/all-rag-techniques?style=flat-square&labelColor=343b41)](https://github.com/FareedKhan-dev/all-rag-techniques/network/members) [![Last Commit](https://img.shields.io/github/last-commit/FareedKhan-dev/all-rag-techniques?style=flat-square&labelColor=343b41)](https://github.com/FareedKhan-dev/all-rag-techniques/commits)
+
+</div>
+
+`ai` `llm` `llms` `openai` `python`
 
 ---
 
@@ -6783,20 +6797,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/173073912?v=4" width="20" align="top" alt="Intelligent-Internet"/> [Intelligent-Internet/ii-agent](https://github.com/Intelligent-Internet/ii-agent) 🔥
-
-> II-Agent: a new open-source framework to build and deploy intelligent agents
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Intelligent-Internet/ii-agent?style=flat-square&labelColor=343b41)](https://github.com/Intelligent-Internet/ii-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Intelligent-Internet/ii-agent?style=flat-square&labelColor=343b41)](https://github.com/Intelligent-Internet/ii-agent/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Intelligent-Internet/ii-agent?style=flat-square&labelColor=343b41)](https://github.com/Intelligent-Internet/ii-agent/commits)
-
-</div>
-
-`agent` `agentic-ai` `ai` `ai-agent` `ai-agent-framework`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/603317?v=4" width="20" align="top" alt="codelion"/> [codelion/openevolve](https://github.com/codelion/openevolve) 🔥
 
 > Open-source implementation of AlphaEvolve
@@ -6808,6 +6808,20 @@
 </div>
 
 `alphacode` `coding-agent` `deepmind` `deepmind-lab` `discovery`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/173073912?v=4" width="20" align="top" alt="Intelligent-Internet"/> [Intelligent-Internet/ii-agent](https://github.com/Intelligent-Internet/ii-agent) 🔥
+
+> II-Agent: a new open-source framework to build and deploy intelligent agents
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Intelligent-Internet/ii-agent?style=flat-square&labelColor=343b41)](https://github.com/Intelligent-Internet/ii-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Intelligent-Internet/ii-agent?style=flat-square&labelColor=343b41)](https://github.com/Intelligent-Internet/ii-agent/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Intelligent-Internet/ii-agent?style=flat-square&labelColor=343b41)](https://github.com/Intelligent-Internet/ii-agent/commits)
+
+</div>
+
+`agent` `agentic-ai` `ai` `ai-agent` `ai-agent-framework`
 
 ---
 
@@ -6941,7 +6955,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/19221939?v=4" width="20" align="top" alt="UKGovernmentBEIS"/> [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai)
+### <img src="https://avatars.githubusercontent.com/u/19221939?v=4" width="20" align="top" alt="UKGovernmentBEIS"/> [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) 🔥
 
 > Inspect: A framework for large language model evaluations
 
@@ -6991,6 +7005,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/14957082?v=4" width="20" align="top" alt="openai"/> [openai/openai-testing-agent-demo](https://github.com/openai/openai-testing-agent-demo)
+
+> Demo of a UI testing agent using the OpenAI CUA model and the Responses API.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/openai/openai-testing-agent-demo?style=flat-square&labelColor=343b41)](https://github.com/openai/openai-testing-agent-demo/stargazers) [![Forks](https://img.shields.io/github/forks/openai/openai-testing-agent-demo?style=flat-square&labelColor=343b41)](https://github.com/openai/openai-testing-agent-demo/network/members) [![Last Commit](https://img.shields.io/github/last-commit/openai/openai-testing-agent-demo?style=flat-square&labelColor=343b41)](https://github.com/openai/openai-testing-agent-demo/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/53078775?v=4" width="20" align="top" alt="Maharshi-Pandya"/> [Maharshi-Pandya/cudacodes](https://github.com/Maharshi-Pandya/cudacodes)
 
 > Learnings and programs related to CUDA
@@ -7008,18 +7034,6 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/mem0ai/mem0-mcp?style=flat-square&labelColor=343b41)](https://github.com/mem0ai/mem0-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/mem0ai/mem0-mcp?style=flat-square&labelColor=343b41)](https://github.com/mem0ai/mem0-mcp/network/members) [![Last Commit](https://img.shields.io/github/last-commit/mem0ai/mem0-mcp?style=flat-square&labelColor=343b41)](https://github.com/mem0ai/mem0-mcp/commits)
-
-</div>
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/14957082?v=4" width="20" align="top" alt="openai"/> [openai/openai-testing-agent-demo](https://github.com/openai/openai-testing-agent-demo)
-
-> Demo of a UI testing agent using the OpenAI CUA model and the Responses API.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/openai/openai-testing-agent-demo?style=flat-square&labelColor=343b41)](https://github.com/openai/openai-testing-agent-demo/stargazers) [![Forks](https://img.shields.io/github/forks/openai/openai-testing-agent-demo?style=flat-square&labelColor=343b41)](https://github.com/openai/openai-testing-agent-demo/network/members) [![Last Commit](https://img.shields.io/github/last-commit/openai/openai-testing-agent-demo?style=flat-square&labelColor=343b41)](https://github.com/openai/openai-testing-agent-demo/commits)
 
 </div>
 
