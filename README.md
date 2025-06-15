@@ -115,7 +115,7 @@
 
 </div>
 
-`ai` `artificial-intelligence` `chatgpt` `gpt` `language-model`
+`ai` `artificial-intelligence` `chatgpt` `deep-learning` `from-scratch`
 
 ---
 
@@ -1539,13 +1539,15 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/193029780?v=4" width="20" align="top" alt="MotiaDev"/> [MotiaDev/motia](https://github.com/MotiaDev/motia) 🔥
 
-> Unified Backend Framework for APIs, Events and AI Agents
+> Unified Backend Framework for APIs, Events, and AI Agents
 
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/MotiaDev/motia?style=flat-square&labelColor=343b41)](https://github.com/MotiaDev/motia/stargazers) [![Forks](https://img.shields.io/github/forks/MotiaDev/motia?style=flat-square&labelColor=343b41)](https://github.com/MotiaDev/motia/network/members) [![Last Commit](https://img.shields.io/github/last-commit/MotiaDev/motia?style=flat-square&labelColor=343b41)](https://github.com/MotiaDev/motia/commits)
 
 </div>
+
+`agents` `agi` `ai` `api` `backend`
 
 ---
 
@@ -2085,20 +2087,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/128289781?v=4" width="20" align="top" alt="FlowiseAI"/> [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) 🔥🔥🔥
-
-> Build AI Agents, Visually
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=flat-square&labelColor=343b41)](https://github.com/FlowiseAI/Flowise/stargazers) [![Forks](https://img.shields.io/github/forks/FlowiseAI/Flowise?style=flat-square&labelColor=343b41)](https://github.com/FlowiseAI/Flowise/network/members) [![Last Commit](https://img.shields.io/github/last-commit/FlowiseAI/Flowise?style=flat-square&labelColor=343b41)](https://github.com/FlowiseAI/Flowise/commits)
-
-</div>
-
-`agentic-ai` `agentic-workflow` `agents` `artificial-intelligence` `chatbot`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/31396011?v=4" width="20" align="top" alt="Shubhamsaboo"/> [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) 🔥🔥🔥
 
 > Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
@@ -2110,6 +2098,20 @@
 </div>
 
 `llms` `python` `rag`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/128289781?v=4" width="20" align="top" alt="FlowiseAI"/> [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) 🔥🔥🔥
+
+> Build AI Agents, Visually
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=flat-square&labelColor=343b41)](https://github.com/FlowiseAI/Flowise/stargazers) [![Forks](https://img.shields.io/github/forks/FlowiseAI/Flowise?style=flat-square&labelColor=343b41)](https://github.com/FlowiseAI/Flowise/network/members) [![Last Commit](https://img.shields.io/github/last-commit/FlowiseAI/Flowise?style=flat-square&labelColor=343b41)](https://github.com/FlowiseAI/Flowise/commits)
+
+</div>
+
+`agentic-ai` `agentic-workflow` `agents` `artificial-intelligence` `chatbot`
 
 ---
 
@@ -6355,20 +6357,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/113977713?v=4" width="20" align="top" alt="teableio"/> [teableio/teable](https://github.com/teableio/teable) 🔥🔥🔥
-
-> ✨ The Next Gen Airtable Alternative: No-Code Postgres
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/teableio/teable?style=flat-square&labelColor=343b41)](https://github.com/teableio/teable/stargazers) [![Forks](https://img.shields.io/github/forks/teableio/teable?style=flat-square&labelColor=343b41)](https://github.com/teableio/teable/network/members) [![Last Commit](https://img.shields.io/github/last-commit/teableio/teable?style=flat-square&labelColor=343b41)](https://github.com/teableio/teable/commits)
-
-</div>
-
-`airtable` `airtable-alternative` `app-builder` `database` `internal-tool`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/157326433?v=4" width="20" align="top" alt="onlook-dev"/> [onlook-dev/onlook](https://github.com/onlook-dev/onlook) 🔥🔥🔥
 
 > The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
@@ -6380,6 +6368,20 @@
 </div>
 
 `react` `typescript` `tailwindcss` `nextjs` `webflow`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/113977713?v=4" width="20" align="top" alt="teableio"/> [teableio/teable](https://github.com/teableio/teable) 🔥🔥🔥
+
+> ✨ The Next Gen Airtable Alternative: No-Code Postgres
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/teableio/teable?style=flat-square&labelColor=343b41)](https://github.com/teableio/teable/stargazers) [![Forks](https://img.shields.io/github/forks/teableio/teable?style=flat-square&labelColor=343b41)](https://github.com/teableio/teable/network/members) [![Last Commit](https://img.shields.io/github/last-commit/teableio/teable?style=flat-square&labelColor=343b41)](https://github.com/teableio/teable/commits)
+
+</div>
+
+`airtable` `airtable-alternative` `app-builder` `database` `internal-tool`
 
 ---
 
@@ -6657,6 +6659,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥🔥
+
+> all of the workflows of n8n i could find (also from the site itself)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/NLWeb](https://github.com/microsoft/NLWeb) 🔥🔥
 
 > Natural Language Web
@@ -6680,18 +6694,6 @@
 </div>
 
 `agent` `llms`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥
-
-> all of the workflows of n8n i could find (also from the site itself)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
-
-</div>
 
 ---
 
@@ -6825,6 +6827,16 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/314135?v=4" width="20" align="top" alt="cloudflare"/> [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) 🔥
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/cloudflare/mcp-server-cloudflare?style=flat-square&labelColor=343b41)](https://github.com/cloudflare/mcp-server-cloudflare/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/mcp-server-cloudflare?style=flat-square&labelColor=343b41)](https://github.com/cloudflare/mcp-server-cloudflare/network/members) [![Last Commit](https://img.shields.io/github/last-commit/cloudflare/mcp-server-cloudflare?style=flat-square&labelColor=343b41)](https://github.com/cloudflare/mcp-server-cloudflare/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/142983232?v=4" width="20" align="top" alt="fastrepl"/> [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) 🔥
 
 > Privacy-first AI Notepad for back-to-back meetings
@@ -6836,16 +6848,6 @@
 </div>
 
 `local-first` `notetaking` `open-source` `react` `rust`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/314135?v=4" width="20" align="top" alt="cloudflare"/> [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) 🔥
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/cloudflare/mcp-server-cloudflare?style=flat-square&labelColor=343b41)](https://github.com/cloudflare/mcp-server-cloudflare/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/mcp-server-cloudflare?style=flat-square&labelColor=343b41)](https://github.com/cloudflare/mcp-server-cloudflare/network/members) [![Last Commit](https://img.shields.io/github/last-commit/cloudflare/mcp-server-cloudflare?style=flat-square&labelColor=343b41)](https://github.com/cloudflare/mcp-server-cloudflare/commits)
-
-</div>
 
 ---
 
