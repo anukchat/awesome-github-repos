@@ -6,24 +6,24 @@
 
 <table><tbody>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/148420822?v=4" width="20"/> <a href="https://github.com/tensorzero/tensorzero">tensorzero/tensorzero</a> 🔥🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/63067900?v=4" width="20"/> <a href="https://github.com/FareedKhan-dev/all-rag-techniques">FareedKhan-dev/all-rag-techniques</a> 🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/88680502?v=4" width="20"/> <a href="https://github.com/ucbepic/docetl">ucbepic/docetl</a> 🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/14957082?v=4" width="20"/> <a href="https://github.com/openai/openai-testing-agent-demo">openai/openai-testing-agent-demo</a> </td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/98949449?v=4" width="20"/> <a href="https://github.com/latitude-dev/latitude-llm">latitude-dev/latitude-llm</a> 🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/173073912?v=4" width="20"/> <a href="https://github.com/Intelligent-Internet/ii-agent">Intelligent-Internet/ii-agent</a> 🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/23534030?v=4" width="20"/> <a href="https://github.com/PaddlePaddle/PaddleOCR">PaddlePaddle/PaddleOCR</a> 🔥🔥🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/118165258?v=4" width="20"/> <a href="https://github.com/HKUDS/AutoAgent">HKUDS/AutoAgent</a> 🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20"/> <a href="https://github.com/unslothai/notebooks">unslothai/notebooks</a> 🔥</td>
 </tr>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20"/> <a href="https://github.com/unslothai/notebooks">unslothai/notebooks</a> 🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20"/> <a href="https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart">google-gemini/gemini-fullstack-langgraph-quickstart</a> 🔥🔥🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/213684959?v=4" width="20"/> <a href="https://github.com/google-a2a/A2A">google-a2a/A2A</a> 🔥🔥🔥</td>
 </tr>
 </tbody></table>
 
@@ -1393,20 +1393,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/162546372?v=4" width="20" align="top" alt="BasedHardware"/> [BasedHardware/omi](https://github.com/BasedHardware/omi) 🔥🔥
-
-> AI wearables. Put it on, speak, transcribe, automatically
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/BasedHardware/omi?style=flat-square&labelColor=343b41)](https://github.com/BasedHardware/omi/stargazers) [![Forks](https://img.shields.io/github/forks/BasedHardware/omi?style=flat-square&labelColor=343b41)](https://github.com/BasedHardware/omi/network/members) [![Last Commit](https://img.shields.io/github/last-commit/BasedHardware/omi?style=flat-square&labelColor=343b41)](https://github.com/BasedHardware/omi/commits)
-
-</div>
-
-`ai` `app` `bci` `c` `flutter`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) 🔥🔥
 
 > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
@@ -1418,6 +1404,20 @@
 </div>
 
 `agent` `ai` `automation` `data-mining` `data-science`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/162546372?v=4" width="20" align="top" alt="BasedHardware"/> [BasedHardware/omi](https://github.com/BasedHardware/omi) 🔥🔥
+
+> AI wearables. Put it on, speak, transcribe, automatically
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/BasedHardware/omi?style=flat-square&labelColor=343b41)](https://github.com/BasedHardware/omi/stargazers) [![Forks](https://img.shields.io/github/forks/BasedHardware/omi?style=flat-square&labelColor=343b41)](https://github.com/BasedHardware/omi/network/members) [![Last Commit](https://img.shields.io/github/last-commit/BasedHardware/omi?style=flat-square&labelColor=343b41)](https://github.com/BasedHardware/omi/commits)
+
+</div>
+
+`ai` `app` `bci` `c` `flutter`
 
 ---
 
@@ -1851,7 +1851,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/139582646?v=4" width="20" align="top" alt="getmaxun"/> [getmaxun/maxun](https://github.com/getmaxun/maxun) 🔥🔥🔥
 
-> ⚡️ Open Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes ⚡️
+> No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes
 
 <div align="center">
 
@@ -2893,18 +2893,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/56493103?v=4" width="20" align="top" alt="temporalio"/> [temporalio/samples-python](https://github.com/temporalio/samples-python)
-
-> Samples for working with the Temporal Python SDK
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/temporalio/samples-python?style=flat-square&labelColor=343b41)](https://github.com/temporalio/samples-python/stargazers) [![Forks](https://img.shields.io/github/forks/temporalio/samples-python?style=flat-square&labelColor=343b41)](https://github.com/temporalio/samples-python/network/members) [![Last Commit](https://img.shields.io/github/last-commit/temporalio/samples-python?style=flat-square&labelColor=343b41)](https://github.com/temporalio/samples-python/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/157576929?v=4" width="20" align="top" alt="EvalsOne"/> [EvalsOne/MCP-connect](https://github.com/EvalsOne/MCP-connect)
 
 > Enables cloud-based AI services to access local Stdio based MCP servers via HTTP requests
@@ -2912,6 +2900,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/EvalsOne/MCP-connect?style=flat-square&labelColor=343b41)](https://github.com/EvalsOne/MCP-connect/stargazers) [![Forks](https://img.shields.io/github/forks/EvalsOne/MCP-connect?style=flat-square&labelColor=343b41)](https://github.com/EvalsOne/MCP-connect/network/members) [![Last Commit](https://img.shields.io/github/last-commit/EvalsOne/MCP-connect?style=flat-square&labelColor=343b41)](https://github.com/EvalsOne/MCP-connect/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/56493103?v=4" width="20" align="top" alt="temporalio"/> [temporalio/samples-python](https://github.com/temporalio/samples-python)
+
+> Samples for working with the Temporal Python SDK
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/temporalio/samples-python?style=flat-square&labelColor=343b41)](https://github.com/temporalio/samples-python/stargazers) [![Forks](https://img.shields.io/github/forks/temporalio/samples-python?style=flat-square&labelColor=343b41)](https://github.com/temporalio/samples-python/network/members) [![Last Commit](https://img.shields.io/github/last-commit/temporalio/samples-python?style=flat-square&labelColor=343b41)](https://github.com/temporalio/samples-python/commits)
 
 </div>
 
@@ -5983,7 +5983,7 @@
 
 <h2 id="others">🔖 Others</h2>
 
-<details><summary>Show repositories (84)</summary>
+<details><summary>Show repositories (85)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6245,20 +6245,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/95456295?v=4" width="20" align="top" alt="RSSNext"/> [RSSNext/Folo](https://github.com/RSSNext/Folo) 🔥🔥🔥
-
-> 🧡 Follow everything in one place
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/RSSNext/Folo?style=flat-square&labelColor=343b41)](https://github.com/RSSNext/Folo/stargazers) [![Forks](https://img.shields.io/github/forks/RSSNext/Folo?style=flat-square&labelColor=343b41)](https://github.com/RSSNext/Folo/network/members) [![Last Commit](https://img.shields.io/github/last-commit/RSSNext/Folo?style=flat-square&labelColor=343b41)](https://github.com/RSSNext/Folo/commits)
-
-</div>
-
-`ai` `blockchain` `reader` `rss` `rss-reader`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) 🔥🔥🔥
 
 > 11 Lessons to Get Started Building AI Agents
@@ -6270,6 +6256,20 @@
 </div>
 
 `agentic-ai` `agentic-framework` `agentic-rag` `ai-agents` `ai-agents-framework`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/95456295?v=4" width="20" align="top" alt="RSSNext"/> [RSSNext/Folo](https://github.com/RSSNext/Folo) 🔥🔥🔥
+
+> 🧡 Follow everything in one place
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/RSSNext/Folo?style=flat-square&labelColor=343b41)](https://github.com/RSSNext/Folo/stargazers) [![Forks](https://img.shields.io/github/forks/RSSNext/Folo?style=flat-square&labelColor=343b41)](https://github.com/RSSNext/Folo/network/members) [![Last Commit](https://img.shields.io/github/last-commit/RSSNext/Folo?style=flat-square&labelColor=343b41)](https://github.com/RSSNext/Folo/commits)
+
+</div>
+
+`ai` `blockchain` `reader` `rss` `rss-reader`
 
 ---
 
@@ -6509,7 +6509,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/151241629?v=4" width="20" align="top" alt="CapSoftware"/> [CapSoftware/Cap](https://github.com/CapSoftware/Cap) 🔥🔥
+### <img src="https://avatars.githubusercontent.com/u/151241629?v=4" width="20" align="top" alt="CapSoftware"/> [CapSoftware/Cap](https://github.com/CapSoftware/Cap) 🔥🔥🔥
 
 > Open source Loom alternative. Beautiful, shareable screen recordings.
 
@@ -6579,6 +6579,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/148420822?v=4" width="20" align="top" alt="tensorzero"/> [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) 🔥🔥
+
+> TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/tensorzero/tensorzero?style=flat-square&labelColor=343b41)](https://github.com/tensorzero/tensorzero/stargazers) [![Forks](https://img.shields.io/github/forks/tensorzero/tensorzero?style=flat-square&labelColor=343b41)](https://github.com/tensorzero/tensorzero/network/members) [![Last Commit](https://img.shields.io/github/last-commit/tensorzero/tensorzero?style=flat-square&labelColor=343b41)](https://github.com/tensorzero/tensorzero/commits)
+
+</div>
+
+`ai` `artificial-intelligence` `deep-learning` `gpt` `llm`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/12856921?v=4" width="20" align="top" alt="prasadgujar"/> [prasadgujar/low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer) 🔥🔥
 
 > Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.
@@ -6631,6 +6645,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥🔥
+
+> all of the workflows of n8n i could find (also from the site itself)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/31841517?v=4" width="20" align="top" alt="aaPanel"/> [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) 🔥🔥
 
 > BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
@@ -6656,18 +6682,6 @@
 </div>
 
 `crawler` `crawling` `crawling-python` `hacktoberfest` `playwright`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥🔥
-
-> all of the workflows of n8n i could find (also from the site itself)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
-
-</div>
 
 ---
 
