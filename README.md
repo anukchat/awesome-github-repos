@@ -2073,20 +2073,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/80064875?v=4" width="20" align="top" alt="OpenBB-finance"/> [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) 🔥🔥🔥
-
-> Investment Research for Everyone, Everywhere.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat-square&labelColor=343b41)](https://github.com/OpenBB-finance/OpenBB/stargazers) [![Forks](https://img.shields.io/github/forks/OpenBB-finance/OpenBB?style=flat-square&labelColor=343b41)](https://github.com/OpenBB-finance/OpenBB/network/members) [![Last Commit](https://img.shields.io/github/last-commit/OpenBB-finance/OpenBB?style=flat-square&labelColor=343b41)](https://github.com/OpenBB-finance/OpenBB/commits)
-
-</div>
-
-`ai` `crypto` `derivatives` `economics` `equity`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/31396011?v=4" width="20" align="top" alt="Shubhamsaboo"/> [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) 🔥🔥🔥
 
 > Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
@@ -2098,6 +2084,20 @@
 </div>
 
 `llms` `python` `rag`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/80064875?v=4" width="20" align="top" alt="OpenBB-finance"/> [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) 🔥🔥🔥
+
+> Investment Research for Everyone, Everywhere.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat-square&labelColor=343b41)](https://github.com/OpenBB-finance/OpenBB/stargazers) [![Forks](https://img.shields.io/github/forks/OpenBB-finance/OpenBB?style=flat-square&labelColor=343b41)](https://github.com/OpenBB-finance/OpenBB/network/members) [![Last Commit](https://img.shields.io/github/last-commit/OpenBB-finance/OpenBB?style=flat-square&labelColor=343b41)](https://github.com/OpenBB-finance/OpenBB/commits)
+
+</div>
+
+`ai` `crypto` `derivatives` `economics` `equity`
 
 ---
 
@@ -2171,20 +2171,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/104874993?v=4" width="20" align="top" alt="agno-agi"/> [agno-agi/agno](https://github.com/agno-agi/agno) 🔥🔥🔥
-
-> Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/agno-agi/agno?style=flat-square&labelColor=343b41)](https://github.com/agno-agi/agno/stargazers) [![Forks](https://img.shields.io/github/forks/agno-agi/agno?style=flat-square&labelColor=343b41)](https://github.com/agno-agi/agno/network/members) [![Last Commit](https://img.shields.io/github/last-commit/agno-agi/agno?style=flat-square&labelColor=343b41)](https://github.com/agno-agi/agno/commits)
-
-</div>
-
-`agents` `agi` `ai` `developer-tools` `framework`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/1016365?v=4" width="20" align="top" alt="PatrickJS"/> [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) 🔥🔥🔥
 
 > 📄 A curated list of awesome .cursorrules files
@@ -2196,6 +2182,20 @@
 </div>
 
 `awesome` `awesome-list` `cursor` `cursor-ai-editor` `cursorrules`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/104874993?v=4" width="20" align="top" alt="agno-agi"/> [agno-agi/agno](https://github.com/agno-agi/agno) 🔥🔥🔥
+
+> Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/agno-agi/agno?style=flat-square&labelColor=343b41)](https://github.com/agno-agi/agno/stargazers) [![Forks](https://img.shields.io/github/forks/agno-agi/agno?style=flat-square&labelColor=343b41)](https://github.com/agno-agi/agno/network/members) [![Last Commit](https://img.shields.io/github/last-commit/agno-agi/agno?style=flat-square&labelColor=343b41)](https://github.com/agno-agi/agno/commits)
+
+</div>
+
+`agents` `agi` `ai` `developer-tools` `framework`
 
 ---
 
@@ -2679,18 +2679,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/1183441?v=4" width="20" align="top" alt="abhishekkrthakur"/> [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode) 🔥
-
-> Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/abhishekkrthakur/colabcode?style=flat-square&labelColor=343b41)](https://github.com/abhishekkrthakur/colabcode/stargazers) [![Forks](https://img.shields.io/github/forks/abhishekkrthakur/colabcode?style=flat-square&labelColor=343b41)](https://github.com/abhishekkrthakur/colabcode/network/members) [![Last Commit](https://img.shields.io/github/last-commit/abhishekkrthakur/colabcode?style=flat-square&labelColor=343b41)](https://github.com/abhishekkrthakur/colabcode/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/160492612?v=4" width="20" align="top" alt="PublicAffairs"/> [PublicAffairs/openai-gemini](https://github.com/PublicAffairs/openai-gemini) 🔥
 
 > Gemini ➜ OpenAI API proxy. Serverless!
@@ -2702,6 +2690,18 @@
 </div>
 
 `chatgpt-api` `gemini-ai` `gemini-pro` `gemini-pro-vision` `gpt-4-vision-preview`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/1183441?v=4" width="20" align="top" alt="abhishekkrthakur"/> [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode) 🔥
+
+> Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/abhishekkrthakur/colabcode?style=flat-square&labelColor=343b41)](https://github.com/abhishekkrthakur/colabcode/stargazers) [![Forks](https://img.shields.io/github/forks/abhishekkrthakur/colabcode?style=flat-square&labelColor=343b41)](https://github.com/abhishekkrthakur/colabcode/network/members) [![Last Commit](https://img.shields.io/github/last-commit/abhishekkrthakur/colabcode?style=flat-square&labelColor=343b41)](https://github.com/abhishekkrthakur/colabcode/commits)
+
+</div>
 
 ---
 
@@ -2893,18 +2893,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/157576929?v=4" width="20" align="top" alt="EvalsOne"/> [EvalsOne/MCP-connect](https://github.com/EvalsOne/MCP-connect)
-
-> Enables cloud-based AI services to access local Stdio based MCP servers via HTTP requests
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/EvalsOne/MCP-connect?style=flat-square&labelColor=343b41)](https://github.com/EvalsOne/MCP-connect/stargazers) [![Forks](https://img.shields.io/github/forks/EvalsOne/MCP-connect?style=flat-square&labelColor=343b41)](https://github.com/EvalsOne/MCP-connect/network/members) [![Last Commit](https://img.shields.io/github/last-commit/EvalsOne/MCP-connect?style=flat-square&labelColor=343b41)](https://github.com/EvalsOne/MCP-connect/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/56493103?v=4" width="20" align="top" alt="temporalio"/> [temporalio/samples-python](https://github.com/temporalio/samples-python)
 
 > Samples for working with the Temporal Python SDK
@@ -2912,6 +2900,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/temporalio/samples-python?style=flat-square&labelColor=343b41)](https://github.com/temporalio/samples-python/stargazers) [![Forks](https://img.shields.io/github/forks/temporalio/samples-python?style=flat-square&labelColor=343b41)](https://github.com/temporalio/samples-python/network/members) [![Last Commit](https://img.shields.io/github/last-commit/temporalio/samples-python?style=flat-square&labelColor=343b41)](https://github.com/temporalio/samples-python/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/157576929?v=4" width="20" align="top" alt="EvalsOne"/> [EvalsOne/MCP-connect](https://github.com/EvalsOne/MCP-connect)
+
+> Enables cloud-based AI services to access local Stdio based MCP servers via HTTP requests
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/EvalsOne/MCP-connect?style=flat-square&labelColor=343b41)](https://github.com/EvalsOne/MCP-connect/stargazers) [![Forks](https://img.shields.io/github/forks/EvalsOne/MCP-connect?style=flat-square&labelColor=343b41)](https://github.com/EvalsOne/MCP-connect/network/members) [![Last Commit](https://img.shields.io/github/last-commit/EvalsOne/MCP-connect?style=flat-square&labelColor=343b41)](https://github.com/EvalsOne/MCP-connect/commits)
 
 </div>
 
@@ -4129,6 +4129,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) 🔥🔥🔥
+
+> A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/45159366?v=4" width="20" align="top" alt="mikeroyal"/> [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) 🔥🔥🔥
 
 > Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
@@ -4154,18 +4166,6 @@
 </div>
 
 `gemini` `gemini-api`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) 🔥🔥🔥
-
-> A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/commits)
-
-</div>
 
 ---
 
@@ -4499,18 +4499,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/20547620?v=4" width="20" align="top" alt="fastai"/> [fastai/lm-hackers](https://github.com/fastai/lm-hackers) 🔥
-
-> Hackers' Guide to Language Models
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/fastai/lm-hackers?style=flat-square&labelColor=343b41)](https://github.com/fastai/lm-hackers/stargazers) [![Forks](https://img.shields.io/github/forks/fastai/lm-hackers?style=flat-square&labelColor=343b41)](https://github.com/fastai/lm-hackers/network/members) [![Last Commit](https://img.shields.io/github/last-commit/fastai/lm-hackers?style=flat-square&labelColor=343b41)](https://github.com/fastai/lm-hackers/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/8931462?v=4" width="20" align="top" alt="aws-samples"/> [aws-samples/amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop) 🔥
 
 > This is a workshop designed for Amazon Bedrock a foundational model service.  
@@ -4518,6 +4506,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/aws-samples/amazon-bedrock-workshop?style=flat-square&labelColor=343b41)](https://github.com/aws-samples/amazon-bedrock-workshop/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/amazon-bedrock-workshop?style=flat-square&labelColor=343b41)](https://github.com/aws-samples/amazon-bedrock-workshop/network/members) [![Last Commit](https://img.shields.io/github/last-commit/aws-samples/amazon-bedrock-workshop?style=flat-square&labelColor=343b41)](https://github.com/aws-samples/amazon-bedrock-workshop/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/20547620?v=4" width="20" align="top" alt="fastai"/> [fastai/lm-hackers](https://github.com/fastai/lm-hackers) 🔥
+
+> Hackers' Guide to Language Models
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/fastai/lm-hackers?style=flat-square&labelColor=343b41)](https://github.com/fastai/lm-hackers/stargazers) [![Forks](https://img.shields.io/github/forks/fastai/lm-hackers?style=flat-square&labelColor=343b41)](https://github.com/fastai/lm-hackers/network/members) [![Last Commit](https://img.shields.io/github/last-commit/fastai/lm-hackers?style=flat-square&labelColor=343b41)](https://github.com/fastai/lm-hackers/commits)
 
 </div>
 
@@ -6387,7 +6387,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/49105846?v=4" width="20" align="top" alt="Fosowl"/> [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) 🔥🔥🔥
 
-> Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake.
+> Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake)
 
 <div align="center">
 
@@ -6877,6 +6877,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20" align="top" alt="unslothai"/> [unslothai/notebooks](https://github.com/unslothai/notebooks) 🔥
+
+> Fine-tune LLMs for free with 100+ Notebooks on Google Colab, Kaggle, and more.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/stargazers) [![Forks](https://img.shields.io/github/forks/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/network/members) [![Last Commit](https://img.shields.io/github/last-commit/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/88680502?v=4" width="20" align="top" alt="ucbepic"/> [ucbepic/docetl](https://github.com/ucbepic/docetl) 🔥
 
 > A system for agentic LLM-powered data processing and ETL
@@ -6888,18 +6900,6 @@
 </div>
 
 `data` `etl` `llm` `python` `data-pipelines`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20" align="top" alt="unslothai"/> [unslothai/notebooks](https://github.com/unslothai/notebooks) 🔥
-
-> Fine-tune LLMs for free with 100+ Notebooks on Google Colab, Kaggle, and more.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/stargazers) [![Forks](https://img.shields.io/github/forks/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/network/members) [![Last Commit](https://img.shields.io/github/last-commit/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/commits)
-
-</div>
 
 ---
 
