@@ -1085,7 +1085,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/50654?v=4" width="20" align="top" alt="danielmiessler"/> [danielmiessler/fabric](https://github.com/danielmiessler/fabric) 🔥🔥🔥
 
-> fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+> Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 
 <div align="center">
 
@@ -1473,7 +1473,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/132635806?v=4" width="20" align="top" alt="refly-ai"/> [refly-ai/refly](https://github.com/refly-ai/refly) 🔥
 
-> 🎨 Refly is an open-source AI-native creation engine. Its intuitive free-form canvas interface combines multi-threaded dialogues, artifacts,  AI knowledge base integration, chrome extension clip & save,  contextual memory, intelligent search, WYSIWYG AI editor and more, empowering you to effortlessly transform ideas into production-ready content.
+> The world's first open-source "Vibe Workflow" for complex tasks.
 
 <div align="center">
 
@@ -4061,6 +4061,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/courses](https://github.com/anthropics/courses) 🔥🔥🔥
+
+> Anthropic's educational courses
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/10162068?v=4" width="20" align="top" alt="FavioVazquez"/> [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) 🔥🔥🔥
 
 > List of Data Science Cheatsheets to rule the world
@@ -4072,18 +4084,6 @@
 </div>
 
 `cheatsheet` `datascience` `jupyter` `programming` `python`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/courses](https://github.com/anthropics/courses) 🔥🔥🔥
-
-> Anthropic's educational courses
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/commits)
-
-</div>
 
 ---
 
@@ -4115,6 +4115,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) 🔥🔥🔥
+
+> A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/10676103?v=4" width="20" align="top" alt="stas00"/> [stas00/ml-engineering](https://github.com/stas00/ml-engineering) 🔥🔥🔥
 
 > Machine Learning Engineering Open Book
@@ -4126,18 +4138,6 @@
 </div>
 
 `ai` `inference` `large-language-models` `llm` `machine-learning`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) 🔥🔥🔥
-
-> A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/commits)
-
-</div>
 
 ---
 
@@ -5323,20 +5323,6 @@
 
 <details><summary>Show repositories (14)</summary>
 
-### <img src="https://avatars.githubusercontent.com/u/30384625?v=4" width="20" align="top" alt="dair-ai"/> [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) 🔥🔥🔥
-
-> 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide?style=flat-square&labelColor=343b41)](https://github.com/dair-ai/Prompt-Engineering-Guide/stargazers) [![Forks](https://img.shields.io/github/forks/dair-ai/Prompt-Engineering-Guide?style=flat-square&labelColor=343b41)](https://github.com/dair-ai/Prompt-Engineering-Guide/network/members) [![Last Commit](https://img.shields.io/github/last-commit/dair-ai/Prompt-Engineering-Guide?style=flat-square&labelColor=343b41)](https://github.com/dair-ai/Prompt-Engineering-Guide/commits)
-
-</div>
-
-`chatgpt` `deep-learning` `generative-ai` `language-model` `openai`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/185671340?v=4" width="20" align="top" alt="x1xhlol"/> [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) 🔥🔥🔥
 
 > FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
@@ -5348,6 +5334,20 @@
 </div>
 
 `ai` `bolt` `copilot` `cursor` `cursorai`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/30384625?v=4" width="20" align="top" alt="dair-ai"/> [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) 🔥🔥🔥
+
+> 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide?style=flat-square&labelColor=343b41)](https://github.com/dair-ai/Prompt-Engineering-Guide/stargazers) [![Forks](https://img.shields.io/github/forks/dair-ai/Prompt-Engineering-Guide?style=flat-square&labelColor=343b41)](https://github.com/dair-ai/Prompt-Engineering-Guide/network/members) [![Last Commit](https://img.shields.io/github/last-commit/dair-ai/Prompt-Engineering-Guide?style=flat-square&labelColor=343b41)](https://github.com/dair-ai/Prompt-Engineering-Guide/commits)
+
+</div>
+
+`chatgpt` `deep-learning` `generative-ai` `language-model` `openai`
 
 ---
 
@@ -6453,20 +6453,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/111946737?v=4" width="20" align="top" alt="markmap"/> [markmap/markmap](https://github.com/markmap/markmap) 🔥🔥🔥
-
-> Build mindmaps with plain text
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/markmap/markmap?style=flat-square&labelColor=343b41)](https://github.com/markmap/markmap/stargazers) [![Forks](https://img.shields.io/github/forks/markmap/markmap?style=flat-square&labelColor=343b41)](https://github.com/markmap/markmap/network/members) [![Last Commit](https://img.shields.io/github/last-commit/markmap/markmap?style=flat-square&labelColor=343b41)](https://github.com/markmap/markmap/commits)
-
-</div>
-
-`markmap` `mindmap`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/1756674?v=4" width="20" align="top" alt="opf"/> [opf/openproject](https://github.com/opf/openproject) 🔥🔥🔥
 
 > OpenProject is the leading open source project management software.
@@ -6478,6 +6464,20 @@
 </div>
 
 `angular` `bcf` `boards` `bug-tracker` `gantt`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/111946737?v=4" width="20" align="top" alt="markmap"/> [markmap/markmap](https://github.com/markmap/markmap) 🔥🔥🔥
+
+> Build mindmaps with plain text
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/markmap/markmap?style=flat-square&labelColor=343b41)](https://github.com/markmap/markmap/stargazers) [![Forks](https://img.shields.io/github/forks/markmap/markmap?style=flat-square&labelColor=343b41)](https://github.com/markmap/markmap/network/members) [![Last Commit](https://img.shields.io/github/last-commit/markmap/markmap?style=flat-square&labelColor=343b41)](https://github.com/markmap/markmap/commits)
+
+</div>
+
+`markmap` `mindmap`
 
 ---
 
@@ -6509,6 +6509,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/38891707?v=4" width="20" align="top" alt="frdel"/> [frdel/agent-zero](https://github.com/frdel/agent-zero) 🔥🔥🔥
+
+> Agent Zero AI framework
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/frdel/agent-zero?style=flat-square&labelColor=343b41)](https://github.com/frdel/agent-zero/stargazers) [![Forks](https://img.shields.io/github/forks/frdel/agent-zero?style=flat-square&labelColor=343b41)](https://github.com/frdel/agent-zero/network/members) [![Last Commit](https://img.shields.io/github/last-commit/frdel/agent-zero?style=flat-square&labelColor=343b41)](https://github.com/frdel/agent-zero/commits)
+
+</div>
+
+`agent` `ai` `assistant` `autonomous` `linux`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/151241629?v=4" width="20" align="top" alt="CapSoftware"/> [CapSoftware/Cap](https://github.com/CapSoftware/Cap) 🔥🔥🔥
 
 > Open source Loom alternative. Beautiful, shareable screen recordings.
@@ -6520,20 +6534,6 @@
 </div>
 
 `app` `cap` `coss` `loom` `mac`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/38891707?v=4" width="20" align="top" alt="frdel"/> [frdel/agent-zero](https://github.com/frdel/agent-zero) 🔥🔥
-
-> Agent Zero AI framework
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/frdel/agent-zero?style=flat-square&labelColor=343b41)](https://github.com/frdel/agent-zero/stargazers) [![Forks](https://img.shields.io/github/forks/frdel/agent-zero?style=flat-square&labelColor=343b41)](https://github.com/frdel/agent-zero/network/members) [![Last Commit](https://img.shields.io/github/last-commit/frdel/agent-zero?style=flat-square&labelColor=343b41)](https://github.com/frdel/agent-zero/commits)
-
-</div>
-
-`agent` `ai` `assistant` `autonomous` `linux`
 
 ---
 
@@ -6607,6 +6607,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥🔥
+
+> all of the workflows of n8n i could find (also from the site itself)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/14985020?v=4" width="20" align="top" alt="vercel"/> [vercel/next-forge](https://github.com/vercel/next-forge) 🔥🔥
 
 > Production-grade Turborepo template for Next.js apps.
@@ -6642,18 +6654,6 @@
 </div>
 
 `aws` `aws-bedrock` `anthropic-claude` `aws-cdk` `aws-lambda`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥🔥
-
-> all of the workflows of n8n i could find (also from the site itself)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
-
-</div>
 
 ---
 
@@ -6697,20 +6697,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/118165258?v=4" width="20" align="top" alt="HKUDS"/> [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent) 🔥
-
-> "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/HKUDS/AutoAgent?style=flat-square&labelColor=343b41)](https://github.com/HKUDS/AutoAgent/stargazers) [![Forks](https://img.shields.io/github/forks/HKUDS/AutoAgent?style=flat-square&labelColor=343b41)](https://github.com/HKUDS/AutoAgent/network/members) [![Last Commit](https://img.shields.io/github/last-commit/HKUDS/AutoAgent?style=flat-square&labelColor=343b41)](https://github.com/HKUDS/AutoAgent/commits)
-
-</div>
-
-`agent` `llms`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/63067900?v=4" width="20" align="top" alt="FareedKhan-dev"/> [FareedKhan-dev/all-rag-techniques](https://github.com/FareedKhan-dev/all-rag-techniques) 🔥
 
 > Implementation of all RAG techniques in a simpler way
@@ -6722,6 +6708,20 @@
 </div>
 
 `ai` `llm` `llms` `openai` `python`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/118165258?v=4" width="20" align="top" alt="HKUDS"/> [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent) 🔥
+
+> "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/HKUDS/AutoAgent?style=flat-square&labelColor=343b41)](https://github.com/HKUDS/AutoAgent/stargazers) [![Forks](https://img.shields.io/github/forks/HKUDS/AutoAgent?style=flat-square&labelColor=343b41)](https://github.com/HKUDS/AutoAgent/network/members) [![Last Commit](https://img.shields.io/github/last-commit/HKUDS/AutoAgent?style=flat-square&labelColor=343b41)](https://github.com/HKUDS/AutoAgent/commits)
+
+</div>
+
+`agent` `llms`
 
 ---
 
