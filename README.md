@@ -2227,20 +2227,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/110818415?v=4" width="20" align="top" alt="pydantic"/> [pydantic/pydantic](https://github.com/pydantic/pydantic) 🔥🔥🔥
-
-> Data validation using Python type hints
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/pydantic/pydantic?style=flat-square&labelColor=343b41)](https://github.com/pydantic/pydantic/stargazers) [![Forks](https://img.shields.io/github/forks/pydantic/pydantic?style=flat-square&labelColor=343b41)](https://github.com/pydantic/pydantic/network/members) [![Last Commit](https://img.shields.io/github/last-commit/pydantic/pydantic?style=flat-square&labelColor=343b41)](https://github.com/pydantic/pydantic/commits)
-
-</div>
-
-`hints` `json-schema` `parsing` `pydantic` `python`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/121462774?v=4" width="20" align="top" alt="BerriAI"/> [BerriAI/litellm](https://github.com/BerriAI/litellm) 🔥🔥🔥
 
 > Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
@@ -2252,6 +2238,20 @@
 </div>
 
 `ai-gateway` `anthropic` `azure-openai` `bedrock` `gateway`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/110818415?v=4" width="20" align="top" alt="pydantic"/> [pydantic/pydantic](https://github.com/pydantic/pydantic) 🔥🔥🔥
+
+> Data validation using Python type hints
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/pydantic/pydantic?style=flat-square&labelColor=343b41)](https://github.com/pydantic/pydantic/stargazers) [![Forks](https://img.shields.io/github/forks/pydantic/pydantic?style=flat-square&labelColor=343b41)](https://github.com/pydantic/pydantic/network/members) [![Last Commit](https://img.shields.io/github/last-commit/pydantic/pydantic?style=flat-square&labelColor=343b41)](https://github.com/pydantic/pydantic/commits)
+
+</div>
+
+`hints` `json-schema` `parsing` `pydantic` `python`
 
 ---
 
@@ -4061,6 +4061,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) 🔥🔥🔥
+
+> A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/courses](https://github.com/anthropics/courses) 🔥🔥🔥
 
 > Anthropic's educational courses
@@ -4112,18 +4124,6 @@
 </div>
 
 `awesome` `design-patterns` `interview` `interview-practice` `interview-questions`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) 🔥🔥🔥
-
-> A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/commits)
-
-</div>
 
 ---
 
@@ -4253,6 +4253,16 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/7556119?v=4" width="20" align="top" alt="graviraja"/> [graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics) 🔥🔥
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/graviraja/MLOps-Basics?style=flat-square&labelColor=343b41)](https://github.com/graviraja/MLOps-Basics/stargazers) [![Forks](https://img.shields.io/github/forks/graviraja/MLOps-Basics?style=flat-square&labelColor=343b41)](https://github.com/graviraja/MLOps-Basics/network/members) [![Last Commit](https://img.shields.io/github/last-commit/graviraja/MLOps-Basics?style=flat-square&labelColor=343b41)](https://github.com/graviraja/MLOps-Basics/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/620768?v=4" width="20" align="top" alt="soulmachine"/> [soulmachine/machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) 🔥🔥
 
 > Classical equations and diagrams in machine learning
@@ -4260,16 +4270,6 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/soulmachine/machine-learning-cheat-sheet?style=flat-square&labelColor=343b41)](https://github.com/soulmachine/machine-learning-cheat-sheet/stargazers) [![Forks](https://img.shields.io/github/forks/soulmachine/machine-learning-cheat-sheet?style=flat-square&labelColor=343b41)](https://github.com/soulmachine/machine-learning-cheat-sheet/network/members) [![Last Commit](https://img.shields.io/github/last-commit/soulmachine/machine-learning-cheat-sheet?style=flat-square&labelColor=343b41)](https://github.com/soulmachine/machine-learning-cheat-sheet/commits)
-
-</div>
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/7556119?v=4" width="20" align="top" alt="graviraja"/> [graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics) 🔥🔥
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/graviraja/MLOps-Basics?style=flat-square&labelColor=343b41)](https://github.com/graviraja/MLOps-Basics/stargazers) [![Forks](https://img.shields.io/github/forks/graviraja/MLOps-Basics?style=flat-square&labelColor=343b41)](https://github.com/graviraja/MLOps-Basics/network/members) [![Last Commit](https://img.shields.io/github/last-commit/graviraja/MLOps-Basics?style=flat-square&labelColor=343b41)](https://github.com/graviraja/MLOps-Basics/commits)
 
 </div>
 
@@ -6371,20 +6371,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/113977713?v=4" width="20" align="top" alt="teableio"/> [teableio/teable](https://github.com/teableio/teable) 🔥🔥🔥
-
-> ✨ The Next Gen Airtable Alternative: No-Code Postgres
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/teableio/teable?style=flat-square&labelColor=343b41)](https://github.com/teableio/teable/stargazers) [![Forks](https://img.shields.io/github/forks/teableio/teable?style=flat-square&labelColor=343b41)](https://github.com/teableio/teable/network/members) [![Last Commit](https://img.shields.io/github/last-commit/teableio/teable?style=flat-square&labelColor=343b41)](https://github.com/teableio/teable/commits)
-
-</div>
-
-`airtable` `airtable-alternative` `app-builder` `database` `internal-tool`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/49105846?v=4" width="20" align="top" alt="Fosowl"/> [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) 🔥🔥🔥
 
 > Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake)
@@ -6396,6 +6382,20 @@
 </div>
 
 `agentic-ai` `agents` `ai` `deepseek-r1` `llm`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/113977713?v=4" width="20" align="top" alt="teableio"/> [teableio/teable](https://github.com/teableio/teable) 🔥🔥🔥
+
+> ✨ The Next Gen Airtable Alternative: No-Code Postgres
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/teableio/teable?style=flat-square&labelColor=343b41)](https://github.com/teableio/teable/stargazers) [![Forks](https://img.shields.io/github/forks/teableio/teable?style=flat-square&labelColor=343b41)](https://github.com/teableio/teable/network/members) [![Last Commit](https://img.shields.io/github/last-commit/teableio/teable?style=flat-square&labelColor=343b41)](https://github.com/teableio/teable/commits)
+
+</div>
+
+`airtable` `airtable-alternative` `app-builder` `database` `internal-tool`
 
 ---
 
@@ -6453,20 +6453,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/1756674?v=4" width="20" align="top" alt="opf"/> [opf/openproject](https://github.com/opf/openproject) 🔥🔥🔥
-
-> OpenProject is the leading open source project management software.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/opf/openproject?style=flat-square&labelColor=343b41)](https://github.com/opf/openproject/stargazers) [![Forks](https://img.shields.io/github/forks/opf/openproject?style=flat-square&labelColor=343b41)](https://github.com/opf/openproject/network/members) [![Last Commit](https://img.shields.io/github/last-commit/opf/openproject?style=flat-square&labelColor=343b41)](https://github.com/opf/openproject/commits)
-
-</div>
-
-`angular` `bcf` `boards` `bug-tracker` `gantt`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/111946737?v=4" width="20" align="top" alt="markmap"/> [markmap/markmap](https://github.com/markmap/markmap) 🔥🔥🔥
 
 > Build mindmaps with plain text
@@ -6478,6 +6464,20 @@
 </div>
 
 `markmap` `mindmap`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/1756674?v=4" width="20" align="top" alt="opf"/> [opf/openproject](https://github.com/opf/openproject) 🔥🔥🔥
+
+> OpenProject is the leading open source project management software.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/opf/openproject?style=flat-square&labelColor=343b41)](https://github.com/opf/openproject/stargazers) [![Forks](https://img.shields.io/github/forks/opf/openproject?style=flat-square&labelColor=343b41)](https://github.com/opf/openproject/network/members) [![Last Commit](https://img.shields.io/github/last-commit/opf/openproject?style=flat-square&labelColor=343b41)](https://github.com/opf/openproject/commits)
+
+</div>
+
+`angular` `bcf` `boards` `bug-tracker` `gantt`
 
 ---
 
@@ -6827,6 +6827,16 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/314135?v=4" width="20" align="top" alt="cloudflare"/> [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) 🔥
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/cloudflare/mcp-server-cloudflare?style=flat-square&labelColor=343b41)](https://github.com/cloudflare/mcp-server-cloudflare/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/mcp-server-cloudflare?style=flat-square&labelColor=343b41)](https://github.com/cloudflare/mcp-server-cloudflare/network/members) [![Last Commit](https://img.shields.io/github/last-commit/cloudflare/mcp-server-cloudflare?style=flat-square&labelColor=343b41)](https://github.com/cloudflare/mcp-server-cloudflare/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/173073912?v=4" width="20" align="top" alt="Intelligent-Internet"/> [Intelligent-Internet/ii-agent](https://github.com/Intelligent-Internet/ii-agent) 🔥
 
 > II-Agent: a new open-source framework to build and deploy intelligent agents
@@ -6838,16 +6848,6 @@
 </div>
 
 `agent` `agentic-ai` `ai` `ai-agent` `ai-agent-framework`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/314135?v=4" width="20" align="top" alt="cloudflare"/> [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) 🔥
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/cloudflare/mcp-server-cloudflare?style=flat-square&labelColor=343b41)](https://github.com/cloudflare/mcp-server-cloudflare/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/mcp-server-cloudflare?style=flat-square&labelColor=343b41)](https://github.com/cloudflare/mcp-server-cloudflare/network/members) [![Last Commit](https://img.shields.io/github/last-commit/cloudflare/mcp-server-cloudflare?style=flat-square&labelColor=343b41)](https://github.com/cloudflare/mcp-server-cloudflare/commits)
-
-</div>
 
 ---
 
