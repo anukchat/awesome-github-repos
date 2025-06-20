@@ -185,18 +185,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/241138?v=4" width="20" align="top" alt="karpathy"/> [karpathy/minGPT](https://github.com/karpathy/minGPT) 🔥🔥🔥
-
-> A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/karpathy/minGPT?style=flat-square&labelColor=343b41)](https://github.com/karpathy/minGPT/stargazers) [![Forks](https://img.shields.io/github/forks/karpathy/minGPT?style=flat-square&labelColor=343b41)](https://github.com/karpathy/minGPT/network/members) [![Last Commit](https://img.shields.io/github/last-commit/karpathy/minGPT?style=flat-square&labelColor=343b41)](https://github.com/karpathy/minGPT/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/141221163?v=4" width="20" align="top" alt="QwenLM"/> [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) 🔥🔥🔥
 
 > Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
@@ -204,6 +192,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/QwenLM/Qwen3?style=flat-square&labelColor=343b41)](https://github.com/QwenLM/Qwen3/stargazers) [![Forks](https://img.shields.io/github/forks/QwenLM/Qwen3?style=flat-square&labelColor=343b41)](https://github.com/QwenLM/Qwen3/network/members) [![Last Commit](https://img.shields.io/github/last-commit/QwenLM/Qwen3?style=flat-square&labelColor=343b41)](https://github.com/QwenLM/Qwen3/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/241138?v=4" width="20" align="top" alt="karpathy"/> [karpathy/minGPT](https://github.com/karpathy/minGPT) 🔥🔥🔥
+
+> A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/karpathy/minGPT?style=flat-square&labelColor=343b41)](https://github.com/karpathy/minGPT/stargazers) [![Forks](https://img.shields.io/github/forks/karpathy/minGPT?style=flat-square&labelColor=343b41)](https://github.com/karpathy/minGPT/network/members) [![Last Commit](https://img.shields.io/github/last-commit/karpathy/minGPT?style=flat-square&labelColor=343b41)](https://github.com/karpathy/minGPT/commits)
 
 </div>
 
@@ -1177,18 +1177,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/14957082?v=4" width="20" align="top" alt="openai"/> [openai/swarm](https://github.com/openai/swarm) 🔥🔥🔥
-
-> Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/openai/swarm?style=flat-square&labelColor=343b41)](https://github.com/openai/swarm/stargazers) [![Forks](https://img.shields.io/github/forks/openai/swarm?style=flat-square&labelColor=343b41)](https://github.com/openai/swarm/network/members) [![Last Commit](https://img.shields.io/github/last-commit/openai/swarm?style=flat-square&labelColor=343b41)](https://github.com/openai/swarm/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/25720743?v=4" width="20" align="top" alt="huggingface"/> [huggingface/agents-course](https://github.com/huggingface/agents-course) 🔥🔥🔥
 
 > This repository contains the Hugging Face Agents Course. 
@@ -1200,6 +1188,18 @@
 </div>
 
 `agentic-ai` `agents` `course` `huggingface` `langchain`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/14957082?v=4" width="20" align="top" alt="openai"/> [openai/swarm](https://github.com/openai/swarm) 🔥🔥🔥
+
+> Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/openai/swarm?style=flat-square&labelColor=343b41)](https://github.com/openai/swarm/stargazers) [![Forks](https://img.shields.io/github/forks/openai/swarm?style=flat-square&labelColor=343b41)](https://github.com/openai/swarm/network/members) [![Last Commit](https://img.shields.io/github/last-commit/openai/swarm?style=flat-square&labelColor=343b41)](https://github.com/openai/swarm/commits)
+
+</div>
 
 ---
 
@@ -2143,20 +2143,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/438516?v=4" width="20" align="top" alt="lutzroeder"/> [lutzroeder/netron](https://github.com/lutzroeder/netron) 🔥🔥🔥
-
-> Visualizer for neural network, deep learning and machine learning models
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/lutzroeder/netron?style=flat-square&labelColor=343b41)](https://github.com/lutzroeder/netron/stargazers) [![Forks](https://img.shields.io/github/forks/lutzroeder/netron?style=flat-square&labelColor=343b41)](https://github.com/lutzroeder/netron/network/members) [![Last Commit](https://img.shields.io/github/last-commit/lutzroeder/netron?style=flat-square&labelColor=343b41)](https://github.com/lutzroeder/netron/commits)
-
-</div>
-
-`ai` `coreml` `deep-learning` `deeplearning` `keras`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/29575074?v=4" width="20" align="top" alt="yeongpin"/> [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) 🔥🔥🔥
 
 > [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
@@ -2168,6 +2154,20 @@
 </div>
 
 `automation` `cursor` `cursor-ai` `cursor-ide` `cursorai`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/438516?v=4" width="20" align="top" alt="lutzroeder"/> [lutzroeder/netron](https://github.com/lutzroeder/netron) 🔥🔥🔥
+
+> Visualizer for neural network, deep learning and machine learning models
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/lutzroeder/netron?style=flat-square&labelColor=343b41)](https://github.com/lutzroeder/netron/stargazers) [![Forks](https://img.shields.io/github/forks/lutzroeder/netron?style=flat-square&labelColor=343b41)](https://github.com/lutzroeder/netron/network/members) [![Last Commit](https://img.shields.io/github/last-commit/lutzroeder/netron?style=flat-square&labelColor=343b41)](https://github.com/lutzroeder/netron/commits)
+
+</div>
+
+`ai` `coreml` `deep-learning` `deeplearning` `keras`
 
 ---
 
@@ -4033,6 +4033,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) 🔥🔥🔥
+
+> A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/578450?v=4" width="20" align="top" alt="milanm"/> [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) 🔥🔥🔥
 
 > DevOps Roadmap for 2025. with learning resources
@@ -4058,18 +4070,6 @@
 </div>
 
 `confluence` `documentation` `knowledge-base` `notion` `notion-alternative`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) 🔥🔥🔥
-
-> A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/commits)
-
-</div>
 
 ---
 
@@ -4211,7 +4211,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/38653995?v=4" width="20" align="top" alt="patchy631"/> [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) 🔥🔥
+### <img src="https://avatars.githubusercontent.com/u/38653995?v=4" width="20" align="top" alt="patchy631"/> [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) 🔥🔥🔥
 
 > In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
@@ -5031,7 +5031,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/100543303?v=4" width="20" align="top" alt="tensorchord"/> [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) 🔥
+### <img src="https://avatars.githubusercontent.com/u/100543303?v=4" width="20" align="top" alt="tensorchord"/> [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) 🔥🔥
 
 > An awesome & curated list of best LLMOps tools for developers
 
@@ -6903,20 +6903,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/454718?v=4" width="20" align="top" alt="gosom"/> [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) 🔥
-
-> scrape data  data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/gosom/google-maps-scraper?style=flat-square&labelColor=343b41)](https://github.com/gosom/google-maps-scraper/stargazers) [![Forks](https://img.shields.io/github/forks/gosom/google-maps-scraper?style=flat-square&labelColor=343b41)](https://github.com/gosom/google-maps-scraper/network/members) [![Last Commit](https://img.shields.io/github/last-commit/gosom/google-maps-scraper?style=flat-square&labelColor=343b41)](https://github.com/gosom/google-maps-scraper/commits)
-
-</div>
-
-`golang` `google-maps-scraping` `web-scraper` `web-scraping` `distributed-scraper`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/211618649?v=4" width="20" align="top" alt="Paper2Poster"/> [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) 🔥
 
 > Open-source Multi-agent Poster Generation from Papers
@@ -6928,6 +6914,20 @@
 </div>
 
 `agent` `multi-agent-systems` `paper` `poster` `pptx`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/454718?v=4" width="20" align="top" alt="gosom"/> [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) 🔥
+
+> scrape data  data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/gosom/google-maps-scraper?style=flat-square&labelColor=343b41)](https://github.com/gosom/google-maps-scraper/stargazers) [![Forks](https://img.shields.io/github/forks/gosom/google-maps-scraper?style=flat-square&labelColor=343b41)](https://github.com/gosom/google-maps-scraper/network/members) [![Last Commit](https://img.shields.io/github/last-commit/gosom/google-maps-scraper?style=flat-square&labelColor=343b41)](https://github.com/gosom/google-maps-scraper/commits)
+
+</div>
+
+`golang` `google-maps-scraping` `web-scraper` `web-scraping` `distributed-scraper`
 
 ---
 
@@ -7007,6 +7007,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/14957082?v=4" width="20" align="top" alt="openai"/> [openai/openai-testing-agent-demo](https://github.com/openai/openai-testing-agent-demo)
+
+> Demo of a UI testing agent using the OpenAI CUA model and the Responses API.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/openai/openai-testing-agent-demo?style=flat-square&labelColor=343b41)](https://github.com/openai/openai-testing-agent-demo/stargazers) [![Forks](https://img.shields.io/github/forks/openai/openai-testing-agent-demo?style=flat-square&labelColor=343b41)](https://github.com/openai/openai-testing-agent-demo/network/members) [![Last Commit](https://img.shields.io/github/last-commit/openai/openai-testing-agent-demo?style=flat-square&labelColor=343b41)](https://github.com/openai/openai-testing-agent-demo/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/188105732?v=4" width="20" align="top" alt="vlm-run"/> [vlm-run/vlmrun-hub](https://github.com/vlm-run/vlmrun-hub)
 
 > A hub for various industry-specific schemas to be used with VLMs.
@@ -7018,18 +7030,6 @@
 </div>
 
 `ai` `computer-vision` `etl` `genai` `json`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/14957082?v=4" width="20" align="top" alt="openai"/> [openai/openai-testing-agent-demo](https://github.com/openai/openai-testing-agent-demo)
-
-> Demo of a UI testing agent using the OpenAI CUA model and the Responses API.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/openai/openai-testing-agent-demo?style=flat-square&labelColor=343b41)](https://github.com/openai/openai-testing-agent-demo/stargazers) [![Forks](https://img.shields.io/github/forks/openai/openai-testing-agent-demo?style=flat-square&labelColor=343b41)](https://github.com/openai/openai-testing-agent-demo/network/members) [![Last Commit](https://img.shields.io/github/last-commit/openai/openai-testing-agent-demo?style=flat-square&labelColor=343b41)](https://github.com/openai/openai-testing-agent-demo/commits)
-
-</div>
 
 ---
 
@@ -7055,18 +7055,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/25007854?v=4" width="20" align="top" alt="IvanReznikov"/> [IvanReznikov/DataVerse](https://github.com/IvanReznikov/DataVerse)
-
-> Public code of Dr. Ivan Reznikov used in posts, articles, conferences
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/IvanReznikov/DataVerse?style=flat-square&labelColor=343b41)](https://github.com/IvanReznikov/DataVerse/stargazers) [![Forks](https://img.shields.io/github/forks/IvanReznikov/DataVerse?style=flat-square&labelColor=343b41)](https://github.com/IvanReznikov/DataVerse/network/members) [![Last Commit](https://img.shields.io/github/last-commit/IvanReznikov/DataVerse?style=flat-square&labelColor=343b41)](https://github.com/IvanReznikov/DataVerse/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/72954069?v=4" width="20" align="top" alt="featureform"/> [featureform/enrichmcp](https://github.com/featureform/enrichmcp)
 
 > EnrichMCP is a python framework for building data driven MCP servers
@@ -7074,6 +7062,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/featureform/enrichmcp?style=flat-square&labelColor=343b41)](https://github.com/featureform/enrichmcp/stargazers) [![Forks](https://img.shields.io/github/forks/featureform/enrichmcp?style=flat-square&labelColor=343b41)](https://github.com/featureform/enrichmcp/network/members) [![Last Commit](https://img.shields.io/github/last-commit/featureform/enrichmcp?style=flat-square&labelColor=343b41)](https://github.com/featureform/enrichmcp/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/25007854?v=4" width="20" align="top" alt="IvanReznikov"/> [IvanReznikov/DataVerse](https://github.com/IvanReznikov/DataVerse)
+
+> Public code of Dr. Ivan Reznikov used in posts, articles, conferences
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/IvanReznikov/DataVerse?style=flat-square&labelColor=343b41)](https://github.com/IvanReznikov/DataVerse/stargazers) [![Forks](https://img.shields.io/github/forks/IvanReznikov/DataVerse?style=flat-square&labelColor=343b41)](https://github.com/IvanReznikov/DataVerse/network/members) [![Last Commit](https://img.shields.io/github/last-commit/IvanReznikov/DataVerse?style=flat-square&labelColor=343b41)](https://github.com/IvanReznikov/DataVerse/commits)
 
 </div>
 
