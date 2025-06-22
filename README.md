@@ -6,6 +6,14 @@
 
 <table><tbody>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/4158466?v=4" width="20"/> <a href="https://github.com/bytedance/Dolphin">bytedance/Dolphin</a> 🔥</td>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/152649903?v=4" width="20"/> <a href="https://github.com/getomni-ai/zerox">getomni-ai/zerox</a> 🔥🔥🔥</td>
+</tr>
+<tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="20"/> <a href="https://github.com/NirDiamant/agents-towards-production">NirDiamant/agents-towards-production</a> 🔥</td>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/38891707?v=4" width="20"/> <a href="https://github.com/frdel/agent-zero">frdel/agent-zero</a> 🔥🔥🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/91699546?v=4" width="20"/> <a href="https://github.com/automatisch/automatisch">automatisch/automatisch</a> 🔥🔥🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/148420822?v=4" width="20"/> <a href="https://github.com/tensorzero/tensorzero">tensorzero/tensorzero</a> 🔥🔥</td>
 </tr>
@@ -16,14 +24,6 @@
 <tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/14957082?v=4" width="20"/> <a href="https://github.com/openai/openai-testing-agent-demo">openai/openai-testing-agent-demo</a> </td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/98949449?v=4" width="20"/> <a href="https://github.com/latitude-dev/latitude-llm">latitude-dev/latitude-llm</a> 🔥</td>
-</tr>
-<tr>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/173073912?v=4" width="20"/> <a href="https://github.com/Intelligent-Internet/ii-agent">Intelligent-Internet/ii-agent</a> 🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/23534030?v=4" width="20"/> <a href="https://github.com/PaddlePaddle/PaddleOCR">PaddlePaddle/PaddleOCR</a> 🔥🔥🔥</td>
-</tr>
-<tr>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/118165258?v=4" width="20"/> <a href="https://github.com/HKUDS/AutoAgent">HKUDS/AutoAgent</a> 🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20"/> <a href="https://github.com/unslothai/notebooks">unslothai/notebooks</a> 🔥</td>
 </tr>
 </tbody></table>
 
@@ -1217,20 +1217,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/99494700?v=4" width="20" align="top" alt="activepieces"/> [activepieces/activepieces](https://github.com/activepieces/activepieces) 🔥🔥🔥
-
-> AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=flat-square&labelColor=343b41)](https://github.com/activepieces/activepieces/stargazers) [![Forks](https://img.shields.io/github/forks/activepieces/activepieces?style=flat-square&labelColor=343b41)](https://github.com/activepieces/activepieces/network/members) [![Last Commit](https://img.shields.io/github/last-commit/activepieces/activepieces?style=flat-square&labelColor=343b41)](https://github.com/activepieces/activepieces/commits)
-
-</div>
-
-`ai-agent` `ai-agent-tools` `ai-agents` `ai-agents-framework` `mcp`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/4488133?v=4" width="20" align="top" alt="78"/> [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) 🔥🔥🔥
 
 > An MCP-based chatbot | 一个基于MCP的聊天机器人
@@ -1245,17 +1231,17 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/179202840?v=4" width="20" align="top" alt="mediar-ai"/> [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) 🔥🔥🔥
+### <img src="https://avatars.githubusercontent.com/u/99494700?v=4" width="20" align="top" alt="activepieces"/> [activepieces/activepieces](https://github.com/activepieces/activepieces) 🔥🔥🔥
 
-> AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
+> AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/mediar-ai/screenpipe?style=flat-square&labelColor=343b41)](https://github.com/mediar-ai/screenpipe/stargazers) [![Forks](https://img.shields.io/github/forks/mediar-ai/screenpipe?style=flat-square&labelColor=343b41)](https://github.com/mediar-ai/screenpipe/network/members) [![Last Commit](https://img.shields.io/github/last-commit/mediar-ai/screenpipe?style=flat-square&labelColor=343b41)](https://github.com/mediar-ai/screenpipe/commits)
+[![Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=flat-square&labelColor=343b41)](https://github.com/activepieces/activepieces/stargazers) [![Forks](https://img.shields.io/github/forks/activepieces/activepieces?style=flat-square&labelColor=343b41)](https://github.com/activepieces/activepieces/network/members) [![Last Commit](https://img.shields.io/github/last-commit/activepieces/activepieces?style=flat-square&labelColor=343b41)](https://github.com/activepieces/activepieces/commits)
 
 </div>
 
-`agents` `agi` `ai` `computer-vision` `llm`
+`ai-agent` `ai-agent-tools` `ai-agents` `ai-agents-framework` `mcp`
 
 ---
 
@@ -1270,6 +1256,20 @@
 </div>
 
 `ai` `ai-agents` `llm`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/179202840?v=4" width="20" align="top" alt="mediar-ai"/> [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) 🔥🔥🔥
+
+> AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/mediar-ai/screenpipe?style=flat-square&labelColor=343b41)](https://github.com/mediar-ai/screenpipe/stargazers) [![Forks](https://img.shields.io/github/forks/mediar-ai/screenpipe?style=flat-square&labelColor=343b41)](https://github.com/mediar-ai/screenpipe/network/members) [![Last Commit](https://img.shields.io/github/last-commit/mediar-ai/screenpipe?style=flat-square&labelColor=343b41)](https://github.com/mediar-ai/screenpipe/commits)
+
+</div>
+
+`agents` `agi` `ai` `computer-vision` `llm`
 
 ---
 
@@ -5983,7 +5983,7 @@
 
 <h2 id="others">🔖 Others</h2>
 
-<details><summary>Show repositories (86)</summary>
+<details><summary>Show repositories (89)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6467,6 +6467,34 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/152649903?v=4" width="20" align="top" alt="getomni-ai"/> [getomni-ai/zerox](https://github.com/getomni-ai/zerox) 🔥🔥🔥
+
+> OCR & Document Extraction using vision models
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/getomni-ai/zerox?style=flat-square&labelColor=343b41)](https://github.com/getomni-ai/zerox/stargazers) [![Forks](https://img.shields.io/github/forks/getomni-ai/zerox?style=flat-square&labelColor=343b41)](https://github.com/getomni-ai/zerox/network/members) [![Last Commit](https://img.shields.io/github/last-commit/getomni-ai/zerox?style=flat-square&labelColor=343b41)](https://github.com/getomni-ai/zerox/commits)
+
+</div>
+
+`ocr` `pdf`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/91699546?v=4" width="20" align="top" alt="automatisch"/> [automatisch/automatisch](https://github.com/automatisch/automatisch) 🔥🔥🔥
+
+> The open source Zapier alternative. Build workflow automation without spending time and money.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/automatisch/automatisch?style=flat-square&labelColor=343b41)](https://github.com/automatisch/automatisch/stargazers) [![Forks](https://img.shields.io/github/forks/automatisch/automatisch?style=flat-square&labelColor=343b41)](https://github.com/automatisch/automatisch/network/members) [![Last Commit](https://img.shields.io/github/last-commit/automatisch/automatisch?style=flat-square&labelColor=343b41)](https://github.com/automatisch/automatisch/commits)
+
+</div>
+
+`automation` `workflow` `open-source` `self-hosted` `low-code`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/111946737?v=4" width="20" align="top" alt="markmap"/> [markmap/markmap](https://github.com/markmap/markmap) 🔥🔥🔥
 
 > Build mindmaps with plain text
@@ -6492,20 +6520,6 @@
 </div>
 
 `angular` `bcf` `boards` `bug-tracker` `gantt`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/91699546?v=4" width="20" align="top" alt="automatisch"/> [automatisch/automatisch](https://github.com/automatisch/automatisch) 🔥🔥🔥
-
-> The open source Zapier alternative. Build workflow automation without spending time and money.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/automatisch/automatisch?style=flat-square&labelColor=343b41)](https://github.com/automatisch/automatisch/stargazers) [![Forks](https://img.shields.io/github/forks/automatisch/automatisch?style=flat-square&labelColor=343b41)](https://github.com/automatisch/automatisch/network/members) [![Last Commit](https://img.shields.io/github/last-commit/automatisch/automatisch?style=flat-square&labelColor=343b41)](https://github.com/automatisch/automatisch/commits)
-
-</div>
-
-`automation` `workflow` `open-source` `self-hosted` `low-code`
 
 ---
 
@@ -6607,6 +6621,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥🔥
+
+> all of the workflows of n8n i could find (also from the site itself)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/12856921?v=4" width="20" align="top" alt="prasadgujar"/> [prasadgujar/low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer) 🔥🔥
 
 > Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.
@@ -6621,13 +6647,11 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥🔥
-
-> all of the workflows of n8n i could find (also from the site itself)
+### <img src="https://avatars.githubusercontent.com/u/1178890?v=4" width="20" align="top" alt="antiwork"/> [antiwork/gumroad](https://github.com/antiwork/gumroad) 🔥🔥
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
+[![Stars](https://img.shields.io/github/stars/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/stargazers) [![Forks](https://img.shields.io/github/forks/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/network/members) [![Last Commit](https://img.shields.io/github/last-commit/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/commits)
 
 </div>
 
@@ -6644,16 +6668,6 @@
 </div>
 
 `nextjs` `prisma` `react` `tailwindcss` `typescript`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/1178890?v=4" width="20" align="top" alt="antiwork"/> [antiwork/gumroad](https://github.com/antiwork/gumroad) 🔥🔥
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/stargazers) [![Forks](https://img.shields.io/github/forks/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/network/members) [![Last Commit](https://img.shields.io/github/last-commit/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/commits)
-
-</div>
 
 ---
 
@@ -6736,6 +6750,20 @@
 </div>
 
 `agent` `llms`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="20" align="top" alt="NirDiamant"/> [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) 🔥
+
+>  This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/NirDiamant/agents-towards-production?style=flat-square&labelColor=343b41)](https://github.com/NirDiamant/agents-towards-production/stargazers) [![Forks](https://img.shields.io/github/forks/NirDiamant/agents-towards-production?style=flat-square&labelColor=343b41)](https://github.com/NirDiamant/agents-towards-production/network/members) [![Last Commit](https://img.shields.io/github/last-commit/NirDiamant/agents-towards-production?style=flat-square&labelColor=343b41)](https://github.com/NirDiamant/agents-towards-production/commits)
+
+</div>
+
+`agent` `agent-framework` `agents` `ai-agents` `genai`
 
 ---
 
@@ -6838,6 +6866,18 @@
 </div>
 
 `alphacode` `coding-agent` `deepmind` `deepmind-lab` `discovery`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/4158466?v=4" width="20" align="top" alt="bytedance"/> [bytedance/Dolphin](https://github.com/bytedance/Dolphin) 🔥
+
+> The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/bytedance/Dolphin?style=flat-square&labelColor=343b41)](https://github.com/bytedance/Dolphin/stargazers) [![Forks](https://img.shields.io/github/forks/bytedance/Dolphin?style=flat-square&labelColor=343b41)](https://github.com/bytedance/Dolphin/network/members) [![Last Commit](https://img.shields.io/github/last-commit/bytedance/Dolphin?style=flat-square&labelColor=343b41)](https://github.com/bytedance/Dolphin/commits)
+
+</div>
 
 ---
 
