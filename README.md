@@ -6,24 +6,24 @@
 
 <table><tbody>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/84374044?v=4" width="20"/> <a href="https://github.com/wenet-e2e/wenet">wenet-e2e/wenet</a> 🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/38156925?v=4" width="20"/> <a href="https://github.com/GeeeekExplorer/nano-vllm">GeeeekExplorer/nano-vllm</a> 🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/4158466?v=4" width="20"/> <a href="https://github.com/bytedance/Dolphin">bytedance/Dolphin</a> 🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/152649903?v=4" width="20"/> <a href="https://github.com/getomni-ai/zerox">getomni-ai/zerox</a> 🔥🔥🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="20"/> <a href="https://github.com/NirDiamant/agents-towards-production">NirDiamant/agents-towards-production</a> 🔥🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/38891707?v=4" width="20"/> <a href="https://github.com/frdel/agent-zero">frdel/agent-zero</a> 🔥🔥🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/91699546?v=4" width="20"/> <a href="https://github.com/automatisch/automatisch">automatisch/automatisch</a> 🔥🔥🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/148420822?v=4" width="20"/> <a href="https://github.com/tensorzero/tensorzero">tensorzero/tensorzero</a> 🔥🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/63067900?v=4" width="20"/> <a href="https://github.com/FareedKhan-dev/all-rag-techniques">FareedKhan-dev/all-rag-techniques</a> 🔥🔥</td>
 </tr>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/63067900?v=4" width="20"/> <a href="https://github.com/FareedKhan-dev/all-rag-techniques">FareedKhan-dev/all-rag-techniques</a> 🔥🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/88680502?v=4" width="20"/> <a href="https://github.com/ucbepic/docetl">ucbepic/docetl</a> 🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/14957082?v=4" width="20"/> <a href="https://github.com/openai/openai-testing-agent-demo">openai/openai-testing-agent-demo</a> </td>
 </tr>
 </tbody></table>
 
@@ -1217,6 +1217,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/170767358?v=4" width="20" align="top" alt="kortix-ai"/> [kortix-ai/suna](https://github.com/kortix-ai/suna) 🔥🔥🔥
+
+> Suna - Open Source Generalist AI Agent
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/kortix-ai/suna?style=flat-square&labelColor=343b41)](https://github.com/kortix-ai/suna/stargazers) [![Forks](https://img.shields.io/github/forks/kortix-ai/suna?style=flat-square&labelColor=343b41)](https://github.com/kortix-ai/suna/network/members) [![Last Commit](https://img.shields.io/github/last-commit/kortix-ai/suna?style=flat-square&labelColor=343b41)](https://github.com/kortix-ai/suna/commits)
+
+</div>
+
+`ai` `ai-agents` `llm`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/4488133?v=4" width="20" align="top" alt="78"/> [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) 🔥🔥🔥
 
 > An MCP-based chatbot | 一个基于MCP的聊天机器人
@@ -1242,20 +1256,6 @@
 </div>
 
 `ai-agent` `ai-agent-tools` `ai-agents` `ai-agents-framework` `mcp`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/170767358?v=4" width="20" align="top" alt="kortix-ai"/> [kortix-ai/suna](https://github.com/kortix-ai/suna) 🔥🔥🔥
-
-> Suna - Open Source Generalist AI Agent
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/kortix-ai/suna?style=flat-square&labelColor=343b41)](https://github.com/kortix-ai/suna/stargazers) [![Forks](https://img.shields.io/github/forks/kortix-ai/suna?style=flat-square&labelColor=343b41)](https://github.com/kortix-ai/suna/network/members) [![Last Commit](https://img.shields.io/github/last-commit/kortix-ai/suna?style=flat-square&labelColor=343b41)](https://github.com/kortix-ai/suna/commits)
-
-</div>
-
-`ai` `ai-agents` `llm`
 
 ---
 
@@ -1379,20 +1379,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/163125966?v=4" width="20" align="top" alt="lavague-ai"/> [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) 🔥🔥
-
-> Large Action Model framework to develop AI Web Agents
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/lavague-ai/LaVague?style=flat-square&labelColor=343b41)](https://github.com/lavague-ai/LaVague/stargazers) [![Forks](https://img.shields.io/github/forks/lavague-ai/LaVague?style=flat-square&labelColor=343b41)](https://github.com/lavague-ai/LaVague/network/members) [![Last Commit](https://img.shields.io/github/last-commit/lavague-ai/LaVague?style=flat-square&labelColor=343b41)](https://github.com/lavague-ai/LaVague/commits)
-
-</div>
-
-`ai` `browser` `large-action-model` `llm` `oss`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) 🔥🔥
 
 > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
@@ -1404,6 +1390,20 @@
 </div>
 
 `agent` `ai` `automation` `data-mining` `data-science`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/163125966?v=4" width="20" align="top" alt="lavague-ai"/> [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) 🔥🔥
+
+> Large Action Model framework to develop AI Web Agents
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/lavague-ai/LaVague?style=flat-square&labelColor=343b41)](https://github.com/lavague-ai/LaVague/stargazers) [![Forks](https://img.shields.io/github/forks/lavague-ai/LaVague?style=flat-square&labelColor=343b41)](https://github.com/lavague-ai/LaVague/network/members) [![Last Commit](https://img.shields.io/github/last-commit/lavague-ai/LaVague?style=flat-square&labelColor=343b41)](https://github.com/lavague-ai/LaVague/commits)
+
+</div>
+
+`ai` `browser` `large-action-model` `llm` `oss`
 
 ---
 
@@ -1851,7 +1851,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/139582646?v=4" width="20" align="top" alt="getmaxun"/> [getmaxun/maxun](https://github.com/getmaxun/maxun) 🔥🔥🔥
 
-> No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes
+> Open-Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes!
 
 <div align="center">
 
@@ -2227,6 +2227,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/181171420?v=4" width="20" align="top" alt="voideditor"/> [voideditor/void](https://github.com/voideditor/void) 🔥🔥🔥
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/stargazers) [![Forks](https://img.shields.io/github/forks/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/network/members) [![Last Commit](https://img.shields.io/github/last-commit/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/commits)
+
+</div>
+
+`chatgpt` `claude` `copilot` `cursor` `developer-tools`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/121462774?v=4" width="20" align="top" alt="BerriAI"/> [BerriAI/litellm](https://github.com/BerriAI/litellm) 🔥🔥🔥
 
 > Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
@@ -2238,18 +2250,6 @@
 </div>
 
 `ai-gateway` `anthropic` `azure-openai` `bedrock` `gateway`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/181171420?v=4" width="20" align="top" alt="voideditor"/> [voideditor/void](https://github.com/voideditor/void) 🔥🔥🔥
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/stargazers) [![Forks](https://img.shields.io/github/forks/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/network/members) [![Last Commit](https://img.shields.io/github/last-commit/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/commits)
-
-</div>
-
-`chatgpt` `claude` `copilot` `cursor` `developer-tools`
 
 ---
 
@@ -2447,7 +2447,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/128686189?v=4" width="20" align="top" alt="Chainlit"/> [Chainlit/chainlit](https://github.com/Chainlit/chainlit) 🔥🔥
+### <img src="https://avatars.githubusercontent.com/u/128686189?v=4" width="20" align="top" alt="Chainlit"/> [Chainlit/chainlit](https://github.com/Chainlit/chainlit) 🔥🔥🔥
 
 > Build Conversational AI in minutes ⚡️
 
@@ -3257,7 +3257,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/189563271?v=4" width="20" align="top" alt="assistant-ui"/> [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) 🔥
+### <img src="https://avatars.githubusercontent.com/u/189563271?v=4" width="20" align="top" alt="assistant-ui"/> [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) 🔥🔥
 
 > Typescript/React Library for AI Chat💬🚀
 
@@ -4183,20 +4183,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/11657655?v=4" width="20" align="top" alt="ritchieng"/> [ritchieng/the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) 🔥🔥🔥
-
-> The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch. 
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/ritchieng/the-incredible-pytorch?style=flat-square&labelColor=343b41)](https://github.com/ritchieng/the-incredible-pytorch/stargazers) [![Forks](https://img.shields.io/github/forks/ritchieng/the-incredible-pytorch?style=flat-square&labelColor=343b41)](https://github.com/ritchieng/the-incredible-pytorch/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ritchieng/the-incredible-pytorch?style=flat-square&labelColor=343b41)](https://github.com/ritchieng/the-incredible-pytorch/commits)
-
-</div>
-
-`deep-learning` `deep-learning-library` `deep-learning-tutorial` `deep-neural-networks` `python`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/38653995?v=4" width="20" align="top" alt="patchy631"/> [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) 🔥🔥🔥
 
 > In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
@@ -4208,6 +4194,20 @@
 </div>
 
 `agents` `ai` `llms` `machine-learning` `mcp`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/11657655?v=4" width="20" align="top" alt="ritchieng"/> [ritchieng/the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) 🔥🔥🔥
+
+> The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch. 
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/ritchieng/the-incredible-pytorch?style=flat-square&labelColor=343b41)](https://github.com/ritchieng/the-incredible-pytorch/stargazers) [![Forks](https://img.shields.io/github/forks/ritchieng/the-incredible-pytorch?style=flat-square&labelColor=343b41)](https://github.com/ritchieng/the-incredible-pytorch/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ritchieng/the-incredible-pytorch?style=flat-square&labelColor=343b41)](https://github.com/ritchieng/the-incredible-pytorch/commits)
+
+</div>
+
+`deep-learning` `deep-learning-library` `deep-learning-tutorial` `deep-neural-networks` `python`
 
 ---
 
@@ -5983,7 +5983,7 @@
 
 <h2 id="others">🔖 Others</h2>
 
-<details><summary>Show repositories (90)</summary>
+<details><summary>Show repositories (91)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6399,13 +6399,13 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/213684959?v=4" width="20" align="top" alt="google-a2a"/> [google-a2a/A2A](https://github.com/google-a2a/A2A) 🔥🔥🔥
+### <img src="https://avatars.githubusercontent.com/u/217270365?v=4" width="20" align="top" alt="a2aproject"/> [a2aproject/A2A](https://github.com/a2aproject/A2A) 🔥🔥🔥
 
 > An open protocol enabling communication and interoperability between opaque agentic applications.
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/google-a2a/A2A?style=flat-square&labelColor=343b41)](https://github.com/google-a2a/A2A/stargazers) [![Forks](https://img.shields.io/github/forks/google-a2a/A2A?style=flat-square&labelColor=343b41)](https://github.com/google-a2a/A2A/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-a2a/A2A?style=flat-square&labelColor=343b41)](https://github.com/google-a2a/A2A/commits)
+[![Stars](https://img.shields.io/github/stars/a2aproject/A2A?style=flat-square&labelColor=343b41)](https://github.com/a2aproject/A2A/stargazers) [![Forks](https://img.shields.io/github/forks/a2aproject/A2A?style=flat-square&labelColor=343b41)](https://github.com/a2aproject/A2A/network/members) [![Last Commit](https://img.shields.io/github/last-commit/a2aproject/A2A?style=flat-square&labelColor=343b41)](https://github.com/a2aproject/A2A/commits)
 
 </div>
 
@@ -6469,20 +6469,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/152649903?v=4" width="20" align="top" alt="getomni-ai"/> [getomni-ai/zerox](https://github.com/getomni-ai/zerox) 🔥🔥🔥
-
-> OCR & Document Extraction using vision models
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/getomni-ai/zerox?style=flat-square&labelColor=343b41)](https://github.com/getomni-ai/zerox/stargazers) [![Forks](https://img.shields.io/github/forks/getomni-ai/zerox?style=flat-square&labelColor=343b41)](https://github.com/getomni-ai/zerox/network/members) [![Last Commit](https://img.shields.io/github/last-commit/getomni-ai/zerox?style=flat-square&labelColor=343b41)](https://github.com/getomni-ai/zerox/commits)
-
-</div>
-
-`ocr` `pdf`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/91699546?v=4" width="20" align="top" alt="automatisch"/> [automatisch/automatisch](https://github.com/automatisch/automatisch) 🔥🔥🔥
 
 > The open source Zapier alternative. Build workflow automation without spending time and money.
@@ -6494,6 +6480,20 @@
 </div>
 
 `automation` `workflow` `open-source` `self-hosted` `low-code`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/152649903?v=4" width="20" align="top" alt="getomni-ai"/> [getomni-ai/zerox](https://github.com/getomni-ai/zerox) 🔥🔥🔥
+
+> OCR & Document Extraction using vision models
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/getomni-ai/zerox?style=flat-square&labelColor=343b41)](https://github.com/getomni-ai/zerox/stargazers) [![Forks](https://img.shields.io/github/forks/getomni-ai/zerox?style=flat-square&labelColor=343b41)](https://github.com/getomni-ai/zerox/network/members) [![Last Commit](https://img.shields.io/github/last-commit/getomni-ai/zerox?style=flat-square&labelColor=343b41)](https://github.com/getomni-ai/zerox/commits)
+
+</div>
+
+`ocr` `pdf`
 
 ---
 
@@ -6581,6 +6581,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥🔥
+
+> all of the workflows of n8n i could find (also from the site itself)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/145366395?v=4" width="20" align="top" alt="midday-ai"/> [midday-ai/midday](https://github.com/midday-ai/midday) 🔥🔥
 
 > Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
@@ -6592,18 +6604,6 @@
 </div>
 
 `finance` `nextjs` `supabase` `tailwind` `typescript`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥🔥
-
-> all of the workflows of n8n i could find (also from the site itself)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
-
-</div>
 
 ---
 
@@ -6701,6 +6701,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="20" align="top" alt="NirDiamant"/> [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) 🔥🔥
+
+>  This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/NirDiamant/agents-towards-production?style=flat-square&labelColor=343b41)](https://github.com/NirDiamant/agents-towards-production/stargazers) [![Forks](https://img.shields.io/github/forks/NirDiamant/agents-towards-production?style=flat-square&labelColor=343b41)](https://github.com/NirDiamant/agents-towards-production/network/members) [![Last Commit](https://img.shields.io/github/last-commit/NirDiamant/agents-towards-production?style=flat-square&labelColor=343b41)](https://github.com/NirDiamant/agents-towards-production/commits)
+
+</div>
+
+`agent` `agent-framework` `agents` `ai-agents` `genai`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/20604835?v=4" width="20" align="top" alt="D4Vinci"/> [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) 🔥🔥
 
 > 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
@@ -6712,18 +6726,6 @@
 </div>
 
 `crawler` `crawling` `crawling-python` `hacktoberfest` `playwright`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/NLWeb](https://github.com/microsoft/NLWeb) 🔥🔥
-
-> Natural Language Web
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/microsoft/NLWeb?style=flat-square&labelColor=343b41)](https://github.com/microsoft/NLWeb/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/NLWeb?style=flat-square&labelColor=343b41)](https://github.com/microsoft/NLWeb/network/members) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/NLWeb?style=flat-square&labelColor=343b41)](https://github.com/microsoft/NLWeb/commits)
-
-</div>
 
 ---
 
@@ -6741,17 +6743,15 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="20" align="top" alt="NirDiamant"/> [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) 🔥🔥
+### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/NLWeb](https://github.com/microsoft/NLWeb) 🔥🔥
 
->  This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.
+> Natural Language Web
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/NirDiamant/agents-towards-production?style=flat-square&labelColor=343b41)](https://github.com/NirDiamant/agents-towards-production/stargazers) [![Forks](https://img.shields.io/github/forks/NirDiamant/agents-towards-production?style=flat-square&labelColor=343b41)](https://github.com/NirDiamant/agents-towards-production/network/members) [![Last Commit](https://img.shields.io/github/last-commit/NirDiamant/agents-towards-production?style=flat-square&labelColor=343b41)](https://github.com/NirDiamant/agents-towards-production/commits)
+[![Stars](https://img.shields.io/github/stars/microsoft/NLWeb?style=flat-square&labelColor=343b41)](https://github.com/microsoft/NLWeb/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/NLWeb?style=flat-square&labelColor=343b41)](https://github.com/microsoft/NLWeb/network/members) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/NLWeb?style=flat-square&labelColor=343b41)](https://github.com/microsoft/NLWeb/commits)
 
 </div>
-
-`agent` `agent-framework` `agents` `ai-agents` `genai`
 
 ---
 
@@ -6766,6 +6766,20 @@
 </div>
 
 `agent` `llms`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/84374044?v=4" width="20" align="top" alt="wenet-e2e"/> [wenet-e2e/wenet](https://github.com/wenet-e2e/wenet) 🔥
+
+> Production First and Production Ready End-to-End Speech Recognition Toolkit
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/wenet-e2e/wenet?style=flat-square&labelColor=343b41)](https://github.com/wenet-e2e/wenet/stargazers) [![Forks](https://img.shields.io/github/forks/wenet-e2e/wenet?style=flat-square&labelColor=343b41)](https://github.com/wenet-e2e/wenet/network/members) [![Last Commit](https://img.shields.io/github/last-commit/wenet-e2e/wenet?style=flat-square&labelColor=343b41)](https://github.com/wenet-e2e/wenet/commits)
+
+</div>
+
+`e2e-models` `pytorch` `asr` `transformer` `conformer`
 
 ---
 
@@ -6788,6 +6802,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/network/members) [![Last Commit](https://img.shields.io/github/last-commit/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/38156925?v=4" width="20" align="top" alt="GeeeekExplorer"/> [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) 🔥
+
+> Nano vLLM
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm?style=flat-square&labelColor=343b41)](https://github.com/GeeeekExplorer/nano-vllm/stargazers) [![Forks](https://img.shields.io/github/forks/GeeeekExplorer/nano-vllm?style=flat-square&labelColor=343b41)](https://github.com/GeeeekExplorer/nano-vllm/network/members) [![Last Commit](https://img.shields.io/github/last-commit/GeeeekExplorer/nano-vllm?style=flat-square&labelColor=343b41)](https://github.com/GeeeekExplorer/nano-vllm/commits)
 
 </div>
 
@@ -6819,6 +6845,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/4158466?v=4" width="20" align="top" alt="bytedance"/> [bytedance/Dolphin](https://github.com/bytedance/Dolphin) 🔥
+
+> The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/bytedance/Dolphin?style=flat-square&labelColor=343b41)](https://github.com/bytedance/Dolphin/stargazers) [![Forks](https://img.shields.io/github/forks/bytedance/Dolphin?style=flat-square&labelColor=343b41)](https://github.com/bytedance/Dolphin/network/members) [![Last Commit](https://img.shields.io/github/last-commit/bytedance/Dolphin?style=flat-square&labelColor=343b41)](https://github.com/bytedance/Dolphin/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="20" align="top" alt="google"/> [google/adk-samples](https://github.com/google/adk-samples) 🔥
 
 > A collection of sample agents built with Agent Development (ADK) 
@@ -6830,18 +6868,6 @@
 </div>
 
 `adk` `agents` `agent-samples`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/4158466?v=4" width="20" align="top" alt="bytedance"/> [bytedance/Dolphin](https://github.com/bytedance/Dolphin) 🔥
-
-> The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/bytedance/Dolphin?style=flat-square&labelColor=343b41)](https://github.com/bytedance/Dolphin/stargazers) [![Forks](https://img.shields.io/github/forks/bytedance/Dolphin?style=flat-square&labelColor=343b41)](https://github.com/bytedance/Dolphin/network/members) [![Last Commit](https://img.shields.io/github/last-commit/bytedance/Dolphin?style=flat-square&labelColor=343b41)](https://github.com/bytedance/Dolphin/commits)
-
-</div>
 
 ---
 
@@ -6904,18 +6930,6 @@
 </div>
 
 `agent` `agentic-ai` `ai` `ai-agent` `ai-agent-framework`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/38156925?v=4" width="20" align="top" alt="GeeeekExplorer"/> [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) 🔥
-
-> Nano vLLM
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm?style=flat-square&labelColor=343b41)](https://github.com/GeeeekExplorer/nano-vllm/stargazers) [![Forks](https://img.shields.io/github/forks/GeeeekExplorer/nano-vllm?style=flat-square&labelColor=343b41)](https://github.com/GeeeekExplorer/nano-vllm/network/members) [![Last Commit](https://img.shields.io/github/last-commit/GeeeekExplorer/nano-vllm?style=flat-square&labelColor=343b41)](https://github.com/GeeeekExplorer/nano-vllm/commits)
-
-</div>
 
 ---
 
