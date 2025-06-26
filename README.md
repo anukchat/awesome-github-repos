@@ -6,24 +6,24 @@
 
 <table><tbody>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/183290039?v=4" width="20"/> <a href="https://github.com/qodo-ai/agents">qodo-ai/agents</a> </td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/84374044?v=4" width="20"/> <a href="https://github.com/wenet-e2e/wenet">wenet-e2e/wenet</a> 🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/38156925?v=4" width="20"/> <a href="https://github.com/GeeeekExplorer/nano-vllm">GeeeekExplorer/nano-vllm</a> 🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/4158466?v=4" width="20"/> <a href="https://github.com/bytedance/Dolphin">bytedance/Dolphin</a> 🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/152649903?v=4" width="20"/> <a href="https://github.com/getomni-ai/zerox">getomni-ai/zerox</a> 🔥🔥🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="20"/> <a href="https://github.com/NirDiamant/agents-towards-production">NirDiamant/agents-towards-production</a> 🔥🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/38891707?v=4" width="20"/> <a href="https://github.com/frdel/agent-zero">frdel/agent-zero</a> 🔥🔥🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/91699546?v=4" width="20"/> <a href="https://github.com/automatisch/automatisch">automatisch/automatisch</a> 🔥🔥🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/148420822?v=4" width="20"/> <a href="https://github.com/tensorzero/tensorzero">tensorzero/tensorzero</a> 🔥🔥</td>
 </tr>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/148420822?v=4" width="20"/> <a href="https://github.com/tensorzero/tensorzero">tensorzero/tensorzero</a> 🔥🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/63067900?v=4" width="20"/> <a href="https://github.com/FareedKhan-dev/all-rag-techniques">FareedKhan-dev/all-rag-techniques</a> 🔥🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/88680502?v=4" width="20"/> <a href="https://github.com/ucbepic/docetl">ucbepic/docetl</a> 🔥</td>
 </tr>
 </tbody></table>
 
@@ -329,7 +329,7 @@
 
 </div>
 
-`agent` `ai` `chatglm` `fine-tuning` `gpt`
+`agent` `ai` `deepseek` `fine-tuning` `gemma`
 
 ---
 
@@ -1473,7 +1473,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/132635806?v=4" width="20" align="top" alt="refly-ai"/> [refly-ai/refly](https://github.com/refly-ai/refly) 🔥
 
-> The world's first open-source "Vibe Workflow" for complex tasks.
+> The world's first open-source "Vibe Workflow" platform for complex tasks.
 
 <div align="center">
 
@@ -3925,20 +3925,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/7767579?v=4" width="20" align="top" alt="ChristosChristofidis"/> [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) 🔥🔥🔥
-
-> A curated list of awesome Deep Learning tutorials, projects and communities.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning?style=flat-square&labelColor=343b41)](https://github.com/ChristosChristofidis/awesome-deep-learning/stargazers) [![Forks](https://img.shields.io/github/forks/ChristosChristofidis/awesome-deep-learning?style=flat-square&labelColor=343b41)](https://github.com/ChristosChristofidis/awesome-deep-learning/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ChristosChristofidis/awesome-deep-learning?style=flat-square&labelColor=343b41)](https://github.com/ChristosChristofidis/awesome-deep-learning/commits)
-
-</div>
-
-`awesome` `awesome-list` `deep-learning` `deep-learning-tutorial` `deep-networks`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/7977505?v=4" width="20" align="top" alt="eriklindernoren"/> [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) 🔥🔥🔥
 
 > Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
@@ -3950,6 +3936,20 @@
 </div>
 
 `data-mining` `data-science` `deep-learning` `deep-reinforcement-learning` `genetic-algorithm`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/7767579?v=4" width="20" align="top" alt="ChristosChristofidis"/> [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) 🔥🔥🔥
+
+> A curated list of awesome Deep Learning tutorials, projects and communities.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning?style=flat-square&labelColor=343b41)](https://github.com/ChristosChristofidis/awesome-deep-learning/stargazers) [![Forks](https://img.shields.io/github/forks/ChristosChristofidis/awesome-deep-learning?style=flat-square&labelColor=343b41)](https://github.com/ChristosChristofidis/awesome-deep-learning/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ChristosChristofidis/awesome-deep-learning?style=flat-square&labelColor=343b41)](https://github.com/ChristosChristofidis/awesome-deep-learning/commits)
+
+</div>
+
+`awesome` `awesome-list` `deep-learning` `deep-learning-tutorial` `deep-networks`
 
 ---
 
@@ -4085,20 +4085,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/10162068?v=4" width="20" align="top" alt="FavioVazquez"/> [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) 🔥🔥🔥
-
-> List of Data Science Cheatsheets to rule the world
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/FavioVazquez/ds-cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/FavioVazquez/ds-cheatsheets/stargazers) [![Forks](https://img.shields.io/github/forks/FavioVazquez/ds-cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/FavioVazquez/ds-cheatsheets/network/members) [![Last Commit](https://img.shields.io/github/last-commit/FavioVazquez/ds-cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/FavioVazquez/ds-cheatsheets/commits)
-
-</div>
-
-`cheatsheet` `datascience` `jupyter` `programming` `python`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/8646889?v=4" width="20" align="top" alt="ashishps1"/> [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) 🔥🔥🔥
 
 > Learn Low Level Design (LLD) and prepare for interviews using free resources.
@@ -4110,6 +4096,20 @@
 </div>
 
 `awesome` `design-patterns` `interview` `interview-practice` `interview-questions`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/10162068?v=4" width="20" align="top" alt="FavioVazquez"/> [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) 🔥🔥🔥
+
+> List of Data Science Cheatsheets to rule the world
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/FavioVazquez/ds-cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/FavioVazquez/ds-cheatsheets/stargazers) [![Forks](https://img.shields.io/github/forks/FavioVazquez/ds-cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/FavioVazquez/ds-cheatsheets/network/members) [![Last Commit](https://img.shields.io/github/last-commit/FavioVazquez/ds-cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/FavioVazquez/ds-cheatsheets/commits)
+
+</div>
+
+`cheatsheet` `datascience` `jupyter` `programming` `python`
 
 ---
 
@@ -4127,20 +4127,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/10676103?v=4" width="20" align="top" alt="stas00"/> [stas00/ml-engineering](https://github.com/stas00/ml-engineering) 🔥🔥🔥
-
-> Machine Learning Engineering Open Book
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/stas00/ml-engineering?style=flat-square&labelColor=343b41)](https://github.com/stas00/ml-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/stas00/ml-engineering?style=flat-square&labelColor=343b41)](https://github.com/stas00/ml-engineering/network/members) [![Last Commit](https://img.shields.io/github/last-commit/stas00/ml-engineering?style=flat-square&labelColor=343b41)](https://github.com/stas00/ml-engineering/commits)
-
-</div>
-
-`ai` `inference` `large-language-models` `llm` `machine-learning`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/45159366?v=4" width="20" align="top" alt="mikeroyal"/> [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) 🔥🔥🔥
 
 > Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
@@ -4152,6 +4138,20 @@
 </div>
 
 `authentication` `awesome` `awesome-list` `decentralized` `docker-compose`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/10676103?v=4" width="20" align="top" alt="stas00"/> [stas00/ml-engineering](https://github.com/stas00/ml-engineering) 🔥🔥🔥
+
+> Machine Learning Engineering Open Book
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/stas00/ml-engineering?style=flat-square&labelColor=343b41)](https://github.com/stas00/ml-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/stas00/ml-engineering?style=flat-square&labelColor=343b41)](https://github.com/stas00/ml-engineering/network/members) [![Last Commit](https://img.shields.io/github/last-commit/stas00/ml-engineering?style=flat-square&labelColor=343b41)](https://github.com/stas00/ml-engineering/commits)
+
+</div>
+
+`ai` `inference` `large-language-models` `llm` `machine-learning`
 
 ---
 
@@ -5983,7 +5983,7 @@
 
 <h2 id="others">🔖 Others</h2>
 
-<details><summary>Show repositories (91)</summary>
+<details><summary>Show repositories (92)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6357,20 +6357,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/157326433?v=4" width="20" align="top" alt="onlook-dev"/> [onlook-dev/onlook](https://github.com/onlook-dev/onlook) 🔥🔥🔥
-
-> The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/onlook-dev/onlook?style=flat-square&labelColor=343b41)](https://github.com/onlook-dev/onlook/stargazers) [![Forks](https://img.shields.io/github/forks/onlook-dev/onlook?style=flat-square&labelColor=343b41)](https://github.com/onlook-dev/onlook/network/members) [![Last Commit](https://img.shields.io/github/last-commit/onlook-dev/onlook?style=flat-square&labelColor=343b41)](https://github.com/onlook-dev/onlook/commits)
-
-</div>
-
-`react` `typescript` `tailwindcss` `nextjs` `webflow`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/49105846?v=4" width="20" align="top" alt="Fosowl"/> [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) 🔥🔥🔥
 
 > Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake)
@@ -6382,6 +6368,20 @@
 </div>
 
 `agentic-ai` `agents` `ai` `deepseek-r1` `llm`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/157326433?v=4" width="20" align="top" alt="onlook-dev"/> [onlook-dev/onlook](https://github.com/onlook-dev/onlook) 🔥🔥🔥
+
+> The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/onlook-dev/onlook?style=flat-square&labelColor=343b41)](https://github.com/onlook-dev/onlook/stargazers) [![Forks](https://img.shields.io/github/forks/onlook-dev/onlook?style=flat-square&labelColor=343b41)](https://github.com/onlook-dev/onlook/network/members) [![Last Commit](https://img.shields.io/github/last-commit/onlook-dev/onlook?style=flat-square&labelColor=343b41)](https://github.com/onlook-dev/onlook/commits)
+
+</div>
+
+`react` `typescript` `tailwindcss` `nextjs` `webflow`
 
 ---
 
@@ -6455,20 +6455,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/48356807?v=4" width="20" align="top" alt="ourongxing"/> [ourongxing/newsnow](https://github.com/ourongxing/newsnow) 🔥🔥🔥
-
-> Elegant reading of real-time and hottest news
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/ourongxing/newsnow?style=flat-square&labelColor=343b41)](https://github.com/ourongxing/newsnow/stargazers) [![Forks](https://img.shields.io/github/forks/ourongxing/newsnow?style=flat-square&labelColor=343b41)](https://github.com/ourongxing/newsnow/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ourongxing/newsnow?style=flat-square&labelColor=343b41)](https://github.com/ourongxing/newsnow/commits)
-
-</div>
-
-`elegant` `news`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/91699546?v=4" width="20" align="top" alt="automatisch"/> [automatisch/automatisch](https://github.com/automatisch/automatisch) 🔥🔥🔥
 
 > The open source Zapier alternative. Build workflow automation without spending time and money.
@@ -6480,6 +6466,20 @@
 </div>
 
 `automation` `workflow` `open-source` `self-hosted` `low-code`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/48356807?v=4" width="20" align="top" alt="ourongxing"/> [ourongxing/newsnow](https://github.com/ourongxing/newsnow) 🔥🔥🔥
+
+> Elegant reading of real-time and hottest news
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/ourongxing/newsnow?style=flat-square&labelColor=343b41)](https://github.com/ourongxing/newsnow/stargazers) [![Forks](https://img.shields.io/github/forks/ourongxing/newsnow?style=flat-square&labelColor=343b41)](https://github.com/ourongxing/newsnow/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ourongxing/newsnow?style=flat-square&labelColor=343b41)](https://github.com/ourongxing/newsnow/commits)
+
+</div>
+
+`elegant` `news`
 
 ---
 
@@ -6831,6 +6831,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/4158466?v=4" width="20" align="top" alt="bytedance"/> [bytedance/Dolphin](https://github.com/bytedance/Dolphin) 🔥
+
+> The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/bytedance/Dolphin?style=flat-square&labelColor=343b41)](https://github.com/bytedance/Dolphin/stargazers) [![Forks](https://img.shields.io/github/forks/bytedance/Dolphin?style=flat-square&labelColor=343b41)](https://github.com/bytedance/Dolphin/network/members) [![Last Commit](https://img.shields.io/github/last-commit/bytedance/Dolphin?style=flat-square&labelColor=343b41)](https://github.com/bytedance/Dolphin/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/190910900?v=4" width="20" align="top" alt="u14app"/> [u14app/deep-research](https://github.com/u14app/deep-research) 🔥
 
 > Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
@@ -6842,18 +6854,6 @@
 </div>
 
 `deep-research` `deepresearch` `gemini` `anthropic` `deepseek`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/4158466?v=4" width="20" align="top" alt="bytedance"/> [bytedance/Dolphin](https://github.com/bytedance/Dolphin) 🔥
-
-> The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/bytedance/Dolphin?style=flat-square&labelColor=343b41)](https://github.com/bytedance/Dolphin/stargazers) [![Forks](https://img.shields.io/github/forks/bytedance/Dolphin?style=flat-square&labelColor=343b41)](https://github.com/bytedance/Dolphin/network/members) [![Last Commit](https://img.shields.io/github/last-commit/bytedance/Dolphin?style=flat-square&labelColor=343b41)](https://github.com/bytedance/Dolphin/commits)
-
-</div>
 
 ---
 
@@ -7182,6 +7182,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/nornagon/twitter-bookmark-archiver?style=flat-square&labelColor=343b41)](https://github.com/nornagon/twitter-bookmark-archiver/stargazers) [![Forks](https://img.shields.io/github/forks/nornagon/twitter-bookmark-archiver?style=flat-square&labelColor=343b41)](https://github.com/nornagon/twitter-bookmark-archiver/network/members) [![Last Commit](https://img.shields.io/github/last-commit/nornagon/twitter-bookmark-archiver?style=flat-square&labelColor=343b41)](https://github.com/nornagon/twitter-bookmark-archiver/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/183290039?v=4" width="20" align="top" alt="qodo-ai"/> [qodo-ai/agents](https://github.com/qodo-ai/agents)
+
+> Qodo CLI Agents
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/qodo-ai/agents?style=flat-square&labelColor=343b41)](https://github.com/qodo-ai/agents/stargazers) [![Forks](https://img.shields.io/github/forks/qodo-ai/agents?style=flat-square&labelColor=343b41)](https://github.com/qodo-ai/agents/network/members) [![Last Commit](https://img.shields.io/github/last-commit/qodo-ai/agents?style=flat-square&labelColor=343b41)](https://github.com/qodo-ai/agents/commits)
 
 </div>
 
