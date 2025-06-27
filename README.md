@@ -6,24 +6,24 @@
 
 <table><tbody>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/7399563?v=4" width="20"/> <a href="https://github.com/robert-mcdermott/ai-knowledge-graph">robert-mcdermott/ai-knowledge-graph</a> </td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/183290039?v=4" width="20"/> <a href="https://github.com/qodo-ai/agents">qodo-ai/agents</a> </td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/84374044?v=4" width="20"/> <a href="https://github.com/wenet-e2e/wenet">wenet-e2e/wenet</a> 🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/38156925?v=4" width="20"/> <a href="https://github.com/GeeeekExplorer/nano-vllm">GeeeekExplorer/nano-vllm</a> 🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/4158466?v=4" width="20"/> <a href="https://github.com/bytedance/Dolphin">bytedance/Dolphin</a> 🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/152649903?v=4" width="20"/> <a href="https://github.com/getomni-ai/zerox">getomni-ai/zerox</a> 🔥🔥🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="20"/> <a href="https://github.com/NirDiamant/agents-towards-production">NirDiamant/agents-towards-production</a> 🔥🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/38891707?v=4" width="20"/> <a href="https://github.com/frdel/agent-zero">frdel/agent-zero</a> 🔥🔥🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/91699546?v=4" width="20"/> <a href="https://github.com/automatisch/automatisch">automatisch/automatisch</a> 🔥🔥🔥</td>
 </tr>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/91699546?v=4" width="20"/> <a href="https://github.com/automatisch/automatisch">automatisch/automatisch</a> 🔥🔥🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/148420822?v=4" width="20"/> <a href="https://github.com/tensorzero/tensorzero">tensorzero/tensorzero</a> 🔥🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/63067900?v=4" width="20"/> <a href="https://github.com/FareedKhan-dev/all-rag-techniques">FareedKhan-dev/all-rag-techniques</a> 🔥🔥</td>
 </tr>
 </tbody></table>
 
@@ -733,7 +733,7 @@
 
 <details><summary>Show repositories (3)</summary>
 
-### <img src="https://avatars.githubusercontent.com/u/8986001?v=4" width="20" align="top" alt="timescale"/> [timescale/pgai](https://github.com/timescale/pgai) 🔥
+### <img src="https://avatars.githubusercontent.com/u/8986001?v=4" width="20" align="top" alt="timescale"/> [timescale/pgai](https://github.com/timescale/pgai) 🔥🔥
 
 > A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 
@@ -1851,7 +1851,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/139582646?v=4" width="20" align="top" alt="getmaxun"/> [getmaxun/maxun](https://github.com/getmaxun/maxun) 🔥🔥🔥
 
-> Open-Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes!
+> 🔥 No Code Web Data Extraction Platform • Open-Source Alternative To Octoparse, ParseHub 🔥
 
 <div align="center">
 
@@ -4059,6 +4059,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/courses](https://github.com/anthropics/courses) 🔥🔥🔥
+
+> Anthropic's educational courses
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/150462874?v=4" width="20" align="top" alt="docmost"/> [docmost/docmost](https://github.com/docmost/docmost) 🔥🔥🔥
 
 > Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
@@ -4070,18 +4082,6 @@
 </div>
 
 `confluence` `documentation` `knowledge-base` `notion` `notion-alternative`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/courses](https://github.com/anthropics/courses) 🔥🔥🔥
-
-> Anthropic's educational courses
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/commits)
-
-</div>
 
 ---
 
@@ -5225,7 +5225,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/199500616?v=4" width="20" align="top" alt="magnitudedev"/> [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) 🔥
 
-> Open source, AI-native testing framework for web apps
+> The AI browser automation framework
 
 <div align="center">
 
@@ -5983,7 +5983,7 @@
 
 <h2 id="others">🔖 Others</h2>
 
-<details><summary>Show repositories (92)</summary>
+<details><summary>Show repositories (93)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6593,20 +6593,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/145366395?v=4" width="20" align="top" alt="midday-ai"/> [midday-ai/midday](https://github.com/midday-ai/midday) 🔥🔥
-
-> Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/midday-ai/midday?style=flat-square&labelColor=343b41)](https://github.com/midday-ai/midday/stargazers) [![Forks](https://img.shields.io/github/forks/midday-ai/midday?style=flat-square&labelColor=343b41)](https://github.com/midday-ai/midday/network/members) [![Last Commit](https://img.shields.io/github/last-commit/midday-ai/midday?style=flat-square&labelColor=343b41)](https://github.com/midday-ai/midday/commits)
-
-</div>
-
-`finance` `nextjs` `supabase` `tailwind` `typescript`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/148420822?v=4" width="20" align="top" alt="tensorzero"/> [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) 🔥🔥
 
 > TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
@@ -6618,6 +6604,20 @@
 </div>
 
 `ai` `artificial-intelligence` `deep-learning` `gpt` `llm`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/145366395?v=4" width="20" align="top" alt="midday-ai"/> [midday-ai/midday](https://github.com/midday-ai/midday) 🔥🔥
+
+> Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/midday-ai/midday?style=flat-square&labelColor=343b41)](https://github.com/midday-ai/midday/stargazers) [![Forks](https://img.shields.io/github/forks/midday-ai/midday?style=flat-square&labelColor=343b41)](https://github.com/midday-ai/midday/network/members) [![Last Commit](https://img.shields.io/github/last-commit/midday-ai/midday?style=flat-square&labelColor=343b41)](https://github.com/midday-ai/midday/commits)
+
+</div>
+
+`finance` `nextjs` `supabase` `tailwind` `typescript`
 
 ---
 
@@ -6687,20 +6687,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/3299148?v=4" width="20" align="top" alt="awslabs"/> [awslabs/agent-squad](https://github.com/awslabs/agent-squad) 🔥🔥
-
-> Flexible and powerful framework for managing multiple AI agents and handling complex conversations
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/awslabs/agent-squad?style=flat-square&labelColor=343b41)](https://github.com/awslabs/agent-squad/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/agent-squad?style=flat-square&labelColor=343b41)](https://github.com/awslabs/agent-squad/network/members) [![Last Commit](https://img.shields.io/github/last-commit/awslabs/agent-squad?style=flat-square&labelColor=343b41)](https://github.com/awslabs/agent-squad/commits)
-
-</div>
-
-`aws` `aws-bedrock` `anthropic-claude` `aws-cdk` `aws-lambda`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="20" align="top" alt="NirDiamant"/> [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) 🔥🔥
 
 >  This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.
@@ -6712,6 +6698,20 @@
 </div>
 
 `agent` `agent-framework` `agents` `ai-agents` `genai`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/3299148?v=4" width="20" align="top" alt="awslabs"/> [awslabs/agent-squad](https://github.com/awslabs/agent-squad) 🔥🔥
+
+> Flexible and powerful framework for managing multiple AI agents and handling complex conversations
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/awslabs/agent-squad?style=flat-square&labelColor=343b41)](https://github.com/awslabs/agent-squad/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/agent-squad?style=flat-square&labelColor=343b41)](https://github.com/awslabs/agent-squad/network/members) [![Last Commit](https://img.shields.io/github/last-commit/awslabs/agent-squad?style=flat-square&labelColor=343b41)](https://github.com/awslabs/agent-squad/commits)
+
+</div>
+
+`aws` `aws-bedrock` `anthropic-claude` `aws-cdk` `aws-lambda`
 
 ---
 
@@ -6819,18 +6819,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/18418340?v=4" width="20" align="top" alt="hotheadhacker"/> [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) 🔥
-
-> 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/stargazers) [![Forks](https://img.shields.io/github/forks/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/network/members) [![Last Commit](https://img.shields.io/github/last-commit/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/4158466?v=4" width="20" align="top" alt="bytedance"/> [bytedance/Dolphin](https://github.com/bytedance/Dolphin) 🔥
 
 > The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
@@ -6838,6 +6826,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/bytedance/Dolphin?style=flat-square&labelColor=343b41)](https://github.com/bytedance/Dolphin/stargazers) [![Forks](https://img.shields.io/github/forks/bytedance/Dolphin?style=flat-square&labelColor=343b41)](https://github.com/bytedance/Dolphin/network/members) [![Last Commit](https://img.shields.io/github/last-commit/bytedance/Dolphin?style=flat-square&labelColor=343b41)](https://github.com/bytedance/Dolphin/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/18418340?v=4" width="20" align="top" alt="hotheadhacker"/> [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) 🔥
+
+> 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/stargazers) [![Forks](https://img.shields.io/github/forks/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/network/members) [![Last Commit](https://img.shields.io/github/last-commit/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/commits)
 
 </div>
 
@@ -7062,6 +7062,20 @@
 </div>
 
 `books` `computer-science`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/7399563?v=4" width="20" align="top" alt="robert-mcdermott"/> [robert-mcdermott/ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph)
+
+> AI Powered Knowledge Graph Generator
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/robert-mcdermott/ai-knowledge-graph?style=flat-square&labelColor=343b41)](https://github.com/robert-mcdermott/ai-knowledge-graph/stargazers) [![Forks](https://img.shields.io/github/forks/robert-mcdermott/ai-knowledge-graph?style=flat-square&labelColor=343b41)](https://github.com/robert-mcdermott/ai-knowledge-graph/network/members) [![Last Commit](https://img.shields.io/github/last-commit/robert-mcdermott/ai-knowledge-graph?style=flat-square&labelColor=343b41)](https://github.com/robert-mcdermott/ai-knowledge-graph/commits)
+
+</div>
+
+`artificial-intelligence` `knowledge-distillation` `knowledge-graph` `llm` `networkx`
 
 ---
 
