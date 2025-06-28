@@ -2461,7 +2461,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/45487711?v=4" width="20" align="top" alt="n8n-io"/> [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) 🔥🔥
+### <img src="https://avatars.githubusercontent.com/u/45487711?v=4" width="20" align="top" alt="n8n-io"/> [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) 🔥🔥🔥
 
 > The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 
@@ -5209,20 +5209,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/146763322?v=4" width="20" align="top" alt="langwatch"/> [langwatch/langwatch](https://github.com/langwatch/langwatch) 🔥
-
-> The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/langwatch/langwatch?style=flat-square&labelColor=343b41)](https://github.com/langwatch/langwatch/stargazers) [![Forks](https://img.shields.io/github/forks/langwatch/langwatch?style=flat-square&labelColor=343b41)](https://github.com/langwatch/langwatch/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langwatch/langwatch?style=flat-square&labelColor=343b41)](https://github.com/langwatch/langwatch/commits)
-
-</div>
-
-`ai` `analytics` `datasets` `dspy` `evaluation`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/199500616?v=4" width="20" align="top" alt="magnitudedev"/> [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) 🔥
 
 > The AI browser automation framework
@@ -5234,6 +5220,20 @@
 </div>
 
 `ai` `automation` `browser` `framework` `javascipt`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/146763322?v=4" width="20" align="top" alt="langwatch"/> [langwatch/langwatch](https://github.com/langwatch/langwatch) 🔥
+
+> The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/langwatch/langwatch?style=flat-square&labelColor=343b41)](https://github.com/langwatch/langwatch/stargazers) [![Forks](https://img.shields.io/github/forks/langwatch/langwatch?style=flat-square&labelColor=343b41)](https://github.com/langwatch/langwatch/network/members) [![Last Commit](https://img.shields.io/github/last-commit/langwatch/langwatch?style=flat-square&labelColor=343b41)](https://github.com/langwatch/langwatch/commits)
+
+</div>
+
+`ai` `analytics` `datasets` `dspy` `evaluation`
 
 ---
 
@@ -6317,7 +6317,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/275001?v=4" width="20" align="top" alt="dgtlmoon"/> [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) 🔥🔥🔥
 
-> The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
+> Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
 
 <div align="center">
 
@@ -6567,6 +6567,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥🔥
+
+> all of the workflows of n8n i could find (also from the site itself)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/11997567?v=4" width="20" align="top" alt="chiphuyen"/> [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) 🔥🔥
 
 > A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems"
@@ -6578,18 +6590,6 @@
 </div>
 
 `data-science` `machine-learning-production` `mlops`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥🔥
-
-> all of the workflows of n8n i could find (also from the site itself)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
-
-</div>
 
 ---
 
@@ -6663,6 +6663,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="20" align="top" alt="NirDiamant"/> [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) 🔥🔥
+
+>  This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/NirDiamant/agents-towards-production?style=flat-square&labelColor=343b41)](https://github.com/NirDiamant/agents-towards-production/stargazers) [![Forks](https://img.shields.io/github/forks/NirDiamant/agents-towards-production?style=flat-square&labelColor=343b41)](https://github.com/NirDiamant/agents-towards-production/network/members) [![Last Commit](https://img.shields.io/github/last-commit/NirDiamant/agents-towards-production?style=flat-square&labelColor=343b41)](https://github.com/NirDiamant/agents-towards-production/commits)
+
+</div>
+
+`agent` `agent-framework` `agents` `ai-agents` `genai`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/1178890?v=4" width="20" align="top" alt="antiwork"/> [antiwork/gumroad](https://github.com/antiwork/gumroad) 🔥🔥
 
 <div align="center">
@@ -6684,20 +6698,6 @@
 </div>
 
 `nextjs` `prisma` `react` `tailwindcss` `typescript`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="20" align="top" alt="NirDiamant"/> [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) 🔥🔥
-
->  This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/NirDiamant/agents-towards-production?style=flat-square&labelColor=343b41)](https://github.com/NirDiamant/agents-towards-production/stargazers) [![Forks](https://img.shields.io/github/forks/NirDiamant/agents-towards-production?style=flat-square&labelColor=343b41)](https://github.com/NirDiamant/agents-towards-production/network/members) [![Last Commit](https://img.shields.io/github/last-commit/NirDiamant/agents-towards-production?style=flat-square&labelColor=343b41)](https://github.com/NirDiamant/agents-towards-production/commits)
-
-</div>
-
-`agent` `agent-framework` `agents` `ai-agents` `genai`
 
 ---
 
@@ -6831,18 +6831,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/18418340?v=4" width="20" align="top" alt="hotheadhacker"/> [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) 🔥
-
-> 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/stargazers) [![Forks](https://img.shields.io/github/forks/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/network/members) [![Last Commit](https://img.shields.io/github/last-commit/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/190910900?v=4" width="20" align="top" alt="u14app"/> [u14app/deep-research](https://github.com/u14app/deep-research) 🔥
 
 > Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
@@ -6854,6 +6842,18 @@
 </div>
 
 `deep-research` `deepresearch` `gemini` `anthropic` `deepseek`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/18418340?v=4" width="20" align="top" alt="hotheadhacker"/> [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) 🔥
+
+> 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/stargazers) [![Forks](https://img.shields.io/github/forks/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/network/members) [![Last Commit](https://img.shields.io/github/last-commit/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/commits)
+
+</div>
 
 ---
 
