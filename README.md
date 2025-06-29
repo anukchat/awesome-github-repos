@@ -6,24 +6,24 @@
 
 <table><tbody>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="20"/> <a href="https://github.com/crewAIInc/crewAI-tools">crewAIInc/crewAI-tools</a> 🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/7399563?v=4" width="20"/> <a href="https://github.com/robert-mcdermott/ai-knowledge-graph">robert-mcdermott/ai-knowledge-graph</a> </td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/183290039?v=4" width="20"/> <a href="https://github.com/qodo-ai/agents">qodo-ai/agents</a> </td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/84374044?v=4" width="20"/> <a href="https://github.com/wenet-e2e/wenet">wenet-e2e/wenet</a> 🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/38156925?v=4" width="20"/> <a href="https://github.com/GeeeekExplorer/nano-vllm">GeeeekExplorer/nano-vllm</a> 🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/4158466?v=4" width="20"/> <a href="https://github.com/bytedance/Dolphin">bytedance/Dolphin</a> 🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/152649903?v=4" width="20"/> <a href="https://github.com/getomni-ai/zerox">getomni-ai/zerox</a> 🔥🔥🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="20"/> <a href="https://github.com/NirDiamant/agents-towards-production">NirDiamant/agents-towards-production</a> 🔥🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/38891707?v=4" width="20"/> <a href="https://github.com/frdel/agent-zero">frdel/agent-zero</a> 🔥🔥🔥</td>
 </tr>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/38891707?v=4" width="20"/> <a href="https://github.com/frdel/agent-zero">frdel/agent-zero</a> 🔥🔥🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/91699546?v=4" width="20"/> <a href="https://github.com/automatisch/automatisch">automatisch/automatisch</a> 🔥🔥🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/148420822?v=4" width="20"/> <a href="https://github.com/tensorzero/tensorzero">tensorzero/tensorzero</a> 🔥🔥</td>
 </tr>
 </tbody></table>
 
@@ -961,7 +961,7 @@
 
 <h2 id="aiagents">🤖 AI Agents</h2>
 
-<details><summary>Show repositories (67)</summary>
+<details><summary>Show repositories (66)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/130738209?v=4" width="20" align="top" alt="Significant-Gravitas"/> [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) 🔥🔥🔥
 
@@ -1080,20 +1080,6 @@
 </div>
 
 `agents` `agi` `ai` `artificial-inteligence` `databases`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/50654?v=4" width="20" align="top" alt="danielmiessler"/> [danielmiessler/fabric](https://github.com/danielmiessler/fabric) 🔥🔥🔥
-
-> Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/danielmiessler/fabric?style=flat-square&labelColor=343b41)](https://github.com/danielmiessler/fabric/stargazers) [![Forks](https://img.shields.io/github/forks/danielmiessler/fabric?style=flat-square&labelColor=343b41)](https://github.com/danielmiessler/fabric/network/members) [![Last Commit](https://img.shields.io/github/last-commit/danielmiessler/fabric?style=flat-square&labelColor=343b41)](https://github.com/danielmiessler/fabric/commits)
-
-</div>
-
-`ai` `augmentation` `flourishing` `life` `work`
 
 ---
 
@@ -2405,20 +2391,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/promptflow](https://github.com/microsoft/promptflow) 🔥🔥🔥
-
-> Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/microsoft/promptflow?style=flat-square&labelColor=343b41)](https://github.com/microsoft/promptflow/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/promptflow?style=flat-square&labelColor=343b41)](https://github.com/microsoft/promptflow/network/members) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/promptflow?style=flat-square&labelColor=343b41)](https://github.com/microsoft/promptflow/commits)
-
-</div>
-
-`ai` `ai-application-development` `ai-applications` `chatgpt` `gpt`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="20" align="top" alt="google"/> [google/adk-python](https://github.com/google/adk-python) 🔥🔥🔥
 
 > An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
@@ -2430,6 +2402,20 @@
 </div>
 
 `agent` `agentic` `agentic-ai` `agents` `agents-sdk`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/promptflow](https://github.com/microsoft/promptflow) 🔥🔥🔥
+
+> Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/microsoft/promptflow?style=flat-square&labelColor=343b41)](https://github.com/microsoft/promptflow/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/promptflow?style=flat-square&labelColor=343b41)](https://github.com/microsoft/promptflow/network/members) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/promptflow?style=flat-square&labelColor=343b41)](https://github.com/microsoft/promptflow/commits)
+
+</div>
+
+`ai` `ai-application-development` `ai-applications` `chatgpt` `gpt`
 
 ---
 
@@ -2447,20 +2433,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/128686189?v=4" width="20" align="top" alt="Chainlit"/> [Chainlit/chainlit](https://github.com/Chainlit/chainlit) 🔥🔥🔥
-
-> Build Conversational AI in minutes ⚡️
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=flat-square&labelColor=343b41)](https://github.com/Chainlit/chainlit/stargazers) [![Forks](https://img.shields.io/github/forks/Chainlit/chainlit?style=flat-square&labelColor=343b41)](https://github.com/Chainlit/chainlit/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Chainlit/chainlit?style=flat-square&labelColor=343b41)](https://github.com/Chainlit/chainlit/commits)
-
-</div>
-
-`chatgpt` `langchain` `llm` `openai` `openai-chatgpt`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/45487711?v=4" width="20" align="top" alt="n8n-io"/> [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) 🔥🔥🔥
 
 > The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
@@ -2472,6 +2444,20 @@
 </div>
 
 `ai` `ai-agents` `low-code` `self-hosted` `starter-kit`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/128686189?v=4" width="20" align="top" alt="Chainlit"/> [Chainlit/chainlit](https://github.com/Chainlit/chainlit) 🔥🔥🔥
+
+> Build Conversational AI in minutes ⚡️
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=flat-square&labelColor=343b41)](https://github.com/Chainlit/chainlit/stargazers) [![Forks](https://img.shields.io/github/forks/Chainlit/chainlit?style=flat-square&labelColor=343b41)](https://github.com/Chainlit/chainlit/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Chainlit/chainlit?style=flat-square&labelColor=343b41)](https://github.com/Chainlit/chainlit/commits)
+
+</div>
+
+`chatgpt` `langchain` `llm` `openai` `openai-chatgpt`
 
 ---
 
@@ -5983,7 +5969,7 @@
 
 <h2 id="others">🔖 Others</h2>
 
-<details><summary>Show repositories (93)</summary>
+<details><summary>Show repositories (95)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6231,6 +6217,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/50654?v=4" width="20" align="top" alt="danielmiessler"/> [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) 🔥🔥🔥
+
+> Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/danielmiessler/Fabric?style=flat-square&labelColor=343b41)](https://github.com/danielmiessler/Fabric/stargazers) [![Forks](https://img.shields.io/github/forks/danielmiessler/Fabric?style=flat-square&labelColor=343b41)](https://github.com/danielmiessler/Fabric/network/members) [![Last Commit](https://img.shields.io/github/last-commit/danielmiessler/Fabric?style=flat-square&labelColor=343b41)](https://github.com/danielmiessler/Fabric/commits)
+
+</div>
+
+`ai` `augmentation` `flourishing` `life` `work`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/119600397?v=4" width="20" align="top" alt="twentyhq"/> [twentyhq/twenty](https://github.com/twentyhq/twenty) 🔥🔥🔥
 
 > Building a modern alternative to Salesforce, powered by the community.
@@ -6301,20 +6301,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/10793962?v=4" width="20" align="top" alt="keon"/> [keon/algorithms](https://github.com/keon/algorithms) 🔥🔥🔥
-
-> Minimal examples of data structures and algorithms in Python
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/keon/algorithms?style=flat-square&labelColor=343b41)](https://github.com/keon/algorithms/stargazers) [![Forks](https://img.shields.io/github/forks/keon/algorithms?style=flat-square&labelColor=343b41)](https://github.com/keon/algorithms/network/members) [![Last Commit](https://img.shields.io/github/last-commit/keon/algorithms?style=flat-square&labelColor=343b41)](https://github.com/keon/algorithms/commits)
-
-</div>
-
-`algorithm` `algorithms` `competitive-programming` `data-structure` `graph`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/275001?v=4" width="20" align="top" alt="dgtlmoon"/> [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) 🔥🔥🔥
 
 > Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
@@ -6326,6 +6312,20 @@
 </div>
 
 `back-in-stock` `change-alert` `change-detection` `change-monitoring` `changedetection`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/10793962?v=4" width="20" align="top" alt="keon"/> [keon/algorithms](https://github.com/keon/algorithms) 🔥🔥🔥
+
+> Minimal examples of data structures and algorithms in Python
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/keon/algorithms?style=flat-square&labelColor=343b41)](https://github.com/keon/algorithms/stargazers) [![Forks](https://img.shields.io/github/forks/keon/algorithms?style=flat-square&labelColor=343b41)](https://github.com/keon/algorithms/network/members) [![Last Commit](https://img.shields.io/github/last-commit/keon/algorithms?style=flat-square&labelColor=343b41)](https://github.com/keon/algorithms/commits)
+
+</div>
+
+`algorithm` `algorithms` `competitive-programming` `data-structure` `graph`
 
 ---
 
@@ -6567,7 +6567,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥🔥
+### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥🔥🔥
 
 > all of the workflows of n8n i could find (also from the site itself)
 
@@ -6593,20 +6593,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/148420822?v=4" width="20" align="top" alt="tensorzero"/> [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) 🔥🔥
-
-> TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/tensorzero/tensorzero?style=flat-square&labelColor=343b41)](https://github.com/tensorzero/tensorzero/stargazers) [![Forks](https://img.shields.io/github/forks/tensorzero/tensorzero?style=flat-square&labelColor=343b41)](https://github.com/tensorzero/tensorzero/network/members) [![Last Commit](https://img.shields.io/github/last-commit/tensorzero/tensorzero?style=flat-square&labelColor=343b41)](https://github.com/tensorzero/tensorzero/commits)
-
-</div>
-
-`ai` `artificial-intelligence` `deep-learning` `gpt` `llm`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/145366395?v=4" width="20" align="top" alt="midday-ai"/> [midday-ai/midday](https://github.com/midday-ai/midday) 🔥🔥
 
 > Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
@@ -6618,6 +6604,20 @@
 </div>
 
 `finance` `nextjs` `supabase` `tailwind` `typescript`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/148420822?v=4" width="20" align="top" alt="tensorzero"/> [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) 🔥🔥
+
+> TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/tensorzero/tensorzero?style=flat-square&labelColor=343b41)](https://github.com/tensorzero/tensorzero/stargazers) [![Forks](https://img.shields.io/github/forks/tensorzero/tensorzero?style=flat-square&labelColor=343b41)](https://github.com/tensorzero/tensorzero/network/members) [![Last Commit](https://img.shields.io/github/last-commit/tensorzero/tensorzero?style=flat-square&labelColor=343b41)](https://github.com/tensorzero/tensorzero/commits)
+
+</div>
+
+`ai` `artificial-intelligence` `deep-learning` `gpt` `llm`
 
 ---
 
@@ -6649,20 +6649,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/31841517?v=4" width="20" align="top" alt="aaPanel"/> [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) 🔥🔥
-
-> BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/aaPanel/BillionMail?style=flat-square&labelColor=343b41)](https://github.com/aaPanel/BillionMail/stargazers) [![Forks](https://img.shields.io/github/forks/aaPanel/BillionMail?style=flat-square&labelColor=343b41)](https://github.com/aaPanel/BillionMail/network/members) [![Last Commit](https://img.shields.io/github/last-commit/aaPanel/BillionMail?style=flat-square&labelColor=343b41)](https://github.com/aaPanel/BillionMail/commits)
-
-</div>
-
-`email-marketing` `mail` `mailserver` `email` `server`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="20" align="top" alt="NirDiamant"/> [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) 🔥🔥
 
 >  This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.
@@ -6674,6 +6660,20 @@
 </div>
 
 `agent` `agent-framework` `agents` `ai-agents` `genai`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/31841517?v=4" width="20" align="top" alt="aaPanel"/> [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) 🔥🔥
+
+> BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/aaPanel/BillionMail?style=flat-square&labelColor=343b41)](https://github.com/aaPanel/BillionMail/stargazers) [![Forks](https://img.shields.io/github/forks/aaPanel/BillionMail?style=flat-square&labelColor=343b41)](https://github.com/aaPanel/BillionMail/network/members) [![Last Commit](https://img.shields.io/github/last-commit/aaPanel/BillionMail?style=flat-square&labelColor=343b41)](https://github.com/aaPanel/BillionMail/commits)
+
+</div>
+
+`email-marketing` `mail` `mailserver` `email` `server`
 
 ---
 
@@ -6883,18 +6883,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/48055421?v=4" width="20" align="top" alt="going-doer"/> [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code) 🔥
-
-> Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/going-doer/Paper2Code?style=flat-square&labelColor=343b41)](https://github.com/going-doer/Paper2Code/stargazers) [![Forks](https://img.shields.io/github/forks/going-doer/Paper2Code?style=flat-square&labelColor=343b41)](https://github.com/going-doer/Paper2Code/network/members) [![Last Commit](https://img.shields.io/github/last-commit/going-doer/Paper2Code?style=flat-square&labelColor=343b41)](https://github.com/going-doer/Paper2Code/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/603317?v=4" width="20" align="top" alt="codelion"/> [codelion/openevolve](https://github.com/codelion/openevolve) 🔥
 
 > Open-source implementation of AlphaEvolve
@@ -6906,6 +6894,18 @@
 </div>
 
 `alphacode` `coding-agent` `deepmind` `deepmind-lab` `discovery`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/48055421?v=4" width="20" align="top" alt="going-doer"/> [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code) 🔥
+
+> Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/going-doer/Paper2Code?style=flat-square&labelColor=343b41)](https://github.com/going-doer/Paper2Code/stargazers) [![Forks](https://img.shields.io/github/forks/going-doer/Paper2Code?style=flat-square&labelColor=343b41)](https://github.com/going-doer/Paper2Code/network/members) [![Last Commit](https://img.shields.io/github/last-commit/going-doer/Paper2Code?style=flat-square&labelColor=343b41)](https://github.com/going-doer/Paper2Code/commits)
+
+</div>
 
 ---
 
@@ -7036,6 +7036,20 @@
 [![Stars](https://img.shields.io/github/stars/google-labs-code/jules-awesome-list?style=flat-square&labelColor=343b41)](https://github.com/google-labs-code/jules-awesome-list/stargazers) [![Forks](https://img.shields.io/github/forks/google-labs-code/jules-awesome-list?style=flat-square&labelColor=343b41)](https://github.com/google-labs-code/jules-awesome-list/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-labs-code/jules-awesome-list?style=flat-square&labelColor=343b41)](https://github.com/google-labs-code/jules-awesome-list/commits)
 
 </div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="20" align="top" alt="crewAIInc"/> [crewAIInc/crewAI-tools](https://github.com/crewAIInc/crewAI-tools) 🔥
+
+> Extend the capabilities of your CrewAI agents with Tools
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/crewAIInc/crewAI-tools?style=flat-square&labelColor=343b41)](https://github.com/crewAIInc/crewAI-tools/stargazers) [![Forks](https://img.shields.io/github/forks/crewAIInc/crewAI-tools?style=flat-square&labelColor=343b41)](https://github.com/crewAIInc/crewAI-tools/network/members) [![Last Commit](https://img.shields.io/github/last-commit/crewAIInc/crewAI-tools?style=flat-square&labelColor=343b41)](https://github.com/crewAIInc/crewAI-tools/commits)
+
+</div>
+
+`ai` `aiagents` `crewai` `crewai-tools`
 
 ---
 
