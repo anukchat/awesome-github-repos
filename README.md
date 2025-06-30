@@ -6,24 +6,24 @@
 
 <table><tbody>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="20"/> <a href="https://github.com/crewAIInc/crewAI-examples">crewAIInc/crewAI-examples</a> 🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="20"/> <a href="https://github.com/crewAIInc/crewAI-tools">crewAIInc/crewAI-tools</a> 🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/7399563?v=4" width="20"/> <a href="https://github.com/robert-mcdermott/ai-knowledge-graph">robert-mcdermott/ai-knowledge-graph</a> </td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/183290039?v=4" width="20"/> <a href="https://github.com/qodo-ai/agents">qodo-ai/agents</a> </td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/84374044?v=4" width="20"/> <a href="https://github.com/wenet-e2e/wenet">wenet-e2e/wenet</a> 🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/38156925?v=4" width="20"/> <a href="https://github.com/GeeeekExplorer/nano-vllm">GeeeekExplorer/nano-vllm</a> 🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/4158466?v=4" width="20"/> <a href="https://github.com/bytedance/Dolphin">bytedance/Dolphin</a> 🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/152649903?v=4" width="20"/> <a href="https://github.com/getomni-ai/zerox">getomni-ai/zerox</a> 🔥🔥🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="20"/> <a href="https://github.com/NirDiamant/agents-towards-production">NirDiamant/agents-towards-production</a> 🔥🔥</td>
 </tr>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="20"/> <a href="https://github.com/NirDiamant/agents-towards-production">NirDiamant/agents-towards-production</a> 🔥🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/38891707?v=4" width="20"/> <a href="https://github.com/frdel/agent-zero">frdel/agent-zero</a> 🔥🔥🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/91699546?v=4" width="20"/> <a href="https://github.com/automatisch/automatisch">automatisch/automatisch</a> 🔥🔥🔥</td>
 </tr>
 </tbody></table>
 
@@ -821,20 +821,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/3265185?v=4" width="20" align="top" alt="Cinnamon"/> [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) 🔥🔥🔥
-
-> An open-source RAG-based tool for chatting with your documents.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Cinnamon/kotaemon?style=flat-square&labelColor=343b41)](https://github.com/Cinnamon/kotaemon/stargazers) [![Forks](https://img.shields.io/github/forks/Cinnamon/kotaemon?style=flat-square&labelColor=343b41)](https://github.com/Cinnamon/kotaemon/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Cinnamon/kotaemon?style=flat-square&labelColor=343b41)](https://github.com/Cinnamon/kotaemon/commits)
-
-</div>
-
-`chatbot` `llms` `open-source` `rag`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/95534749?v=4" width="20" align="top" alt="ItzCrazyKns"/> [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) 🔥🔥🔥
 
 > Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
@@ -846,6 +832,20 @@
 </div>
 
 `ai-search-engine` `artificial-intelligence` `machine-learning` `open-source-ai-search-engine` `open-source-perplexity-ai`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/3265185?v=4" width="20" align="top" alt="Cinnamon"/> [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) 🔥🔥🔥
+
+> An open-source RAG-based tool for chatting with your documents.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Cinnamon/kotaemon?style=flat-square&labelColor=343b41)](https://github.com/Cinnamon/kotaemon/stargazers) [![Forks](https://img.shields.io/github/forks/Cinnamon/kotaemon?style=flat-square&labelColor=343b41)](https://github.com/Cinnamon/kotaemon/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Cinnamon/kotaemon?style=flat-square&labelColor=343b41)](https://github.com/Cinnamon/kotaemon/commits)
+
+</div>
+
+`chatbot` `llms` `open-source` `rag`
 
 ---
 
@@ -2199,6 +2199,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/181171420?v=4" width="20" align="top" alt="voideditor"/> [voideditor/void](https://github.com/voideditor/void) 🔥🔥🔥
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/stargazers) [![Forks](https://img.shields.io/github/forks/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/network/members) [![Last Commit](https://img.shields.io/github/last-commit/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/commits)
+
+</div>
+
+`chatgpt` `claude` `copilot` `cursor` `developer-tools`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) 🔥🔥🔥
 
 > Integrate cutting-edge LLM technology quickly and easily into your apps
@@ -2210,18 +2222,6 @@
 </div>
 
 `ai` `artificial-intelligence` `llm` `openai` `sdk`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/181171420?v=4" width="20" align="top" alt="voideditor"/> [voideditor/void](https://github.com/voideditor/void) 🔥🔥🔥
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/stargazers) [![Forks](https://img.shields.io/github/forks/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/network/members) [![Last Commit](https://img.shields.io/github/last-commit/voideditor/void?style=flat-square&labelColor=343b41)](https://github.com/voideditor/void/commits)
-
-</div>
-
-`chatgpt` `claude` `copilot` `cursor` `developer-tools`
 
 ---
 
@@ -2529,7 +2529,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/49202856?v=4" width="20" align="top" alt="katanaml"/> [katanaml/sparrow](https://github.com/katanaml/sparrow) 🔥
 
-> Data processing and instruction calling with ML, LLM and Vision LLM
+> Structured data extraction and instruction calling with ML, LLM and Vision LLM
 
 <div align="center">
 
@@ -5969,7 +5969,7 @@
 
 <h2 id="others">🔖 Others</h2>
 
-<details><summary>Show repositories (95)</summary>
+<details><summary>Show repositories (96)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6553,6 +6553,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥🔥🔥
+
+> all of the workflows of n8n i could find (also from the site itself)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/151241629?v=4" width="20" align="top" alt="CapSoftware"/> [CapSoftware/Cap](https://github.com/CapSoftware/Cap) 🔥🔥🔥
 
 > Open source Loom alternative. Beautiful, shareable screen recordings.
@@ -6564,18 +6576,6 @@
 </div>
 
 `app` `cap` `coss` `loom` `mac`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥🔥🔥
-
-> all of the workflows of n8n i could find (also from the site itself)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
-
-</div>
 
 ---
 
@@ -6635,20 +6635,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/12856921?v=4" width="20" align="top" alt="prasadgujar"/> [prasadgujar/low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer) 🔥🔥
-
-> Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/prasadgujar/low-level-design-primer?style=flat-square&labelColor=343b41)](https://github.com/prasadgujar/low-level-design-primer/stargazers) [![Forks](https://img.shields.io/github/forks/prasadgujar/low-level-design-primer?style=flat-square&labelColor=343b41)](https://github.com/prasadgujar/low-level-design-primer/network/members) [![Last Commit](https://img.shields.io/github/last-commit/prasadgujar/low-level-design-primer?style=flat-square&labelColor=343b41)](https://github.com/prasadgujar/low-level-design-primer/commits)
-
-</div>
-
-`design` `system-design` `low-level-design` `design-patterns` `interview-questions`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="20" align="top" alt="NirDiamant"/> [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) 🔥🔥
 
 >  This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.
@@ -6660,6 +6646,20 @@
 </div>
 
 `agent` `agent-framework` `agents` `ai-agents` `genai`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/12856921?v=4" width="20" align="top" alt="prasadgujar"/> [prasadgujar/low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer) 🔥🔥
+
+> Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/prasadgujar/low-level-design-primer?style=flat-square&labelColor=343b41)](https://github.com/prasadgujar/low-level-design-primer/stargazers) [![Forks](https://img.shields.io/github/forks/prasadgujar/low-level-design-primer?style=flat-square&labelColor=343b41)](https://github.com/prasadgujar/low-level-design-primer/network/members) [![Last Commit](https://img.shields.io/github/last-commit/prasadgujar/low-level-design-primer?style=flat-square&labelColor=343b41)](https://github.com/prasadgujar/low-level-design-primer/commits)
+
+</div>
+
+`design` `system-design` `low-level-design` `design-patterns` `interview-questions`
 
 ---
 
@@ -6783,6 +6783,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/38156925?v=4" width="20" align="top" alt="GeeeekExplorer"/> [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) 🔥
+
+> Nano vLLM
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm?style=flat-square&labelColor=343b41)](https://github.com/GeeeekExplorer/nano-vllm/stargazers) [![Forks](https://img.shields.io/github/forks/GeeeekExplorer/nano-vllm?style=flat-square&labelColor=343b41)](https://github.com/GeeeekExplorer/nano-vllm/network/members) [![Last Commit](https://img.shields.io/github/last-commit/GeeeekExplorer/nano-vllm?style=flat-square&labelColor=343b41)](https://github.com/GeeeekExplorer/nano-vllm/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/209775067?v=4" width="20" align="top" alt="ag-ui-protocol"/> [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) 🔥
 
 > AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
@@ -6795,15 +6807,17 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/38156925?v=4" width="20" align="top" alt="GeeeekExplorer"/> [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) 🔥
+### <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="20" align="top" alt="crewAIInc"/> [crewAIInc/crewAI-examples](https://github.com/crewAIInc/crewAI-examples) 🔥
 
-> Nano vLLM
+> A collection of examples that show how to use CrewAI framework to automate workflows.
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm?style=flat-square&labelColor=343b41)](https://github.com/GeeeekExplorer/nano-vllm/stargazers) [![Forks](https://img.shields.io/github/forks/GeeeekExplorer/nano-vllm?style=flat-square&labelColor=343b41)](https://github.com/GeeeekExplorer/nano-vllm/network/members) [![Last Commit](https://img.shields.io/github/last-commit/GeeeekExplorer/nano-vllm?style=flat-square&labelColor=343b41)](https://github.com/GeeeekExplorer/nano-vllm/commits)
+[![Stars](https://img.shields.io/github/stars/crewAIInc/crewAI-examples?style=flat-square&labelColor=343b41)](https://github.com/crewAIInc/crewAI-examples/stargazers) [![Forks](https://img.shields.io/github/forks/crewAIInc/crewAI-examples?style=flat-square&labelColor=343b41)](https://github.com/crewAIInc/crewAI-examples/network/members) [![Last Commit](https://img.shields.io/github/last-commit/crewAIInc/crewAI-examples?style=flat-square&labelColor=343b41)](https://github.com/crewAIInc/crewAI-examples/commits)
 
 </div>
+
+`crewai` `examples`
 
 ---
 
