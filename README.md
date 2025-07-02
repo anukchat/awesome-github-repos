@@ -6,6 +6,14 @@
 
 <table><tbody>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/150697620?v=4" width="20"/> <a href="https://github.com/google-ai-edge/gallery">google-ai-edge/gallery</a> 🔥🔥🔥</td>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/64313183?v=4" width="20"/> <a href="https://github.com/gensyn-ai/rl-swarm">gensyn-ai/rl-swarm</a> </td>
+</tr>
+<tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/131141116?v=4" width="20"/> <a href="https://github.com/Portkey-AI/gateway">Portkey-AI/gateway</a> 🔥🔥</td>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/19211038?v=4" width="20"/> <a href="https://github.com/nextcloud/server">nextcloud/server</a> 🔥🔥🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="20"/> <a href="https://github.com/crewAIInc/awesome-crewai">crewAIInc/awesome-crewai</a> </td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="20"/> <a href="https://github.com/crewAIInc/crewAI-examples">crewAIInc/crewAI-examples</a> 🔥</td>
 </tr>
@@ -16,14 +24,6 @@
 <tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/183290039?v=4" width="20"/> <a href="https://github.com/qodo-ai/agents">qodo-ai/agents</a> </td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/84374044?v=4" width="20"/> <a href="https://github.com/wenet-e2e/wenet">wenet-e2e/wenet</a> 🔥</td>
-</tr>
-<tr>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/38156925?v=4" width="20"/> <a href="https://github.com/GeeeekExplorer/nano-vllm">GeeeekExplorer/nano-vllm</a> 🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/4158466?v=4" width="20"/> <a href="https://github.com/bytedance/Dolphin">bytedance/Dolphin</a> 🔥</td>
-</tr>
-<tr>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/152649903?v=4" width="20"/> <a href="https://github.com/getomni-ai/zerox">getomni-ai/zerox</a> 🔥🔥🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="20"/> <a href="https://github.com/NirDiamant/agents-towards-production">NirDiamant/agents-towards-production</a> 🔥🔥</td>
 </tr>
 </tbody></table>
 
@@ -2159,7 +2159,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/1016365?v=4" width="20" align="top" alt="PatrickJS"/> [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) 🔥🔥🔥
 
-> 📄 A curated list of awesome .cursorrules files
+> 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 
 <div align="center">
 
@@ -5969,7 +5969,7 @@
 
 <h2 id="others">🔖 Others</h2>
 
-<details><summary>Show repositories (97)</summary>
+<details><summary>Show repositories (101)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6245,6 +6245,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/19211038?v=4" width="20" align="top" alt="nextcloud"/> [nextcloud/server](https://github.com/nextcloud/server) 🔥🔥🔥
+
+> ☁️ Nextcloud server, a safe home for all your data
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/nextcloud/server?style=flat-square&labelColor=343b41)](https://github.com/nextcloud/server/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/server?style=flat-square&labelColor=343b41)](https://github.com/nextcloud/server/network/members) [![Last Commit](https://img.shields.io/github/last-commit/nextcloud/server?style=flat-square&labelColor=343b41)](https://github.com/nextcloud/server/commits)
+
+</div>
+
+`open-source` `file-sharing` `enterprise` `sharing` `collaboration`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) 🔥🔥🔥
 
 > 11 Lessons to Get Started Building AI Agents
@@ -6357,20 +6371,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/49105846?v=4" width="20" align="top" alt="Fosowl"/> [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) 🔥🔥🔥
-
-> Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/stargazers) [![Forks](https://img.shields.io/github/forks/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/commits)
-
-</div>
-
-`agentic-ai` `agents` `ai` `deepseek-r1` `llm`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/157326433?v=4" width="20" align="top" alt="onlook-dev"/> [onlook-dev/onlook](https://github.com/onlook-dev/onlook) 🔥🔥🔥
 
 > The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
@@ -6382,6 +6382,20 @@
 </div>
 
 `react` `typescript` `tailwindcss` `nextjs` `webflow`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/49105846?v=4" width="20" align="top" alt="Fosowl"/> [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) 🔥🔥🔥
+
+> Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/stargazers) [![Forks](https://img.shields.io/github/forks/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Fosowl/agenticSeek?style=flat-square&labelColor=343b41)](https://github.com/Fosowl/agenticSeek/commits)
+
+</div>
+
+`agentic-ai` `agents` `ai` `deepseek-r1` `llm`
 
 ---
 
@@ -6469,6 +6483,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/150697620?v=4" width="20" align="top" alt="google-ai-edge"/> [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) 🔥🔥🔥
+
+> A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/google-ai-edge/gallery?style=flat-square&labelColor=343b41)](https://github.com/google-ai-edge/gallery/stargazers) [![Forks](https://img.shields.io/github/forks/google-ai-edge/gallery?style=flat-square&labelColor=343b41)](https://github.com/google-ai-edge/gallery/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-ai-edge/gallery?style=flat-square&labelColor=343b41)](https://github.com/google-ai-edge/gallery/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/48356807?v=4" width="20" align="top" alt="ourongxing"/> [ourongxing/newsnow](https://github.com/ourongxing/newsnow) 🔥🔥🔥
 
 > Elegant reading of real-time and hottest news
@@ -6480,6 +6506,18 @@
 </div>
 
 `elegant` `news`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥🔥🔥
+
+> all of the workflows of n8n i could find (also from the site itself)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
+
+</div>
 
 ---
 
@@ -6522,18 +6560,6 @@
 </div>
 
 `angular` `bcf` `boards` `bug-tracker` `gantt`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥🔥🔥
-
-> all of the workflows of n8n i could find (also from the site itself)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
-
-</div>
 
 ---
 
@@ -6590,6 +6616,20 @@
 </div>
 
 `data-science` `machine-learning-production` `mlops`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/131141116?v=4" width="20" align="top" alt="Portkey-AI"/> [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) 🔥🔥
+
+> A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Portkey-AI/gateway?style=flat-square&labelColor=343b41)](https://github.com/Portkey-AI/gateway/stargazers) [![Forks](https://img.shields.io/github/forks/Portkey-AI/gateway?style=flat-square&labelColor=343b41)](https://github.com/Portkey-AI/gateway/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Portkey-AI/gateway?style=flat-square&labelColor=343b41)](https://github.com/Portkey-AI/gateway/commits)
+
+</div>
+
+`gateway` `generative-ai` `llmops` `llms` `prompt-engineering`
 
 ---
 
@@ -6701,20 +6741,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/3299148?v=4" width="20" align="top" alt="awslabs"/> [awslabs/agent-squad](https://github.com/awslabs/agent-squad) 🔥🔥
-
-> Flexible and powerful framework for managing multiple AI agents and handling complex conversations
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/awslabs/agent-squad?style=flat-square&labelColor=343b41)](https://github.com/awslabs/agent-squad/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/agent-squad?style=flat-square&labelColor=343b41)](https://github.com/awslabs/agent-squad/network/members) [![Last Commit](https://img.shields.io/github/last-commit/awslabs/agent-squad?style=flat-square&labelColor=343b41)](https://github.com/awslabs/agent-squad/commits)
-
-</div>
-
-`aws` `aws-bedrock` `anthropic-claude` `aws-cdk` `aws-lambda`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/63067900?v=4" width="20" align="top" alt="FareedKhan-dev"/> [FareedKhan-dev/all-rag-techniques](https://github.com/FareedKhan-dev/all-rag-techniques) 🔥🔥
 
 > Implementation of all RAG techniques in a simpler way
@@ -6726,6 +6752,20 @@
 </div>
 
 `ai` `llm` `llms` `openai` `python`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/3299148?v=4" width="20" align="top" alt="awslabs"/> [awslabs/agent-squad](https://github.com/awslabs/agent-squad) 🔥🔥
+
+> Flexible and powerful framework for managing multiple AI agents and handling complex conversations
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/awslabs/agent-squad?style=flat-square&labelColor=343b41)](https://github.com/awslabs/agent-squad/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/agent-squad?style=flat-square&labelColor=343b41)](https://github.com/awslabs/agent-squad/network/members) [![Last Commit](https://img.shields.io/github/last-commit/awslabs/agent-squad?style=flat-square&labelColor=343b41)](https://github.com/awslabs/agent-squad/commits)
+
+</div>
+
+`aws` `aws-bedrock` `anthropic-claude` `aws-cdk` `aws-lambda`
 
 ---
 
@@ -7090,6 +7130,18 @@
 </div>
 
 `books` `computer-science`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/64313183?v=4" width="20" align="top" alt="gensyn-ai"/> [gensyn-ai/rl-swarm](https://github.com/gensyn-ai/rl-swarm)
+
+> A fully open source framework for creating RL training swarms over the internet.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/gensyn-ai/rl-swarm?style=flat-square&labelColor=343b41)](https://github.com/gensyn-ai/rl-swarm/stargazers) [![Forks](https://img.shields.io/github/forks/gensyn-ai/rl-swarm?style=flat-square&labelColor=343b41)](https://github.com/gensyn-ai/rl-swarm/network/members) [![Last Commit](https://img.shields.io/github/last-commit/gensyn-ai/rl-swarm?style=flat-square&labelColor=343b41)](https://github.com/gensyn-ai/rl-swarm/commits)
+
+</div>
 
 ---
 
