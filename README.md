@@ -6,8 +6,12 @@
 
 <table><tbody>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/130722866?v=4" width="20"/> <a href="https://github.com/run-llama/llamacloud-mcp">run-llama/llamacloud-mcp</a> </td>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/178506378?v=4" width="20"/> <a href="https://github.com/BrainBlend-AI/atomic-agents">BrainBlend-AI/atomic-agents</a> 🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/150697620?v=4" width="20"/> <a href="https://github.com/google-ai-edge/gallery">google-ai-edge/gallery</a> 🔥🔥🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/64313183?v=4" width="20"/> <a href="https://github.com/gensyn-ai/rl-swarm">gensyn-ai/rl-swarm</a> </td>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/64313183?v=4" width="20"/> <a href="https://github.com/gensyn-ai/rl-swarm">gensyn-ai/rl-swarm</a> 🔥</td>
 </tr>
 <tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/131141116?v=4" width="20"/> <a href="https://github.com/Portkey-AI/gateway">Portkey-AI/gateway</a> 🔥🔥</td>
@@ -20,10 +24,6 @@
 <tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="20"/> <a href="https://github.com/crewAIInc/crewAI-tools">crewAIInc/crewAI-tools</a> 🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/7399563?v=4" width="20"/> <a href="https://github.com/robert-mcdermott/ai-knowledge-graph">robert-mcdermott/ai-knowledge-graph</a> </td>
-</tr>
-<tr>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/183290039?v=4" width="20"/> <a href="https://github.com/qodo-ai/agents">qodo-ai/agents</a> </td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/84374044?v=4" width="20"/> <a href="https://github.com/wenet-e2e/wenet">wenet-e2e/wenet</a> 🔥</td>
 </tr>
 </tbody></table>
 
@@ -497,7 +497,7 @@
 
 </div>
 
-`deepseek` `gemma` `gemma2` `gemma3` `go`
+`deepseek` `gemma` `gemma3` `gemma3n` `go`
 
 ---
 
@@ -1589,7 +1589,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/langgraph-swarm-py](https://github.com/langchain-ai/langgraph-swarm-py)
+### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/langgraph-swarm-py](https://github.com/langchain-ai/langgraph-swarm-py) 🔥
 
 <div align="center">
 
@@ -5969,7 +5969,7 @@
 
 <h2 id="others">🔖 Others</h2>
 
-<details><summary>Show repositories (101)</summary>
+<details><summary>Show repositories (104)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6441,20 +6441,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/1728152?v=4" width="20" align="top" alt="NVIDIA"/> [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) 🔥🔥🔥
-
-> A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/NVIDIA/NeMo?style=flat-square&labelColor=343b41)](https://github.com/NVIDIA/NeMo/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/NeMo?style=flat-square&labelColor=343b41)](https://github.com/NVIDIA/NeMo/network/members) [![Last Commit](https://img.shields.io/github/last-commit/NVIDIA/NeMo?style=flat-square&labelColor=343b41)](https://github.com/NVIDIA/NeMo/commits)
-
-</div>
-
-`machine-translation` `speaker-recognition` `asr` `tts` `generative-ai`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/161781182?v=4" width="20" align="top" alt="google-gemini"/> [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) 🔥🔥🔥
 
 > Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
@@ -6466,6 +6452,20 @@
 </div>
 
 `gemini` `gemini-api`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/1728152?v=4" width="20" align="top" alt="NVIDIA"/> [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) 🔥🔥🔥
+
+> A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/NVIDIA/NeMo?style=flat-square&labelColor=343b41)](https://github.com/NVIDIA/NeMo/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/NeMo?style=flat-square&labelColor=343b41)](https://github.com/NVIDIA/NeMo/network/members) [![Last Commit](https://img.shields.io/github/last-commit/NVIDIA/NeMo?style=flat-square&labelColor=343b41)](https://github.com/NVIDIA/NeMo/commits)
+
+</div>
+
+`machine-translation` `speaker-recognition` `asr` `tts` `generative-ai`
 
 ---
 
@@ -6495,6 +6495,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥🔥🔥
+
+> all of the workflows of n8n i could find (also from the site itself)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/48356807?v=4" width="20" align="top" alt="ourongxing"/> [ourongxing/newsnow](https://github.com/ourongxing/newsnow) 🔥🔥🔥
 
 > Elegant reading of real-time and hottest news
@@ -6506,18 +6518,6 @@
 </div>
 
 `elegant` `news`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥🔥🔥
-
-> all of the workflows of n8n i could find (also from the site itself)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
-
-</div>
 
 ---
 
@@ -6769,6 +6769,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/122026167?v=4" width="20" align="top" alt="MODSetter"/> [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) 🔥🔥
+
+> Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/MODSetter/SurfSense?style=flat-square&labelColor=343b41)](https://github.com/MODSetter/SurfSense/stargazers) [![Forks](https://img.shields.io/github/forks/MODSetter/SurfSense?style=flat-square&labelColor=343b41)](https://github.com/MODSetter/SurfSense/network/members) [![Last Commit](https://img.shields.io/github/last-commit/MODSetter/SurfSense?style=flat-square&labelColor=343b41)](https://github.com/MODSetter/SurfSense/commits)
+
+</div>
+
+`aceternity-ui` `ai` `fastapi` `langchain` `nextjs`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/20604835?v=4" width="20" align="top" alt="D4Vinci"/> [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) 🔥🔥
 
 > 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
@@ -6821,6 +6835,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/209775067?v=4" width="20" align="top" alt="ag-ui-protocol"/> [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) 🔥
+
+> AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/stargazers) [![Forks](https://img.shields.io/github/forks/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/84374044?v=4" width="20" align="top" alt="wenet-e2e"/> [wenet-e2e/wenet](https://github.com/wenet-e2e/wenet) 🔥
 
 > Production First and Production Ready End-to-End Speech Recognition Toolkit
@@ -6835,18 +6861,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/209775067?v=4" width="20" align="top" alt="ag-ui-protocol"/> [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) 🔥
-
-> AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/stargazers) [![Forks](https://img.shields.io/github/forks/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ag-ui-protocol/ag-ui?style=flat-square&labelColor=343b41)](https://github.com/ag-ui-protocol/ag-ui/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="20" align="top" alt="crewAIInc"/> [crewAIInc/crewAI-examples](https://github.com/crewAIInc/crewAI-examples) 🔥
 
 > A collection of examples that show how to use CrewAI framework to automate workflows.
@@ -6858,6 +6872,20 @@
 </div>
 
 `crewai` `examples`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/178506378?v=4" width="20" align="top" alt="BrainBlend-AI"/> [BrainBlend-AI/atomic-agents](https://github.com/BrainBlend-AI/atomic-agents) 🔥
+
+> Building AI agents, atomically
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/BrainBlend-AI/atomic-agents?style=flat-square&labelColor=343b41)](https://github.com/BrainBlend-AI/atomic-agents/stargazers) [![Forks](https://img.shields.io/github/forks/BrainBlend-AI/atomic-agents?style=flat-square&labelColor=343b41)](https://github.com/BrainBlend-AI/atomic-agents/network/members) [![Last Commit](https://img.shields.io/github/last-commit/BrainBlend-AI/atomic-agents?style=flat-square&labelColor=343b41)](https://github.com/BrainBlend-AI/atomic-agents/commits)
+
+</div>
+
+`ai` `artificial-intelligence` `large-language-model` `large-language-models` `llms`
 
 ---
 
@@ -6899,18 +6927,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/18418340?v=4" width="20" align="top" alt="hotheadhacker"/> [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) 🔥
-
-> 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/stargazers) [![Forks](https://img.shields.io/github/forks/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/network/members) [![Last Commit](https://img.shields.io/github/last-commit/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="20" align="top" alt="google"/> [google/adk-samples](https://github.com/google/adk-samples) 🔥
 
 > A collection of sample agents built with Agent Development (ADK) 
@@ -6922,6 +6938,18 @@
 </div>
 
 `adk` `agents` `agent-samples`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/18418340?v=4" width="20" align="top" alt="hotheadhacker"/> [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) 🔥
+
+> 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/stargazers) [![Forks](https://img.shields.io/github/forks/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/network/members) [![Last Commit](https://img.shields.io/github/last-commit/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41)](https://github.com/hotheadhacker/awesome-selfhost-docker/commits)
+
+</div>
 
 ---
 
@@ -6987,6 +7015,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20" align="top" alt="unslothai"/> [unslothai/notebooks](https://github.com/unslothai/notebooks) 🔥
+
+> Fine-tune LLMs for free with 100+ Notebooks on Google Colab, Kaggle, and more.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/stargazers) [![Forks](https://img.shields.io/github/forks/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/network/members) [![Last Commit](https://img.shields.io/github/last-commit/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/142983232?v=4" width="20" align="top" alt="fastrepl"/> [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) 🔥
 
 > Privacy-first AI Notepad for back-to-back meetings
@@ -6998,18 +7038,6 @@
 </div>
 
 `local-first` `notetaking` `open-source` `react` `rust`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="20" align="top" alt="unslothai"/> [unslothai/notebooks](https://github.com/unslothai/notebooks) 🔥
-
-> Fine-tune LLMs for free with 100+ Notebooks on Google Colab, Kaggle, and more.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/stargazers) [![Forks](https://img.shields.io/github/forks/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/network/members) [![Last Commit](https://img.shields.io/github/last-commit/unslothai/notebooks?style=flat-square&labelColor=343b41)](https://github.com/unslothai/notebooks/commits)
-
-</div>
 
 ---
 
@@ -7133,7 +7161,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/64313183?v=4" width="20" align="top" alt="gensyn-ai"/> [gensyn-ai/rl-swarm](https://github.com/gensyn-ai/rl-swarm)
+### <img src="https://avatars.githubusercontent.com/u/64313183?v=4" width="20" align="top" alt="gensyn-ai"/> [gensyn-ai/rl-swarm](https://github.com/gensyn-ai/rl-swarm) 🔥
 
 > A fully open source framework for creating RL training swarms over the internet.
 
@@ -7278,6 +7306,16 @@
 </div>
 
 `document-data-extraction` `document-processing`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/130722866?v=4" width="20" align="top" alt="run-llama"/> [run-llama/llamacloud-mcp](https://github.com/run-llama/llamacloud-mcp)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/run-llama/llamacloud-mcp?style=flat-square&labelColor=343b41)](https://github.com/run-llama/llamacloud-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/run-llama/llamacloud-mcp?style=flat-square&labelColor=343b41)](https://github.com/run-llama/llamacloud-mcp/network/members) [![Last Commit](https://img.shields.io/github/last-commit/run-llama/llamacloud-mcp?style=flat-square&labelColor=343b41)](https://github.com/run-llama/llamacloud-mcp/commits)
+
+</div>
 
 ---
 
