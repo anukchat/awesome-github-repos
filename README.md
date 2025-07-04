@@ -23,7 +23,7 @@
 </tr>
 <tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="20"/> <a href="https://github.com/crewAIInc/crewAI-tools">crewAIInc/crewAI-tools</a> 🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/7399563?v=4" width="20"/> <a href="https://github.com/robert-mcdermott/ai-knowledge-graph">robert-mcdermott/ai-knowledge-graph</a> </td>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/7399563?v=4" width="20"/> <a href="https://github.com/robert-mcdermott/ai-knowledge-graph">robert-mcdermott/ai-knowledge-graph</a> 🔥</td>
 </tr>
 </tbody></table>
 
@@ -2005,20 +2005,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/markitdown](https://github.com/microsoft/markitdown) 🔥🔥🔥
-
-> Python tool for converting files and office documents to Markdown.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/microsoft/markitdown?style=flat-square&labelColor=343b41)](https://github.com/microsoft/markitdown/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/markitdown?style=flat-square&labelColor=343b41)](https://github.com/microsoft/markitdown/network/members) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/markitdown?style=flat-square&labelColor=343b41)](https://github.com/microsoft/markitdown/commits)
-
-</div>
-
-`autogen` `autogen-extension` `langchain` `markdown` `microsoft-office`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/169105795?v=4" width="20" align="top" alt="All-Hands-AI"/> [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) 🔥🔥🔥
 
 > 🙌 OpenHands: Code Less, Make More
@@ -2030,6 +2016,20 @@
 </div>
 
 `agent` `artificial-intelligence` `chatgpt` `claude-ai` `cli`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/markitdown](https://github.com/microsoft/markitdown) 🔥🔥🔥
+
+> Python tool for converting files and office documents to Markdown.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/microsoft/markitdown?style=flat-square&labelColor=343b41)](https://github.com/microsoft/markitdown/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/markitdown?style=flat-square&labelColor=343b41)](https://github.com/microsoft/markitdown/network/members) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/markitdown?style=flat-square&labelColor=343b41)](https://github.com/microsoft/markitdown/commits)
+
+</div>
+
+`autogen` `autogen-extension` `langchain` `markdown` `microsoft-office`
 
 ---
 
@@ -2555,20 +2555,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/187765721?v=4" width="20" align="top" alt="liam-hq"/> [liam-hq/liam](https://github.com/liam-hq/liam) 🔥
-
-> Automatically generates beautiful and easy-to-read ER diagrams from your database.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/liam-hq/liam?style=flat-square&labelColor=343b41)](https://github.com/liam-hq/liam/stargazers) [![Forks](https://img.shields.io/github/forks/liam-hq/liam?style=flat-square&labelColor=343b41)](https://github.com/liam-hq/liam/network/members) [![Last Commit](https://img.shields.io/github/last-commit/liam-hq/liam?style=flat-square&labelColor=343b41)](https://github.com/liam-hq/liam/commits)
-
-</div>
-
-`data-visualization` `database` `database-schema` `documentation` `documentation-tool`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/188122941?v=4" width="20" align="top" alt="ag2ai"/> [ag2ai/faststream](https://github.com/ag2ai/faststream) 🔥
 
 > FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
@@ -2580,6 +2566,20 @@
 </div>
 
 `asyncapi` `asyncio` `distributed-systems` `fastkafka` `faststream`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/187765721?v=4" width="20" align="top" alt="liam-hq"/> [liam-hq/liam](https://github.com/liam-hq/liam) 🔥
+
+> Automatically generates beautiful and easy-to-read ER diagrams from your database.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/liam-hq/liam?style=flat-square&labelColor=343b41)](https://github.com/liam-hq/liam/stargazers) [![Forks](https://img.shields.io/github/forks/liam-hq/liam?style=flat-square&labelColor=343b41)](https://github.com/liam-hq/liam/network/members) [![Last Commit](https://img.shields.io/github/last-commit/liam-hq/liam?style=flat-square&labelColor=343b41)](https://github.com/liam-hq/liam/commits)
+
+</div>
+
+`data-visualization` `database` `database-schema` `documentation` `documentation-tool`
 
 ---
 
@@ -2675,7 +2675,7 @@
 
 </div>
 
-`chatgpt-api` `gemini-ai` `gemini-pro` `gemini-pro-vision` `gpt-4-vision-preview`
+`chatgpt-api` `gemini` `gemini-ai` `openai` `proxy`
 
 ---
 
@@ -2757,20 +2757,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/1183441?v=4" width="20" align="top" alt="abhishekkrthakur"/> [abhishekkrthakur/tez](https://github.com/abhishekkrthakur/tez) 🔥
-
-> Tez is a super-simple and lightweight Trainer for PyTorch. It also comes with many utils that you can use to tackle over 90% of deep learning projects in PyTorch.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/abhishekkrthakur/tez?style=flat-square&labelColor=343b41)](https://github.com/abhishekkrthakur/tez/stargazers) [![Forks](https://img.shields.io/github/forks/abhishekkrthakur/tez?style=flat-square&labelColor=343b41)](https://github.com/abhishekkrthakur/tez/network/members) [![Last Commit](https://img.shields.io/github/last-commit/abhishekkrthakur/tez?style=flat-square&labelColor=343b41)](https://github.com/abhishekkrthakur/tez/commits)
-
-</div>
-
-`deep-learning` `deep-neural-networks` `neural-networks` `pytorch` `tez`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/60081994?v=4" width="20" align="top" alt="NitroRCr"/> [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) 🔥
 
 > AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端
@@ -2782,6 +2768,20 @@
 </div>
 
 `ai` `chatgpt` `claude` `cross-platform` `docker`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/1183441?v=4" width="20" align="top" alt="abhishekkrthakur"/> [abhishekkrthakur/tez](https://github.com/abhishekkrthakur/tez) 🔥
+
+> Tez is a super-simple and lightweight Trainer for PyTorch. It also comes with many utils that you can use to tackle over 90% of deep learning projects in PyTorch.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/abhishekkrthakur/tez?style=flat-square&labelColor=343b41)](https://github.com/abhishekkrthakur/tez/stargazers) [![Forks](https://img.shields.io/github/forks/abhishekkrthakur/tez?style=flat-square&labelColor=343b41)](https://github.com/abhishekkrthakur/tez/network/members) [![Last Commit](https://img.shields.io/github/last-commit/abhishekkrthakur/tez?style=flat-square&labelColor=343b41)](https://github.com/abhishekkrthakur/tez/commits)
+
+</div>
+
+`deep-learning` `deep-neural-networks` `neural-networks` `pytorch` `tez`
 
 ---
 
@@ -5651,7 +5651,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/116908874?v=4" width="20" align="top" alt="jk4e"/> [jk4e/list-ai-humanoid-robots](https://github.com/jk4e/list-ai-humanoid-robots)
 
-> 🤖 A curated list of AGI, AI and Humanoid Robots.
+> 🤖 A curated list of AI humanoid Robots.
 
 <div align="center">
 
@@ -5969,7 +5969,7 @@
 
 <h2 id="others">🔖 Others</h2>
 
-<details><summary>Show repositories (104)</summary>
+<details><summary>Show repositories (103)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6387,7 +6387,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/49105846?v=4" width="20" align="top" alt="Fosowl"/> [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) 🔥🔥🔥
 
-> Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake)
+> Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)
 
 <div align="center">
 
@@ -6469,6 +6469,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥🔥🔥
+
+> all of the workflows of n8n i could find (also from the site itself)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/91699546?v=4" width="20" align="top" alt="automatisch"/> [automatisch/automatisch](https://github.com/automatisch/automatisch) 🔥🔥🔥
 
 > The open source Zapier alternative. Build workflow automation without spending time and money.
@@ -6490,18 +6502,6 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/google-ai-edge/gallery?style=flat-square&labelColor=343b41)](https://github.com/google-ai-edge/gallery/stargazers) [![Forks](https://img.shields.io/github/forks/google-ai-edge/gallery?style=flat-square&labelColor=343b41)](https://github.com/google-ai-edge/gallery/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-ai-edge/gallery?style=flat-square&labelColor=343b41)](https://github.com/google-ai-edge/gallery/commits)
-
-</div>
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥🔥🔥
-
-> all of the workflows of n8n i could find (also from the site itself)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows?style=flat-square&labelColor=343b41)](https://github.com/Zie619/n8n-workflows/commits)
 
 </div>
 
@@ -6741,20 +6741,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/63067900?v=4" width="20" align="top" alt="FareedKhan-dev"/> [FareedKhan-dev/all-rag-techniques](https://github.com/FareedKhan-dev/all-rag-techniques) 🔥🔥
-
-> Implementation of all RAG techniques in a simpler way
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/FareedKhan-dev/all-rag-techniques?style=flat-square&labelColor=343b41)](https://github.com/FareedKhan-dev/all-rag-techniques/stargazers) [![Forks](https://img.shields.io/github/forks/FareedKhan-dev/all-rag-techniques?style=flat-square&labelColor=343b41)](https://github.com/FareedKhan-dev/all-rag-techniques/network/members) [![Last Commit](https://img.shields.io/github/last-commit/FareedKhan-dev/all-rag-techniques?style=flat-square&labelColor=343b41)](https://github.com/FareedKhan-dev/all-rag-techniques/commits)
-
-</div>
-
-`ai` `llm` `llms` `openai` `python`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/3299148?v=4" width="20" align="top" alt="awslabs"/> [awslabs/agent-squad](https://github.com/awslabs/agent-squad) 🔥🔥
 
 > Flexible and powerful framework for managing multiple AI agents and handling complex conversations
@@ -6832,6 +6818,8 @@
 [![Stars](https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm?style=flat-square&labelColor=343b41)](https://github.com/GeeeekExplorer/nano-vllm/stargazers) [![Forks](https://img.shields.io/github/forks/GeeeekExplorer/nano-vllm?style=flat-square&labelColor=343b41)](https://github.com/GeeeekExplorer/nano-vllm/network/members) [![Last Commit](https://img.shields.io/github/last-commit/GeeeekExplorer/nano-vllm?style=flat-square&labelColor=343b41)](https://github.com/GeeeekExplorer/nano-vllm/commits)
 
 </div>
+
+`inference` `llm` `pytorch` `transformer` `deep-learning`
 
 ---
 
@@ -7173,7 +7161,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/7399563?v=4" width="20" align="top" alt="robert-mcdermott"/> [robert-mcdermott/ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph)
+### <img src="https://avatars.githubusercontent.com/u/7399563?v=4" width="20" align="top" alt="robert-mcdermott"/> [robert-mcdermott/ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph) 🔥
 
 > AI Powered Knowledge Graph Generator
 
