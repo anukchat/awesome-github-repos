@@ -6,24 +6,24 @@
 
 <table><tbody>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/8596759?v=4" width="20"/> <a href="https://github.com/google-deepmind/deepmind-research">google-deepmind/deepmind-research</a> 🔥🔥🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/130722866?v=4" width="20"/> <a href="https://github.com/run-llama/llamacloud-mcp">run-llama/llamacloud-mcp</a> </td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/178506378?v=4" width="20"/> <a href="https://github.com/BrainBlend-AI/atomic-agents">BrainBlend-AI/atomic-agents</a> 🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/150697620?v=4" width="20"/> <a href="https://github.com/google-ai-edge/gallery">google-ai-edge/gallery</a> 🔥🔥🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/64313183?v=4" width="20"/> <a href="https://github.com/gensyn-ai/rl-swarm">gensyn-ai/rl-swarm</a> 🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/131141116?v=4" width="20"/> <a href="https://github.com/Portkey-AI/gateway">Portkey-AI/gateway</a> 🔥🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/19211038?v=4" width="20"/> <a href="https://github.com/nextcloud/server">nextcloud/server</a> 🔥🔥🔥</td>
-</tr>
-<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="20"/> <a href="https://github.com/crewAIInc/awesome-crewai">crewAIInc/awesome-crewai</a> </td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="20"/> <a href="https://github.com/crewAIInc/crewAI-examples">crewAIInc/crewAI-examples</a> 🔥</td>
 </tr>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="20"/> <a href="https://github.com/crewAIInc/crewAI-examples">crewAIInc/crewAI-examples</a> 🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="20"/> <a href="https://github.com/crewAIInc/crewAI-tools">crewAIInc/crewAI-tools</a> 🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/7399563?v=4" width="20"/> <a href="https://github.com/robert-mcdermott/ai-knowledge-graph">robert-mcdermott/ai-knowledge-graph</a> 🔥</td>
 </tr>
 </tbody></table>
 
@@ -1485,6 +1485,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/193029780?v=4" width="20" align="top" alt="MotiaDev"/> [MotiaDev/motia](https://github.com/MotiaDev/motia) 🔥
+
+> Unified Backend Framework for APIs, Events, and AI Agents
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/MotiaDev/motia?style=flat-square&labelColor=343b41)](https://github.com/MotiaDev/motia/stargazers) [![Forks](https://img.shields.io/github/forks/MotiaDev/motia?style=flat-square&labelColor=343b41)](https://github.com/MotiaDev/motia/network/members) [![Last Commit](https://img.shields.io/github/last-commit/MotiaDev/motia?style=flat-square&labelColor=343b41)](https://github.com/MotiaDev/motia/commits)
+
+</div>
+
+`agents` `agi` `ai` `api` `backend`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/172591271?v=4" width="20" align="top" alt="rowboatlabs"/> [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) 🔥
 
 > AI-powered multi-agent builder
@@ -1508,20 +1522,6 @@
 </div>
 
 `agents` `langgraph` `streamlit`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/193029780?v=4" width="20" align="top" alt="MotiaDev"/> [MotiaDev/motia](https://github.com/MotiaDev/motia) 🔥
-
-> Unified Backend Framework for APIs, Events, and AI Agents
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/MotiaDev/motia?style=flat-square&labelColor=343b41)](https://github.com/MotiaDev/motia/stargazers) [![Forks](https://img.shields.io/github/forks/MotiaDev/motia?style=flat-square&labelColor=343b41)](https://github.com/MotiaDev/motia/network/members) [![Last Commit](https://img.shields.io/github/last-commit/MotiaDev/motia?style=flat-square&labelColor=343b41)](https://github.com/MotiaDev/motia/commits)
-
-</div>
-
-`agents` `agi` `ai` `api` `backend`
 
 ---
 
@@ -4085,20 +4085,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/10162068?v=4" width="20" align="top" alt="FavioVazquez"/> [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) 🔥🔥🔥
-
-> List of Data Science Cheatsheets to rule the world
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/FavioVazquez/ds-cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/FavioVazquez/ds-cheatsheets/stargazers) [![Forks](https://img.shields.io/github/forks/FavioVazquez/ds-cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/FavioVazquez/ds-cheatsheets/network/members) [![Last Commit](https://img.shields.io/github/last-commit/FavioVazquez/ds-cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/FavioVazquez/ds-cheatsheets/commits)
-
-</div>
-
-`cheatsheet` `datascience` `jupyter` `programming` `python`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/45159366?v=4" width="20" align="top" alt="mikeroyal"/> [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) 🔥🔥🔥
 
 > Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
@@ -4110,6 +4096,20 @@
 </div>
 
 `authentication` `awesome` `awesome-list` `decentralized` `docker-compose`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/10162068?v=4" width="20" align="top" alt="FavioVazquez"/> [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) 🔥🔥🔥
+
+> List of Data Science Cheatsheets to rule the world
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/FavioVazquez/ds-cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/FavioVazquez/ds-cheatsheets/stargazers) [![Forks](https://img.shields.io/github/forks/FavioVazquez/ds-cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/FavioVazquez/ds-cheatsheets/network/members) [![Last Commit](https://img.shields.io/github/last-commit/FavioVazquez/ds-cheatsheets?style=flat-square&labelColor=343b41)](https://github.com/FavioVazquez/ds-cheatsheets/commits)
+
+</div>
+
+`cheatsheet` `datascience` `jupyter` `programming` `python`
 
 ---
 
@@ -5969,7 +5969,7 @@
 
 <h2 id="others">🔖 Others</h2>
 
-<details><summary>Show repositories (103)</summary>
+<details><summary>Show repositories (104)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6469,6 +6469,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/8596759?v=4" width="20" align="top" alt="google-deepmind"/> [google-deepmind/deepmind-research](https://github.com/google-deepmind/deepmind-research) 🔥🔥🔥
+
+> This repository contains implementations and illustrative code to accompany DeepMind publications
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/google-deepmind/deepmind-research?style=flat-square&labelColor=343b41)](https://github.com/google-deepmind/deepmind-research/stargazers) [![Forks](https://img.shields.io/github/forks/google-deepmind/deepmind-research?style=flat-square&labelColor=343b41)](https://github.com/google-deepmind/deepmind-research/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-deepmind/deepmind-research?style=flat-square&labelColor=343b41)](https://github.com/google-deepmind/deepmind-research/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="20" align="top" alt="Zie619"/> [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) 🔥🔥🔥
 
 > all of the workflows of n8n i could find (also from the site itself)
@@ -6619,20 +6631,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/131141116?v=4" width="20" align="top" alt="Portkey-AI"/> [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) 🔥🔥
-
-> A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Portkey-AI/gateway?style=flat-square&labelColor=343b41)](https://github.com/Portkey-AI/gateway/stargazers) [![Forks](https://img.shields.io/github/forks/Portkey-AI/gateway?style=flat-square&labelColor=343b41)](https://github.com/Portkey-AI/gateway/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Portkey-AI/gateway?style=flat-square&labelColor=343b41)](https://github.com/Portkey-AI/gateway/commits)
-
-</div>
-
-`gateway` `generative-ai` `llmops` `llms` `prompt-engineering`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/145366395?v=4" width="20" align="top" alt="midday-ai"/> [midday-ai/midday](https://github.com/midday-ai/midday) 🔥🔥
 
 > Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
@@ -6644,6 +6642,20 @@
 </div>
 
 `finance` `nextjs` `supabase` `tailwind` `typescript`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/131141116?v=4" width="20" align="top" alt="Portkey-AI"/> [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) 🔥🔥
+
+> A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Portkey-AI/gateway?style=flat-square&labelColor=343b41)](https://github.com/Portkey-AI/gateway/stargazers) [![Forks](https://img.shields.io/github/forks/Portkey-AI/gateway?style=flat-square&labelColor=343b41)](https://github.com/Portkey-AI/gateway/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Portkey-AI/gateway?style=flat-square&labelColor=343b41)](https://github.com/Portkey-AI/gateway/commits)
+
+</div>
+
+`gateway` `generative-ai` `llmops` `llms` `prompt-engineering`
 
 ---
 
@@ -7135,6 +7147,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/64313183?v=4" width="20" align="top" alt="gensyn-ai"/> [gensyn-ai/rl-swarm](https://github.com/gensyn-ai/rl-swarm) 🔥
+
+> A fully open source framework for creating RL training swarms over the internet.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/gensyn-ai/rl-swarm?style=flat-square&labelColor=343b41)](https://github.com/gensyn-ai/rl-swarm/stargazers) [![Forks](https://img.shields.io/github/forks/gensyn-ai/rl-swarm?style=flat-square&labelColor=343b41)](https://github.com/gensyn-ai/rl-swarm/network/members) [![Last Commit](https://img.shields.io/github/last-commit/gensyn-ai/rl-swarm?style=flat-square&labelColor=343b41)](https://github.com/gensyn-ai/rl-swarm/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/26892745?v=4" width="20" align="top" alt="AatmikJain"/> [AatmikJain/ComputerScienceBooks](https://github.com/AatmikJain/ComputerScienceBooks) 🔥
 
 > Some Useful books for Computer Science
@@ -7146,18 +7170,6 @@
 </div>
 
 `books` `computer-science`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/64313183?v=4" width="20" align="top" alt="gensyn-ai"/> [gensyn-ai/rl-swarm](https://github.com/gensyn-ai/rl-swarm) 🔥
-
-> A fully open source framework for creating RL training swarms over the internet.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/gensyn-ai/rl-swarm?style=flat-square&labelColor=343b41)](https://github.com/gensyn-ai/rl-swarm/stargazers) [![Forks](https://img.shields.io/github/forks/gensyn-ai/rl-swarm?style=flat-square&labelColor=343b41)](https://github.com/gensyn-ai/rl-swarm/network/members) [![Last Commit](https://img.shields.io/github/last-commit/gensyn-ai/rl-swarm?style=flat-square&labelColor=343b41)](https://github.com/gensyn-ai/rl-swarm/commits)
-
-</div>
 
 ---
 
