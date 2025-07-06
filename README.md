@@ -6,6 +6,10 @@
 
 <table><tbody>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/74989412?v=4" width="20"/> <a href="https://github.com/upstash/context7">upstash/context7</a> 🔥🔥🔥</td>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/12791725?v=4" width="20"/> <a href="https://github.com/hangwin/mcp-chrome">hangwin/mcp-chrome</a> 🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/8596759?v=4" width="20"/> <a href="https://github.com/google-deepmind/deepmind-research">google-deepmind/deepmind-research</a> 🔥🔥🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/130722866?v=4" width="20"/> <a href="https://github.com/run-llama/llamacloud-mcp">run-llama/llamacloud-mcp</a> </td>
 </tr>
@@ -20,10 +24,6 @@
 <tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/19211038?v=4" width="20"/> <a href="https://github.com/nextcloud/server">nextcloud/server</a> 🔥🔥🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="20"/> <a href="https://github.com/crewAIInc/awesome-crewai">crewAIInc/awesome-crewai</a> </td>
-</tr>
-<tr>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="20"/> <a href="https://github.com/crewAIInc/crewAI-examples">crewAIInc/crewAI-examples</a> 🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="20"/> <a href="https://github.com/crewAIInc/crewAI-tools">crewAIInc/crewAI-tools</a> 🔥</td>
 </tr>
 </tbody></table>
 
@@ -2715,20 +2715,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/1983160?v=4" width="20" align="top" alt="ashvardanian"/> [ashvardanian/less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp) 🔥
-
-> Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/ashvardanian/less_slow.cpp?style=flat-square&labelColor=343b41)](https://github.com/ashvardanian/less_slow.cpp/stargazers) [![Forks](https://img.shields.io/github/forks/ashvardanian/less_slow.cpp?style=flat-square&labelColor=343b41)](https://github.com/ashvardanian/less_slow.cpp/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ashvardanian/less_slow.cpp?style=flat-square&labelColor=343b41)](https://github.com/ashvardanian/less_slow.cpp/commits)
-
-</div>
-
-`assembly` `assembly-language` `avx512` `benchmark` `coroutines`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/15009280?v=4" width="20" align="top" alt="daodao97"/> [daodao97/chatmcp](https://github.com/daodao97/chatmcp) 🔥
 
 > ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).
@@ -2740,6 +2726,20 @@
 </div>
 
 `ai` `chat` `client` `mcp` `mcp-client`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/1983160?v=4" width="20" align="top" alt="ashvardanian"/> [ashvardanian/less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp) 🔥
+
+> Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/ashvardanian/less_slow.cpp?style=flat-square&labelColor=343b41)](https://github.com/ashvardanian/less_slow.cpp/stargazers) [![Forks](https://img.shields.io/github/forks/ashvardanian/less_slow.cpp?style=flat-square&labelColor=343b41)](https://github.com/ashvardanian/less_slow.cpp/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ashvardanian/less_slow.cpp?style=flat-square&labelColor=343b41)](https://github.com/ashvardanian/less_slow.cpp/commits)
+
+</div>
+
+`assembly` `assembly-language` `avx512` `benchmark` `coroutines`
 
 ---
 
@@ -4005,6 +4005,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) 🔥🔥🔥
+
+> A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/153379578?v=4" width="20" align="top" alt="meta-llama"/> [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) 🔥🔥🔥
 
 > Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services  
@@ -4016,18 +4028,6 @@
 </div>
 
 `ai` `finetuning` `langchain` `llama` `llama2`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) 🔥🔥🔥
-
-> A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/anthropic-cookbook?style=flat-square&labelColor=343b41)](https://github.com/anthropics/anthropic-cookbook/commits)
-
-</div>
 
 ---
 
@@ -5969,7 +5969,7 @@
 
 <h2 id="others">🔖 Others</h2>
 
-<details><summary>Show repositories (104)</summary>
+<details><summary>Show repositories (106)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6424,6 +6424,20 @@
 </div>
 
 `a2a` `a2a-mcp` `a2a-protocol` `a2a-server` `agents`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/74989412?v=4" width="20" align="top" alt="upstash"/> [upstash/context7](https://github.com/upstash/context7) 🔥🔥🔥
+
+> Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/upstash/context7?style=flat-square&labelColor=343b41)](https://github.com/upstash/context7/stargazers) [![Forks](https://img.shields.io/github/forks/upstash/context7?style=flat-square&labelColor=343b41)](https://github.com/upstash/context7/network/members) [![Last Commit](https://img.shields.io/github/last-commit/upstash/context7?style=flat-square&labelColor=343b41)](https://github.com/upstash/context7/commits)
+
+</div>
+
+`llm` `mcp` `mcp-server` `vibe-coding`
 
 ---
 
@@ -7048,6 +7062,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/ML-GSAI/LLaDA?style=flat-square&labelColor=343b41)](https://github.com/ML-GSAI/LLaDA/stargazers) [![Forks](https://img.shields.io/github/forks/ML-GSAI/LLaDA?style=flat-square&labelColor=343b41)](https://github.com/ML-GSAI/LLaDA/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ML-GSAI/LLaDA?style=flat-square&labelColor=343b41)](https://github.com/ML-GSAI/LLaDA/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/12791725?v=4" width="20" align="top" alt="hangwin"/> [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) 🔥
+
+> Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/hangwin/mcp-chrome?style=flat-square&labelColor=343b41)](https://github.com/hangwin/mcp-chrome/stargazers) [![Forks](https://img.shields.io/github/forks/hangwin/mcp-chrome?style=flat-square&labelColor=343b41)](https://github.com/hangwin/mcp-chrome/network/members) [![Last Commit](https://img.shields.io/github/last-commit/hangwin/mcp-chrome?style=flat-square&labelColor=343b41)](https://github.com/hangwin/mcp-chrome/commits)
 
 </div>
 
