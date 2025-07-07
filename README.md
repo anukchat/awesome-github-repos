@@ -1259,20 +1259,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/141457985?v=4" width="20" align="top" alt="Skyvern-AI"/> [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) 🔥🔥🔥
-
-> Automate browser-based workflows with LLMs and Computer Vision
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=flat-square&labelColor=343b41)](https://github.com/Skyvern-AI/skyvern/stargazers) [![Forks](https://img.shields.io/github/forks/Skyvern-AI/skyvern?style=flat-square&labelColor=343b41)](https://github.com/Skyvern-AI/skyvern/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Skyvern-AI/skyvern?style=flat-square&labelColor=343b41)](https://github.com/Skyvern-AI/skyvern/commits)
-
-</div>
-
-`api` `automation` `browser` `browser-automation` `computer`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="20" align="top" alt="NirDiamant"/> [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) 🔥🔥🔥
 
 > This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
@@ -1284,6 +1270,20 @@
 </div>
 
 `agents` `ai` `genai` `langchain` `langgraph`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/141457985?v=4" width="20" align="top" alt="Skyvern-AI"/> [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) 🔥🔥🔥
+
+> Automate browser-based workflows with LLMs and Computer Vision
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=flat-square&labelColor=343b41)](https://github.com/Skyvern-AI/skyvern/stargazers) [![Forks](https://img.shields.io/github/forks/Skyvern-AI/skyvern?style=flat-square&labelColor=343b41)](https://github.com/Skyvern-AI/skyvern/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Skyvern-AI/skyvern?style=flat-square&labelColor=343b41)](https://github.com/Skyvern-AI/skyvern/commits)
+
+</div>
+
+`api` `automation` `browser` `browser-automation` `computer`
 
 ---
 
@@ -1457,20 +1457,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/132635806?v=4" width="20" align="top" alt="refly-ai"/> [refly-ai/refly](https://github.com/refly-ai/refly) 🔥
-
-> The world's first open-source "Vibe Workflow" platform for complex tasks.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/refly-ai/refly?style=flat-square&labelColor=343b41)](https://github.com/refly-ai/refly/stargazers) [![Forks](https://img.shields.io/github/forks/refly-ai/refly?style=flat-square&labelColor=343b41)](https://github.com/refly-ai/refly/network/members) [![Last Commit](https://img.shields.io/github/last-commit/refly-ai/refly?style=flat-square&labelColor=343b41)](https://github.com/refly-ai/refly/commits)
-
-</div>
-
-`agent` `ai` `ai-memory` `anthropic` `artifact`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/199344406?v=4" width="20" align="top" alt="simstudioai"/> [simstudioai/sim](https://github.com/simstudioai/sim) 🔥
 
 > Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
@@ -1482,6 +1468,20 @@
 </div>
 
 `agent-workflow` `agentic-workflow` `agents` `ai` `aiagents`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/132635806?v=4" width="20" align="top" alt="refly-ai"/> [refly-ai/refly](https://github.com/refly-ai/refly) 🔥
+
+> The world's first open-source "Vibe Workflow" platform for complex tasks.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/refly-ai/refly?style=flat-square&labelColor=343b41)](https://github.com/refly-ai/refly/stargazers) [![Forks](https://img.shields.io/github/forks/refly-ai/refly?style=flat-square&labelColor=343b41)](https://github.com/refly-ai/refly/network/members) [![Last Commit](https://img.shields.io/github/last-commit/refly-ai/refly?style=flat-square&labelColor=343b41)](https://github.com/refly-ai/refly/commits)
+
+</div>
+
+`agent` `ai` `ai-memory` `anthropic` `artifact`
 
 ---
 
@@ -2019,20 +2019,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/markitdown](https://github.com/microsoft/markitdown) 🔥🔥🔥
-
-> Python tool for converting files and office documents to Markdown.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/microsoft/markitdown?style=flat-square&labelColor=343b41)](https://github.com/microsoft/markitdown/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/markitdown?style=flat-square&labelColor=343b41)](https://github.com/microsoft/markitdown/network/members) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/markitdown?style=flat-square&labelColor=343b41)](https://github.com/microsoft/markitdown/commits)
-
-</div>
-
-`autogen` `autogen-extension` `langchain` `markdown` `microsoft-office`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/108313943?v=4" width="20" align="top" alt="punkpeye"/> [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) 🔥🔥🔥
 
 > A collection of MCP servers.
@@ -2044,6 +2030,20 @@
 </div>
 
 `ai` `mcp`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="20" align="top" alt="microsoft"/> [microsoft/markitdown](https://github.com/microsoft/markitdown) 🔥🔥🔥
+
+> Python tool for converting files and office documents to Markdown.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/microsoft/markitdown?style=flat-square&labelColor=343b41)](https://github.com/microsoft/markitdown/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/markitdown?style=flat-square&labelColor=343b41)](https://github.com/microsoft/markitdown/network/members) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/markitdown?style=flat-square&labelColor=343b41)](https://github.com/microsoft/markitdown/commits)
+
+</div>
+
+`autogen` `autogen-extension` `langchain` `markdown` `microsoft-office`
 
 ---
 
@@ -4031,6 +4031,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/courses](https://github.com/anthropics/courses) 🔥🔥🔥
+
+> Anthropic's educational courses
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/578450?v=4" width="20" align="top" alt="milanm"/> [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) 🔥🔥🔥
 
 > DevOps Roadmap for 2025. with learning resources
@@ -4042,18 +4054,6 @@
 </div>
 
 `aws` `azure` `computer-science` `continous-delivery` `continuous-integration`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="20" align="top" alt="anthropics"/> [anthropics/courses](https://github.com/anthropics/courses) 🔥🔥🔥
-
-> Anthropic's educational courses
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/network/members) [![Last Commit](https://img.shields.io/github/last-commit/anthropics/courses?style=flat-square&labelColor=343b41)](https://github.com/anthropics/courses/commits)
-
-</div>
 
 ---
 
@@ -6413,20 +6413,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/217270365?v=4" width="20" align="top" alt="a2aproject"/> [a2aproject/A2A](https://github.com/a2aproject/A2A) 🔥🔥🔥
-
-> An open protocol enabling communication and interoperability between opaque agentic applications.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/a2aproject/A2A?style=flat-square&labelColor=343b41)](https://github.com/a2aproject/A2A/stargazers) [![Forks](https://img.shields.io/github/forks/a2aproject/A2A?style=flat-square&labelColor=343b41)](https://github.com/a2aproject/A2A/network/members) [![Last Commit](https://img.shields.io/github/last-commit/a2aproject/A2A?style=flat-square&labelColor=343b41)](https://github.com/a2aproject/A2A/commits)
-
-</div>
-
-`a2a` `a2a-mcp` `a2a-protocol` `a2a-server` `agents`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/74989412?v=4" width="20" align="top" alt="upstash"/> [upstash/context7](https://github.com/upstash/context7) 🔥🔥🔥
 
 > Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
@@ -6438,6 +6424,20 @@
 </div>
 
 `llm` `mcp` `mcp-server` `vibe-coding`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/217270365?v=4" width="20" align="top" alt="a2aproject"/> [a2aproject/A2A](https://github.com/a2aproject/A2A) 🔥🔥🔥
+
+> An open protocol enabling communication and interoperability between opaque agentic applications.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/a2aproject/A2A?style=flat-square&labelColor=343b41)](https://github.com/a2aproject/A2A/stargazers) [![Forks](https://img.shields.io/github/forks/a2aproject/A2A?style=flat-square&labelColor=343b41)](https://github.com/a2aproject/A2A/network/members) [![Last Commit](https://img.shields.io/github/last-commit/a2aproject/A2A?style=flat-square&labelColor=343b41)](https://github.com/a2aproject/A2A/commits)
+
+</div>
+
+`a2a` `a2a-mcp` `a2a-protocol` `a2a-server` `agents`
 
 ---
 
@@ -6915,18 +6915,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/192012301?v=4" width="20" align="top" alt="browser-use"/> [browser-use/workflow-use](https://github.com/browser-use/workflow-use) 🔥
-
-> ⚙️ Create and run workflows (RPA 2.0)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/network/members) [![Last Commit](https://img.shields.io/github/last-commit/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/190910900?v=4" width="20" align="top" alt="u14app"/> [u14app/deep-research](https://github.com/u14app/deep-research) 🔥
 
 > Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
@@ -6938,6 +6926,18 @@
 </div>
 
 `deep-research` `deepresearch` `gemini` `anthropic` `deepseek`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/192012301?v=4" width="20" align="top" alt="browser-use"/> [browser-use/workflow-use](https://github.com/browser-use/workflow-use) 🔥
+
+> ⚙️ Create and run workflows (RPA 2.0)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/network/members) [![Last Commit](https://img.shields.io/github/last-commit/browser-use/workflow-use?style=flat-square&labelColor=343b41)](https://github.com/browser-use/workflow-use/commits)
+
+</div>
 
 ---
 
@@ -7055,18 +7055,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/108261537?v=4" width="20" align="top" alt="ML-GSAI"/> [ML-GSAI/LLaDA](https://github.com/ML-GSAI/LLaDA) 🔥
-
-> Official PyTorch implementation for "Large Language Diffusion Models"
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/ML-GSAI/LLaDA?style=flat-square&labelColor=343b41)](https://github.com/ML-GSAI/LLaDA/stargazers) [![Forks](https://img.shields.io/github/forks/ML-GSAI/LLaDA?style=flat-square&labelColor=343b41)](https://github.com/ML-GSAI/LLaDA/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ML-GSAI/LLaDA?style=flat-square&labelColor=343b41)](https://github.com/ML-GSAI/LLaDA/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/12791725?v=4" width="20" align="top" alt="hangwin"/> [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) 🔥
 
 > Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.
@@ -7074,6 +7062,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/hangwin/mcp-chrome?style=flat-square&labelColor=343b41)](https://github.com/hangwin/mcp-chrome/stargazers) [![Forks](https://img.shields.io/github/forks/hangwin/mcp-chrome?style=flat-square&labelColor=343b41)](https://github.com/hangwin/mcp-chrome/network/members) [![Last Commit](https://img.shields.io/github/last-commit/hangwin/mcp-chrome?style=flat-square&labelColor=343b41)](https://github.com/hangwin/mcp-chrome/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/108261537?v=4" width="20" align="top" alt="ML-GSAI"/> [ML-GSAI/LLaDA](https://github.com/ML-GSAI/LLaDA) 🔥
+
+> Official PyTorch implementation for "Large Language Diffusion Models"
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/ML-GSAI/LLaDA?style=flat-square&labelColor=343b41)](https://github.com/ML-GSAI/LLaDA/stargazers) [![Forks](https://img.shields.io/github/forks/ML-GSAI/LLaDA?style=flat-square&labelColor=343b41)](https://github.com/ML-GSAI/LLaDA/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ML-GSAI/LLaDA?style=flat-square&labelColor=343b41)](https://github.com/ML-GSAI/LLaDA/commits)
 
 </div>
 
