@@ -6,6 +6,10 @@
 
 <table><tbody>
 <tr>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/193350244?v=4" width="20"/> <a href="https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge">The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge</a> 🔥🔥🔥</td>
+  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/196640840?v=4" width="20"/> <a href="https://github.com/cactus-compute/cactus">cactus-compute/cactus</a> 🔥</td>
+</tr>
+<tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/74989412?v=4" width="20"/> <a href="https://github.com/upstash/context7">upstash/context7</a> 🔥🔥🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/12791725?v=4" width="20"/> <a href="https://github.com/hangwin/mcp-chrome">hangwin/mcp-chrome</a> 🔥</td>
 </tr>
@@ -20,10 +24,6 @@
 <tr>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/64313183?v=4" width="20"/> <a href="https://github.com/gensyn-ai/rl-swarm">gensyn-ai/rl-swarm</a> 🔥</td>
   <td valign="top"> <img src="https://avatars.githubusercontent.com/u/131141116?v=4" width="20"/> <a href="https://github.com/Portkey-AI/gateway">Portkey-AI/gateway</a> 🔥🔥</td>
-</tr>
-<tr>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/19211038?v=4" width="20"/> <a href="https://github.com/nextcloud/server">nextcloud/server</a> 🔥🔥🔥</td>
-  <td valign="top"> <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="20"/> <a href="https://github.com/crewAIInc/awesome-crewai">crewAIInc/awesome-crewai</a> </td>
 </tr>
 </tbody></table>
 
@@ -1739,16 +1739,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/8931462?v=4" width="20" align="top" alt="aws-samples"/> [aws-samples/langgraph-agents-with-amazon-bedrock](https://github.com/aws-samples/langgraph-agents-with-amazon-bedrock)
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/aws-samples/langgraph-agents-with-amazon-bedrock?style=flat-square&labelColor=343b41)](https://github.com/aws-samples/langgraph-agents-with-amazon-bedrock/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/langgraph-agents-with-amazon-bedrock?style=flat-square&labelColor=343b41)](https://github.com/aws-samples/langgraph-agents-with-amazon-bedrock/network/members) [![Last Commit](https://img.shields.io/github/last-commit/aws-samples/langgraph-agents-with-amazon-bedrock?style=flat-square&labelColor=343b41)](https://github.com/aws-samples/langgraph-agents-with-amazon-bedrock/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/data-enrichment](https://github.com/langchain-ai/data-enrichment)
 
 > LangGraph Studio template for creating an agent that does web research to genearte or enrich structured data.
@@ -1760,6 +1750,16 @@
 </div>
 
 `langgraph` `langgraph-python` `langgraph-template`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/8931462?v=4" width="20" align="top" alt="aws-samples"/> [aws-samples/langgraph-agents-with-amazon-bedrock](https://github.com/aws-samples/langgraph-agents-with-amazon-bedrock)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/aws-samples/langgraph-agents-with-amazon-bedrock?style=flat-square&labelColor=343b41)](https://github.com/aws-samples/langgraph-agents-with-amazon-bedrock/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/langgraph-agents-with-amazon-bedrock?style=flat-square&labelColor=343b41)](https://github.com/aws-samples/langgraph-agents-with-amazon-bedrock/network/members) [![Last Commit](https://img.shields.io/github/last-commit/aws-samples/langgraph-agents-with-amazon-bedrock?style=flat-square&labelColor=343b41)](https://github.com/aws-samples/langgraph-agents-with-amazon-bedrock/commits)
+
+</div>
 
 ---
 
@@ -2005,20 +2005,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/169105795?v=4" width="20" align="top" alt="All-Hands-AI"/> [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) 🔥🔥🔥
-
-> 🙌 OpenHands: Code Less, Make More
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat-square&labelColor=343b41)](https://github.com/All-Hands-AI/OpenHands/stargazers) [![Forks](https://img.shields.io/github/forks/All-Hands-AI/OpenHands?style=flat-square&labelColor=343b41)](https://github.com/All-Hands-AI/OpenHands/network/members) [![Last Commit](https://img.shields.io/github/last-commit/All-Hands-AI/OpenHands?style=flat-square&labelColor=343b41)](https://github.com/All-Hands-AI/OpenHands/commits)
-
-</div>
-
-`agent` `artificial-intelligence` `chatgpt` `claude-ai` `cli`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/108313943?v=4" width="20" align="top" alt="punkpeye"/> [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) 🔥🔥🔥
 
 > A collection of MCP servers.
@@ -2030,6 +2016,20 @@
 </div>
 
 `ai` `mcp`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/169105795?v=4" width="20" align="top" alt="All-Hands-AI"/> [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) 🔥🔥🔥
+
+> 🙌 OpenHands: Code Less, Make More
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat-square&labelColor=343b41)](https://github.com/All-Hands-AI/OpenHands/stargazers) [![Forks](https://img.shields.io/github/forks/All-Hands-AI/OpenHands?style=flat-square&labelColor=343b41)](https://github.com/All-Hands-AI/OpenHands/network/members) [![Last Commit](https://img.shields.io/github/last-commit/All-Hands-AI/OpenHands?style=flat-square&labelColor=343b41)](https://github.com/All-Hands-AI/OpenHands/commits)
+
+</div>
+
+`agent` `artificial-intelligence` `chatgpt` `claude-ai` `cli`
 
 ---
 
@@ -2583,20 +2583,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/818368?v=4" width="20" align="top" alt="cheahjs"/> [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) 🔥
-
-> A list of free LLM inference resources accessible via API.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/cheahjs/free-llm-api-resources?style=flat-square&labelColor=343b41)](https://github.com/cheahjs/free-llm-api-resources/stargazers) [![Forks](https://img.shields.io/github/forks/cheahjs/free-llm-api-resources?style=flat-square&labelColor=343b41)](https://github.com/cheahjs/free-llm-api-resources/network/members) [![Last Commit](https://img.shields.io/github/last-commit/cheahjs/free-llm-api-resources?style=flat-square&labelColor=343b41)](https://github.com/cheahjs/free-llm-api-resources/commits)
-
-</div>
-
-`ai` `claude` `gemini` `llama` `llm`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/108313943?v=4" width="20" align="top" alt="punkpeye"/> [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) 🔥
 
 > A collection of MCP clients.
@@ -2608,6 +2594,20 @@
 </div>
 
 `clients` `mcp`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/818368?v=4" width="20" align="top" alt="cheahjs"/> [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) 🔥
+
+> A list of free LLM inference resources accessible via API.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/cheahjs/free-llm-api-resources?style=flat-square&labelColor=343b41)](https://github.com/cheahjs/free-llm-api-resources/stargazers) [![Forks](https://img.shields.io/github/forks/cheahjs/free-llm-api-resources?style=flat-square&labelColor=343b41)](https://github.com/cheahjs/free-llm-api-resources/network/members) [![Last Commit](https://img.shields.io/github/last-commit/cheahjs/free-llm-api-resources?style=flat-square&labelColor=343b41)](https://github.com/cheahjs/free-llm-api-resources/commits)
+
+</div>
+
+`ai` `claude` `gemini` `llama` `llm`
 
 ---
 
@@ -2651,20 +2651,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/149780728?v=4" width="20" align="top" alt="zml"/> [zml/zml](https://github.com/zml/zml) 🔥
-
-> Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/zml/zml?style=flat-square&labelColor=343b41)](https://github.com/zml/zml/stargazers) [![Forks](https://img.shields.io/github/forks/zml/zml?style=flat-square&labelColor=343b41)](https://github.com/zml/zml/network/members) [![Last Commit](https://img.shields.io/github/last-commit/zml/zml?style=flat-square&labelColor=343b41)](https://github.com/zml/zml/commits)
-
-</div>
-
-`ai` `bazel` `hpc` `inference` `xla`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/160492612?v=4" width="20" align="top" alt="PublicAffairs"/> [PublicAffairs/openai-gemini](https://github.com/PublicAffairs/openai-gemini) 🔥
 
 > Gemini ➜ OpenAI API proxy. Serverless!
@@ -2676,6 +2662,20 @@
 </div>
 
 `chatgpt-api` `gemini` `gemini-ai` `openai` `proxy`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/149780728?v=4" width="20" align="top" alt="zml"/> [zml/zml](https://github.com/zml/zml) 🔥
+
+> Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/zml/zml?style=flat-square&labelColor=343b41)](https://github.com/zml/zml/stargazers) [![Forks](https://img.shields.io/github/forks/zml/zml?style=flat-square&labelColor=343b41)](https://github.com/zml/zml/network/members) [![Last Commit](https://img.shields.io/github/last-commit/zml/zml?style=flat-square&labelColor=343b41)](https://github.com/zml/zml/commits)
+
+</div>
+
+`ai` `bazel` `hpc` `inference` `xla`
 
 ---
 
@@ -5197,7 +5197,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/199500616?v=4" width="20" align="top" alt="magnitudedev"/> [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) 🔥
 
-> The AI browser automation framework
+> Open-source, vision-first browser agent
 
 <div align="center">
 
@@ -5969,7 +5969,7 @@
 
 <h2 id="others">🔖 Others</h2>
 
-<details><summary>Show repositories (106)</summary>
+<details><summary>Show repositories (108)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="20" align="top" alt="jwasham"/> [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥
 
@@ -6315,6 +6315,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/8024624?v=4" width="20" align="top" alt="th-ch"/> [th-ch/youtube-music](https://github.com/th-ch/youtube-music) 🔥🔥🔥
+
+> YouTube Music Desktop App bundled with custom plugins
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/th-ch/youtube-music?style=flat-square&labelColor=343b41)](https://github.com/th-ch/youtube-music/stargazers) [![Forks](https://img.shields.io/github/forks/th-ch/youtube-music?style=flat-square&labelColor=343b41)](https://github.com/th-ch/youtube-music/network/members) [![Last Commit](https://img.shields.io/github/last-commit/th-ch/youtube-music?style=flat-square&labelColor=343b41)](https://github.com/th-ch/youtube-music/commits)
+
+</div>
+
+`adblocker` `desktop-app` `electron` `linux` `mac`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/275001?v=4" width="20" align="top" alt="dgtlmoon"/> [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) 🔥🔥🔥
 
 > Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
@@ -6354,20 +6368,6 @@
 </div>
 
 `awesome` `backend` `computer-science` `distributed-systems` `high-level-design`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/8024624?v=4" width="20" align="top" alt="th-ch"/> [th-ch/youtube-music](https://github.com/th-ch/youtube-music) 🔥🔥🔥
-
-> YouTube Music Desktop App bundled with custom plugins
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/th-ch/youtube-music?style=flat-square&labelColor=343b41)](https://github.com/th-ch/youtube-music/stargazers) [![Forks](https://img.shields.io/github/forks/th-ch/youtube-music?style=flat-square&labelColor=343b41)](https://github.com/th-ch/youtube-music/network/members) [![Last Commit](https://img.shields.io/github/last-commit/th-ch/youtube-music?style=flat-square&labelColor=343b41)](https://github.com/th-ch/youtube-music/commits)
-
-</div>
-
-`adblocker` `desktop-app` `electron` `linux` `mac`
 
 ---
 
@@ -6614,6 +6614,20 @@
 </div>
 
 `agent` `ai` `assistant` `autonomous` `linux`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/193350244?v=4" width="20" align="top" alt="The-Pocket"/> [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) 🔥🔥🔥
+
+> Pocket Flow: Codebase to Tutorial
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge?style=flat-square&labelColor=343b41)](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge/stargazers) [![Forks](https://img.shields.io/github/forks/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge?style=flat-square&labelColor=343b41)](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge/network/members) [![Last Commit](https://img.shields.io/github/last-commit/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge?style=flat-square&labelColor=343b41)](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge/commits)
+
+</div>
+
+`coding` `large-language-model` `large-language-models` `llm` `llm-agent`
 
 ---
 
@@ -7015,6 +7029,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/12791725?v=4" width="20" align="top" alt="hangwin"/> [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) 🔥
+
+> Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/hangwin/mcp-chrome?style=flat-square&labelColor=343b41)](https://github.com/hangwin/mcp-chrome/stargazers) [![Forks](https://img.shields.io/github/forks/hangwin/mcp-chrome?style=flat-square&labelColor=343b41)](https://github.com/hangwin/mcp-chrome/network/members) [![Last Commit](https://img.shields.io/github/last-commit/hangwin/mcp-chrome?style=flat-square&labelColor=343b41)](https://github.com/hangwin/mcp-chrome/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/173073912?v=4" width="20" align="top" alt="Intelligent-Internet"/> [Intelligent-Internet/ii-agent](https://github.com/Intelligent-Internet/ii-agent) 🔥
 
 > II-Agent: a new open-source framework to build and deploy intelligent agents
@@ -7052,18 +7078,6 @@
 </div>
 
 `local-first` `notetaking` `open-source` `react` `rust`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/12791725?v=4" width="20" align="top" alt="hangwin"/> [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) 🔥
-
-> Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/hangwin/mcp-chrome?style=flat-square&labelColor=343b41)](https://github.com/hangwin/mcp-chrome/stargazers) [![Forks](https://img.shields.io/github/forks/hangwin/mcp-chrome?style=flat-square&labelColor=343b41)](https://github.com/hangwin/mcp-chrome/network/members) [![Last Commit](https://img.shields.io/github/last-commit/hangwin/mcp-chrome?style=flat-square&labelColor=343b41)](https://github.com/hangwin/mcp-chrome/commits)
-
-</div>
 
 ---
 
@@ -7144,6 +7158,20 @@
 [![Stars](https://img.shields.io/github/stars/google-labs-code/jules-awesome-list?style=flat-square&labelColor=343b41)](https://github.com/google-labs-code/jules-awesome-list/stargazers) [![Forks](https://img.shields.io/github/forks/google-labs-code/jules-awesome-list?style=flat-square&labelColor=343b41)](https://github.com/google-labs-code/jules-awesome-list/network/members) [![Last Commit](https://img.shields.io/github/last-commit/google-labs-code/jules-awesome-list?style=flat-square&labelColor=343b41)](https://github.com/google-labs-code/jules-awesome-list/commits)
 
 </div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/196640840?v=4" width="20" align="top" alt="cactus-compute"/> [cactus-compute/cactus](https://github.com/cactus-compute/cactus) 🔥
+
+> A cross-platform framework for deploying LLMs, VLMs, Embedding Models, TTS models and more locally on smartphones.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/cactus-compute/cactus?style=flat-square&labelColor=343b41)](https://github.com/cactus-compute/cactus/stargazers) [![Forks](https://img.shields.io/github/forks/cactus-compute/cactus?style=flat-square&labelColor=343b41)](https://github.com/cactus-compute/cactus/network/members) [![Last Commit](https://img.shields.io/github/last-commit/cactus-compute/cactus?style=flat-square&labelColor=343b41)](https://github.com/cactus-compute/cactus/commits)
+
+</div>
+
+`android` `dart` `flutter` `framework` `ios`
 
 ---
 
@@ -7359,7 +7387,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/183290039?v=4" width="20" align="top" alt="qodo-ai"/> [qodo-ai/agents](https://github.com/qodo-ai/agents)
 
-> Qodo CLI Agents
+> Qodo Commands Playbooks. Customize Qodo Command for your specific use case!
 
 <div align="center">
 
