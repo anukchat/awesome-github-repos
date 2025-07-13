@@ -307,18 +307,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/21003710?v=4" width="20" align="top" alt="pytorch"/> [pytorch/torchtitan](https://github.com/pytorch/torchtitan) 🔥
-
-> A PyTorch native platform for training generative AI models
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/pytorch/torchtitan?style=flat-square&labelColor=343b41)](https://github.com/pytorch/torchtitan/stargazers) [![Forks](https://img.shields.io/github/forks/pytorch/torchtitan?style=flat-square&labelColor=343b41)](https://github.com/pytorch/torchtitan/network/members) [![Last Commit](https://img.shields.io/github/last-commit/pytorch/torchtitan?style=flat-square&labelColor=343b41)](https://github.com/pytorch/torchtitan/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/4158466?v=4" width="20" align="top" alt="bytedance"/> [bytedance/Dolphin](https://github.com/bytedance/Dolphin) 🔥
 
 > The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
@@ -326,6 +314,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/bytedance/Dolphin?style=flat-square&labelColor=343b41)](https://github.com/bytedance/Dolphin/stargazers) [![Forks](https://img.shields.io/github/forks/bytedance/Dolphin?style=flat-square&labelColor=343b41)](https://github.com/bytedance/Dolphin/network/members) [![Last Commit](https://img.shields.io/github/last-commit/bytedance/Dolphin?style=flat-square&labelColor=343b41)](https://github.com/bytedance/Dolphin/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/21003710?v=4" width="20" align="top" alt="pytorch"/> [pytorch/torchtitan](https://github.com/pytorch/torchtitan) 🔥
+
+> A PyTorch native platform for training generative AI models
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/pytorch/torchtitan?style=flat-square&labelColor=343b41)](https://github.com/pytorch/torchtitan/stargazers) [![Forks](https://img.shields.io/github/forks/pytorch/torchtitan?style=flat-square&labelColor=343b41)](https://github.com/pytorch/torchtitan/network/members) [![Last Commit](https://img.shields.io/github/last-commit/pytorch/torchtitan?style=flat-square&labelColor=343b41)](https://github.com/pytorch/torchtitan/commits)
 
 </div>
 
@@ -1187,7 +1187,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/98760976?v=4" width="20" align="top" alt="kyegomez"/> [kyegomez/swarms](https://github.com/kyegomez/swarms) 🔥
+### <img src="https://avatars.githubusercontent.com/u/98760976?v=4" width="20" align="top" alt="kyegomez"/> [kyegomez/swarms](https://github.com/kyegomez/swarms) 🔥🔥
 
 > The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai
 
@@ -1198,20 +1198,6 @@
 </div>
 
 `agents` `ai` `artificial-intelligence` `attention-mechanism` `chatgpt`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/183960033?v=4" width="20" align="top" alt="steel-dev"/> [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) 🔥
-
-> 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=flat-square&labelColor=343b41)](https://github.com/steel-dev/steel-browser/stargazers) [![Forks](https://img.shields.io/github/forks/steel-dev/steel-browser?style=flat-square&labelColor=343b41)](https://github.com/steel-dev/steel-browser/network/members) [![Last Commit](https://img.shields.io/github/last-commit/steel-dev/steel-browser?style=flat-square&labelColor=343b41)](https://github.com/steel-dev/steel-browser/commits)
-
-</div>
-
-`ai` `ai-agents` `ai-tools` `browser-automation` `llm`
 
 ---
 
@@ -1226,6 +1212,20 @@
 </div>
 
 `agent-workflow` `agentic-workflow` `agents` `ai` `aiagents`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/183960033?v=4" width="20" align="top" alt="steel-dev"/> [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) 🔥
+
+> 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=flat-square&labelColor=343b41)](https://github.com/steel-dev/steel-browser/stargazers) [![Forks](https://img.shields.io/github/forks/steel-dev/steel-browser?style=flat-square&labelColor=343b41)](https://github.com/steel-dev/steel-browser/network/members) [![Last Commit](https://img.shields.io/github/last-commit/steel-dev/steel-browser?style=flat-square&labelColor=343b41)](https://github.com/steel-dev/steel-browser/commits)
+
+</div>
+
+`ai` `ai-agents` `ai-tools` `browser-automation` `llm`
 
 ---
 
@@ -1473,18 +1473,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/37864549?v=4" width="20" align="top" alt="hrithikkoduri"/> [hrithikkoduri/WebRover](https://github.com/hrithikkoduri/WebRover)
-
-> WebRover is an autonomous AI agent designed to interpret user input and execute actions by interacting with web elements to accomplish tasks or answer questions. It leverages advanced language models and web automation tools to navigate the web, gather information, and provide structured responses based on the user's needs.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/hrithikkoduri/WebRover?style=flat-square&labelColor=343b41)](https://github.com/hrithikkoduri/WebRover/stargazers) [![Forks](https://img.shields.io/github/forks/hrithikkoduri/WebRover?style=flat-square&labelColor=343b41)](https://github.com/hrithikkoduri/WebRover/network/members) [![Last Commit](https://img.shields.io/github/last-commit/hrithikkoduri/WebRover?style=flat-square&labelColor=343b41)](https://github.com/hrithikkoduri/WebRover/commits)
-
-</div>
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/34525670?v=4" width="20" align="top" alt="landing-ai"/> [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc)
 
 > Python library for Agentic Document Extraction from LandingAI
@@ -1492,6 +1480,18 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/stargazers) [![Forks](https://img.shields.io/github/forks/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/network/members) [![Last Commit](https://img.shields.io/github/last-commit/landing-ai/agentic-doc?style=flat-square&labelColor=343b41)](https://github.com/landing-ai/agentic-doc/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/37864549?v=4" width="20" align="top" alt="hrithikkoduri"/> [hrithikkoduri/WebRover](https://github.com/hrithikkoduri/WebRover)
+
+> WebRover is an autonomous AI agent designed to interpret user input and execute actions by interacting with web elements to accomplish tasks or answer questions. It leverages advanced language models and web automation tools to navigate the web, gather information, and provide structured responses based on the user's needs.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/hrithikkoduri/WebRover?style=flat-square&labelColor=343b41)](https://github.com/hrithikkoduri/WebRover/stargazers) [![Forks](https://img.shields.io/github/forks/hrithikkoduri/WebRover?style=flat-square&labelColor=343b41)](https://github.com/hrithikkoduri/WebRover/network/members) [![Last Commit](https://img.shields.io/github/last-commit/hrithikkoduri/WebRover?style=flat-square&labelColor=343b41)](https://github.com/hrithikkoduri/WebRover/commits)
 
 </div>
 
@@ -2353,7 +2353,7 @@
 
 <h2 id="aiframeworkstoolkits">AI Frameworks & Toolkits</h2>
 <p><i>Libraries, platforms, or SDKs for building, training, evaluating models.</i></p>
-<details><summary>Show repositories (22)</summary>
+<details><summary>Show repositories (21)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="20" align="top" alt="langchain-ai"/> [langchain-ai/langchain](https://github.com/langchain-ai/langchain) 🔥🔥🔥
 
@@ -2516,20 +2516,6 @@
 </div>
 
 `hints` `json-schema` `parsing` `pydantic` `python`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/45942048?v=4" width="20" align="top" alt="ml-tooling"/> [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) 🔥🔥🔥
-
-> 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/ml-tooling/best-of-ml-python?style=flat-square&labelColor=343b41)](https://github.com/ml-tooling/best-of-ml-python/stargazers) [![Forks](https://img.shields.io/github/forks/ml-tooling/best-of-ml-python?style=flat-square&labelColor=343b41)](https://github.com/ml-tooling/best-of-ml-python/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ml-tooling/best-of-ml-python?style=flat-square&labelColor=343b41)](https://github.com/ml-tooling/best-of-ml-python/commits)
-
-</div>
-
-`automl` `chatgpt` `data-analysis` `data-science` `data-visualization`
 
 ---
 
@@ -2781,7 +2767,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/139582646?v=4" width="20" align="top" alt="getmaxun"/> [getmaxun/maxun](https://github.com/getmaxun/maxun) 🔥🔥🔥
 
-> 🔥 No Code Web Data Extraction Platform • Open-Source Alternative To Octoparse, ParseHub 🔥
+> 🔥 Open-source no code web data extraction platform. Instantly turn any website into API or spreadsheet 🔥
 
 <div align="center">
 
@@ -3507,6 +3493,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/1054593?v=4" width="20" align="top" alt="philfung"/> [philfung/awesome-reliable-robotics](https://github.com/philfung/awesome-reliable-robotics)
+
+> Robotics research demonstrating reliability and robustness in the real world (continuously updated)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/philfung/awesome-reliable-robotics?style=flat-square&labelColor=343b41)](https://github.com/philfung/awesome-reliable-robotics/stargazers) [![Forks](https://img.shields.io/github/forks/philfung/awesome-reliable-robotics?style=flat-square&labelColor=343b41)](https://github.com/philfung/awesome-reliable-robotics/network/members) [![Last Commit](https://img.shields.io/github/last-commit/philfung/awesome-reliable-robotics?style=flat-square&labelColor=343b41)](https://github.com/philfung/awesome-reliable-robotics/commits)
+
+</div>
+
+`fine-tuning` `imitation-learning` `manipulation` `manipulator-robotics` `reinforcement-learning`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/55067698?v=4" width="20" align="top" alt="Improbable-AI"/> [Improbable-AI/airobot](https://github.com/Improbable-AI/airobot)
 
 > A python library for robot learning - An extension to PyRobot
@@ -3518,20 +3518,6 @@
 </div>
 
 `robot-learning`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/1054593?v=4" width="20" align="top" alt="philfung"/> [philfung/awesome-reliable-robotics](https://github.com/philfung/awesome-reliable-robotics)
-
-> Collection of robotics research demonstrating reliability and robustness in the real world.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/philfung/awesome-reliable-robotics?style=flat-square&labelColor=343b41)](https://github.com/philfung/awesome-reliable-robotics/stargazers) [![Forks](https://img.shields.io/github/forks/philfung/awesome-reliable-robotics?style=flat-square&labelColor=343b41)](https://github.com/philfung/awesome-reliable-robotics/network/members) [![Last Commit](https://img.shields.io/github/last-commit/philfung/awesome-reliable-robotics?style=flat-square&labelColor=343b41)](https://github.com/philfung/awesome-reliable-robotics/commits)
-
-</div>
-
-`fine-tuning` `imitation-learning` `manipulation` `manipulator-robotics` `reinforcement-learning`
 
 ---
 
@@ -5681,20 +5667,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/109573523?v=4" width="20" align="top" alt="manoss96"/> [manoss96/fluke](https://github.com/manoss96/fluke)
-
-> Cloud-agnostic Python API 
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/manoss96/fluke?style=flat-square&labelColor=343b41)](https://github.com/manoss96/fluke/stargazers) [![Forks](https://img.shields.io/github/forks/manoss96/fluke?style=flat-square&labelColor=343b41)](https://github.com/manoss96/fluke/network/members) [![Last Commit](https://img.shields.io/github/last-commit/manoss96/fluke?style=flat-square&labelColor=343b41)](https://github.com/manoss96/fluke/commits)
-
-</div>
-
-`aws` `azure` `cloud` `gcp` `message-queue`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/8944399?v=4" width="20" align="top" alt="agungTuanany"/> [agungTuanany/docker-kubernetes](https://github.com/agungTuanany/docker-kubernetes)
 
 > COMPLETE GUIDE DOCKER & KUBERNETES from [STEPHEN GRIDER]
@@ -5706,6 +5678,20 @@
 </div>
 
 `container-lifecycle` `docker` `docker-container` `kubernetes` `multi-container`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/109573523?v=4" width="20" align="top" alt="manoss96"/> [manoss96/fluke](https://github.com/manoss96/fluke)
+
+> Cloud-agnostic Python API 
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/manoss96/fluke?style=flat-square&labelColor=343b41)](https://github.com/manoss96/fluke/stargazers) [![Forks](https://img.shields.io/github/forks/manoss96/fluke?style=flat-square&labelColor=343b41)](https://github.com/manoss96/fluke/network/members) [![Last Commit](https://img.shields.io/github/last-commit/manoss96/fluke?style=flat-square&labelColor=343b41)](https://github.com/manoss96/fluke/commits)
+
+</div>
+
+`aws` `azure` `cloud` `gcp` `message-queue`
 
 </details>
 
@@ -6503,7 +6489,7 @@
 
 <h2 id="others">Others</h2>
 <p><i>If none of the above fit.</i></p>
-<details><summary>Show repositories (74)</summary>
+<details><summary>Show repositories (79)</summary>
 
 ### <img src="https://avatars.githubusercontent.com/u/4921183?v=4" width="20" align="top" alt="kamranahmedse"/> [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) 🔥🔥🔥
 
@@ -6809,17 +6795,17 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/21212051?v=4" width="20" align="top" alt="Byaidu"/> [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) 🔥🔥🔥
+### <img src="https://avatars.githubusercontent.com/u/110412045?v=4" width="20" align="top" alt="danny-avila"/> [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) 🔥🔥🔥
 
-> PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+> Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/Byaidu/PDFMathTranslate?style=flat-square&labelColor=343b41)](https://github.com/Byaidu/PDFMathTranslate/stargazers) [![Forks](https://img.shields.io/github/forks/Byaidu/PDFMathTranslate?style=flat-square&labelColor=343b41)](https://github.com/Byaidu/PDFMathTranslate/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Byaidu/PDFMathTranslate?style=flat-square&labelColor=343b41)](https://github.com/Byaidu/PDFMathTranslate/commits)
+[![Stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=flat-square&labelColor=343b41)](https://github.com/danny-avila/LibreChat/stargazers) [![Forks](https://img.shields.io/github/forks/danny-avila/LibreChat?style=flat-square&labelColor=343b41)](https://github.com/danny-avila/LibreChat/network/members) [![Last Commit](https://img.shields.io/github/last-commit/danny-avila/LibreChat?style=flat-square&labelColor=343b41)](https://github.com/danny-avila/LibreChat/commits)
 
 </div>
 
-`chinese` `document` `edit` `english` `japanese`
+`ai` `chatgpt` `clone` `plugins` `chatgpt-clone`
 
 ---
 
@@ -6837,6 +6823,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/21212051?v=4" width="20" align="top" alt="Byaidu"/> [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) 🔥🔥🔥
+
+> PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Byaidu/PDFMathTranslate?style=flat-square&labelColor=343b41)](https://github.com/Byaidu/PDFMathTranslate/stargazers) [![Forks](https://img.shields.io/github/forks/Byaidu/PDFMathTranslate?style=flat-square&labelColor=343b41)](https://github.com/Byaidu/PDFMathTranslate/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Byaidu/PDFMathTranslate?style=flat-square&labelColor=343b41)](https://github.com/Byaidu/PDFMathTranslate/commits)
+
+</div>
+
+`chinese` `document` `edit` `english` `japanese`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/117940224?v=4" width="20" align="top" alt="Mozilla-Ocho"/> [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) 🔥🔥🔥
 
 > Distribute and run LLMs with a single file.
@@ -6846,6 +6846,20 @@
 [![Stars](https://img.shields.io/github/stars/Mozilla-Ocho/llamafile?style=flat-square&labelColor=343b41)](https://github.com/Mozilla-Ocho/llamafile/stargazers) [![Forks](https://img.shields.io/github/forks/Mozilla-Ocho/llamafile?style=flat-square&labelColor=343b41)](https://github.com/Mozilla-Ocho/llamafile/network/members) [![Last Commit](https://img.shields.io/github/last-commit/Mozilla-Ocho/llamafile?style=flat-square&labelColor=343b41)](https://github.com/Mozilla-Ocho/llamafile/commits)
 
 </div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/2852129?v=4" width="20" align="top" alt="lukasmasuch"/> [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) 🔥🔥🔥
+
+> 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/lukasmasuch/best-of-ml-python?style=flat-square&labelColor=343b41)](https://github.com/lukasmasuch/best-of-ml-python/stargazers) [![Forks](https://img.shields.io/github/forks/lukasmasuch/best-of-ml-python?style=flat-square&labelColor=343b41)](https://github.com/lukasmasuch/best-of-ml-python/network/members) [![Last Commit](https://img.shields.io/github/last-commit/lukasmasuch/best-of-ml-python?style=flat-square&labelColor=343b41)](https://github.com/lukasmasuch/best-of-ml-python/commits)
+
+</div>
+
+`python` `machine-learning` `data-science` `nlp` `data-visualization`
 
 ---
 
@@ -7013,6 +7027,8 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/1178890?v=4" width="20" align="top" alt="antiwork"/> [antiwork/gumroad](https://github.com/antiwork/gumroad) 🔥🔥
 
+> Sell stuff and see what sticks
+
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/stargazers) [![Forks](https://img.shields.io/github/forks/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/network/members) [![Last Commit](https://img.shields.io/github/last-commit/antiwork/gumroad?style=flat-square&labelColor=343b41)](https://github.com/antiwork/gumroad/commits)
@@ -7046,6 +7062,20 @@
 </div>
 
 `azure` `azure-sdk` `hacktoberfest` `python`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/87350760?v=4" width="20" align="top" alt="RapidAI"/> [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) 🔥
+
+> 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, PaddlePaddle and PyTorch.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/RapidAI/RapidOCR?style=flat-square&labelColor=343b41)](https://github.com/RapidAI/RapidOCR/stargazers) [![Forks](https://img.shields.io/github/forks/RapidAI/RapidOCR?style=flat-square&labelColor=343b41)](https://github.com/RapidAI/RapidOCR/network/members) [![Last Commit](https://img.shields.io/github/last-commit/RapidAI/RapidOCR?style=flat-square&labelColor=343b41)](https://github.com/RapidAI/RapidOCR/commits)
+
+</div>
+
+`ocr` `onnxruntime` `crnn` `dbnet` `openvino`
 
 ---
 
@@ -7089,20 +7119,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/145366395?v=4" width="20" align="top" alt="midday-ai"/> [midday-ai/v1](https://github.com/midday-ai/v1) 🔥
-
-> An open-source starter kit based on Midday.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/midday-ai/v1?style=flat-square&labelColor=343b41)](https://github.com/midday-ai/v1/stargazers) [![Forks](https://img.shields.io/github/forks/midday-ai/v1?style=flat-square&labelColor=343b41)](https://github.com/midday-ai/v1/network/members) [![Last Commit](https://img.shields.io/github/last-commit/midday-ai/v1?style=flat-square&labelColor=343b41)](https://github.com/midday-ai/v1/commits)
-
-</div>
-
-`monorepo` `nextjs` `shadcn` `tailwind` `turborepo`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/190910900?v=4" width="20" align="top" alt="u14app"/> [u14app/deep-research](https://github.com/u14app/deep-research) 🔥
 
 > Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
@@ -7114,6 +7130,20 @@
 </div>
 
 `anthropic` `deep-research` `deep-research-api` `deepresearch` `deepseek`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/145366395?v=4" width="20" align="top" alt="midday-ai"/> [midday-ai/v1](https://github.com/midday-ai/v1) 🔥
+
+> An open-source starter kit based on Midday.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/midday-ai/v1?style=flat-square&labelColor=343b41)](https://github.com/midday-ai/v1/stargazers) [![Forks](https://img.shields.io/github/forks/midday-ai/v1?style=flat-square&labelColor=343b41)](https://github.com/midday-ai/v1/network/members) [![Last Commit](https://img.shields.io/github/last-commit/midday-ai/v1?style=flat-square&labelColor=343b41)](https://github.com/midday-ai/v1/commits)
+
+</div>
+
+`monorepo` `nextjs` `shadcn` `tailwind` `turborepo`
 
 ---
 
@@ -7143,6 +7173,20 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/1438012?v=4" width="20" align="top" alt="markqvist"/> [markqvist/Reticulum](https://github.com/markqvist/Reticulum) 🔥
+
+> The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/markqvist/Reticulum?style=flat-square&labelColor=343b41)](https://github.com/markqvist/Reticulum/stargazers) [![Forks](https://img.shields.io/github/forks/markqvist/Reticulum?style=flat-square&labelColor=343b41)](https://github.com/markqvist/Reticulum/network/members) [![Last Commit](https://img.shields.io/github/last-commit/markqvist/Reticulum?style=flat-square&labelColor=343b41)](https://github.com/markqvist/Reticulum/commits)
+
+</div>
+
+`networking-stack` `packet-radio` `lora` `mesh-networks` `reticulum`
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/58701512?v=4" width="20" align="top" alt="StartBootstrap"/> [StartBootstrap/startbootstrap-freelancer](https://github.com/StartBootstrap/startbootstrap-freelancer) 🔥
 
 > A flat design, one page, MIT licensed Bootstrap portfolio theme created by Start Bootstrap
@@ -7159,7 +7203,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/142983232?v=4" width="20" align="top" alt="fastrepl"/> [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) 🔥
 
-> Privacy-first AI Notepad for back-to-back meetings
+> Secure AI-powered meeting notetaker that runs on your device and keeps your data private.
 
 <div align="center">
 
@@ -7168,6 +7212,20 @@
 </div>
 
 `local-first` `notetaking` `open-source` `react` `rust`
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/196640840?v=4" width="20" align="top" alt="cactus-compute"/> [cactus-compute/cactus](https://github.com/cactus-compute/cactus) 🔥
+
+> Cross-platform framework for deploying LLM/VLM/TTS models locally on smartphones.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/cactus-compute/cactus?style=flat-square&labelColor=343b41)](https://github.com/cactus-compute/cactus/stargazers) [![Forks](https://img.shields.io/github/forks/cactus-compute/cactus?style=flat-square&labelColor=343b41)](https://github.com/cactus-compute/cactus/network/members) [![Last Commit](https://img.shields.io/github/last-commit/cactus-compute/cactus?style=flat-square&labelColor=343b41)](https://github.com/cactus-compute/cactus/commits)
+
+</div>
+
+`ai` `android` `dart` `edge` `flutter`
 
 ---
 
@@ -7185,20 +7243,6 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/196640840?v=4" width="20" align="top" alt="cactus-compute"/> [cactus-compute/cactus](https://github.com/cactus-compute/cactus) 🔥
-
-> A cross-platform framework for deploying LLMs, VLMs, Embedding Models, TTS models and more locally on smartphones.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/cactus-compute/cactus?style=flat-square&labelColor=343b41)](https://github.com/cactus-compute/cactus/stargazers) [![Forks](https://img.shields.io/github/forks/cactus-compute/cactus?style=flat-square&labelColor=343b41)](https://github.com/cactus-compute/cactus/network/members) [![Last Commit](https://img.shields.io/github/last-commit/cactus-compute/cactus?style=flat-square&labelColor=343b41)](https://github.com/cactus-compute/cactus/commits)
-
-</div>
-
-`ai` `android` `dart` `edge` `flutter`
-
----
-
 ### <img src="https://avatars.githubusercontent.com/u/31612210?v=4" width="20" align="top" alt="janarosmonaliev"/> [janarosmonaliev/github-globe](https://github.com/janarosmonaliev/github-globe) 🔥
 
 > The Globe from Github's homepage implemented in ThreeJS with beautiful shading.
@@ -7213,6 +7257,18 @@
 
 ---
 
+### <img src="https://avatars.githubusercontent.com/u/64313183?v=4" width="20" align="top" alt="gensyn-ai"/> [gensyn-ai/rl-swarm](https://github.com/gensyn-ai/rl-swarm) 🔥
+
+> A fully open source framework for creating RL training swarms over the internet.
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/gensyn-ai/rl-swarm?style=flat-square&labelColor=343b41)](https://github.com/gensyn-ai/rl-swarm/stargazers) [![Forks](https://img.shields.io/github/forks/gensyn-ai/rl-swarm?style=flat-square&labelColor=343b41)](https://github.com/gensyn-ai/rl-swarm/network/members) [![Last Commit](https://img.shields.io/github/last-commit/gensyn-ai/rl-swarm?style=flat-square&labelColor=343b41)](https://github.com/gensyn-ai/rl-swarm/commits)
+
+</div>
+
+---
+
 ### <img src="https://avatars.githubusercontent.com/u/41103290?v=4" width="20" align="top" alt="yousinix"/> [yousinix/portfolYOU](https://github.com/yousinix/portfolYOU) 🔥
 
 > A beautiful portfolio Jekyll theme that works with GitHub Pages.
@@ -7224,18 +7280,6 @@
 </div>
 
 `blog-theme` `github-pages` `jekyll` `jekyll-theme` `minimal`
-
----
-
-### <img src="https://avatars.githubusercontent.com/u/64313183?v=4" width="20" align="top" alt="gensyn-ai"/> [gensyn-ai/rl-swarm](https://github.com/gensyn-ai/rl-swarm) 🔥
-
-> A fully open source framework for creating RL training swarms over the internet.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/gensyn-ai/rl-swarm?style=flat-square&labelColor=343b41)](https://github.com/gensyn-ai/rl-swarm/stargazers) [![Forks](https://img.shields.io/github/forks/gensyn-ai/rl-swarm?style=flat-square&labelColor=343b41)](https://github.com/gensyn-ai/rl-swarm/network/members) [![Last Commit](https://img.shields.io/github/last-commit/gensyn-ai/rl-swarm?style=flat-square&labelColor=343b41)](https://github.com/gensyn-ai/rl-swarm/commits)
-
-</div>
 
 ---
 
@@ -7390,6 +7434,16 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/IvanReznikov/DataVerse?style=flat-square&labelColor=343b41)](https://github.com/IvanReznikov/DataVerse/stargazers) [![Forks](https://img.shields.io/github/forks/IvanReznikov/DataVerse?style=flat-square&labelColor=343b41)](https://github.com/IvanReznikov/DataVerse/network/members) [![Last Commit](https://img.shields.io/github/last-commit/IvanReznikov/DataVerse?style=flat-square&labelColor=343b41)](https://github.com/IvanReznikov/DataVerse/commits)
+
+</div>
+
+---
+
+### <img src="https://avatars.githubusercontent.com/u/128464815?v=4" width="20" align="top" alt="ComposioHQ"/> [ComposioHQ/grok-cli](https://github.com/ComposioHQ/grok-cli)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/ComposioHQ/grok-cli?style=flat-square&labelColor=343b41)](https://github.com/ComposioHQ/grok-cli/stargazers) [![Forks](https://img.shields.io/github/forks/ComposioHQ/grok-cli?style=flat-square&labelColor=343b41)](https://github.com/ComposioHQ/grok-cli/network/members) [![Last Commit](https://img.shields.io/github/last-commit/ComposioHQ/grok-cli?style=flat-square&labelColor=343b41)](https://github.com/ComposioHQ/grok-cli/commits)
 
 </div>
 
