@@ -3,6 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const { Octokit } = require('@octokit/rest');
 const { GoogleGenerativeAI } = require('@google/generative-ai');
+const fsExtra = require('fs'); // Use fsExtra for mkdirSync with recursive
 
 // Initialize Octokit with GitHub token
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
@@ -197,6 +198,80 @@ async function categorizeWithGemini(repos, categorizations, mappingPath) {
   }
 }
 
+function slugifyCategory(catName) {
+  return catName.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+}
+
+function trimDescription(desc, maxLen = 100) {
+  if (!desc) return '';
+  if (desc.length <= maxLen) return desc;
+  return desc.slice(0, maxLen).trim() + '...';
+}
+
+// Helper to render an animated New flag using the provided GIF
+function renderNewFlag(width = 40) {
+  return `<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="${width}" alt="new"/>`;
+}
+
+function renderRepoCardMarkdown(repo, showNewFlag = false, leftAlign = false) {
+  if (leftAlign) {
+    // Left-aligned card for category pages, with border, padding, and margin for separation
+    return `<div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; margin:24px 0; background:#fff;">
+      ${showNewFlag ? renderNewFlag(40) + '<br/>' : ''}
+      <img src="${repo.owner.avatar_url}" width="32" style="vertical-align:middle;"/> <strong><a href="${repo.html_url}">${repo.full_name}</a> ${getHeat(repo.stargazers_count)}</strong><br/>
+      <em>${trimDescription(repo.description, 120)}</em><br/>
+      <span>
+        <a href="${repo.html_url}/stargazers"><img src="https://img.shields.io/github/stars/${repo.full_name}?style=flat-square&labelColor=343b41"></a>
+        <a href="${repo.html_url}/network/members"><img src="https://img.shields.io/github/forks/${repo.full_name}?style=flat-square&labelColor=343b41"></a>
+        <a href="${repo.html_url}/commits"><img src="https://img.shields.io/github/last-commit/${repo.full_name}?style=flat-square&labelColor=343b41"></a>
+      </span>
+    </div>\n`;
+  }
+  // Default: flag at top-left, rest centered (for main README grid)
+  return `${showNewFlag ? '<div align="left">' + renderNewFlag(40) + '</div>' : ''}
+<div align="center">
+  <img src="${repo.owner.avatar_url}" width="32"/><br/>
+  <strong><a href="${repo.html_url}">${repo.full_name}</a> ${getHeat(repo.stargazers_count)}</strong>
+  <br/>
+  <em>${trimDescription(repo.description, 120)}</em>
+  <br/>
+  <span>
+    <a href="${repo.html_url}/stargazers"><img src="https://img.shields.io/github/stars/${repo.full_name}?style=flat-square&labelColor=343b41"></a>
+    <a href="${repo.html_url}/network/members"><img src="https://img.shields.io/github/forks/${repo.full_name}?style=flat-square&labelColor=343b41"></a>
+    <a href="${repo.html_url}/commits"><img src="https://img.shields.io/github/last-commit/${repo.full_name}?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>\n\n`;
+}
+
+function renderRecentTableMarkdown(repos) {
+  let rows = [];
+  for (let i = 0; i < repos.length; i += 2) {
+    const left = repos[i];
+    const right = repos[i + 1];
+    const leftCell = left ? renderRepoCardMarkdown(left) : '';
+    const rightCell = right ? renderRepoCardMarkdown(right) : '';
+    rows.push(`${leftCell}${rightCell}`);
+  }
+  return rows.join('\n');
+}
+
+// Helper to render a grid of repo cards
+function renderRepoGridMarkdown(repos, columns = 2, showNewFlag = false) {
+  let grid = '<table align="center">';
+  for (let i = 0; i < repos.length; i += columns) {
+    grid += '<tr>';
+    for (let j = 0; j < columns; j++) {
+      const repo = repos[i + j];
+      grid += '<td style="vertical-align:top; padding: 24px 36px; text-align:center;">';
+      if (repo) grid += renderRepoCardMarkdown(repo, showNewFlag);
+      grid += '</td>';
+    }
+    grid += '</tr>';
+  }
+  grid += '</table>';
+  return grid;
+}
+
 (async () => {
   const user = 'anukchat';
   const stars = await getStarredRepos(user);
@@ -232,54 +307,54 @@ async function categorizeWithGemini(repos, categorizations, mappingPath) {
     buckets[category].push(r);
   }
 
-  // --- README GENERATION ---
-  // Badge row
-  let md = `<p align=\"center\"><img src=\"assets/awesome-logo.png\" width=\"120\" alt=\"Awesome Repos\"/></p>\n`;
-  md += `<h1 align=\"center\">🚀 Awesome GitHub Repos</h1>\n`;
-  md += `<p align=\"center\">Awesome & Popular AI Repos to follow, fully curated & categorized by <a href=\"https://github.com/anukchat\">Anukool Chaturvedi</a></p>\n`;
-  md += `<p align=\"center\">
-  <a href=\"https://github.com/anukchat/awesome-github-repos/stargazers\"><img src=\"https://img.shields.io/github/stars/anukchat/awesome-github-repos?style=flat-square\"></a>
-  <a href=\"https://github.com/anukchat/awesome-github-repos/network/members\"><img src=\"https://img.shields.io/github/forks/anukchat/awesome-github-repos?style=flat-square\"></a>
-  <a href=\"https://github.com/anukchat/awesome-github-repos/blob/main/LICENSE\"><img src=\"https://img.shields.io/github/license/anukchat/awesome-github-repos?style=flat-square\"></a>
+  // --- MAIN README GENERATION ---
+  let md = `<p align="center"><img src="assets/awesome-logo.png" width="120" alt="Awesome Repos"/></p>\n`;
+  md += `<h1 align="center">🚀 Awesome GitHub Repos</h1>\n`;
+  md += `<p align="center">Awesome & Popular AI Repos to follow, fully curated & categorized by <a href="https://github.com/anukchat">Anukool Chaturvedi</a></p>\n`;
+  md += `<p align="center">
+  <a href="https://github.com/anukchat/awesome-github-repos/stargazers"><img src="https://img.shields.io/github/stars/anukchat/awesome-github-repos?style=flat-square"></a>
+  <a href="https://github.com/anukchat/awesome-github-repos/network/members"><img src="https://img.shields.io/github/forks/anukchat/awesome-github-repos?style=flat-square"></a>
+  <a href="https://github.com/anukchat/awesome-github-repos/blob/main/LICENSE"><img src="https://img.shields.io/github/license/anukchat/awesome-github-repos?style=flat-square"></a>
   </p>\n\n`;
 
-  // Table of Contents
-  md += `---\n\n## 📑 Table of Contents\n\n`;
+  // Recent Additions (Markdown only, now as accordion)
+  const recentCount = stars.slice(0, 10).length;
+  md += `<details align="center">\n<summary>${renderNewFlag(28)} <strong>Recent Additions (${recentCount})</strong></summary>\n\n`;
+  md += renderRepoGridMarkdown(stars.slice(0, 10), 2, true) + '\n\n';
+  md += `</details>\n\n`;
+
+  // Table of Contents (links to category markdowns)
+  md += `## 📑 Table of Contents\n\n`;
   allowedCategories.forEach(cat => {
-    const slug = cat.name.toLowerCase().replace(/[^a-z0-9]/g, '').trim();
-    md += `- [${cat.name}](#${slug})\n`;
+    const slug = slugifyCategory(cat.name);
+    md += `- [${cat.name}](categories/${slug}.md): ${cat.desc}\n`;
   });
   md += `\n---\n\n`;
 
-  // Category sections
+  fs.writeFileSync(path.join(__dirname, '..', 'README.md'), md);
+
+  // --- CATEGORY MARKDOWN GENERATION ---
   allowedCategories.forEach(cat => {
     const list = buckets[cat.name];
     if (!list || !list.length) return;
-    const slug = cat.name.toLowerCase().replace(/[^a-z0-9]/g, '').trim();
-    md += `<h2 id=\"${slug}\">${cat.name}</h2>\n`;
-    md += `<p><i>${cat.desc}</i></p>\n`;
-    md += `<details><summary>Show repositories (${list.length})</summary>\n\n`;
+    const slug = slugifyCategory(cat.name);
+    const filePath = path.join(__dirname, '..', 'categories', `${slug}.md`);
+    if (!fsExtra.existsSync(path.dirname(filePath))) {
+      fsExtra.mkdirSync(path.dirname(filePath), { recursive: true });
+    }
+    // Generate category markdown content
+    let catMd = `<p align="center"><img src="../assets/awesome-logo.png" width="100" alt="Awesome Repos"/></p>\n`;
+    catMd += `<h1 align="center">${cat.name}</h1>\n`;
+    catMd += `<p align="center"><i>${cat.desc}</i></p>\n\n`;
+    catMd += `<p align="center"><a href="../README.md">← Back to main page</a></p>\n\n`;
+    // List all repos in clean markdown cards, left-aligned and separated
     list.sort((a, b) => b.stargazers_count - a.stargazers_count);
     for (const repo of list) {
-      md += `### <img src=\"${repo.owner.avatar_url}\" width=\"20\" align=\"top\" alt=\"${repo.owner.login}\"/> [${repo.owner.login}/${repo.name}](${repo.html_url})`;
-      const heat = getHeat(repo.stargazers_count);
-      if (heat) md += ` ${heat}`;
-      md += `\n\n`;
-      if (repo.description) md += `> ${repo.description}\n\n`;
-      md += `<div align=\"center\">\n\n`;
-      md += `[![Stars](https://img.shields.io/github/stars/${repo.full_name}?style=flat-square&labelColor=343b41)](${repo.html_url}/stargazers) `;
-      md += `[![Forks](https://img.shields.io/github/forks/${repo.full_name}?style=flat-square&labelColor=343b41)](${repo.html_url}/network/members) `;
-      md += `[![Last Commit](https://img.shields.io/github/last-commit/${repo.full_name}?style=flat-square&labelColor=343b41)](${repo.html_url}/commits)\n\n</div>\n\n`;
-      if (repo.topics?.length) md += repo.topics.slice(0, 5).map(t => `\`${t}\``).join(' ') + '\n\n';
-      if (list.indexOf(repo) !== list.length - 1) md += '---\n\n';
+      // Ensure no leading spaces or code block formatting
+      catMd += renderRepoCardMarkdown(repo, false, true) + '\n';
     }
-    md += `</details>\n\n---\n\n`;
+    // Remove any accidental leading spaces from each line
+    catMd = catMd.split('\n').map(line => line.trimStart()).join('\n');
+    fs.writeFileSync(filePath, catMd);
   });
-
-  // Contributing & License
-  md += `## 🙌 Contributing\n\nWant to add your favorite repo? [Open a PR](CONTRIBUTING.md) or [file an issue](ISSUES.md)!\n\n`;
-  md += `## 📜 License\n\nMIT © Anukool Chaturvedi\n`;
-
-  fs.writeFileSync(path.join(__dirname, '..', 'README.md'), md);
-  console.log('✅ README.md generated with enhanced UX layout');
 })();

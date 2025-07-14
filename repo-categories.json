@@ -544,5 +544,13 @@
   "twitter/the-algorithm": "Others",
   "tatsu-lab/stanford_alpaca": "Large Language Models (LLMs)",
   "microsoft/semantic-kernel": "AI Frameworks & Toolkits",
-  "mayooear/ai-pdf-chatbot-langchain": "Retrieval-Augmented Generation (RAG)"
+  "mayooear/ai-pdf-chatbot-langchain": "Retrieval-Augmented Generation (RAG)",
+  "humanlayer/12-factor-agents": "AI Agents & Multi-Agent Systems",
+  "googleapis/genai-toolbox": "Model Context Protocol (MCP)",
+  "Doriandarko/claude-engineer": "AI Agents & Multi-Agent Systems",
+  "markqvist/Reticulum": "Others",
+  "danny-avila/LibreChat": "Conversational AI & Chatbots",
+  "ComposioHQ/grok-cli": "Others",
+  "RapidAI/RapidOCR": "Computer Vision & Image Generation",
+  "lukasmasuch/best-of-ml-python": "Awesome Lists & Aggregators"
 }
