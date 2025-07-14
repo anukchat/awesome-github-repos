@@ -215,17 +215,16 @@ function renderNewFlag(width = 40) {
 
 function renderRepoCardMarkdown(repo, showNewFlag = false, leftAlign = false) {
   if (leftAlign) {
-    // Left-aligned card for category pages, with border, padding, and margin for separation
-    return `<div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; margin:24px 0; background:#fff;">
+    // Left-aligned card for category pages, with border and padding for separation
+    return `<div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
       ${showNewFlag ? renderNewFlag(40) + '<br/>' : ''}
       <img src="${repo.owner.avatar_url}" width="32" style="vertical-align:middle;"/> <strong><a href="${repo.html_url}">${repo.full_name}</a> ${getHeat(repo.stargazers_count)}</strong><br/>
       <em>${trimDescription(repo.description, 120)}</em><br/>
       <span>
         <a href="${repo.html_url}/stargazers"><img src="https://img.shields.io/github/stars/${repo.full_name}?style=flat-square&labelColor=343b41"></a>
         <a href="${repo.html_url}/network/members"><img src="https://img.shields.io/github/forks/${repo.full_name}?style=flat-square&labelColor=343b41"></a>
-        <a href="${repo.html_url}/commits"><img src="https://img.shields.io/github/last-commit/${repo.full_name}?style=flat-square&labelColor=343b41"></a>
       </span>
-    </div>\n`;
+    </div><br><br>\n`;
   }
   // Default: flag at top-left, rest centered (for main README grid)
   return `${showNewFlag ? '<div align="left">' + renderNewFlag(40) + '</div>' : ''}
@@ -238,7 +237,6 @@ function renderRepoCardMarkdown(repo, showNewFlag = false, leftAlign = false) {
   <span>
     <a href="${repo.html_url}/stargazers"><img src="https://img.shields.io/github/stars/${repo.full_name}?style=flat-square&labelColor=343b41"></a>
     <a href="${repo.html_url}/network/members"><img src="https://img.shields.io/github/forks/${repo.full_name}?style=flat-square&labelColor=343b41"></a>
-    <a href="${repo.html_url}/commits"><img src="https://img.shields.io/github/last-commit/${repo.full_name}?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>\n\n`;
 }
