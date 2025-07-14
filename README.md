@@ -14,13 +14,12 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/177409041?v=4" width="32"/><br/>
   <strong><a href="https://github.com/humanlayer/12-factor-agents">humanlayer/12-factor-agents</a> 🔥🔥</strong>
-  <br/>
+  <br/><br/>
   <em>What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of pro...</em>
-  <br/>
+  <br/><br/>
   <span>
     <a href="https://github.com/humanlayer/12-factor-agents/stargazers"><img src="https://img.shields.io/github/stars/humanlayer/12-factor-agents?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/humanlayer/12-factor-agents/network/members"><img src="https://img.shields.io/github/forks/humanlayer/12-factor-agents?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/humanlayer/12-factor-agents/commits"><img src="https://img.shields.io/github/last-commit/humanlayer/12-factor-agents?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
@@ -28,13 +27,12 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/16785467?v=4" width="32"/><br/>
   <strong><a href="https://github.com/googleapis/genai-toolbox">googleapis/genai-toolbox</a> 🔥🔥</strong>
-  <br/>
+  <br/><br/>
   <em>MCP Toolbox for Databases is an open source MCP server for databases.</em>
-  <br/>
+  <br/><br/>
   <span>
     <a href="https://github.com/googleapis/genai-toolbox/stargazers"><img src="https://img.shields.io/github/stars/googleapis/genai-toolbox?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/googleapis/genai-toolbox/network/members"><img src="https://img.shields.io/github/forks/googleapis/genai-toolbox?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/googleapis/genai-toolbox/commits"><img src="https://img.shields.io/github/last-commit/googleapis/genai-toolbox?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
@@ -42,13 +40,12 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/1247180?v=4" width="32"/><br/>
   <strong><a href="https://github.com/Doriandarko/claude-engineer">Doriandarko/claude-engineer</a> 🔥🔥🔥</strong>
-  <br/>
+  <br/><br/>
   <em>Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet...</em>
-  <br/>
+  <br/><br/>
   <span>
     <a href="https://github.com/Doriandarko/claude-engineer/stargazers"><img src="https://img.shields.io/github/stars/Doriandarko/claude-engineer?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/Doriandarko/claude-engineer/network/members"><img src="https://img.shields.io/github/forks/Doriandarko/claude-engineer?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/Doriandarko/claude-engineer/commits"><img src="https://img.shields.io/github/last-commit/Doriandarko/claude-engineer?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
@@ -56,13 +53,12 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/1438012?v=4" width="32"/><br/>
   <strong><a href="https://github.com/markqvist/Reticulum">markqvist/Reticulum</a> 🔥</strong>
-  <br/>
+  <br/><br/>
   <em>The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything i...</em>
-  <br/>
+  <br/><br/>
   <span>
     <a href="https://github.com/markqvist/Reticulum/stargazers"><img src="https://img.shields.io/github/stars/markqvist/Reticulum?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/markqvist/Reticulum/network/members"><img src="https://img.shields.io/github/forks/markqvist/Reticulum?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/markqvist/Reticulum/commits"><img src="https://img.shields.io/github/last-commit/markqvist/Reticulum?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
@@ -70,13 +66,12 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/110412045?v=4" width="32"/><br/>
   <strong><a href="https://github.com/danny-avila/LibreChat">danny-avila/LibreChat</a> 🔥🔥🔥</strong>
-  <br/>
+  <br/><br/>
   <em>Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistr...</em>
-  <br/>
+  <br/><br/>
   <span>
     <a href="https://github.com/danny-avila/LibreChat/stargazers"><img src="https://img.shields.io/github/stars/danny-avila/LibreChat?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/danny-avila/LibreChat/network/members"><img src="https://img.shields.io/github/forks/danny-avila/LibreChat?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/danny-avila/LibreChat/commits"><img src="https://img.shields.io/github/last-commit/danny-avila/LibreChat?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
@@ -84,13 +79,12 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/128464815?v=4" width="32"/><br/>
   <strong><a href="https://github.com/ComposioHQ/grok-cli">ComposioHQ/grok-cli</a> </strong>
-  <br/>
+  <br/><br/>
   <em></em>
-  <br/>
+  <br/><br/>
   <span>
     <a href="https://github.com/ComposioHQ/grok-cli/stargazers"><img src="https://img.shields.io/github/stars/ComposioHQ/grok-cli?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/ComposioHQ/grok-cli/network/members"><img src="https://img.shields.io/github/forks/ComposioHQ/grok-cli?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/ComposioHQ/grok-cli/commits"><img src="https://img.shields.io/github/last-commit/ComposioHQ/grok-cli?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
@@ -98,13 +92,12 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/87350760?v=4" width="32"/><br/>
   <strong><a href="https://github.com/RapidAI/RapidOCR">RapidAI/RapidOCR</a> 🔥</strong>
-  <br/>
+  <br/><br/>
   <em>📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, PaddlePaddle and PyTorch.</em>
-  <br/>
+  <br/><br/>
   <span>
     <a href="https://github.com/RapidAI/RapidOCR/stargazers"><img src="https://img.shields.io/github/stars/RapidAI/RapidOCR?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/RapidAI/RapidOCR/network/members"><img src="https://img.shields.io/github/forks/RapidAI/RapidOCR?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/RapidAI/RapidOCR/commits"><img src="https://img.shields.io/github/last-commit/RapidAI/RapidOCR?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
@@ -112,13 +105,12 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/120314019?v=4" width="32"/><br/>
   <strong><a href="https://github.com/metorial/mcp-containers">metorial/mcp-containers</a> 🔥</strong>
-  <br/>
+  <br/><br/>
   <em>Containerized versions of hundreds of MCP servers 📡 🧠</em>
-  <br/>
+  <br/><br/>
   <span>
     <a href="https://github.com/metorial/mcp-containers/stargazers"><img src="https://img.shields.io/github/stars/metorial/mcp-containers?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/metorial/mcp-containers/network/members"><img src="https://img.shields.io/github/forks/metorial/mcp-containers?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/metorial/mcp-containers/commits"><img src="https://img.shields.io/github/last-commit/metorial/mcp-containers?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
@@ -126,13 +118,12 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/1054593?v=4" width="32"/><br/>
   <strong><a href="https://github.com/philfung/awesome-reliable-robotics">philfung/awesome-reliable-robotics</a> </strong>
-  <br/>
+  <br/><br/>
   <em>Robotics research demonstrating reliability and robustness in the real world (continuously updated)</em>
-  <br/>
+  <br/><br/>
   <span>
     <a href="https://github.com/philfung/awesome-reliable-robotics/stargazers"><img src="https://img.shields.io/github/stars/philfung/awesome-reliable-robotics?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/philfung/awesome-reliable-robotics/network/members"><img src="https://img.shields.io/github/forks/philfung/awesome-reliable-robotics?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/philfung/awesome-reliable-robotics/commits"><img src="https://img.shields.io/github/last-commit/philfung/awesome-reliable-robotics?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
@@ -140,13 +131,12 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/193350244?v=4" width="32"/><br/>
   <strong><a href="https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge">The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge</a> 🔥🔥🔥</strong>
-  <br/>
+  <br/><br/>
   <em>Pocket Flow: Codebase to Tutorial</em>
-  <br/>
+  <br/><br/>
   <span>
     <a href="https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge/stargazers"><img src="https://img.shields.io/github/stars/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge/network/members"><img src="https://img.shields.io/github/forks/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge/commits"><img src="https://img.shields.io/github/last-commit/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 

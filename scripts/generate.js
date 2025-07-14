@@ -232,13 +232,12 @@ function renderRepoCardMarkdown(repo, showNewFlag = false, leftAlign = false, us
 <div align="center">
   <img src="${repo.owner.avatar_url}" width="32"/><br/>
   <strong><a href="${repo.html_url}">${repo.full_name}</a> ${getHeat(repo.stargazers_count)}</strong>
-  <br/>
+  <br/><br/>
   <em>${trimDescription(repo.description, 120)}</em>
-  <br/>
+  <br/><br/>
   <span>
     <a href="${repo.html_url}/stargazers"><img src="https://img.shields.io/github/stars/${repo.full_name}?style=flat-square&labelColor=343b41"></a>
     <a href="${repo.html_url}/network/members"><img src="https://img.shields.io/github/forks/${repo.full_name}?style=flat-square&labelColor=343b41"></a>
-    <a href="${repo.html_url}/commits"><img src="https://img.shields.io/github/last-commit/${repo.full_name}?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>\n\n`;
 }
