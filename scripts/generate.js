@@ -219,8 +219,8 @@ function renderRepoCardMarkdown(repo, showNewFlag = false, leftAlign = false, us
     // Left-aligned card for category pages, with border and padding for separation
     return `<div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
       ${showNewFlag ? renderNewFlag(40) + '<br/>' : ''}
-      <img src="${repo.owner.avatar_url}" width="32" style="vertical-align:middle;"/> <strong><a href="${repo.html_url}">${repo.full_name}</a> ${getHeat(repo.stargazers_count)}</strong><br/>
-      <em>${description}</em><br/>
+      <img src="${repo.owner.avatar_url}" width="32" style="vertical-align:middle;"/> <strong><a href="${repo.html_url}">${repo.full_name}</a> ${getHeat(repo.stargazers_count)}</strong><br/><br/>
+      <em>${description}</em><br/><br/>
       <span>
         <a href="${repo.html_url}/stargazers"><img src="https://img.shields.io/github/stars/${repo.full_name}?style=flat-square&labelColor=343b41"></a>
         <a href="${repo.html_url}/network/members"><img src="https://img.shields.io/github/forks/${repo.full_name}?style=flat-square&labelColor=343b41"></a>

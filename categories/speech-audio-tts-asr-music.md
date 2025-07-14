@@ -6,8 +6,8 @@
 
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
-<img src="https://avatars.githubusercontent.com/u/134263123?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/ggml-org/whisper.cpp">ggml-org/whisper.cpp</a> 🔥🔥🔥</strong><br/>
-<em>Port of OpenAI's Whisper model in C/C++</em><br/>
+<img src="https://avatars.githubusercontent.com/u/134263123?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/ggml-org/whisper.cpp">ggml-org/whisper.cpp</a> 🔥🔥🔥</strong><br/><br/>
+<em>Port of OpenAI's Whisper model in C/C++</em><br/><br/>
 <span>
 <a href="https://github.com/ggml-org/whisper.cpp/stargazers"><img src="https://img.shields.io/github/stars/ggml-org/whisper.cpp?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/ggml-org/whisper.cpp/network/members"><img src="https://img.shields.io/github/forks/ggml-org/whisper.cpp?style=flat-square&labelColor=343b41"></a>
@@ -16,8 +16,8 @@
 
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
-<img src="https://avatars.githubusercontent.com/u/99442120?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/suno-ai/bark">suno-ai/bark</a> 🔥🔥🔥</strong><br/>
-<em>🔊 Text-Prompted Generative Audio Model</em><br/>
+<img src="https://avatars.githubusercontent.com/u/99442120?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/suno-ai/bark">suno-ai/bark</a> 🔥🔥🔥</strong><br/><br/>
+<em>🔊 Text-Prompted Generative Audio Model</em><br/><br/>
 <span>
 <a href="https://github.com/suno-ai/bark/stargazers"><img src="https://img.shields.io/github/stars/suno-ai/bark?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/suno-ai/bark/network/members"><img src="https://img.shields.io/github/forks/suno-ai/bark?style=flat-square&labelColor=343b41"></a>
@@ -26,8 +26,8 @@
 
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
-<img src="https://avatars.githubusercontent.com/u/127754094?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/myshell-ai/OpenVoice">myshell-ai/OpenVoice</a> 🔥🔥🔥</strong><br/>
-<em>Instant voice cloning by MIT and MyShell. Audio foundation model.</em><br/>
+<img src="https://avatars.githubusercontent.com/u/127754094?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/myshell-ai/OpenVoice">myshell-ai/OpenVoice</a> 🔥🔥🔥</strong><br/><br/>
+<em>Instant voice cloning by MIT and MyShell. Audio foundation model.</em><br/><br/>
 <span>
 <a href="https://github.com/myshell-ai/OpenVoice/stargazers"><img src="https://img.shields.io/github/stars/myshell-ai/OpenVoice?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/myshell-ai/OpenVoice/network/members"><img src="https://img.shields.io/github/forks/myshell-ai/OpenVoice?style=flat-square&labelColor=343b41"></a>
@@ -36,8 +36,8 @@
 
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
-<img src="https://avatars.githubusercontent.com/u/208232306?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/nari-labs/dia">nari-labs/dia</a> 🔥🔥🔥</strong><br/>
-<em>A TTS model capable of generating ultra-realistic dialogue in one pass.</em><br/>
+<img src="https://avatars.githubusercontent.com/u/208232306?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/nari-labs/dia">nari-labs/dia</a> 🔥🔥🔥</strong><br/><br/>
+<em>A TTS model capable of generating ultra-realistic dialogue in one pass.</em><br/><br/>
 <span>
 <a href="https://github.com/nari-labs/dia/stargazers"><img src="https://img.shields.io/github/stars/nari-labs/dia?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/nari-labs/dia/network/members"><img src="https://img.shields.io/github/forks/nari-labs/dia?style=flat-square&labelColor=343b41"></a>
@@ -46,8 +46,8 @@
 
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
-<img src="https://avatars.githubusercontent.com/u/109945100?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/modelscope/FunASR">modelscope/FunASR</a> 🔥🔥🔥</strong><br/>
-<em>A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.</em><br/>
+<img src="https://avatars.githubusercontent.com/u/109945100?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/modelscope/FunASR">modelscope/FunASR</a> 🔥🔥🔥</strong><br/><br/>
+<em>A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.</em><br/><br/>
 <span>
 <a href="https://github.com/modelscope/FunASR/stargazers"><img src="https://img.shields.io/github/stars/modelscope/FunASR?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/modelscope/FunASR/network/members"><img src="https://img.shields.io/github/forks/modelscope/FunASR?style=flat-square&labelColor=343b41"></a>
@@ -56,8 +56,8 @@
 
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
-<img src="https://avatars.githubusercontent.com/u/10245193?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/open-mmlab/Amphion">open-mmlab/Amphion</a> 🔥🔥</strong><br/>
-<em>Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.</em><br/>
+<img src="https://avatars.githubusercontent.com/u/10245193?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/open-mmlab/Amphion">open-mmlab/Amphion</a> 🔥🔥</strong><br/><br/>
+<em>Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.</em><br/><br/>
 <span>
 <a href="https://github.com/open-mmlab/Amphion/stargazers"><img src="https://img.shields.io/github/stars/open-mmlab/Amphion?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/open-mmlab/Amphion/network/members"><img src="https://img.shields.io/github/forks/open-mmlab/Amphion?style=flat-square&labelColor=343b41"></a>
@@ -66,8 +66,8 @@
 
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
-<img src="https://avatars.githubusercontent.com/u/2386538?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/krillinai/KlicStudio">krillinai/KlicStudio</a> 🔥🔥</strong><br/>
-<em> A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容</em><br/>
+<img src="https://avatars.githubusercontent.com/u/2386538?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/krillinai/KlicStudio">krillinai/KlicStudio</a> 🔥🔥</strong><br/><br/>
+<em> A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容</em><br/><br/>
 <span>
 <a href="https://github.com/krillinai/KlicStudio/stargazers"><img src="https://img.shields.io/github/stars/krillinai/KlicStudio?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/krillinai/KlicStudio/network/members"><img src="https://img.shields.io/github/forks/krillinai/KlicStudio?style=flat-square&labelColor=343b41"></a>
@@ -76,8 +76,8 @@
 
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
-<img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/microsoft/muzic">microsoft/muzic</a> 🔥</strong><br/>
-<em>Muzic: Music Understanding and Generation with Artificial Intelligence</em><br/>
+<img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/microsoft/muzic">microsoft/muzic</a> 🔥</strong><br/><br/>
+<em>Muzic: Music Understanding and Generation with Artificial Intelligence</em><br/><br/>
 <span>
 <a href="https://github.com/microsoft/muzic/stargazers"><img src="https://img.shields.io/github/stars/microsoft/muzic?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/microsoft/muzic/network/members"><img src="https://img.shields.io/github/forks/microsoft/muzic?style=flat-square&labelColor=343b41"></a>
@@ -86,8 +86,8 @@
 
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
-<img src="https://avatars.githubusercontent.com/u/84374044?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/wenet-e2e/wenet">wenet-e2e/wenet</a> 🔥</strong><br/>
-<em>Production First and Production Ready End-to-End Speech Recognition Toolkit</em><br/>
+<img src="https://avatars.githubusercontent.com/u/84374044?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/wenet-e2e/wenet">wenet-e2e/wenet</a> 🔥</strong><br/><br/>
+<em>Production First and Production Ready End-to-End Speech Recognition Toolkit</em><br/><br/>
 <span>
 <a href="https://github.com/wenet-e2e/wenet/stargazers"><img src="https://img.shields.io/github/stars/wenet-e2e/wenet?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/wenet-e2e/wenet/network/members"><img src="https://img.shields.io/github/forks/wenet-e2e/wenet?style=flat-square&labelColor=343b41"></a>
@@ -96,8 +96,8 @@
 
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
-<img src="https://avatars.githubusercontent.com/u/107063843?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/metavoiceio/metavoice-src">metavoiceio/metavoice-src</a> 🔥</strong><br/>
-<em>Foundational model for human-like, expressive TTS</em><br/>
+<img src="https://avatars.githubusercontent.com/u/107063843?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/metavoiceio/metavoice-src">metavoiceio/metavoice-src</a> 🔥</strong><br/><br/>
+<em>Foundational model for human-like, expressive TTS</em><br/><br/>
 <span>
 <a href="https://github.com/metavoiceio/metavoice-src/stargazers"><img src="https://img.shields.io/github/stars/metavoiceio/metavoice-src?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/metavoiceio/metavoice-src/network/members"><img src="https://img.shields.io/github/forks/metavoiceio/metavoice-src?style=flat-square&labelColor=343b41"></a>
