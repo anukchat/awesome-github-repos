@@ -37,7 +37,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/10349437?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/bregman-arie/devops-exercises">bregman-arie/devops-exercises</a> 🔥🔥🔥</strong><br/>
-<em>Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure,...</em><br/>
+<em>Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions</em><br/>
 <span>
 <a href="https://github.com/bregman-arie/devops-exercises/stargazers"><img src="https://img.shields.io/github/stars/bregman-arie/devops-exercises?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/bregman-arie/devops-exercises/network/members"><img src="https://img.shields.io/github/forks/bregman-arie/devops-exercises?style=flat-square&labelColor=343b41"></a>
@@ -67,7 +67,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/98614666?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/xtekky/gpt4free">xtekky/gpt4free</a> 🔥🔥🔥</strong><br/>
-<em>The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gem...</em><br/>
+<em>The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5</em><br/>
 <span>
 <a href="https://github.com/xtekky/gpt4free/stargazers"><img src="https://img.shields.io/github/stars/xtekky/gpt4free?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/xtekky/gpt4free/network/members"><img src="https://img.shields.io/github/forks/xtekky/gpt4free?style=flat-square&labelColor=343b41"></a>
@@ -77,7 +77,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/86002201?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/AppFlowy-IO/AppFlowy">AppFlowy-IO/AppFlowy</a> 🔥🔥🔥</strong><br/>
-<em>Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more wit...</em><br/>
+<em>Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.</em><br/>
 <span>
 <a href="https://github.com/AppFlowy-IO/AppFlowy/stargazers"><img src="https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/AppFlowy-IO/AppFlowy/network/members"><img src="https://img.shields.io/github/forks/AppFlowy-IO/AppFlowy?style=flat-square&labelColor=343b41"></a>
@@ -137,7 +137,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/70468694?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/siyuan-note/siyuan">siyuan-note/siyuan</a> 🔥🔥🔥</strong><br/>
-<em>A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang...</em><br/>
+<em>A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.</em><br/>
 <span>
 <a href="https://github.com/siyuan-note/siyuan/stargazers"><img src="https://img.shields.io/github/stars/siyuan-note/siyuan?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/siyuan-note/siyuan/network/members"><img src="https://img.shields.io/github/forks/siyuan-note/siyuan?style=flat-square&labelColor=343b41"></a>
@@ -237,7 +237,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/21212051?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/Byaidu/PDFMathTranslate">Byaidu/PDFMathTranslate</a> 🔥🔥🔥</strong><br/>
-<em>PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提...</em><br/>
+<em>PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero</em><br/>
 <span>
 <a href="https://github.com/Byaidu/PDFMathTranslate/stargazers"><img src="https://img.shields.io/github/stars/Byaidu/PDFMathTranslate?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/Byaidu/PDFMathTranslate/network/members"><img src="https://img.shields.io/github/forks/Byaidu/PDFMathTranslate?style=flat-square&labelColor=343b41"></a>
@@ -357,7 +357,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/31841517?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/aaPanel/BillionMail">aaPanel/BillionMail</a> 🔥🔥</strong><br/>
-<em>BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free f...</em><br/>
+<em>BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr</em><br/>
 <span>
 <a href="https://github.com/aaPanel/BillionMail/stargazers"><img src="https://img.shields.io/github/stars/aaPanel/BillionMail?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/aaPanel/BillionMail/network/members"><img src="https://img.shields.io/github/forks/aaPanel/BillionMail?style=flat-square&labelColor=343b41"></a>
@@ -397,7 +397,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/6844498?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/Azure/azure-sdk-for-python">Azure/azure-sdk-for-python</a> 🔥</strong><br/>
-<em>This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting ou...</em><br/>
+<em>This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python. </em><br/>
 <span>
 <a href="https://github.com/Azure/azure-sdk-for-python/stargazers"><img src="https://img.shields.io/github/stars/Azure/azure-sdk-for-python?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/Azure/azure-sdk-for-python/network/members"><img src="https://img.shields.io/github/forks/Azure/azure-sdk-for-python?style=flat-square&labelColor=343b41"></a>
@@ -477,7 +477,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/1438012?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/markqvist/Reticulum">markqvist/Reticulum</a> 🔥</strong><br/>
-<em>The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything i...</em><br/>
+<em>The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.</em><br/>
 <span>
 <a href="https://github.com/markqvist/Reticulum/stargazers"><img src="https://img.shields.io/github/stars/markqvist/Reticulum?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/markqvist/Reticulum/network/members"><img src="https://img.shields.io/github/forks/markqvist/Reticulum?style=flat-square&labelColor=343b41"></a>
@@ -587,7 +587,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/14660273?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/tbaltrushaitis/cv">tbaltrushaitis/cv</a> </strong><br/>
-<em>:mortar_board: Best in Class modern CV, Resume and Portfolio website template. All-in-One-Page site with simply customiz...</em><br/>
+<em>:mortar_board: Best in Class modern CV, Resume and Portfolio website template. All-in-One-Page site with simply customizable builder.</em><br/>
 <span>
 <a href="https://github.com/tbaltrushaitis/cv/stargazers"><img src="https://img.shields.io/github/stars/tbaltrushaitis/cv?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/tbaltrushaitis/cv/network/members"><img src="https://img.shields.io/github/forks/tbaltrushaitis/cv?style=flat-square&labelColor=343b41"></a>
@@ -597,7 +597,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/133936441?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/nolly-studio/cult-directory-template">nolly-studio/cult-directory-template</a> </strong><br/>
-<em>A full stack Next.js, Shadcn, and Supabase directory template. Build your startup directory effortlessly with features l...</em><br/>
+<em>A full stack Next.js, Shadcn, and Supabase directory template. Build your startup directory effortlessly with features like user authentication, product filters, and customizable themes. Advanced admin perks and AI magic.</em><br/>
 <span>
 <a href="https://github.com/nolly-studio/cult-directory-template/stargazers"><img src="https://img.shields.io/github/stars/nolly-studio/cult-directory-template?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/nolly-studio/cult-directory-template/network/members"><img src="https://img.shields.io/github/forks/nolly-studio/cult-directory-template?style=flat-square&labelColor=343b41"></a>
@@ -637,7 +637,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/62574431?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/rkinas/triton-resources">rkinas/triton-resources</a> </strong><br/>
-<em>A curated list of resources for learning and exploring Triton, OpenAI's programming language for writing efficient GPU c...</em><br/>
+<em>A curated list of resources for learning and exploring Triton, OpenAI's programming language for writing efficient GPU code.</em><br/>
 <span>
 <a href="https://github.com/rkinas/triton-resources/stargazers"><img src="https://img.shields.io/github/stars/rkinas/triton-resources?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/rkinas/triton-resources/network/members"><img src="https://img.shields.io/github/forks/rkinas/triton-resources?style=flat-square&labelColor=343b41"></a>

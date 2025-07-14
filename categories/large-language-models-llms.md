@@ -57,7 +57,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/unslothai/unsloth">unslothai/unsloth</a> 🔥🔥🔥</strong><br/>
-<em>Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% les...</em><br/>
+<em>Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.</em><br/>
 <span>
 <a href="https://github.com/unslothai/unsloth/stargazers"><img src="https://img.shields.io/github/stars/unslothai/unsloth?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/unslothai/unsloth/network/members"><img src="https://img.shields.io/github/forks/unslothai/unsloth?style=flat-square&labelColor=343b41"></a>
@@ -107,7 +107,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/153379578?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/meta-llama/llama-cookbook">meta-llama/llama-cookbook</a> 🔥🔥🔥</strong><br/>
-<em>Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tu...</em><br/>
+<em>Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services  </em><br/>
 <span>
 <a href="https://github.com/meta-llama/llama-cookbook/stargazers"><img src="https://img.shields.io/github/stars/meta-llama/llama-cookbook?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/meta-llama/llama-cookbook/network/members"><img src="https://img.shields.io/github/forks/meta-llama/llama-cookbook?style=flat-square&labelColor=343b41"></a>
@@ -117,7 +117,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/1728152?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/NVIDIA/NeMo">NVIDIA/NeMo</a> 🔥🔥🔥</strong><br/>
-<em>A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, an...</em><br/>
+<em>A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)</em><br/>
 <span>
 <a href="https://github.com/NVIDIA/NeMo/stargazers"><img src="https://img.shields.io/github/stars/NVIDIA/NeMo?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/NVIDIA/NeMo/network/members"><img src="https://img.shields.io/github/forks/NVIDIA/NeMo?style=flat-square&labelColor=343b41"></a>
@@ -147,7 +147,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/1728152?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/NVIDIA/TensorRT-LLM">NVIDIA/TensorRT-LLM</a> 🔥🔥🔥</strong><br/>
-<em>TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-t...</em><br/>
+<em>TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.</em><br/>
 <span>
 <a href="https://github.com/NVIDIA/TensorRT-LLM/stargazers"><img src="https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/NVIDIA/TensorRT-LLM/network/members"><img src="https://img.shields.io/github/forks/NVIDIA/TensorRT-LLM?style=flat-square&labelColor=343b41"></a>
@@ -287,7 +287,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/5184020?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/dvgodoy/LLM-visuals">dvgodoy/LLM-visuals</a> </strong><br/>
-<em>Over 60 figures and diagrams of LLMs, quantization, low-rank adapters (LoRA), and chat templates FREE TO USE in your blo...</em><br/>
+<em>Over 60 figures and diagrams of LLMs, quantization, low-rank adapters (LoRA), and chat templates FREE TO USE in your blog posts, slides, presentations, or papers. </em><br/>
 <span>
 <a href="https://github.com/dvgodoy/LLM-visuals/stargazers"><img src="https://img.shields.io/github/stars/dvgodoy/LLM-visuals?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/dvgodoy/LLM-visuals/network/members"><img src="https://img.shields.io/github/forks/dvgodoy/LLM-visuals?style=flat-square&labelColor=343b41"></a>

@@ -7,7 +7,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/16128714?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/commaai/openpilot">commaai/openpilot</a> 🔥🔥🔥</strong><br/>
-<em>openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported car...</em><br/>
+<em>openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.</em><br/>
 <span>
 <a href="https://github.com/commaai/openpilot/stargazers"><img src="https://img.shields.io/github/stars/commaai/openpilot?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/commaai/openpilot/network/members"><img src="https://img.shields.io/github/forks/commaai/openpilot?style=flat-square&labelColor=343b41"></a>
@@ -107,7 +107,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/22428774?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/turhancan97/Artificial-Intelligence-for-Robotics">turhancan97/Artificial-Intelligence-for-Robotics</a> </strong><br/>
-<em>Basic methods in Artificial Intelligence, including: probabilistic inference, planning and search, localization, trackin...</em><br/>
+<em>Basic methods in Artificial Intelligence, including: probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics. Extensive programming examples and assignments will apply these methods in the context of building self-driving cars.</em><br/>
 <span>
 <a href="https://github.com/turhancan97/Artificial-Intelligence-for-Robotics/stargazers"><img src="https://img.shields.io/github/stars/turhancan97/Artificial-Intelligence-for-Robotics?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/turhancan97/Artificial-Intelligence-for-Robotics/network/members"><img src="https://img.shields.io/github/forks/turhancan97/Artificial-Intelligence-for-Robotics?style=flat-square&labelColor=343b41"></a>

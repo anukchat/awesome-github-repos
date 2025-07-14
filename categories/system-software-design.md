@@ -17,7 +17,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/8601733?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/gothinkster/realworld">gothinkster/realworld</a> 🔥🔥🔥</strong><br/>
-<em>"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many m...</em><br/>
+<em>"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more</em><br/>
 <span>
 <a href="https://github.com/gothinkster/realworld/stargazers"><img src="https://img.shields.io/github/stars/gothinkster/realworld?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/gothinkster/realworld/network/members"><img src="https://img.shields.io/github/forks/gothinkster/realworld?style=flat-square&labelColor=343b41"></a>
@@ -87,7 +87,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/12856921?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/prasadgujar/low-level-design-primer">prasadgujar/low-level-design-primer</a> 🔥🔥</strong><br/>
-<em>Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the...</em><br/>
+<em>Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.</em><br/>
 <span>
 <a href="https://github.com/prasadgujar/low-level-design-primer/stargazers"><img src="https://img.shields.io/github/stars/prasadgujar/low-level-design-primer?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/prasadgujar/low-level-design-primer/network/members"><img src="https://img.shields.io/github/forks/prasadgujar/low-level-design-primer?style=flat-square&labelColor=343b41"></a>
@@ -97,7 +97,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/1983160?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/ashvardanian/less_slow.cpp">ashvardanian/less_slow.cpp</a> 🔥</strong><br/>
-<em>Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ran...</em><br/>
+<em>Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO</em><br/>
 <span>
 <a href="https://github.com/ashvardanian/less_slow.cpp/stargazers"><img src="https://img.shields.io/github/stars/ashvardanian/less_slow.cpp?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/ashvardanian/less_slow.cpp/network/members"><img src="https://img.shields.io/github/forks/ashvardanian/less_slow.cpp?style=flat-square&labelColor=343b41"></a>

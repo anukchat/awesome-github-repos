@@ -7,7 +7,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/7977505?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/eriklindernoren/ML-From-Scratch">eriklindernoren/ML-From-Scratch</a> 🔥🔥🔥</strong><br/>
-<em>Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus o...</em><br/>
+<em>Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.</em><br/>
 <span>
 <a href="https://github.com/eriklindernoren/ML-From-Scratch/stargazers"><img src="https://img.shields.io/github/stars/eriklindernoren/ML-From-Scratch?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/eriklindernoren/ML-From-Scratch/network/members"><img src="https://img.shields.io/github/forks/eriklindernoren/ML-From-Scratch?style=flat-square&labelColor=343b41"></a>
@@ -37,7 +37,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/26666267?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/firmai/industry-machine-learning">firmai/industry-machine-learning</a> 🔥🔥</strong><br/>
-<em>A curated list of applied machine learning and data science notebooks and libraries across different industries (by @fir...</em><br/>
+<em>A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)</em><br/>
 <span>
 <a href="https://github.com/firmai/industry-machine-learning/stargazers"><img src="https://img.shields.io/github/stars/firmai/industry-machine-learning?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/firmai/industry-machine-learning/network/members"><img src="https://img.shields.io/github/forks/firmai/industry-machine-learning?style=flat-square&labelColor=343b41"></a>
@@ -67,7 +67,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/60442063?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/shushrutsharma/Data-Structures-and-Algorithms-Python">shushrutsharma/Data-Structures-and-Algorithms-Python</a> </strong><br/>
-<em>All the essential resources and template code needed to understand and practice data structures and algorithms in python...</em><br/>
+<em>All the essential resources and template code needed to understand and practice data structures and algorithms in python with few small projects to demonstrate their practical application.</em><br/>
 <span>
 <a href="https://github.com/shushrutsharma/Data-Structures-and-Algorithms-Python/stargazers"><img src="https://img.shields.io/github/stars/shushrutsharma/Data-Structures-and-Algorithms-Python?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/shushrutsharma/Data-Structures-and-Algorithms-Python/network/members"><img src="https://img.shields.io/github/forks/shushrutsharma/Data-Structures-and-Algorithms-Python?style=flat-square&labelColor=343b41"></a>

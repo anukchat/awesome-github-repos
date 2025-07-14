@@ -7,7 +7,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/127876214?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/continuedev/continue">continuedev/continue</a> 🔥🔥🔥</strong><br/>
-<em>⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts...</em><br/>
+<em>⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks</em><br/>
 <span>
 <a href="https://github.com/continuedev/continue/stargazers"><img src="https://img.shields.io/github/stars/continuedev/continue?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/continuedev/continue/network/members"><img src="https://img.shields.io/github/forks/continuedev/continue?style=flat-square&labelColor=343b41"></a>
@@ -57,7 +57,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/157326433?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/onlook-dev/onlook">onlook-dev/onlook</a> 🔥🔥🔥</strong><br/>
-<em>The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with...</em><br/>
+<em>The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI</em><br/>
 <span>
 <a href="https://github.com/onlook-dev/onlook/stargazers"><img src="https://img.shields.io/github/stars/onlook-dev/onlook?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/onlook-dev/onlook/network/members"><img src="https://img.shields.io/github/forks/onlook-dev/onlook?style=flat-square&labelColor=343b41"></a>
@@ -177,7 +177,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/60081994?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/NitroRCr/AIaW">NitroRCr/AIaW</a> 🔥</strong><br/>
-<em>AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cro...</em><br/>
+<em>AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端</em><br/>
 <span>
 <a href="https://github.com/NitroRCr/AIaW/stargazers"><img src="https://img.shields.io/github/stars/NitroRCr/AIaW?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/NitroRCr/AIaW/network/members"><img src="https://img.shields.io/github/forks/NitroRCr/AIaW?style=flat-square&labelColor=343b41"></a>
@@ -207,7 +207,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/92220252?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/msafeerhussain/canva-clone-project">msafeerhussain/canva-clone-project</a> </strong><br/>
-<em>Canva-Clone is a web-based graphic design tool inspired by Canva. This project is developed with React JS and TypeScript...</em><br/>
+<em>Canva-Clone is a web-based graphic design tool inspired by Canva. This project is developed with React JS and TypeScript, leveraging Vite for an efficient and faster development experience.</em><br/>
 <span>
 <a href="https://github.com/msafeerhussain/canva-clone-project/stargazers"><img src="https://img.shields.io/github/stars/msafeerhussain/canva-clone-project?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/msafeerhussain/canva-clone-project/network/members"><img src="https://img.shields.io/github/forks/msafeerhussain/canva-clone-project?style=flat-square&labelColor=343b41"></a>

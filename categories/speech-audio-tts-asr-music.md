@@ -47,7 +47,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/109945100?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/modelscope/FunASR">modelscope/FunASR</a> 🔥🔥🔥</strong><br/>
-<em>A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognitio...</em><br/>
+<em>A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.</em><br/>
 <span>
 <a href="https://github.com/modelscope/FunASR/stargazers"><img src="https://img.shields.io/github/stars/modelscope/FunASR?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/modelscope/FunASR/network/members"><img src="https://img.shields.io/github/forks/modelscope/FunASR?style=flat-square&labelColor=343b41"></a>
@@ -57,7 +57,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/10245193?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/open-mmlab/Amphion">open-mmlab/Amphion</a> 🔥🔥</strong><br/>
-<em>Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible resear...</em><br/>
+<em>Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.</em><br/>
 <span>
 <a href="https://github.com/open-mmlab/Amphion/stargazers"><img src="https://img.shields.io/github/stars/open-mmlab/Amphion?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/open-mmlab/Amphion/network/members"><img src="https://img.shields.io/github/forks/open-mmlab/Amphion?style=flat-square&labelColor=343b41"></a>
@@ -67,7 +67,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/2386538?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/krillinai/KlicStudio">krillinai/KlicStudio</a> 🔥🔥</strong><br/>
-<em>A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-proce...</em><br/>
+<em> A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容</em><br/>
 <span>
 <a href="https://github.com/krillinai/KlicStudio/stargazers"><img src="https://img.shields.io/github/stars/krillinai/KlicStudio?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/krillinai/KlicStudio/network/members"><img src="https://img.shields.io/github/forks/krillinai/KlicStudio?style=flat-square&labelColor=343b41"></a>

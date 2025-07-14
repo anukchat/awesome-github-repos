@@ -7,8 +7,8 @@
   <a href="https://github.com/anukchat/awesome-github-repos/blob/main/LICENSE"><img src="https://img.shields.io/github/license/anukchat/awesome-github-repos?style=flat-square"></a>
   </p>
 
-<details align="center">
-<summary><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="28" alt="new"/> <strong>Recent Additions (10)</strong></summary>
+<details align="left">
+<summary><span style='font-size:1.5em; font-weight:600; vertical-align:middle;'>Recent Additions</span><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="35" alt="new"/></summary>
 
 <table align="center"><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
@@ -20,6 +20,7 @@
   <span>
     <a href="https://github.com/humanlayer/12-factor-agents/stargazers"><img src="https://img.shields.io/github/stars/humanlayer/12-factor-agents?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/humanlayer/12-factor-agents/network/members"><img src="https://img.shields.io/github/forks/humanlayer/12-factor-agents?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/humanlayer/12-factor-agents/commits"><img src="https://img.shields.io/github/last-commit/humanlayer/12-factor-agents?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
@@ -33,6 +34,7 @@
   <span>
     <a href="https://github.com/googleapis/genai-toolbox/stargazers"><img src="https://img.shields.io/github/stars/googleapis/genai-toolbox?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/googleapis/genai-toolbox/network/members"><img src="https://img.shields.io/github/forks/googleapis/genai-toolbox?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/googleapis/genai-toolbox/commits"><img src="https://img.shields.io/github/last-commit/googleapis/genai-toolbox?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
@@ -46,6 +48,7 @@
   <span>
     <a href="https://github.com/Doriandarko/claude-engineer/stargazers"><img src="https://img.shields.io/github/stars/Doriandarko/claude-engineer?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/Doriandarko/claude-engineer/network/members"><img src="https://img.shields.io/github/forks/Doriandarko/claude-engineer?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/Doriandarko/claude-engineer/commits"><img src="https://img.shields.io/github/last-commit/Doriandarko/claude-engineer?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
@@ -59,6 +62,7 @@
   <span>
     <a href="https://github.com/markqvist/Reticulum/stargazers"><img src="https://img.shields.io/github/stars/markqvist/Reticulum?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/markqvist/Reticulum/network/members"><img src="https://img.shields.io/github/forks/markqvist/Reticulum?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/markqvist/Reticulum/commits"><img src="https://img.shields.io/github/last-commit/markqvist/Reticulum?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
@@ -72,6 +76,7 @@
   <span>
     <a href="https://github.com/danny-avila/LibreChat/stargazers"><img src="https://img.shields.io/github/stars/danny-avila/LibreChat?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/danny-avila/LibreChat/network/members"><img src="https://img.shields.io/github/forks/danny-avila/LibreChat?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/danny-avila/LibreChat/commits"><img src="https://img.shields.io/github/last-commit/danny-avila/LibreChat?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
@@ -85,6 +90,7 @@
   <span>
     <a href="https://github.com/ComposioHQ/grok-cli/stargazers"><img src="https://img.shields.io/github/stars/ComposioHQ/grok-cli?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/ComposioHQ/grok-cli/network/members"><img src="https://img.shields.io/github/forks/ComposioHQ/grok-cli?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/ComposioHQ/grok-cli/commits"><img src="https://img.shields.io/github/last-commit/ComposioHQ/grok-cli?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
@@ -98,6 +104,7 @@
   <span>
     <a href="https://github.com/RapidAI/RapidOCR/stargazers"><img src="https://img.shields.io/github/stars/RapidAI/RapidOCR?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/RapidAI/RapidOCR/network/members"><img src="https://img.shields.io/github/forks/RapidAI/RapidOCR?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/RapidAI/RapidOCR/commits"><img src="https://img.shields.io/github/last-commit/RapidAI/RapidOCR?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
@@ -111,6 +118,7 @@
   <span>
     <a href="https://github.com/metorial/mcp-containers/stargazers"><img src="https://img.shields.io/github/stars/metorial/mcp-containers?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/metorial/mcp-containers/network/members"><img src="https://img.shields.io/github/forks/metorial/mcp-containers?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/metorial/mcp-containers/commits"><img src="https://img.shields.io/github/last-commit/metorial/mcp-containers?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
@@ -124,6 +132,7 @@
   <span>
     <a href="https://github.com/philfung/awesome-reliable-robotics/stargazers"><img src="https://img.shields.io/github/stars/philfung/awesome-reliable-robotics?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/philfung/awesome-reliable-robotics/network/members"><img src="https://img.shields.io/github/forks/philfung/awesome-reliable-robotics?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/philfung/awesome-reliable-robotics/commits"><img src="https://img.shields.io/github/last-commit/philfung/awesome-reliable-robotics?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
@@ -137,6 +146,7 @@
   <span>
     <a href="https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge/stargazers"><img src="https://img.shields.io/github/stars/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge/network/members"><img src="https://img.shields.io/github/forks/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge/commits"><img src="https://img.shields.io/github/last-commit/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 

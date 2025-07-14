@@ -17,7 +17,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/23534030?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/PaddlePaddle/PaddleOCR">PaddlePaddle/PaddleOCR</a> 🔥🔥🔥</strong><br/>
-<em>Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, su...</em><br/>
+<em>Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)</em><br/>
 <span>
 <a href="https://github.com/PaddlePaddle/PaddleOCR/stargazers"><img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/PaddlePaddle/PaddleOCR/network/members"><img src="https://img.shields.io/github/forks/PaddlePaddle/PaddleOCR?style=flat-square&labelColor=343b41"></a>
@@ -47,7 +47,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/108653?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/lucidrains/vit-pytorch">lucidrains/vit-pytorch</a> 🔥🔥🔥</strong><br/>
-<em>Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transform...</em><br/>
+<em>Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch</em><br/>
 <span>
 <a href="https://github.com/lucidrains/vit-pytorch/stargazers"><img src="https://img.shields.io/github/stars/lucidrains/vit-pytorch?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/lucidrains/vit-pytorch/network/members"><img src="https://img.shields.io/github/forks/lucidrains/vit-pytorch?style=flat-square&labelColor=343b41"></a>
@@ -77,7 +77,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/53104118?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/roboflow/notebooks">roboflow/notebooks</a> 🔥🔥</strong><br/>
-<em>A collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundationa...</em><br/>
+<em>A collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like YOLO11, RT-DETR, SAM 2, Florence-2, PaliGemma 2, and Qwen2.5VL.</em><br/>
 <span>
 <a href="https://github.com/roboflow/notebooks/stargazers"><img src="https://img.shields.io/github/stars/roboflow/notebooks?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/roboflow/notebooks/network/members"><img src="https://img.shields.io/github/forks/roboflow/notebooks?style=flat-square&labelColor=343b41"></a>
@@ -127,7 +127,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/26109316?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/SkalskiP/vlms-zero-to-hero">SkalskiP/vlms-zero-to-hero</a> 🔥</strong><br/>
-<em>This series will take you on a journey from the fundamentals of NLP and Computer Vision to the cutting edge of Vision-La...</em><br/>
+<em>This series will take you on a journey from the fundamentals of NLP and Computer Vision to the cutting edge of Vision-Language Models.</em><br/>
 <span>
 <a href="https://github.com/SkalskiP/vlms-zero-to-hero/stargazers"><img src="https://img.shields.io/github/stars/SkalskiP/vlms-zero-to-hero?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/SkalskiP/vlms-zero-to-hero/network/members"><img src="https://img.shields.io/github/forks/SkalskiP/vlms-zero-to-hero?style=flat-square&labelColor=343b41"></a>
@@ -157,7 +157,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/12553211?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/anukchat/cassava_leaf_classifier">anukchat/cassava_leaf_classifier</a> </strong><br/>
-<em>A baseline repo for creating end to end machine learning app, from training to API creation to hooking it in UI using Re...</em><br/>
+<em>A baseline repo for creating end to end machine learning app, from training to API creation to hooking it in UI using ReactJS</em><br/>
 <span>
 <a href="https://github.com/anukchat/cassava_leaf_classifier/stargazers"><img src="https://img.shields.io/github/stars/anukchat/cassava_leaf_classifier?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/anukchat/cassava_leaf_classifier/network/members"><img src="https://img.shields.io/github/forks/anukchat/cassava_leaf_classifier?style=flat-square&labelColor=343b41"></a>

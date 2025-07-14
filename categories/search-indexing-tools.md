@@ -17,7 +17,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/80454229?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/searxng/searxng">searxng/searxng</a> 🔥🔥🔥</strong><br/>
-<em>SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users...</em><br/>
+<em>SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.</em><br/>
 <span>
 <a href="https://github.com/searxng/searxng/stargazers"><img src="https://img.shields.io/github/stars/searxng/searxng?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/searxng/searxng/network/members"><img src="https://img.shields.io/github/forks/searxng/searxng?style=flat-square&labelColor=343b41"></a>

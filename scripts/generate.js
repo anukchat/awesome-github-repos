@@ -213,13 +213,14 @@ function renderNewFlag(width = 40) {
   return `<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="${width}" alt="new"/>`;
 }
 
-function renderRepoCardMarkdown(repo, showNewFlag = false, leftAlign = false) {
+function renderRepoCardMarkdown(repo, showNewFlag = false, leftAlign = false, useFullDescription = false) {
+  const description = useFullDescription ? (repo.description || '') : trimDescription(repo.description, 120);
   if (leftAlign) {
     // Left-aligned card for category pages, with border and padding for separation
     return `<div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
       ${showNewFlag ? renderNewFlag(40) + '<br/>' : ''}
       <img src="${repo.owner.avatar_url}" width="32" style="vertical-align:middle;"/> <strong><a href="${repo.html_url}">${repo.full_name}</a> ${getHeat(repo.stargazers_count)}</strong><br/>
-      <em>${trimDescription(repo.description, 120)}</em><br/>
+      <em>${description}</em><br/>
       <span>
         <a href="${repo.html_url}/stargazers"><img src="https://img.shields.io/github/stars/${repo.full_name}?style=flat-square&labelColor=343b41"></a>
         <a href="${repo.html_url}/network/members"><img src="https://img.shields.io/github/forks/${repo.full_name}?style=flat-square&labelColor=343b41"></a>
@@ -237,6 +238,7 @@ function renderRepoCardMarkdown(repo, showNewFlag = false, leftAlign = false) {
   <span>
     <a href="${repo.html_url}/stargazers"><img src="https://img.shields.io/github/stars/${repo.full_name}?style=flat-square&labelColor=343b41"></a>
     <a href="${repo.html_url}/network/members"><img src="https://img.shields.io/github/forks/${repo.full_name}?style=flat-square&labelColor=343b41"></a>
+    <a href="${repo.html_url}/commits"><img src="https://img.shields.io/github/last-commit/${repo.full_name}?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>\n\n`;
 }
@@ -317,7 +319,7 @@ function renderRepoGridMarkdown(repos, columns = 2, showNewFlag = false) {
 
   // Recent Additions (Markdown only, now as accordion)
   const recentCount = stars.slice(0, 10).length;
-  md += `<details align="center">\n<summary>${renderNewFlag(28)} <strong>Recent Additions (${recentCount})</strong></summary>\n\n`;
+  md += `<details align="left">\n<summary><span style='font-size:1.5em; font-weight:600; vertical-align:middle;'>Recent Additions</span>${renderNewFlag(35)}</summary>\n\n`;
   md += renderRepoGridMarkdown(stars.slice(0, 10), 2, true) + '\n\n';
   md += `</details>\n\n`;
 
@@ -348,8 +350,7 @@ function renderRepoGridMarkdown(repos, columns = 2, showNewFlag = false) {
     // List all repos in clean markdown cards, left-aligned and separated
     list.sort((a, b) => b.stargazers_count - a.stargazers_count);
     for (const repo of list) {
-      // Ensure no leading spaces or code block formatting
-      catMd += renderRepoCardMarkdown(repo, false, true) + '\n';
+      catMd += renderRepoCardMarkdown(repo, false, true, true) + '\n';
     }
     // Remove any accidental leading spaces from each line
     catMd = catMd.split('\n').map(line => line.trimStart()).join('\n');

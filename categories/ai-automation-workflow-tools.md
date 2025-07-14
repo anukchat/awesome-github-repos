@@ -27,7 +27,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/29575074?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/yeongpin/cursor-free-vip">yeongpin/cursor-free-vip</a> 🔥🔥🔥</strong><br/>
-<em>[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reache...</em><br/>
+<em>[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.</em><br/>
 <span>
 <a href="https://github.com/yeongpin/cursor-free-vip/stargazers"><img src="https://img.shields.io/github/stars/yeongpin/cursor-free-vip?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/yeongpin/cursor-free-vip/network/members"><img src="https://img.shields.io/github/forks/yeongpin/cursor-free-vip?style=flat-square&labelColor=343b41"></a>
@@ -57,7 +57,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/59033362?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/kestra-io/kestra">kestra-io/kestra</a> 🔥🔥🔥</strong><br/>
-<em>:zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative...</em><br/>
+<em>:zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...</em><br/>
 <span>
 <a href="https://github.com/kestra-io/kestra/stargazers"><img src="https://img.shields.io/github/stars/kestra-io/kestra?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/kestra-io/kestra/network/members"><img src="https://img.shields.io/github/forks/kestra-io/kestra?style=flat-square&labelColor=343b41"></a>
@@ -77,7 +77,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/99494700?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/activepieces/activepieces">activepieces/activepieces</a> 🔥🔥🔥</strong><br/>
-<em>AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI W...</em><br/>
+<em>AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents</em><br/>
 <span>
 <a href="https://github.com/activepieces/activepieces/stargazers"><img src="https://img.shields.io/github/stars/activepieces/activepieces?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/activepieces/activepieces/network/members"><img src="https://img.shields.io/github/forks/activepieces/activepieces?style=flat-square&labelColor=343b41"></a>
@@ -157,7 +157,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/178647201?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/test-zeus-ai/testzeus-hercules">test-zeus-ai/testzeus-hercules</a> </strong><br/>
-<em>Hercules is the world’s first open-source testing agent, enabling UI, API, Security, Accessibility, and Visual validatio...</em><br/>
+<em>Hercules is the world’s first open-source testing agent, enabling UI, API, Security, Accessibility, and Visual validations – all without code or maintenance. Automate testing effortlessly and let Hercules handle the heavy lifting! ⚡</em><br/>
 <span>
 <a href="https://github.com/test-zeus-ai/testzeus-hercules/stargazers"><img src="https://img.shields.io/github/stars/test-zeus-ai/testzeus-hercules?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/test-zeus-ai/testzeus-hercules/network/members"><img src="https://img.shields.io/github/forks/test-zeus-ai/testzeus-hercules?style=flat-square&labelColor=343b41"></a>

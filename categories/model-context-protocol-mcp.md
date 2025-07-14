@@ -117,7 +117,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/10337030?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/executeautomation/mcp-playwright">executeautomation/mcp-playwright</a> 🔥</strong><br/>
-<em>Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and M...</em><br/>
+<em>Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌</em><br/>
 <span>
 <a href="https://github.com/executeautomation/mcp-playwright/stargazers"><img src="https://img.shields.io/github/stars/executeautomation/mcp-playwright?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/executeautomation/mcp-playwright/network/members"><img src="https://img.shields.io/github/forks/executeautomation/mcp-playwright?style=flat-square&labelColor=343b41"></a>
@@ -127,7 +127,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/12791725?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/hangwin/mcp-chrome">hangwin/mcp-chrome</a> 🔥</strong><br/>
-<em>Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser funct...</em><br/>
+<em>Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.</em><br/>
 <span>
 <a href="https://github.com/hangwin/mcp-chrome/stargazers"><img src="https://img.shields.io/github/stars/hangwin/mcp-chrome?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/hangwin/mcp-chrome/network/members"><img src="https://img.shields.io/github/forks/hangwin/mcp-chrome?style=flat-square&labelColor=343b41"></a>

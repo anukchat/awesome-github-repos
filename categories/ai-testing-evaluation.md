@@ -47,7 +47,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/16172194?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/verazuo/jailbreak_llms">verazuo/jailbreak_llms</a> 🔥</strong><br/>
-<em>[CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (includin...</em><br/>
+<em>[CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).</em><br/>
 <span>
 <a href="https://github.com/verazuo/jailbreak_llms/stargazers"><img src="https://img.shields.io/github/stars/verazuo/jailbreak_llms?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/verazuo/jailbreak_llms/network/members"><img src="https://img.shields.io/github/forks/verazuo/jailbreak_llms?style=flat-square&labelColor=343b41"></a>
@@ -67,7 +67,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/25720743?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/huggingface/evaluation-guidebook">huggingface/evaluation-guidebook</a> 🔥</strong><br/>
-<em>Sharing both practical insights and theoretical knowledge about LLM evaluation that we gathered while managing the Open...</em><br/>
+<em>Sharing both practical insights and theoretical knowledge about LLM evaluation that we gathered while managing the Open LLM Leaderboard and designing lighteval!</em><br/>
 <span>
 <a href="https://github.com/huggingface/evaluation-guidebook/stargazers"><img src="https://img.shields.io/github/stars/huggingface/evaluation-guidebook?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/huggingface/evaluation-guidebook/network/members"><img src="https://img.shields.io/github/forks/huggingface/evaluation-guidebook?style=flat-square&labelColor=343b41"></a>

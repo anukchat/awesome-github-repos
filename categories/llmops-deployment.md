@@ -17,7 +17,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/121462774?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/BerriAI/litellm">BerriAI/litellm</a> 🔥🔥🔥</strong><br/>
-<em>Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Coher...</em><br/>
+<em>Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]</em><br/>
 <span>
 <a href="https://github.com/BerriAI/litellm/stargazers"><img src="https://img.shields.io/github/stars/BerriAI/litellm?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/BerriAI/litellm/network/members"><img src="https://img.shields.io/github/forks/BerriAI/litellm?style=flat-square&labelColor=343b41"></a>
@@ -67,7 +67,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/148420822?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/tensorzero/tensorzero">tensorzero/tensorzero</a> 🔥🔥</strong><br/>
-<em>TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, opti...</em><br/>
+<em>TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.</em><br/>
 <span>
 <a href="https://github.com/tensorzero/tensorzero/stargazers"><img src="https://img.shields.io/github/stars/tensorzero/tensorzero?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/tensorzero/tensorzero/network/members"><img src="https://img.shields.io/github/forks/tensorzero/tensorzero?style=flat-square&labelColor=343b41"></a>
@@ -77,7 +77,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/109387420?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/skypilot-org/skypilot">skypilot-org/skypilot</a> 🔥🔥</strong><br/>
-<em>SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high G...</em><br/>
+<em>SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.</em><br/>
 <span>
 <a href="https://github.com/skypilot-org/skypilot/stargazers"><img src="https://img.shields.io/github/stars/skypilot-org/skypilot?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/skypilot-org/skypilot/network/members"><img src="https://img.shields.io/github/forks/skypilot-org/skypilot?style=flat-square&labelColor=343b41"></a>
@@ -127,7 +127,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/153360176?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/decodingml/llm-twin-course">decodingml/llm-twin-course</a> 🔥</strong><br/>
-<em>🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺...</em><br/>
+<em>🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺 using 𝗟𝗟𝗠𝗢𝗽𝘀 best practices: ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 12 𝘩𝘢𝘯𝘥𝘴-𝘰𝘯 𝘭𝘦𝘴𝘴𝘰𝘯𝘴</em><br/>
 <span>
 <a href="https://github.com/decodingml/llm-twin-course/stargazers"><img src="https://img.shields.io/github/stars/decodingml/llm-twin-course?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/decodingml/llm-twin-course/network/members"><img src="https://img.shields.io/github/forks/decodingml/llm-twin-course?style=flat-square&labelColor=343b41"></a>
@@ -137,7 +137,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/10974906?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/PacktPublishing/LLM-Engineers-Handbook">PacktPublishing/LLM-Engineers-Handbook</a> 🔥</strong><br/>
-<em>The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practic...</em><br/>
+<em>The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices</em><br/>
 <span>
 <a href="https://github.com/PacktPublishing/LLM-Engineers-Handbook/stargazers"><img src="https://img.shields.io/github/stars/PacktPublishing/LLM-Engineers-Handbook?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/PacktPublishing/LLM-Engineers-Handbook/network/members"><img src="https://img.shields.io/github/forks/PacktPublishing/LLM-Engineers-Handbook?style=flat-square&labelColor=343b41"></a>

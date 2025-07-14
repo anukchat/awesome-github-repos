@@ -37,7 +37,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/134046886?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/khoj-ai/khoj">khoj-ai/khoj</a> 🔥🔥🔥</strong><br/>
-<em>Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, d...</em><br/>
+<em>Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.</em><br/>
 <span>
 <a href="https://github.com/khoj-ai/khoj/stargazers"><img src="https://img.shields.io/github/stars/khoj-ai/khoj?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/khoj-ai/khoj/network/members"><img src="https://img.shields.io/github/forks/khoj-ai/khoj?style=flat-square&labelColor=343b41"></a>
@@ -67,7 +67,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/51827949?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/deepset-ai/haystack">deepset-ai/haystack</a> 🔥🔥🔥</strong><br/>
-<em>AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector...</em><br/>
+<em>AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.</em><br/>
 <span>
 <a href="https://github.com/deepset-ai/haystack/stargazers"><img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/deepset-ai/haystack/network/members"><img src="https://img.shields.io/github/forks/deepset-ai/haystack?style=flat-square&labelColor=343b41"></a>
@@ -77,7 +77,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/NirDiamant/RAG_Techniques">NirDiamant/RAG_Techniques</a> 🔥🔥🔥</strong><br/>
-<em>This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems comb...</em><br/>
+<em>This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.</em><br/>
 <span>
 <a href="https://github.com/NirDiamant/RAG_Techniques/stargazers"><img src="https://img.shields.io/github/stars/NirDiamant/RAG_Techniques?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/NirDiamant/RAG_Techniques/network/members"><img src="https://img.shields.io/github/forks/NirDiamant/RAG_Techniques?style=flat-square&labelColor=343b41"></a>
@@ -117,7 +117,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/122026167?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/MODSetter/SurfSense">MODSetter/SurfSense</a> 🔥🔥</strong><br/>
-<em>Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily...</em><br/>
+<em>Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.</em><br/>
 <span>
 <a href="https://github.com/MODSetter/SurfSense/stargazers"><img src="https://img.shields.io/github/stars/MODSetter/SurfSense?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/MODSetter/SurfSense/network/members"><img src="https://img.shields.io/github/forks/MODSetter/SurfSense?style=flat-square&labelColor=343b41"></a>
@@ -147,7 +147,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/93512441?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/truefoundry/cognita">truefoundry/cognita</a> 🔥</strong><br/>
-<em>RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoun...</em><br/>
+<em>RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry </em><br/>
 <span>
 <a href="https://github.com/truefoundry/cognita/stargazers"><img src="https://img.shields.io/github/stars/truefoundry/cognita?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/truefoundry/cognita/network/members"><img src="https://img.shields.io/github/forks/truefoundry/cognita?style=flat-square&labelColor=343b41"></a>
@@ -157,7 +157,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/1728152?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/NVIDIA/nv-ingest">NVIDIA/nv-ingest</a> 🔥</strong><br/>
-<em>NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured P...</em><br/>
+<em>NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieval systems.</em><br/>
 <span>
 <a href="https://github.com/NVIDIA/nv-ingest/stargazers"><img src="https://img.shields.io/github/stars/NVIDIA/nv-ingest?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/NVIDIA/nv-ingest/network/members"><img src="https://img.shields.io/github/forks/NVIDIA/nv-ingest?style=flat-square&labelColor=343b41"></a>

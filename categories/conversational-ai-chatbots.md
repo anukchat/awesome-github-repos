@@ -17,7 +17,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/110412045?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/danny-avila/LibreChat">danny-avila/LibreChat</a> 🔥🔥🔥</strong><br/>
-<em>Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistr...</em><br/>
+<em>Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.</em><br/>
 <span>
 <a href="https://github.com/danny-avila/LibreChat/stargazers"><img src="https://img.shields.io/github/stars/danny-avila/LibreChat?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/danny-avila/LibreChat/network/members"><img src="https://img.shields.io/github/forks/danny-avila/LibreChat?style=flat-square&labelColor=343b41"></a>
@@ -107,7 +107,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/24633059?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/muhammadawaisshaikh/Edtech-AI">muhammadawaisshaikh/Edtech-AI</a> </strong><br/>
-<em>Educational platform utilising Google AI to enhance student learning and note-taking experience. The app will offer feat...</em><br/>
+<em>Educational platform utilising Google AI to enhance student learning and note-taking experience. The app will offer features like voice note recording, transcription, image-to-text conversion, text-to-PDF generation, ChatGPT integration for summarisation and translation, a user-friendly interface, cloud storage, and customisation options.</em><br/>
 <span>
 <a href="https://github.com/muhammadawaisshaikh/Edtech-AI/stargazers"><img src="https://img.shields.io/github/stars/muhammadawaisshaikh/Edtech-AI?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/muhammadawaisshaikh/Edtech-AI/network/members"><img src="https://img.shields.io/github/forks/muhammadawaisshaikh/Edtech-AI?style=flat-square&labelColor=343b41"></a>

@@ -37,7 +37,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/15125613?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/souzatharsis/podcastfy">souzatharsis/podcastfy</a> 🔥</strong><br/>
-<em>An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Mult...</em><br/>
+<em>An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI</em><br/>
 <span>
 <a href="https://github.com/souzatharsis/podcastfy/stargazers"><img src="https://img.shields.io/github/stars/souzatharsis/podcastfy?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/souzatharsis/podcastfy/network/members"><img src="https://img.shields.io/github/forks/souzatharsis/podcastfy?style=flat-square&labelColor=343b41"></a>
@@ -47,7 +47,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/131431084?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator">SamurAIGPT/AI-Youtube-Shorts-Generator</a> 🔥</strong><br/>
-<em>A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze videos, extract the most interesting sections...</em><br/>
+<em>A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze videos, extract the most interesting sections, and crop them for an improved viewing experience.</em><br/>
 <span>
 <a href="https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator/stargazers"><img src="https://img.shields.io/github/stars/SamurAIGPT/AI-Youtube-Shorts-Generator?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator/network/members"><img src="https://img.shields.io/github/forks/SamurAIGPT/AI-Youtube-Shorts-Generator?style=flat-square&labelColor=343b41"></a>

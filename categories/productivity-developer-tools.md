@@ -7,7 +7,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/1134738?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/AmruthPillai/Reactive-Resume">AmruthPillai/Reactive-Resume</a> 🔥🔥🔥</strong><br/>
-<em>A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source a...</em><br/>
+<em>A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!</em><br/>
 <span>
 <a href="https://github.com/AmruthPillai/Reactive-Resume/stargazers"><img src="https://img.shields.io/github/stars/AmruthPillai/Reactive-Resume?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/AmruthPillai/Reactive-Resume/network/members"><img src="https://img.shields.io/github/forks/AmruthPillai/Reactive-Resume?style=flat-square&labelColor=343b41"></a>

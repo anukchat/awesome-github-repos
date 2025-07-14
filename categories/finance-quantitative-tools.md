@@ -27,7 +27,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/microsoft/qlib">microsoft/qlib</a> 🔥🔥🔥</strong><br/>
-<em>Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring idea...</em><br/>
+<em>Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.</em><br/>
 <span>
 <a href="https://github.com/microsoft/qlib/stargazers"><img src="https://img.shields.io/github/stars/microsoft/qlib?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/microsoft/qlib/network/members"><img src="https://img.shields.io/github/forks/microsoft/qlib?style=flat-square&labelColor=343b41"></a>

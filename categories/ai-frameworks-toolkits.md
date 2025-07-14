@@ -67,7 +67,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/74068820?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/deepspeedai/DeepSpeed">deepspeedai/DeepSpeed</a> 🔥🔥🔥</strong><br/>
-<em>DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and eff...</em><br/>
+<em>DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.</em><br/>
 <span>
 <a href="https://github.com/deepspeedai/DeepSpeed/stargazers"><img src="https://img.shields.io/github/stars/deepspeedai/DeepSpeed?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/deepspeedai/DeepSpeed/network/members"><img src="https://img.shields.io/github/forks/deepspeedai/DeepSpeed?style=flat-square&labelColor=343b41"></a>
@@ -77,7 +77,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/31035808?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/mindsdb/mindsdb">mindsdb/mindsdb</a> 🔥🔥🔥</strong><br/>
-<em>AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP S...</em><br/>
+<em>AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need</em><br/>
 <span>
 <a href="https://github.com/mindsdb/mindsdb/stargazers"><img src="https://img.shields.io/github/stars/mindsdb/mindsdb?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/mindsdb/mindsdb/network/members"><img src="https://img.shields.io/github/forks/mindsdb/mindsdb?style=flat-square&labelColor=343b41"></a>
@@ -157,7 +157,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/1183441?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/abhishekkrthakur/tez">abhishekkrthakur/tez</a> 🔥</strong><br/>
-<em>Tez is a super-simple and lightweight Trainer for PyTorch. It also comes with many utils that you can use to tackle over...</em><br/>
+<em>Tez is a super-simple and lightweight Trainer for PyTorch. It also comes with many utils that you can use to tackle over 90% of deep learning projects in PyTorch.</em><br/>
 <span>
 <a href="https://github.com/abhishekkrthakur/tez/stargazers"><img src="https://img.shields.io/github/stars/abhishekkrthakur/tez?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/abhishekkrthakur/tez/network/members"><img src="https://img.shields.io/github/forks/abhishekkrthakur/tez?style=flat-square&labelColor=343b41"></a>
@@ -207,7 +207,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/183861985?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/ai-hpc/ai-hardware-engineer-path">ai-hpc/ai-hardware-engineer-path</a> </strong><br/>
-<em>a self-study guide for AI hardware engineers, covering a wide range of topics from foundational knowledge to advanced F...</em><br/>
+<em> a self-study guide for AI hardware engineers, covering a wide range of topics from foundational knowledge to advanced FPGA and acceleration techniques, Nvidia Jetson and edge AI, and more.</em><br/>
 <span>
 <a href="https://github.com/ai-hpc/ai-hardware-engineer-path/stargazers"><img src="https://img.shields.io/github/stars/ai-hpc/ai-hardware-engineer-path?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/ai-hpc/ai-hardware-engineer-path/network/members"><img src="https://img.shields.io/github/forks/ai-hpc/ai-hardware-engineer-path?style=flat-square&labelColor=343b41"></a>

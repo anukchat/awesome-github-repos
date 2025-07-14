@@ -27,7 +27,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/275001?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/dgtlmoon/changedetection.io">dgtlmoon/changedetection.io</a> 🔥🔥🔥</strong><br/>
-<em>Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for trackin...</em><br/>
+<em>Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!</em><br/>
 <span>
 <a href="https://github.com/dgtlmoon/changedetection.io/stargazers"><img src="https://img.shields.io/github/stars/dgtlmoon/changedetection.io?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/dgtlmoon/changedetection.io/network/members"><img src="https://img.shields.io/github/forks/dgtlmoon/changedetection.io?style=flat-square&labelColor=343b41"></a>
@@ -67,7 +67,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/20604835?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/D4Vinci/Scrapling">D4Vinci/Scrapling</a> 🔥🔥</strong><br/>
-<em>🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it...</em><br/>
+<em>🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!</em><br/>
 <span>
 <a href="https://github.com/D4Vinci/Scrapling/stargazers"><img src="https://img.shields.io/github/stars/D4Vinci/Scrapling?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/D4Vinci/Scrapling/network/members"><img src="https://img.shields.io/github/forks/D4Vinci/Scrapling?style=flat-square&labelColor=343b41"></a>
@@ -77,7 +77,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/24586296?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/apify/crawlee-python">apify/crawlee-python</a> 🔥🔥</strong><br/>
-<em>Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs,...</em><br/>
+<em>Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.</em><br/>
 <span>
 <a href="https://github.com/apify/crawlee-python/stargazers"><img src="https://img.shields.io/github/stars/apify/crawlee-python?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/apify/crawlee-python/network/members"><img src="https://img.shields.io/github/forks/apify/crawlee-python?style=flat-square&labelColor=343b41"></a>
@@ -87,7 +87,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/454718?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/gosom/google-maps-scraper">gosom/google-maps-scraper</a> 🔥</strong><br/>
-<em>scrape data  data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews...</em><br/>
+<em>scrape data  data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place</em><br/>
 <span>
 <a href="https://github.com/gosom/google-maps-scraper/stargazers"><img src="https://img.shields.io/github/stars/gosom/google-maps-scraper?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/gosom/google-maps-scraper/network/members"><img src="https://img.shields.io/github/forks/gosom/google-maps-scraper?style=flat-square&labelColor=343b41"></a>

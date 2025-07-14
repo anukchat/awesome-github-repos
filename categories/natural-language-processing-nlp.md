@@ -7,7 +7,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/25720743?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/huggingface/transformers">huggingface/transformers</a> 🔥🔥🔥</strong><br/>
-<em>🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and...</em><br/>
+<em>🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. </em><br/>
 <span>
 <a href="https://github.com/huggingface/transformers/stargazers"><img src="https://img.shields.io/github/stars/huggingface/transformers?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/huggingface/transformers/network/members"><img src="https://img.shields.io/github/forks/huggingface/transformers?style=flat-square&labelColor=343b41"></a>

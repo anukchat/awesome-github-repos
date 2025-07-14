@@ -27,7 +27,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/45487711?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/n8n-io/self-hosted-ai-starter-kit">n8n-io/self-hosted-ai-starter-kit</a> 🔥🔥🔥</strong><br/>
-<em>The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, i...</em><br/>
+<em>The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.</em><br/>
 <span>
 <a href="https://github.com/n8n-io/self-hosted-ai-starter-kit/stargazers"><img src="https://img.shields.io/github/stars/n8n-io/self-hosted-ai-starter-kit?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/n8n-io/self-hosted-ai-starter-kit/network/members"><img src="https://img.shields.io/github/forks/n8n-io/self-hosted-ai-starter-kit?style=flat-square&labelColor=343b41"></a>

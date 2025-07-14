@@ -67,7 +67,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/185671340?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools">x1xhlol/system-prompts-and-models-of-ai-tools</a> 🔥🔥🔥</strong><br/>
-<em>FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Clu...</em><br/>
+<em>FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.</em><br/>
 <span>
 <a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/stargazers"><img src="https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/network/members"><img src="https://img.shields.io/github/forks/x1xhlol/system-prompts-and-models-of-ai-tools?style=flat-square&labelColor=343b41"></a>
@@ -177,7 +177,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/45159366?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/mikeroyal/Self-Hosting-Guide">mikeroyal/Self-Hosting-Guide</a> 🔥🔥🔥</strong><br/>
-<em>Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applicati...</em><br/>
+<em>Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.</em><br/>
 <span>
 <a href="https://github.com/mikeroyal/Self-Hosting-Guide/stargazers"><img src="https://img.shields.io/github/stars/mikeroyal/Self-Hosting-Guide?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/mikeroyal/Self-Hosting-Guide/network/members"><img src="https://img.shields.io/github/forks/mikeroyal/Self-Hosting-Guide?style=flat-square&labelColor=343b41"></a>
@@ -257,7 +257,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/18418340?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/hotheadhacker/awesome-selfhost-docker">hotheadhacker/awesome-selfhost-docker</a> 🔥</strong><br/>
-<em>🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for...</em><br/>
+<em>🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.</em><br/>
 <span>
 <a href="https://github.com/hotheadhacker/awesome-selfhost-docker/stargazers"><img src="https://img.shields.io/github/stars/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/hotheadhacker/awesome-selfhost-docker/network/members"><img src="https://img.shields.io/github/forks/hotheadhacker/awesome-selfhost-docker?style=flat-square&labelColor=343b41"></a>
@@ -327,7 +327,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/131958672?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/von-development/awesome-LangGraph">von-development/awesome-LangGraph</a> </strong><br/>
-<em>A curated list of awesome projects, resources, and tools for building stateful, multi-actor applications with LangGraph...</em><br/>
+<em>A curated list of awesome projects, resources, and tools for building stateful, multi-actor applications with LangGraph 🦜🕸️</em><br/>
 <span>
 <a href="https://github.com/von-development/awesome-LangGraph/stargazers"><img src="https://img.shields.io/github/stars/von-development/awesome-LangGraph?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/von-development/awesome-LangGraph/network/members"><img src="https://img.shields.io/github/forks/von-development/awesome-LangGraph?style=flat-square&labelColor=343b41"></a>
@@ -337,7 +337,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/45159366?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/mikeroyal/Machine-Learning-Guide">mikeroyal/Machine-Learning-Guide</a> </strong><br/>
-<em>Machine learning Guide. Learn all about Machine Learning Tools, Libraries, Frameworks, Large Language Models (LLMs), and...</em><br/>
+<em>Machine learning Guide. Learn all about Machine Learning Tools, Libraries, Frameworks, Large Language Models (LLMs), and Training Models.</em><br/>
 <span>
 <a href="https://github.com/mikeroyal/Machine-Learning-Guide/stargazers"><img src="https://img.shields.io/github/stars/mikeroyal/Machine-Learning-Guide?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/mikeroyal/Machine-Learning-Guide/network/members"><img src="https://img.shields.io/github/forks/mikeroyal/Machine-Learning-Guide?style=flat-square&labelColor=343b41"></a>
@@ -357,7 +357,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/crewAIInc/awesome-crewai">crewAIInc/awesome-crewai</a> </strong><br/>
-<em>A curated list of open-source projects built by the CrewAI community. Discover, contribute, and extend the possibilities...</em><br/>
+<em>A curated list of open-source projects built by the CrewAI community. Discover, contribute, and extend the possibilities of AI agents with CrewAI.</em><br/>
 <span>
 <a href="https://github.com/crewAIInc/awesome-crewai/stargazers"><img src="https://img.shields.io/github/stars/crewAIInc/awesome-crewai?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/crewAIInc/awesome-crewai/network/members"><img src="https://img.shields.io/github/forks/crewAIInc/awesome-crewai?style=flat-square&labelColor=343b41"></a>
@@ -397,7 +397,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/18608293?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/primaprashant/llms-in-production">primaprashant/llms-in-production</a> </strong><br/>
-<em>📚 Curated collection of engineering blogs detailing real-world applications of LLMs in solving specific business proble...</em><br/>
+<em>📚 Curated collection of engineering blogs detailing real-world applications of LLMs in solving specific business problems.</em><br/>
 <span>
 <a href="https://github.com/primaprashant/llms-in-production/stargazers"><img src="https://img.shields.io/github/stars/primaprashant/llms-in-production?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/primaprashant/llms-in-production/network/members"><img src="https://img.shields.io/github/forks/primaprashant/llms-in-production?style=flat-square&labelColor=343b41"></a>

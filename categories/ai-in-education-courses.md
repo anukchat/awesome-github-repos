@@ -67,7 +67,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/64068543?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/labmlai/annotated_deep_learning_paper_implementations">labmlai/annotated_deep_learning_paper_implementations</a> 🔥🔥🔥</strong><br/>
-<em>🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original...</em><br/>
+<em>🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠</em><br/>
 <span>
 <a href="https://github.com/labmlai/annotated_deep_learning_paper_implementations/stargazers"><img src="https://img.shields.io/github/stars/labmlai/annotated_deep_learning_paper_implementations?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/labmlai/annotated_deep_learning_paper_implementations/network/members"><img src="https://img.shields.io/github/forks/labmlai/annotated_deep_learning_paper_implementations?style=flat-square&labelColor=343b41"></a>
@@ -307,7 +307,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/20895241?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/amanchadha/coursera-deep-learning-specialization">amanchadha/coursera-deep-learning-specialization</a> 🔥</strong><br/>
-<em>Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by...</em><br/>
+<em>Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learning Projects; (iv) Convolutional Neural Networks; (v) Sequence Models</em><br/>
 <span>
 <a href="https://github.com/amanchadha/coursera-deep-learning-specialization/stargazers"><img src="https://img.shields.io/github/stars/amanchadha/coursera-deep-learning-specialization?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/amanchadha/coursera-deep-learning-specialization/network/members"><img src="https://img.shields.io/github/forks/amanchadha/coursera-deep-learning-specialization?style=flat-square&labelColor=343b41"></a>
@@ -427,7 +427,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/150327?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/curiousily/AI-Bootcamp">curiousily/AI-Bootcamp</a> </strong><br/>
-<em>Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, LLMs, RAGs, LangChain, LangGraph, Fine-tuning Llama...</em><br/>
+<em>Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, LLMs, RAGs, LangChain, LangGraph, Fine-tuning Llama 3 & AI Agents (CrewAI)</em><br/>
 <span>
 <a href="https://github.com/curiousily/AI-Bootcamp/stargazers"><img src="https://img.shields.io/github/stars/curiousily/AI-Bootcamp?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/curiousily/AI-Bootcamp/network/members"><img src="https://img.shields.io/github/forks/curiousily/AI-Bootcamp?style=flat-square&labelColor=343b41"></a>
@@ -457,7 +457,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/62574431?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/rkinas/cuda-learning">rkinas/cuda-learning</a> </strong><br/>
-<em>This repository is a curated collection of resources, tutorials, and practical examples designed to guide you through th...</em><br/>
+<em>This repository is a curated collection of resources, tutorials, and practical examples designed to guide you through the journey of mastering CUDA programming. Whether you're just starting or looking to optimize and scale your GPU-accelerated applications.</em><br/>
 <span>
 <a href="https://github.com/rkinas/cuda-learning/stargazers"><img src="https://img.shields.io/github/stars/rkinas/cuda-learning?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/rkinas/cuda-learning/network/members"><img src="https://img.shields.io/github/forks/rkinas/cuda-learning?style=flat-square&labelColor=343b41"></a>
@@ -477,7 +477,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/microsoft/iot-curriculum">microsoft/iot-curriculum</a> </strong><br/>
-<em>Hands on labs and content for students and educators to learn and teach the Internet of Things at schools, universities,...</em><br/>
+<em>Hands on labs and content for students and educators to learn and teach the Internet of Things at schools, universities, coding clubs, community colleges and bootcamps</em><br/>
 <span>
 <a href="https://github.com/microsoft/iot-curriculum/stargazers"><img src="https://img.shields.io/github/stars/microsoft/iot-curriculum?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/microsoft/iot-curriculum/network/members"><img src="https://img.shields.io/github/forks/microsoft/iot-curriculum?style=flat-square&labelColor=343b41"></a>
@@ -507,7 +507,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/2081157?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/tsmatz/nlp-tutorials">tsmatz/nlp-tutorials</a> </strong><br/>
-<em>Theoretical introduction for language processing terminologies (such as, embedding, encoder/decoder, attention, transfor...</em><br/>
+<em>Theoretical introduction for language processing terminologies (such as, embedding, encoder/decoder, attention, transformer, ...) and comprehensive examples of Python code from scratch (Sep 2022)</em><br/>
 <span>
 <a href="https://github.com/tsmatz/nlp-tutorials/stargazers"><img src="https://img.shields.io/github/stars/tsmatz/nlp-tutorials?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/tsmatz/nlp-tutorials/network/members"><img src="https://img.shields.io/github/forks/tsmatz/nlp-tutorials?style=flat-square&labelColor=343b41"></a>

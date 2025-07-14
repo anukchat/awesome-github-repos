@@ -27,7 +27,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/11997567?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/chiphuyen/machine-learning-systems-design">chiphuyen/machine-learning-systems-design</a> 🔥🔥</strong><br/>
-<em>A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Syste...</em><br/>
+<em>A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems"</em><br/>
 <span>
 <a href="https://github.com/chiphuyen/machine-learning-systems-design/stargazers"><img src="https://img.shields.io/github/stars/chiphuyen/machine-learning-systems-design?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/chiphuyen/machine-learning-systems-design/network/members"><img src="https://img.shields.io/github/forks/chiphuyen/machine-learning-systems-design?style=flat-square&labelColor=343b41"></a>

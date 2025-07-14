@@ -7,7 +7,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/130738209?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/Significant-Gravitas/AutoGPT">Significant-Gravitas/AutoGPT</a> 🔥🔥🔥</strong><br/>
-<em>AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha...</em><br/>
+<em>AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.</em><br/>
 <span>
 <a href="https://github.com/Significant-Gravitas/AutoGPT/stargazers"><img src="https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/Significant-Gravitas/AutoGPT/network/members"><img src="https://img.shields.io/github/forks/Significant-Gravitas/AutoGPT?style=flat-square&labelColor=343b41"></a>
@@ -37,7 +37,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/microsoft/autogen">microsoft/autogen</a> 🔥🔥🔥</strong><br/>
-<em>A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: h...</em><br/>
+<em>A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour</em><br/>
 <span>
 <a href="https://github.com/microsoft/autogen/stargazers"><img src="https://img.shields.io/github/stars/microsoft/autogen?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/microsoft/autogen/network/members"><img src="https://img.shields.io/github/forks/microsoft/autogen?style=flat-square&labelColor=343b41"></a>
@@ -57,7 +57,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/crewAIInc/crewAI">crewAIInc/crewAI</a> 🔥🔥🔥</strong><br/>
-<em>Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers...</em><br/>
+<em>Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.</em><br/>
 <span>
 <a href="https://github.com/crewAIInc/crewAI/stargazers"><img src="https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/crewAIInc/crewAI/network/members"><img src="https://img.shields.io/github/forks/crewAIInc/crewAI?style=flat-square&labelColor=343b41"></a>
@@ -67,7 +67,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/50654?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/danielmiessler/Fabric">danielmiessler/Fabric</a> 🔥🔥🔥</strong><br/>
-<em>Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific pro...</em><br/>
+<em>Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</em><br/>
 <span>
 <a href="https://github.com/danielmiessler/Fabric/stargazers"><img src="https://img.shields.io/github/stars/danielmiessler/Fabric?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/danielmiessler/Fabric/network/members"><img src="https://img.shields.io/github/forks/danielmiessler/Fabric?style=flat-square&labelColor=343b41"></a>
@@ -117,7 +117,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/13554167?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/assafelovic/gpt-researcher">assafelovic/gpt-researcher</a> 🔥🔥🔥</strong><br/>
-<em>LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citat...</em><br/>
+<em>LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.</em><br/>
 <span>
 <a href="https://github.com/assafelovic/gpt-researcher/stargazers"><img src="https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/assafelovic/gpt-researcher/network/members"><img src="https://img.shields.io/github/forks/assafelovic/gpt-researcher?style=flat-square&labelColor=343b41"></a>
@@ -147,7 +147,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/49105846?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/Fosowl/agenticSeek">Fosowl/agenticSeek</a> 🔥🔥🔥</strong><br/>
-<em>Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code f...</em><br/>
+<em>Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)</em><br/>
 <span>
 <a href="https://github.com/Fosowl/agenticSeek/stargazers"><img src="https://img.shields.io/github/stars/Fosowl/agenticSeek?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/Fosowl/agenticSeek/network/members"><img src="https://img.shields.io/github/forks/Fosowl/agenticSeek?style=flat-square&labelColor=343b41"></a>
@@ -187,7 +187,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/NirDiamant/GenAI_Agents">NirDiamant/GenAI_Agents</a> 🔥🔥🔥</strong><br/>
-<em>This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advance...</em><br/>
+<em>This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.</em><br/>
 <span>
 <a href="https://github.com/NirDiamant/GenAI_Agents/stargazers"><img src="https://img.shields.io/github/stars/NirDiamant/GenAI_Agents?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/NirDiamant/GenAI_Agents/network/members"><img src="https://img.shields.io/github/forks/NirDiamant/GenAI_Agents?style=flat-square&labelColor=343b41"></a>
@@ -207,7 +207,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/1247180?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/Doriandarko/claude-engineer">Doriandarko/claude-engineer</a> 🔥🔥🔥</strong><br/>
-<em>Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet...</em><br/>
+<em>Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude to generate and manage its own tools, continuously expanding its capabilities through conversation. Available both as a CLI and a modern web interface</em><br/>
 <span>
 <a href="https://github.com/Doriandarko/claude-engineer/stargazers"><img src="https://img.shields.io/github/stars/Doriandarko/claude-engineer?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/Doriandarko/claude-engineer/network/members"><img src="https://img.shields.io/github/forks/Doriandarko/claude-engineer?style=flat-square&labelColor=343b41"></a>
@@ -227,7 +227,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/google/adk-python">google/adk-python</a> 🔥🔥🔥</strong><br/>
-<em>An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibili...</em><br/>
+<em>An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.</em><br/>
 <span>
 <a href="https://github.com/google/adk-python/stargazers"><img src="https://img.shields.io/github/stars/google/adk-python?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/google/adk-python/network/members"><img src="https://img.shields.io/github/forks/google/adk-python?style=flat-square&labelColor=343b41"></a>
@@ -247,7 +247,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/177409041?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/humanlayer/12-factor-agents">humanlayer/12-factor-agents</a> 🔥🔥</strong><br/>
-<em>What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of pro...</em><br/>
+<em>What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?</em><br/>
 <span>
 <a href="https://github.com/humanlayer/12-factor-agents/stargazers"><img src="https://img.shields.io/github/stars/humanlayer/12-factor-agents?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/humanlayer/12-factor-agents/network/members"><img src="https://img.shields.io/github/forks/humanlayer/12-factor-agents?style=flat-square&labelColor=343b41"></a>
@@ -257,7 +257,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/NirDiamant/agents-towards-production">NirDiamant/agents-towards-production</a> 🔥🔥</strong><br/>
-<em>This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guidin...</em><br/>
+<em> This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.</em><br/>
 <span>
 <a href="https://github.com/NirDiamant/agents-towards-production/stargazers"><img src="https://img.shields.io/github/stars/NirDiamant/agents-towards-production?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/NirDiamant/agents-towards-production/network/members"><img src="https://img.shields.io/github/forks/NirDiamant/agents-towards-production?style=flat-square&labelColor=343b41"></a>
@@ -307,7 +307,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/microsoft/RD-Agent">microsoft/RD-Agent</a> 🔥🔥</strong><br/>
-<em>Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, wher...</em><br/>
+<em>Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report</em><br/>
 <span>
 <a href="https://github.com/microsoft/RD-Agent/stargazers"><img src="https://img.shields.io/github/stars/microsoft/RD-Agent?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/microsoft/RD-Agent/network/members"><img src="https://img.shields.io/github/forks/microsoft/RD-Agent?style=flat-square&labelColor=343b41"></a>
@@ -387,7 +387,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/199344406?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/simstudioai/sim">simstudioai/sim</a> 🔥</strong><br/>
-<em>Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickl...</em><br/>
+<em>Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.</em><br/>
 <span>
 <a href="https://github.com/simstudioai/sim/stargazers"><img src="https://img.shields.io/github/stars/simstudioai/sim?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/simstudioai/sim/network/members"><img src="https://img.shields.io/github/forks/simstudioai/sim?style=flat-square&labelColor=343b41"></a>
@@ -397,7 +397,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/183960033?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/steel-dev/steel-browser">steel-dev/steel-browser</a> 🔥</strong><br/>
-<em>🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you au...</em><br/>
+<em>🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure.</em><br/>
 <span>
 <a href="https://github.com/steel-dev/steel-browser/stargazers"><img src="https://img.shields.io/github/stars/steel-dev/steel-browser?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/steel-dev/steel-browser/network/members"><img src="https://img.shields.io/github/forks/steel-dev/steel-browser?style=flat-square&labelColor=343b41"></a>
@@ -457,7 +457,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/31992251?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/yuruotong1/autoMate">yuruotong1/autoMate</a> 🔥</strong><br/>
-<em>Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant th...</em><br/>
+<em>Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves</em><br/>
 <span>
 <a href="https://github.com/yuruotong1/autoMate/stargazers"><img src="https://img.shields.io/github/stars/yuruotong1/autoMate?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/yuruotong1/autoMate/network/members"><img src="https://img.shields.io/github/forks/yuruotong1/autoMate?style=flat-square&labelColor=343b41"></a>
@@ -537,7 +537,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/NirDiamant/Controllable-RAG-Agent">NirDiamant/Controllable-RAG-Agent</a> 🔥</strong><br/>
-<em>This repository provides an advanced Retrieval-Augmented Generation (RAG) solution for complex question answering. It us...</em><br/>
+<em>This repository provides an advanced Retrieval-Augmented Generation (RAG) solution for complex question answering. It uses sophisticated graph based algorithm to handle the tasks.</em><br/>
 <span>
 <a href="https://github.com/NirDiamant/Controllable-RAG-Agent/stargazers"><img src="https://img.shields.io/github/stars/NirDiamant/Controllable-RAG-Agent?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/NirDiamant/Controllable-RAG-Agent/network/members"><img src="https://img.shields.io/github/forks/NirDiamant/Controllable-RAG-Agent?style=flat-square&labelColor=343b41"></a>
@@ -547,7 +547,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/132681217?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/OpenAdaptAI/OpenAdapt">OpenAdaptAI/OpenAdapt</a> 🔥</strong><br/>
-<em>Open Source Generative Process Automation (i.e. Generative RPA). AI-First Process Automation with Large ([Language (LLMs...</em><br/>
+<em>Open Source Generative Process Automation (i.e. Generative RPA). AI-First Process Automation with Large ([Language (LLMs) / Action (LAMs) / Multimodal (LMMs)] / Visual Language (VLMs)) Models</em><br/>
 <span>
 <a href="https://github.com/OpenAdaptAI/OpenAdapt/stargazers"><img src="https://img.shields.io/github/stars/OpenAdaptAI/OpenAdapt?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/OpenAdaptAI/OpenAdapt/network/members"><img src="https://img.shields.io/github/forks/OpenAdaptAI/OpenAdapt?style=flat-square&labelColor=343b41"></a>
@@ -597,7 +597,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/37864549?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/hrithikkoduri/WebRover">hrithikkoduri/WebRover</a> </strong><br/>
-<em>WebRover is an autonomous AI agent designed to interpret user input and execute actions by interacting with web elements...</em><br/>
+<em>WebRover is an autonomous AI agent designed to interpret user input and execute actions by interacting with web elements to accomplish tasks or answer questions. It leverages advanced language models and web automation tools to navigate the web, gather information, and provide structured responses based on the user's needs.</em><br/>
 <span>
 <a href="https://github.com/hrithikkoduri/WebRover/stargazers"><img src="https://img.shields.io/github/stars/hrithikkoduri/WebRover?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/hrithikkoduri/WebRover/network/members"><img src="https://img.shields.io/github/forks/hrithikkoduri/WebRover?style=flat-square&labelColor=343b41"></a>
@@ -617,7 +617,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/167638923?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/s-smits/agentic-cursorrules">s-smits/agentic-cursorrules</a> </strong><br/>
-<em>A practical approach to managing multiple AI agents in Cursor through strict file-tree partitioning and domain boundarie...</em><br/>
+<em>A practical approach to managing multiple AI agents in Cursor through strict file-tree partitioning and domain boundaries.</em><br/>
 <span>
 <a href="https://github.com/s-smits/agentic-cursorrules/stargazers"><img src="https://img.shields.io/github/stars/s-smits/agentic-cursorrules?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/s-smits/agentic-cursorrules/network/members"><img src="https://img.shields.io/github/forks/s-smits/agentic-cursorrules?style=flat-square&labelColor=343b41"></a>
@@ -627,7 +627,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/131273140?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/CopilotKit/open-multi-agent-canvas">CopilotKit/open-multi-agent-canvas</a> </strong><br/>
-<em>The open-source multi-agent chat interface that lets you manage multiple agents in one dynamic conversation and add MCP...</em><br/>
+<em>The open-source multi-agent chat interface that lets you manage multiple agents in one dynamic conversation and add MCP servers for deep research</em><br/>
 <span>
 <a href="https://github.com/CopilotKit/open-multi-agent-canvas/stargazers"><img src="https://img.shields.io/github/stars/CopilotKit/open-multi-agent-canvas?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/CopilotKit/open-multi-agent-canvas/network/members"><img src="https://img.shields.io/github/forks/CopilotKit/open-multi-agent-canvas?style=flat-square&labelColor=343b41"></a>
@@ -667,7 +667,7 @@
 <div align="left" style="border:1px solid #eee; border-radius:10px; padding:18px 20px; background:#fff;">
 
 <img src="https://avatars.githubusercontent.com/u/90464347?v=4" width="32" style="vertical-align:middle;"/> <strong><a href="https://github.com/Zoeyyao27/CoT-Igniting-Agent">Zoeyyao27/CoT-Igniting-Agent</a> </strong><br/>
-<em>This repository contains the paper list for the paper: Igniting Language Intelligence: The Hitchhiker's Guide From Chain...</em><br/>
+<em>This repository contains the paper list for the paper: Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents</em><br/>
 <span>
 <a href="https://github.com/Zoeyyao27/CoT-Igniting-Agent/stargazers"><img src="https://img.shields.io/github/stars/Zoeyyao27/CoT-Igniting-Agent?style=flat-square&labelColor=343b41"></a>
 <a href="https://github.com/Zoeyyao27/CoT-Igniting-Agent/network/members"><img src="https://img.shields.io/github/forks/Zoeyyao27/CoT-Igniting-Agent?style=flat-square&labelColor=343b41"></a>
