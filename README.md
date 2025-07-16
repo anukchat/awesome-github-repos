@@ -12,6 +12,32 @@
 
 <table align="center"><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/21162426?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/musistudio/claude-code-router">musistudio/claude-code-router</a> 🔥</strong>
+  <br/><br/>
+  <em>Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while...</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/musistudio/claude-code-router/stargazers"><img src="https://img.shields.io/github/stars/musistudio/claude-code-router?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/musistudio/claude-code-router/network/members"><img src="https://img.shields.io/github/forks/musistudio/claude-code-router?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a> 🔥🔥🔥</strong>
+  <br/><br/>
+  <em>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster...</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/anthropics/claude-code/stargazers"><img src="https://img.shields.io/github/stars/anthropics/claude-code?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/anthropics/claude-code/network/members"><img src="https://img.shields.io/github/forks/anthropics/claude-code?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
   <img src="https://avatars.githubusercontent.com/u/177409041?v=4" width="32"/><br/>
   <strong><a href="https://github.com/humanlayer/12-factor-agents">humanlayer/12-factor-agents</a> 🔥🔥</strong>
   <br/><br/>
@@ -111,32 +137,6 @@
   <span>
     <a href="https://github.com/metorial/mcp-containers/stargazers"><img src="https://img.shields.io/github/stars/metorial/mcp-containers?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/metorial/mcp-containers/network/members"><img src="https://img.shields.io/github/forks/metorial/mcp-containers?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/1054593?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/philfung/awesome-reliable-robotics">philfung/awesome-reliable-robotics</a> </strong>
-  <br/><br/>
-  <em>Robotics research demonstrating reliability and robustness in the real world (continuously updated)</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/philfung/awesome-reliable-robotics/stargazers"><img src="https://img.shields.io/github/stars/philfung/awesome-reliable-robotics?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/philfung/awesome-reliable-robotics/network/members"><img src="https://img.shields.io/github/forks/philfung/awesome-reliable-robotics?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/193350244?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge">The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge</a> 🔥🔥🔥</strong>
-  <br/><br/>
-  <em>Pocket Flow: Codebase to Tutorial</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge/stargazers"><img src="https://img.shields.io/github/stars/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge/network/members"><img src="https://img.shields.io/github/forks/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
