@@ -12,6 +12,58 @@
 
 <table align="center"><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/152537519?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/superagent-ai/grok-cli">superagent-ai/grok-cli</a> </strong>
+  <br/><br/>
+  <em>An open-source AI agent that brings the power of Grok directly into your terminal.</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/superagent-ai/grok-cli/stargazers"><img src="https://img.shields.io/github/stars/superagent-ai/grok-cli?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/superagent-ai/grok-cli/network/members"><img src="https://img.shields.io/github/forks/superagent-ai/grok-cli?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/10400064?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/mishushakov/llm-scraper">mishushakov/llm-scraper</a> 🔥🔥</strong>
+  <br/><br/>
+  <em>Turn any webpage into structured data using LLMs</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/mishushakov/llm-scraper/stargazers"><img src="https://img.shields.io/github/stars/mishushakov/llm-scraper?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/mishushakov/llm-scraper/network/members"><img src="https://img.shields.io/github/forks/mishushakov/llm-scraper?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/97241560?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/tremorlabs/tremor">tremorlabs/tremor</a> 🔥</strong>
+  <br/><br/>
+  <em>Copy & Paste React components to build modern web applications. </em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/tremorlabs/tremor/stargazers"><img src="https://img.shields.io/github/stars/tremorlabs/tremor?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/tremorlabs/tremor/network/members"><img src="https://img.shields.io/github/forks/tremorlabs/tremor?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/201822503?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/Kilo-Org/kilocode">Kilo-Org/kilocode</a> 🔥🔥</strong>
+  <br/><br/>
+  <em>Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own fea...</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/Kilo-Org/kilocode/stargazers"><img src="https://img.shields.io/github/stars/Kilo-Org/kilocode?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/Kilo-Org/kilocode/network/members"><img src="https://img.shields.io/github/forks/Kilo-Org/kilocode?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
   <img src="https://avatars.githubusercontent.com/u/210160027?v=4" width="32"/><br/>
   <strong><a href="https://github.com/MemTensor/MemOS">MemTensor/MemOS</a> 🔥</strong>
   <br/><br/>
@@ -85,58 +137,6 @@
   <span>
     <a href="https://github.com/humanlayer/12-factor-agents/stargazers"><img src="https://img.shields.io/github/stars/humanlayer/12-factor-agents?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/humanlayer/12-factor-agents/network/members"><img src="https://img.shields.io/github/forks/humanlayer/12-factor-agents?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/16785467?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/googleapis/genai-toolbox">googleapis/genai-toolbox</a> 🔥🔥</strong>
-  <br/><br/>
-  <em>MCP Toolbox for Databases is an open source MCP server for databases.</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/googleapis/genai-toolbox/stargazers"><img src="https://img.shields.io/github/stars/googleapis/genai-toolbox?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/googleapis/genai-toolbox/network/members"><img src="https://img.shields.io/github/forks/googleapis/genai-toolbox?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/1247180?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/Doriandarko/claude-engineer">Doriandarko/claude-engineer</a> 🔥🔥🔥</strong>
-  <br/><br/>
-  <em>Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet...</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/Doriandarko/claude-engineer/stargazers"><img src="https://img.shields.io/github/stars/Doriandarko/claude-engineer?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/Doriandarko/claude-engineer/network/members"><img src="https://img.shields.io/github/forks/Doriandarko/claude-engineer?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/1438012?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/markqvist/Reticulum">markqvist/Reticulum</a> 🔥</strong>
-  <br/><br/>
-  <em>The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything i...</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/markqvist/Reticulum/stargazers"><img src="https://img.shields.io/github/stars/markqvist/Reticulum?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/markqvist/Reticulum/network/members"><img src="https://img.shields.io/github/forks/markqvist/Reticulum?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/110412045?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/danny-avila/LibreChat">danny-avila/LibreChat</a> 🔥🔥🔥</strong>
-  <br/><br/>
-  <em>Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistr...</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/danny-avila/LibreChat/stargazers"><img src="https://img.shields.io/github/stars/danny-avila/LibreChat?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/danny-avila/LibreChat/network/members"><img src="https://img.shields.io/github/forks/danny-avila/LibreChat?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
