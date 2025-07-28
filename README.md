@@ -12,6 +12,45 @@
 
 <table align="center"><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/116099862?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/kn1026/cc">kn1026/cc</a> </strong>
+  <br/><br/>
+  <em>claude code system prompt</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/kn1026/cc/stargazers"><img src="https://img.shields.io/github/stars/kn1026/cc?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/kn1026/cc/network/members"><img src="https://img.shields.io/github/forks/kn1026/cc?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/204117714?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/MarkPDFdown/markpdfdown">MarkPDFdown/markpdfdown</a> 🔥</strong>
+  <br/><br/>
+  <em>A high-quality PDF to Markdown tool based on large language model visual recognition. 一款基于大模型视觉识别的高质量PDF转Markdown工具</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/MarkPDFdown/markpdfdown/stargazers"><img src="https://img.shields.io/github/stars/MarkPDFdown/markpdfdown?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/MarkPDFdown/markpdfdown/network/members"><img src="https://img.shields.io/github/forks/MarkPDFdown/markpdfdown?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/18416694?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/zilliztech/deep-searcher">zilliztech/deep-searcher</a> 🔥🔥</strong>
+  <br/><br/>
+  <em>Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/zilliztech/deep-searcher/stargazers"><img src="https://img.shields.io/github/stars/zilliztech/deep-searcher?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/zilliztech/deep-searcher/network/members"><img src="https://img.shields.io/github/forks/zilliztech/deep-searcher?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
   <img src="https://avatars.githubusercontent.com/u/129152888?v=4" width="32"/><br/>
   <strong><a href="https://github.com/MoonshotAI/Kimi-K2">MoonshotAI/Kimi-K2</a> 🔥🔥</strong>
   <br/><br/>
@@ -23,7 +62,7 @@
   </span>
 </div>
 
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/152537519?v=4" width="32"/><br/>
   <strong><a href="https://github.com/superagent-ai/grok-cli">superagent-ai/grok-cli</a> 🔥</strong>
@@ -36,7 +75,7 @@
   </span>
 </div>
 
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/10400064?v=4" width="32"/><br/>
   <strong><a href="https://github.com/mishushakov/llm-scraper">mishushakov/llm-scraper</a> 🔥🔥</strong>
@@ -49,7 +88,7 @@
   </span>
 </div>
 
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/97241560?v=4" width="32"/><br/>
   <strong><a href="https://github.com/tremorlabs/tremor">tremorlabs/tremor</a> 🔥</strong>
@@ -62,7 +101,7 @@
   </span>
 </div>
 
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/201822503?v=4" width="32"/><br/>
   <strong><a href="https://github.com/Kilo-Org/kilocode">Kilo-Org/kilocode</a> 🔥🔥</strong>
@@ -75,7 +114,7 @@
   </span>
 </div>
 
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/210160027?v=4" width="32"/><br/>
   <strong><a href="https://github.com/MemTensor/MemOS">MemTensor/MemOS</a> 🔥</strong>
@@ -88,7 +127,7 @@
   </span>
 </div>
 
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/2420543?v=4" width="32"/><br/>
   <strong><a href="https://github.com/mudler/LocalRecall">mudler/LocalRecall</a> </strong>
@@ -98,45 +137,6 @@
   <span>
     <a href="https://github.com/mudler/LocalRecall/stargazers"><img src="https://img.shields.io/github/stars/mudler/LocalRecall?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/mudler/LocalRecall/network/members"><img src="https://img.shields.io/github/forks/mudler/LocalRecall?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/208424706?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/davidkimai/Context-Engineering">davidkimai/Context-Engineering</a> 🔥</strong>
-  <br/><br/>
-  <em>"Context engineering is the delicate art and science of filling the context window with just the right information for t...</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/davidkimai/Context-Engineering/stargazers"><img src="https://img.shields.io/github/stars/davidkimai/Context-Engineering?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/davidkimai/Context-Engineering/network/members"><img src="https://img.shields.io/github/forks/davidkimai/Context-Engineering?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/21162426?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/musistudio/claude-code-router">musistudio/claude-code-router</a> 🔥🔥</strong>
-  <br/><br/>
-  <em>Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while...</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/musistudio/claude-code-router/stargazers"><img src="https://img.shields.io/github/stars/musistudio/claude-code-router?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/musistudio/claude-code-router/network/members"><img src="https://img.shields.io/github/forks/musistudio/claude-code-router?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a> 🔥🔥🔥</strong>
-  <br/><br/>
-  <em>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster...</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/anthropics/claude-code/stargazers"><img src="https://img.shields.io/github/stars/anthropics/claude-code?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/anthropics/claude-code/network/members"><img src="https://img.shields.io/github/forks/anthropics/claude-code?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
