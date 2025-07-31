@@ -12,6 +12,71 @@
 
 <table align="center"><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/141221163?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/QwenLM/Qwen3-Coder">QwenLM/Qwen3-Coder</a> 🔥🔥🔥</strong>
+  <br/><br/>
+  <em>Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/QwenLM/Qwen3-Coder/stargazers"><img src="https://img.shields.io/github/stars/QwenLM/Qwen3-Coder?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/QwenLM/Qwen3-Coder/network/members"><img src="https://img.shields.io/github/forks/QwenLM/Qwen3-Coder?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/134869877?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/SillyTavern/SillyTavern">SillyTavern/SillyTavern</a> 🔥🔥🔥</strong>
+  <br/><br/>
+  <em>LLM Frontend for Power Users.</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/SillyTavern/SillyTavern/stargazers"><img src="https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/SillyTavern/SillyTavern/network/members"><img src="https://img.shields.io/github/forks/SillyTavern/SillyTavern?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/579178?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/lfnovo/open-notebook">lfnovo/open-notebook</a> 🔥</strong>
+  <br/><br/>
+  <em>An Open Source implementation of Notebook LM with more flexibility and features</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/lfnovo/open-notebook/stargazers"><img src="https://img.shields.io/github/stars/lfnovo/open-notebook?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/lfnovo/open-notebook/network/members"><img src="https://img.shields.io/github/forks/lfnovo/open-notebook?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/216916882?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/contains-studio/agents">contains-studio/agents</a> 🔥</strong>
+  <br/><br/>
+  <em>sharing current agents in use</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/contains-studio/agents/stargazers"><img src="https://img.shields.io/github/stars/contains-studio/agents?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/contains-studio/agents/network/members"><img src="https://img.shields.io/github/forks/contains-studio/agents?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/35295970?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies">Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies</a> 🔥</strong>
+  <br/><br/>
+  <em>This repository contains a curated collection of 300+ case studies from over 80 companies, detailing practical applicati...</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies/stargazers"><img src="https://img.shields.io/github/stars/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies/network/members"><img src="https://img.shields.io/github/forks/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
   <img src="https://avatars.githubusercontent.com/u/116099862?v=4" width="32"/><br/>
   <strong><a href="https://github.com/kn1026/cc">kn1026/cc</a> </strong>
   <br/><br/>
@@ -23,7 +88,7 @@
   </span>
 </div>
 
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/204117714?v=4" width="32"/><br/>
   <strong><a href="https://github.com/MarkPDFdown/markpdfdown">MarkPDFdown/markpdfdown</a> 🔥</strong>
@@ -36,7 +101,7 @@
   </span>
 </div>
 
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/18416694?v=4" width="32"/><br/>
   <strong><a href="https://github.com/zilliztech/deep-searcher">zilliztech/deep-searcher</a> 🔥🔥</strong>
@@ -49,7 +114,7 @@
   </span>
 </div>
 
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/129152888?v=4" width="32"/><br/>
   <strong><a href="https://github.com/MoonshotAI/Kimi-K2">MoonshotAI/Kimi-K2</a> 🔥🔥</strong>
@@ -62,7 +127,7 @@
   </span>
 </div>
 
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/152537519?v=4" width="32"/><br/>
   <strong><a href="https://github.com/superagent-ai/grok-cli">superagent-ai/grok-cli</a> 🔥</strong>
@@ -72,71 +137,6 @@
   <span>
     <a href="https://github.com/superagent-ai/grok-cli/stargazers"><img src="https://img.shields.io/github/stars/superagent-ai/grok-cli?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/superagent-ai/grok-cli/network/members"><img src="https://img.shields.io/github/forks/superagent-ai/grok-cli?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/10400064?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/mishushakov/llm-scraper">mishushakov/llm-scraper</a> 🔥🔥</strong>
-  <br/><br/>
-  <em>Turn any webpage into structured data using LLMs</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/mishushakov/llm-scraper/stargazers"><img src="https://img.shields.io/github/stars/mishushakov/llm-scraper?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/mishushakov/llm-scraper/network/members"><img src="https://img.shields.io/github/forks/mishushakov/llm-scraper?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/97241560?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/tremorlabs/tremor">tremorlabs/tremor</a> 🔥</strong>
-  <br/><br/>
-  <em>Copy & Paste React components to build modern web applications. </em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/tremorlabs/tremor/stargazers"><img src="https://img.shields.io/github/stars/tremorlabs/tremor?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/tremorlabs/tremor/network/members"><img src="https://img.shields.io/github/forks/tremorlabs/tremor?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/201822503?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/Kilo-Org/kilocode">Kilo-Org/kilocode</a> 🔥🔥</strong>
-  <br/><br/>
-  <em>Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own fea...</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/Kilo-Org/kilocode/stargazers"><img src="https://img.shields.io/github/stars/Kilo-Org/kilocode?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/Kilo-Org/kilocode/network/members"><img src="https://img.shields.io/github/forks/Kilo-Org/kilocode?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/210160027?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/MemTensor/MemOS">MemTensor/MemOS</a> 🔥</strong>
-  <br/><br/>
-  <em>MemOS (Preview) | Intelligence Begins with Memory</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/MemTensor/MemOS/stargazers"><img src="https://img.shields.io/github/stars/MemTensor/MemOS?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/MemTensor/MemOS/network/members"><img src="https://img.shields.io/github/forks/MemTensor/MemOS?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/2420543?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/mudler/LocalRecall">mudler/LocalRecall</a> </strong>
-  <br/><br/>
-  <em>:brain: 100% Local Memory layer and Knowledge base for agents with WebUI </em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/mudler/LocalRecall/stargazers"><img src="https://img.shields.io/github/stars/mudler/LocalRecall?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/mudler/LocalRecall/network/members"><img src="https://img.shields.io/github/forks/mudler/LocalRecall?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
