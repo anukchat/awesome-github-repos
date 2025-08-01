@@ -12,6 +12,32 @@
 
 <table align="center"><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/google/langextract">google/langextract</a> 🔥</strong>
+  <br/><br/>
+  <em>A Python library for extracting structured information from unstructured text using LLMs with precise source grounding a...</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/google/langextract/stargazers"><img src="https://img.shields.io/github/stars/google/langextract?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/google/langextract/network/members"><img src="https://img.shields.io/github/forks/google/langextract?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/11986836?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/hwchase17/deepagents">hwchase17/deepagents</a> </strong>
+  <br/><br/>
+  <em></em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/hwchase17/deepagents/stargazers"><img src="https://img.shields.io/github/stars/hwchase17/deepagents?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/hwchase17/deepagents/network/members"><img src="https://img.shields.io/github/forks/hwchase17/deepagents?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
   <img src="https://avatars.githubusercontent.com/u/141221163?v=4" width="32"/><br/>
   <strong><a href="https://github.com/QwenLM/Qwen3-Coder">QwenLM/Qwen3-Coder</a> 🔥🔥🔥</strong>
   <br/><br/>
@@ -111,32 +137,6 @@
   <span>
     <a href="https://github.com/zilliztech/deep-searcher/stargazers"><img src="https://img.shields.io/github/stars/zilliztech/deep-searcher?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/zilliztech/deep-searcher/network/members"><img src="https://img.shields.io/github/forks/zilliztech/deep-searcher?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/129152888?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/MoonshotAI/Kimi-K2">MoonshotAI/Kimi-K2</a> 🔥🔥</strong>
-  <br/><br/>
-  <em>Kimi K2 is the large language model series developed by Moonshot AI team</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/MoonshotAI/Kimi-K2/stargazers"><img src="https://img.shields.io/github/stars/MoonshotAI/Kimi-K2?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/MoonshotAI/Kimi-K2/network/members"><img src="https://img.shields.io/github/forks/MoonshotAI/Kimi-K2?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/152537519?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/superagent-ai/grok-cli">superagent-ai/grok-cli</a> 🔥</strong>
-  <br/><br/>
-  <em>An open-source AI agent that brings the power of Grok directly into your terminal.</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/superagent-ai/grok-cli/stargazers"><img src="https://img.shields.io/github/stars/superagent-ai/grok-cli?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/superagent-ai/grok-cli/network/members"><img src="https://img.shields.io/github/forks/superagent-ai/grok-cli?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
