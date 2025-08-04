@@ -12,6 +12,32 @@
 
 <table align="center"><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/1809727?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/vijaythecoder/awesome-claude-agents">vijaythecoder/awesome-claude-agents</a> 🔥</strong>
+  <br/><br/>
+  <em>An orchestrated sub agent dev team powered by claude code</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/vijaythecoder/awesome-claude-agents/stargazers"><img src="https://img.shields.io/github/stars/vijaythecoder/awesome-claude-agents?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/vijaythecoder/awesome-claude-agents/network/members"><img src="https://img.shields.io/github/forks/vijaythecoder/awesome-claude-agents?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/188930505?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/sapientinc/HRM">sapientinc/HRM</a> 🔥</strong>
+  <br/><br/>
+  <em>Hierarchical Reasoning Model Official Release</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/sapientinc/HRM/stargazers"><img src="https://img.shields.io/github/stars/sapientinc/HRM?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/sapientinc/HRM/network/members"><img src="https://img.shields.io/github/forks/sapientinc/HRM?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
   <img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="32"/><br/>
   <strong><a href="https://github.com/google/langextract">google/langextract</a> 🔥</strong>
   <br/><br/>
@@ -78,7 +104,7 @@
 </td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/216916882?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/contains-studio/agents">contains-studio/agents</a> 🔥</strong>
+  <strong><a href="https://github.com/contains-studio/agents">contains-studio/agents</a> 🔥🔥</strong>
   <br/><br/>
   <em>sharing current agents in use</em>
   <br/><br/>
@@ -111,32 +137,6 @@
   <span>
     <a href="https://github.com/kn1026/cc/stargazers"><img src="https://img.shields.io/github/stars/kn1026/cc?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/kn1026/cc/network/members"><img src="https://img.shields.io/github/forks/kn1026/cc?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/204117714?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/MarkPDFdown/markpdfdown">MarkPDFdown/markpdfdown</a> 🔥</strong>
-  <br/><br/>
-  <em>A high-quality PDF to Markdown tool based on large language model visual recognition. 一款基于大模型视觉识别的高质量PDF转Markdown工具</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/MarkPDFdown/markpdfdown/stargazers"><img src="https://img.shields.io/github/stars/MarkPDFdown/markpdfdown?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/MarkPDFdown/markpdfdown/network/members"><img src="https://img.shields.io/github/forks/MarkPDFdown/markpdfdown?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/18416694?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/zilliztech/deep-searcher">zilliztech/deep-searcher</a> 🔥🔥</strong>
-  <br/><br/>
-  <em>Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/zilliztech/deep-searcher/stargazers"><img src="https://img.shields.io/github/stars/zilliztech/deep-searcher?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/zilliztech/deep-searcher/network/members"><img src="https://img.shields.io/github/forks/zilliztech/deep-searcher?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
