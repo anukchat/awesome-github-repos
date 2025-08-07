@@ -12,6 +12,32 @@
 
 <table align="center"><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/633840?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/adamcohenhillel/ADeus">adamcohenhillel/ADeus</a> 🔥</strong>
+  <br/><br/>
+  <em>An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores...</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/adamcohenhillel/ADeus/stargazers"><img src="https://img.shields.io/github/stars/adamcohenhillel/ADeus?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/adamcohenhillel/ADeus/network/members"><img src="https://img.shields.io/github/forks/adamcohenhillel/ADeus?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/183970190?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/dyad-sh/dyad">dyad-sh/dyad</a> 🔥🔥🔥</strong>
+  <br/><br/>
+  <em>Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/dyad-sh/dyad/stargazers"><img src="https://img.shields.io/github/stars/dyad-sh/dyad?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/dyad-sh/dyad/network/members"><img src="https://img.shields.io/github/forks/dyad-sh/dyad?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
   <img src="https://avatars.githubusercontent.com/u/1809727?v=4" width="32"/><br/>
   <strong><a href="https://github.com/vijaythecoder/awesome-claude-agents">vijaythecoder/awesome-claude-agents</a> 🔥</strong>
   <br/><br/>
@@ -26,7 +52,7 @@
 </td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/188930505?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/sapientinc/HRM">sapientinc/HRM</a> 🔥</strong>
+  <strong><a href="https://github.com/sapientinc/HRM">sapientinc/HRM</a> 🔥🔥</strong>
   <br/><br/>
   <em>Hierarchical Reasoning Model Official Release</em>
   <br/><br/>
@@ -39,7 +65,7 @@
 </td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/google/langextract">google/langextract</a> 🔥</strong>
+  <strong><a href="https://github.com/google/langextract">google/langextract</a> 🔥🔥</strong>
   <br/><br/>
   <em>A Python library for extracting structured information from unstructured text using LLMs with precise source grounding a...</em>
   <br/><br/>
@@ -52,7 +78,7 @@
 </td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/11986836?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/hwchase17/deepagents">hwchase17/deepagents</a> </strong>
+  <strong><a href="https://github.com/hwchase17/deepagents">hwchase17/deepagents</a> 🔥</strong>
   <br/><br/>
   <em></em>
   <br/><br/>
@@ -111,32 +137,6 @@
   <span>
     <a href="https://github.com/contains-studio/agents/stargazers"><img src="https://img.shields.io/github/stars/contains-studio/agents?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/contains-studio/agents/network/members"><img src="https://img.shields.io/github/forks/contains-studio/agents?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/35295970?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies">Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies</a> 🔥</strong>
-  <br/><br/>
-  <em>This repository contains a curated collection of 300+ case studies from over 80 companies, detailing practical applicati...</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies/stargazers"><img src="https://img.shields.io/github/stars/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies/network/members"><img src="https://img.shields.io/github/forks/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/116099862?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/kn1026/cc">kn1026/cc</a> </strong>
-  <br/><br/>
-  <em>claude code system prompt</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/kn1026/cc/stargazers"><img src="https://img.shields.io/github/stars/kn1026/cc?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/kn1026/cc/network/members"><img src="https://img.shields.io/github/forks/kn1026/cc?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
