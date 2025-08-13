@@ -12,10 +12,23 @@
 
 <table align="center"><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/141221163?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/QwenLM/qwen-code">QwenLM/qwen-code</a> 🔥🔥</strong>
+  <br/><br/>
+  <em>qwen-code is a coding agent that lives in digital world.</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/QwenLM/qwen-code/stargazers"><img src="https://img.shields.io/github/stars/QwenLM/qwen-code?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/QwenLM/qwen-code/network/members"><img src="https://img.shields.io/github/forks/QwenLM/qwen-code?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
   <img src="https://avatars.githubusercontent.com/u/217726889?v=4" width="32"/><br/>
   <strong><a href="https://github.com/NevaMind-AI/memU">NevaMind-AI/memU</a> </strong>
   <br/><br/>
-  <em>MemU is an open-source memory framework for AI companions—high accuracy, fast retrieval, low cost. It acts as an intelli...</em>
+  <em>MemU is an open-source memory framework for AI companions</em>
   <br/><br/>
   <span>
     <a href="https://github.com/NevaMind-AI/memU/stargazers"><img src="https://img.shields.io/github/stars/NevaMind-AI/memU?style=flat-square&labelColor=343b41"></a>
@@ -23,7 +36,7 @@
   </span>
 </div>
 
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/112750682?v=4" width="32"/><br/>
   <strong><a href="https://github.com/julep-ai/julep">julep-ai/julep</a> 🔥🔥</strong>
@@ -36,7 +49,7 @@
   </span>
 </div>
 
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/64773373?v=4" width="32"/><br/>
   <strong><a href="https://github.com/imanoop7/Ollama-OCR">imanoop7/Ollama-OCR</a> 🔥</strong>
@@ -49,7 +62,7 @@
   </span>
 </div>
 
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/633840?v=4" width="32"/><br/>
   <strong><a href="https://github.com/adamcohenhillel/ADeus">adamcohenhillel/ADeus</a> 🔥</strong>
@@ -62,7 +75,7 @@
   </span>
 </div>
 
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/183970190?v=4" width="32"/><br/>
   <strong><a href="https://github.com/dyad-sh/dyad">dyad-sh/dyad</a> 🔥🔥🔥</strong>
@@ -75,7 +88,7 @@
   </span>
 </div>
 
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/1809727?v=4" width="32"/><br/>
   <strong><a href="https://github.com/vijaythecoder/awesome-claude-agents">vijaythecoder/awesome-claude-agents</a> 🔥</strong>
@@ -88,7 +101,7 @@
   </span>
 </div>
 
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/188930505?v=4" width="32"/><br/>
   <strong><a href="https://github.com/sapientinc/HRM">sapientinc/HRM</a> 🔥🔥</strong>
@@ -101,7 +114,7 @@
   </span>
 </div>
 
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="32"/><br/>
   <strong><a href="https://github.com/google/langextract">google/langextract</a> 🔥🔥</strong>
@@ -114,7 +127,7 @@
   </span>
 </div>
 
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/11986836?v=4" width="32"/><br/>
   <strong><a href="https://github.com/hwchase17/deepagents">hwchase17/deepagents</a> 🔥</strong>
@@ -124,19 +137,6 @@
   <span>
     <a href="https://github.com/hwchase17/deepagents/stargazers"><img src="https://img.shields.io/github/stars/hwchase17/deepagents?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/hwchase17/deepagents/network/members"><img src="https://img.shields.io/github/forks/hwchase17/deepagents?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/141221163?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/QwenLM/Qwen3-Coder">QwenLM/Qwen3-Coder</a> 🔥🔥🔥</strong>
-  <br/><br/>
-  <em>Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/QwenLM/Qwen3-Coder/stargazers"><img src="https://img.shields.io/github/stars/QwenLM/Qwen3-Coder?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/QwenLM/Qwen3-Coder/network/members"><img src="https://img.shields.io/github/forks/QwenLM/Qwen3-Coder?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
