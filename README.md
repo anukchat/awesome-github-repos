@@ -12,8 +12,73 @@
 
 <table align="center"><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/12373080?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/MagnIeeT/leadGenerationAgentADK">MagnIeeT/leadGenerationAgentADK</a> </strong>
+  <br/><br/>
+  <em></em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/MagnIeeT/leadGenerationAgentADK/stargazers"><img src="https://img.shields.io/github/stars/MagnIeeT/leadGenerationAgentADK?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/MagnIeeT/leadGenerationAgentADK/network/members"><img src="https://img.shields.io/github/forks/MagnIeeT/leadGenerationAgentADK?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/139012218?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/OpenPipe/ART">OpenPipe/ART</a> 🔥🔥</strong>
+  <br/><br/>
+  <em>Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job traini...</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/OpenPipe/ART/stargazers"><img src="https://img.shields.io/github/stars/OpenPipe/ART?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/OpenPipe/ART/network/members"><img src="https://img.shields.io/github/forks/OpenPipe/ART?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/66570915?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/sst/opencode">sst/opencode</a> 🔥🔥🔥</strong>
+  <br/><br/>
+  <em>AI coding agent, built for the terminal.</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/sst/opencode/stargazers"><img src="https://img.shields.io/github/stars/sst/opencode?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/sst/opencode/network/members"><img src="https://img.shields.io/github/forks/sst/opencode?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/221595922?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/build-with-groq/groq-code-cli">build-with-groq/groq-code-cli</a> </strong>
+  <br/><br/>
+  <em>A highly customizable, lightweight, and open-source coding CLI powered by Groq for instant iteration.</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/build-with-groq/groq-code-cli/stargazers"><img src="https://img.shields.io/github/stars/build-with-groq/groq-code-cli?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/build-with-groq/groq-code-cli/network/members"><img src="https://img.shields.io/github/forks/build-with-groq/groq-code-cli?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/langchain-ai/deep-agents-ui">langchain-ai/deep-agents-ui</a> </strong>
+  <br/><br/>
+  <em>Custom UI for Deep Agents</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/langchain-ai/deep-agents-ui/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/deep-agents-ui?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/langchain-ai/deep-agents-ui/network/members"><img src="https://img.shields.io/github/forks/langchain-ai/deep-agents-ui?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
   <img src="https://avatars.githubusercontent.com/u/141221163?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/QwenLM/qwen-code">QwenLM/qwen-code</a> 🔥🔥</strong>
+  <strong><a href="https://github.com/QwenLM/qwen-code">QwenLM/qwen-code</a> 🔥🔥🔥</strong>
   <br/><br/>
   <em>qwen-code is a coding agent that lives in digital world.</em>
   <br/><br/>
@@ -23,7 +88,7 @@
   </span>
 </div>
 
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/217726889?v=4" width="32"/><br/>
   <strong><a href="https://github.com/NevaMind-AI/memU">NevaMind-AI/memU</a> </strong>
@@ -36,7 +101,7 @@
   </span>
 </div>
 
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/112750682?v=4" width="32"/><br/>
   <strong><a href="https://github.com/julep-ai/julep">julep-ai/julep</a> 🔥🔥</strong>
@@ -49,7 +114,7 @@
   </span>
 </div>
 
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/64773373?v=4" width="32"/><br/>
   <strong><a href="https://github.com/imanoop7/Ollama-OCR">imanoop7/Ollama-OCR</a> 🔥</strong>
@@ -62,7 +127,7 @@
   </span>
 </div>
 
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/633840?v=4" width="32"/><br/>
   <strong><a href="https://github.com/adamcohenhillel/ADeus">adamcohenhillel/ADeus</a> 🔥</strong>
@@ -72,71 +137,6 @@
   <span>
     <a href="https://github.com/adamcohenhillel/ADeus/stargazers"><img src="https://img.shields.io/github/stars/adamcohenhillel/ADeus?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/adamcohenhillel/ADeus/network/members"><img src="https://img.shields.io/github/forks/adamcohenhillel/ADeus?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/183970190?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/dyad-sh/dyad">dyad-sh/dyad</a> 🔥🔥🔥</strong>
-  <br/><br/>
-  <em>Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/dyad-sh/dyad/stargazers"><img src="https://img.shields.io/github/stars/dyad-sh/dyad?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/dyad-sh/dyad/network/members"><img src="https://img.shields.io/github/forks/dyad-sh/dyad?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/1809727?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/vijaythecoder/awesome-claude-agents">vijaythecoder/awesome-claude-agents</a> 🔥</strong>
-  <br/><br/>
-  <em>An orchestrated sub agent dev team powered by claude code</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/vijaythecoder/awesome-claude-agents/stargazers"><img src="https://img.shields.io/github/stars/vijaythecoder/awesome-claude-agents?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/vijaythecoder/awesome-claude-agents/network/members"><img src="https://img.shields.io/github/forks/vijaythecoder/awesome-claude-agents?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/188930505?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/sapientinc/HRM">sapientinc/HRM</a> 🔥🔥</strong>
-  <br/><br/>
-  <em>Hierarchical Reasoning Model Official Release</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/sapientinc/HRM/stargazers"><img src="https://img.shields.io/github/stars/sapientinc/HRM?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/sapientinc/HRM/network/members"><img src="https://img.shields.io/github/forks/sapientinc/HRM?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/google/langextract">google/langextract</a> 🔥🔥</strong>
-  <br/><br/>
-  <em>A Python library for extracting structured information from unstructured text using LLMs with precise source grounding a...</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/google/langextract/stargazers"><img src="https://img.shields.io/github/stars/google/langextract?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/google/langextract/network/members"><img src="https://img.shields.io/github/forks/google/langextract?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/11986836?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/hwchase17/deepagents">hwchase17/deepagents</a> 🔥</strong>
-  <br/><br/>
-  <em></em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/hwchase17/deepagents/stargazers"><img src="https://img.shields.io/github/stars/hwchase17/deepagents?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/hwchase17/deepagents/network/members"><img src="https://img.shields.io/github/forks/hwchase17/deepagents?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
