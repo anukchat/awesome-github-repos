@@ -12,6 +12,19 @@
 
 <table align="center"><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/171017415?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/ScrapeGraphAI/scrapecraft">ScrapeGraphAI/scrapecraft</a> </strong>
+  <br/><br/>
+  <em>🤖 AI-powered web scraping editor with visual workflow builder. Build, test & deploy web scrapers using natural language...</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/ScrapeGraphAI/scrapecraft/stargazers"><img src="https://img.shields.io/github/stars/ScrapeGraphAI/scrapecraft?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/ScrapeGraphAI/scrapecraft/network/members"><img src="https://img.shields.io/github/forks/ScrapeGraphAI/scrapecraft?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
   <img src="https://avatars.githubusercontent.com/u/12373080?v=4" width="32"/><br/>
   <strong><a href="https://github.com/MagnIeeT/leadGenerationAgentADK">MagnIeeT/leadGenerationAgentADK</a> </strong>
   <br/><br/>
@@ -23,7 +36,7 @@
   </span>
 </div>
 
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/139012218?v=4" width="32"/><br/>
   <strong><a href="https://github.com/OpenPipe/ART">OpenPipe/ART</a> 🔥🔥</strong>
@@ -36,7 +49,7 @@
   </span>
 </div>
 
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/66570915?v=4" width="32"/><br/>
   <strong><a href="https://github.com/sst/opencode">sst/opencode</a> 🔥🔥🔥</strong>
@@ -49,7 +62,7 @@
   </span>
 </div>
 
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/221595922?v=4" width="32"/><br/>
   <strong><a href="https://github.com/build-with-groq/groq-code-cli">build-with-groq/groq-code-cli</a> </strong>
@@ -62,7 +75,7 @@
   </span>
 </div>
 
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="32"/><br/>
   <strong><a href="https://github.com/langchain-ai/deep-agents-ui">langchain-ai/deep-agents-ui</a> </strong>
@@ -75,7 +88,7 @@
   </span>
 </div>
 
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/141221163?v=4" width="32"/><br/>
   <strong><a href="https://github.com/QwenLM/qwen-code">QwenLM/qwen-code</a> 🔥🔥🔥</strong>
@@ -88,10 +101,10 @@
   </span>
 </div>
 
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/217726889?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/NevaMind-AI/memU">NevaMind-AI/memU</a> </strong>
+  <strong><a href="https://github.com/NevaMind-AI/memU">NevaMind-AI/memU</a> 🔥</strong>
   <br/><br/>
   <em>MemU is an open-source memory framework for AI companions</em>
   <br/><br/>
@@ -101,7 +114,7 @@
   </span>
 </div>
 
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/112750682?v=4" width="32"/><br/>
   <strong><a href="https://github.com/julep-ai/julep">julep-ai/julep</a> 🔥🔥</strong>
@@ -114,7 +127,7 @@
   </span>
 </div>
 
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/64773373?v=4" width="32"/><br/>
   <strong><a href="https://github.com/imanoop7/Ollama-OCR">imanoop7/Ollama-OCR</a> 🔥</strong>
@@ -124,19 +137,6 @@
   <span>
     <a href="https://github.com/imanoop7/Ollama-OCR/stargazers"><img src="https://img.shields.io/github/stars/imanoop7/Ollama-OCR?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/imanoop7/Ollama-OCR/network/members"><img src="https://img.shields.io/github/forks/imanoop7/Ollama-OCR?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/633840?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/adamcohenhillel/ADeus">adamcohenhillel/ADeus</a> 🔥</strong>
-  <br/><br/>
-  <em>An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores...</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/adamcohenhillel/ADeus/stargazers"><img src="https://img.shields.io/github/stars/adamcohenhillel/ADeus?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/adamcohenhillel/ADeus/network/members"><img src="https://img.shields.io/github/forks/adamcohenhillel/ADeus?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
