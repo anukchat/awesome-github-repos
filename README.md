@@ -12,8 +12,34 @@
 
 <table align="center"><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/15352619?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/dusty-nv/jetson-inference">dusty-nv/jetson-inference</a> 🔥🔥</strong>
+  <br/><br/>
+  <em>Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA J...</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/dusty-nv/jetson-inference/stargazers"><img src="https://img.shields.io/github/stars/dusty-nv/jetson-inference?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/dusty-nv/jetson-inference/network/members"><img src="https://img.shields.io/github/forks/dusty-nv/jetson-inference?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/201259543?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/llamastack/llama-stack">llamastack/llama-stack</a> 🔥🔥</strong>
+  <br/><br/>
+  <em>Composable building blocks to build Llama Apps</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/llamastack/llama-stack/stargazers"><img src="https://img.shields.io/github/stars/llamastack/llama-stack?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/llamastack/llama-stack/network/members"><img src="https://img.shields.io/github/forks/llamastack/llama-stack?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
   <img src="https://avatars.githubusercontent.com/u/3095771?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/ashishpatel26/500-AI-Agents-Projects">ashishpatel26/500-AI-Agents-Projects</a> 🔥🔥</strong>
+  <strong><a href="https://github.com/ashishpatel26/500-AI-Agents-Projects">ashishpatel26/500-AI-Agents-Projects</a> 🔥🔥🔥</strong>
   <br/><br/>
   <em>The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practic...</em>
   <br/><br/>
@@ -111,32 +137,6 @@
   <span>
     <a href="https://github.com/langchain-ai/deep-agents-ui/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/deep-agents-ui?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/langchain-ai/deep-agents-ui/network/members"><img src="https://img.shields.io/github/forks/langchain-ai/deep-agents-ui?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/141221163?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/QwenLM/qwen-code">QwenLM/qwen-code</a> 🔥🔥🔥</strong>
-  <br/><br/>
-  <em>qwen-code is a coding agent that lives in digital world.</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/QwenLM/qwen-code/stargazers"><img src="https://img.shields.io/github/stars/QwenLM/qwen-code?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/QwenLM/qwen-code/network/members"><img src="https://img.shields.io/github/forks/QwenLM/qwen-code?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/217726889?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/NevaMind-AI/memU">NevaMind-AI/memU</a> 🔥</strong>
-  <br/><br/>
-  <em>MemU is an open-source memory framework for AI companions</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/NevaMind-AI/memU/stargazers"><img src="https://img.shields.io/github/stars/NevaMind-AI/memU?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/NevaMind-AI/memU/network/members"><img src="https://img.shields.io/github/forks/NevaMind-AI/memU?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
