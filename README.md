@@ -12,6 +12,19 @@
 
 <table align="center"><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/github/spec-kit">github/spec-kit</a> 🔥🔥🔥</strong>
+  <br/><br/>
+  <em>💫 Toolkit to help you get started with Spec-Driven Development</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/github/spec-kit/stargazers"><img src="https://img.shields.io/github/stars/github/spec-kit?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/github/spec-kit/network/members"><img src="https://img.shields.io/github/forks/github/spec-kit?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
   <img src="https://avatars.githubusercontent.com/u/228526110?v=4" width="32"/><br/>
   <strong><a href="https://github.com/dotgeminidev/.gemini">dotgeminidev/.gemini</a> </strong>
   <br/><br/>
@@ -23,7 +36,7 @@
   </span>
 </div>
 
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/15352619?v=4" width="32"/><br/>
   <strong><a href="https://github.com/dusty-nv/jetson-inference">dusty-nv/jetson-inference</a> 🔥🔥</strong>
@@ -36,7 +49,7 @@
   </span>
 </div>
 
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/201259543?v=4" width="32"/><br/>
   <strong><a href="https://github.com/llamastack/llama-stack">llamastack/llama-stack</a> 🔥🔥</strong>
@@ -49,7 +62,7 @@
   </span>
 </div>
 
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/3095771?v=4" width="32"/><br/>
   <strong><a href="https://github.com/ashishpatel26/500-AI-Agents-Projects">ashishpatel26/500-AI-Agents-Projects</a> 🔥🔥🔥</strong>
@@ -62,7 +75,7 @@
   </span>
 </div>
 
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="32"/><br/>
   <strong><a href="https://github.com/anthropics/claude-code-sdk-python">anthropics/claude-code-sdk-python</a> </strong>
@@ -75,7 +88,7 @@
   </span>
 </div>
 
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/171017415?v=4" width="32"/><br/>
   <strong><a href="https://github.com/ScrapeGraphAI/scrapecraft">ScrapeGraphAI/scrapecraft</a> </strong>
@@ -88,7 +101,7 @@
   </span>
 </div>
 
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/12373080?v=4" width="32"/><br/>
   <strong><a href="https://github.com/MagnIeeT/leadGenerationAgentADK">MagnIeeT/leadGenerationAgentADK</a> </strong>
@@ -101,7 +114,7 @@
   </span>
 </div>
 
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/139012218?v=4" width="32"/><br/>
   <strong><a href="https://github.com/OpenPipe/ART">OpenPipe/ART</a> 🔥🔥</strong>
@@ -114,7 +127,7 @@
   </span>
 </div>
 
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/66570915?v=4" width="32"/><br/>
   <strong><a href="https://github.com/sst/opencode">sst/opencode</a> 🔥🔥🔥</strong>
@@ -124,19 +137,6 @@
   <span>
     <a href="https://github.com/sst/opencode/stargazers"><img src="https://img.shields.io/github/stars/sst/opencode?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/sst/opencode/network/members"><img src="https://img.shields.io/github/forks/sst/opencode?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/221595922?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/build-with-groq/groq-code-cli">build-with-groq/groq-code-cli</a> </strong>
-  <br/><br/>
-  <em>A highly customizable, lightweight, and open-source coding CLI powered by Groq for instant iteration.</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/build-with-groq/groq-code-cli/stargazers"><img src="https://img.shields.io/github/stars/build-with-groq/groq-code-cli?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/build-with-groq/groq-code-cli/network/members"><img src="https://img.shields.io/github/forks/build-with-groq/groq-code-cli?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
