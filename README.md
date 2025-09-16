@@ -12,6 +12,32 @@
 
 <table align="center"><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/98941975?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/Eventual-Inc/Daft">Eventual-Inc/Daft</a> 🔥</strong>
+  <br/><br/>
+  <em>Distributed query engine providing simple and reliable data processing for any modality and scale</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/Eventual-Inc/Daft/stargazers"><img src="https://img.shields.io/github/stars/Eventual-Inc/Daft?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/Eventual-Inc/Daft/network/members"><img src="https://img.shields.io/github/forks/Eventual-Inc/Daft?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/160175171?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/emcie-co/parlant">emcie-co/parlant</a> 🔥🔥🔥</strong>
+  <br/><br/>
+  <em>LLM agents built for control. Designed for real-world use. Deployed in minutes.</em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/emcie-co/parlant/stargazers"><img src="https://img.shields.io/github/stars/emcie-co/parlant?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/emcie-co/parlant/network/members"><img src="https://img.shields.io/github/forks/emcie-co/parlant?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
   <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="32"/><br/>
   <strong><a href="https://github.com/github/spec-kit">github/spec-kit</a> 🔥🔥🔥</strong>
   <br/><br/>
@@ -78,7 +104,7 @@
 </td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/anthropics/claude-code-sdk-python">anthropics/claude-code-sdk-python</a> </strong>
+  <strong><a href="https://github.com/anthropics/claude-code-sdk-python">anthropics/claude-code-sdk-python</a> 🔥</strong>
   <br/><br/>
   <em></em>
   <br/><br/>
@@ -111,32 +137,6 @@
   <span>
     <a href="https://github.com/MagnIeeT/leadGenerationAgentADK/stargazers"><img src="https://img.shields.io/github/stars/MagnIeeT/leadGenerationAgentADK?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/MagnIeeT/leadGenerationAgentADK/network/members"><img src="https://img.shields.io/github/forks/MagnIeeT/leadGenerationAgentADK?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/139012218?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/OpenPipe/ART">OpenPipe/ART</a> 🔥🔥</strong>
-  <br/><br/>
-  <em>Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job traini...</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/OpenPipe/ART/stargazers"><img src="https://img.shields.io/github/stars/OpenPipe/ART?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/OpenPipe/ART/network/members"><img src="https://img.shields.io/github/forks/OpenPipe/ART?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/66570915?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/sst/opencode">sst/opencode</a> 🔥🔥🔥</strong>
-  <br/><br/>
-  <em>AI coding agent, built for the terminal.</em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/sst/opencode/stargazers"><img src="https://img.shields.io/github/stars/sst/opencode?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/sst/opencode/network/members"><img src="https://img.shields.io/github/forks/sst/opencode?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
