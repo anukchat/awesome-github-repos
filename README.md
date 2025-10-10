@@ -12,6 +12,19 @@
 
 <table align="center"><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/34525670?v=4" width="32"/><br/>
+  <strong><a href="https://github.com/landing-ai/ade-python">landing-ai/ade-python</a> </strong>
+  <br/><br/>
+  <em></em>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/landing-ai/ade-python/stargazers"><img src="https://img.shields.io/github/stars/landing-ai/ade-python?style=flat-square&labelColor=343b41"></a>
+    <a href="https://github.com/landing-ai/ade-python/network/members"><img src="https://img.shields.io/github/forks/landing-ai/ade-python?style=flat-square&labelColor=343b41"></a>
+  </span>
+</div>
+
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+<div align="center">
   <img src="https://avatars.githubusercontent.com/u/1794388?v=4" width="32"/><br/>
   <strong><a href="https://github.com/YaLTeR/niri">YaLTeR/niri</a> 🔥🔥🔥</strong>
   <br/><br/>
@@ -23,10 +36,10 @@
   </span>
 </div>
 
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/11260967?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp">ChromeDevTools/chrome-devtools-mcp</a> 🔥🔥</strong>
+  <strong><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp">ChromeDevTools/chrome-devtools-mcp</a> 🔥🔥🔥</strong>
   <br/><br/>
   <em>Chrome DevTools for coding agents</em>
   <br/><br/>
@@ -36,7 +49,7 @@
   </span>
 </div>
 
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/98941975?v=4" width="32"/><br/>
   <strong><a href="https://github.com/Eventual-Inc/Daft">Eventual-Inc/Daft</a> 🔥</strong>
@@ -49,7 +62,7 @@
   </span>
 </div>
 
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/160175171?v=4" width="32"/><br/>
   <strong><a href="https://github.com/emcie-co/parlant">emcie-co/parlant</a> 🔥🔥🔥</strong>
@@ -62,7 +75,7 @@
   </span>
 </div>
 
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="32"/><br/>
   <strong><a href="https://github.com/github/spec-kit">github/spec-kit</a> 🔥🔥🔥</strong>
@@ -75,7 +88,7 @@
   </span>
 </div>
 
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/228526110?v=4" width="32"/><br/>
   <strong><a href="https://github.com/dotgeminidev/.gemini">dotgeminidev/.gemini</a> </strong>
@@ -88,7 +101,7 @@
   </span>
 </div>
 
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/15352619?v=4" width="32"/><br/>
   <strong><a href="https://github.com/dusty-nv/jetson-inference">dusty-nv/jetson-inference</a> 🔥🔥</strong>
@@ -101,7 +114,7 @@
   </span>
 </div>
 
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/201259543?v=4" width="32"/><br/>
   <strong><a href="https://github.com/llamastack/llama-stack">llamastack/llama-stack</a> 🔥🔥</strong>
@@ -114,7 +127,7 @@
   </span>
 </div>
 
-</td></tr><tr><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
+</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/3095771?v=4" width="32"/><br/>
   <strong><a href="https://github.com/ashishpatel26/500-AI-Agents-Projects">ashishpatel26/500-AI-Agents-Projects</a> 🔥🔥🔥</strong>
@@ -124,19 +137,6 @@
   <span>
     <a href="https://github.com/ashishpatel26/500-AI-Agents-Projects/stargazers"><img src="https://img.shields.io/github/stars/ashishpatel26/500-AI-Agents-Projects?style=flat-square&labelColor=343b41"></a>
     <a href="https://github.com/ashishpatel26/500-AI-Agents-Projects/network/members"><img src="https://img.shields.io/github/forks/ashishpatel26/500-AI-Agents-Projects?style=flat-square&labelColor=343b41"></a>
-  </span>
-</div>
-
-</td><td style="vertical-align:top; padding: 24px 36px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="40" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="32"/><br/>
-  <strong><a href="https://github.com/anthropics/claude-agent-sdk-python">anthropics/claude-agent-sdk-python</a> 🔥</strong>
-  <br/><br/>
-  <em></em>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/anthropics/claude-agent-sdk-python/stargazers"><img src="https://img.shields.io/github/stars/anthropics/claude-agent-sdk-python?style=flat-square&labelColor=343b41"></a>
-    <a href="https://github.com/anthropics/claude-agent-sdk-python/network/members"><img src="https://img.shields.io/github/forks/anthropics/claude-agent-sdk-python?style=flat-square&labelColor=343b41"></a>
   </span>
 </div>
 
