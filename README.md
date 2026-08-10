@@ -1,3 +1,5 @@
+
+
 <p align="center"><img src="assets/awesome-logo.png" width="120" alt="Awesome Repos"/></p>
 <h1 align="center">🚀 Awesome GitHub Repos</h1>
 <p align="center">Awesome & Popular AI Repos to follow, fully curated & categorized by <a href="https://github.com/anukchat">Anukool Chaturvedi</a></p>
@@ -178,5 +180,12 @@
 - [Awesome Lists & Aggregators](categories/awesome-lists-aggregators.md): Curated resources, educational repositories, prompt or tool collections.
 - [Others](categories/others.md): If none of the above fit.
 
----
+## 🛠️ Local Generation
 
+This list is auto-generated from starred repositories. To run it locally:
+1. Ensure **Node.js >= 18** is installed.
+2. Run `npm install` to fetch dependencies.
+3. Export `GITHUB_TOKEN` and `GEMINI_API_KEY` environment variables.
+4. Execute `npm run generate` to rebuild the README and category pages.
+
+---
