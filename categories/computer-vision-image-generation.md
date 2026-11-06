@@ -41,7 +41,7 @@
 <img src="https://avatars.githubusercontent.com/u/139791695?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Stirling-Tools/Stirling-PDF">Stirling-Tools/Stirling-PDF</a> 🔥🔥🔥</strong> <br/><br/>
 <em>#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>docker</code> <code>hacktoberfest</code> <code>java</code> <code>pdf</code> <code>pdf-converter</code> <code>pdf-editor</code></small><br/><br/>
 <span>
-<a href="https://github.com/Stirling-Tools/Stirling-PDF/stargazers"><img src="https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=flat-square&labelColor=343b41" alt="Stars: 95818"></a>
+<a href="https://github.com/Stirling-Tools/Stirling-PDF/stargazers"><img src="https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=flat-square&labelColor=343b41" alt="Stars: 95821"></a>
 <a href="https://github.com/Stirling-Tools/Stirling-PDF/network/members"><img src="https://img.shields.io/github/forks/Stirling-Tools/Stirling-PDF?style=flat-square&labelColor=343b41" alt="Forks: 10005"></a>
 </span>
 </div><br/>
@@ -50,7 +50,7 @@
 <img src="https://avatars.githubusercontent.com/u/23534030?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/PaddlePaddle/PaddleOCR">PaddlePaddle/PaddleOCR</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-09-16</small><br/><small>🏷️ <code>ai4science</code> <code>chineseocr</code> <code>document-parsing</code> <code>document-translation</code> <code>kie</code> <code>ocr</code></small><br/><br/>
 <span>
-<a href="https://github.com/PaddlePaddle/PaddleOCR/stargazers"><img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=flat-square&labelColor=343b41" alt="Stars: 92336"></a>
+<a href="https://github.com/PaddlePaddle/PaddleOCR/stargazers"><img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=flat-square&labelColor=343b41" alt="Stars: 92343"></a>
 <a href="https://github.com/PaddlePaddle/PaddleOCR/network/members"><img src="https://img.shields.io/github/forks/PaddlePaddle/PaddleOCR?style=flat-square&labelColor=343b41" alt="Forks: 11625"></a>
 </span>
 </div><br/>
@@ -68,7 +68,7 @@
 <img src="https://avatars.githubusercontent.com/u/13245940?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/baidu/Unlimited-OCR">baidu/Unlimited-OCR</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-02</small><br/><br/>
 <span>
-<a href="https://github.com/baidu/Unlimited-OCR/stargazers"><img src="https://img.shields.io/github/stars/baidu/Unlimited-OCR?style=flat-square&labelColor=343b41" alt="Stars: 30671"></a>
+<a href="https://github.com/baidu/Unlimited-OCR/stargazers"><img src="https://img.shields.io/github/stars/baidu/Unlimited-OCR?style=flat-square&labelColor=343b41" alt="Stars: 30675"></a>
 <a href="https://github.com/baidu/Unlimited-OCR/network/members"><img src="https://img.shields.io/github/forks/baidu/Unlimited-OCR?style=flat-square&labelColor=343b41" alt="Forks: 3274"></a>
 </span>
 </div><br/>
@@ -95,7 +95,7 @@
 <img src="https://avatars.githubusercontent.com/u/135057108?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/firecrawl/pdf-inspector">firecrawl/pdf-inspector</a> 🔥🔥</strong> <br/><br/>
 <em>Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-10-22</small><br/><small>🏷️ <code>markdown</code> <code>nodejs</code> <code>ocr-routing</code> <code>pdf</code> <code>pdf-classification</code> <code>pdf-extraction</code></small><br/><br/>
 <span>
-<a href="https://github.com/firecrawl/pdf-inspector/stargazers"><img src="https://img.shields.io/github/stars/firecrawl/pdf-inspector?style=flat-square&labelColor=343b41" alt="Stars: 19907"></a>
+<a href="https://github.com/firecrawl/pdf-inspector/stargazers"><img src="https://img.shields.io/github/stars/firecrawl/pdf-inspector?style=flat-square&labelColor=343b41" alt="Stars: 19909"></a>
 <a href="https://github.com/firecrawl/pdf-inspector/network/members"><img src="https://img.shields.io/github/forks/firecrawl/pdf-inspector?style=flat-square&labelColor=343b41" alt="Forks: 1352"></a>
 </span>
 </div><br/>
@@ -104,7 +104,7 @@
 <img src="https://avatars.githubusercontent.com/u/2386538?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/krillinai/OpenCreator">krillinai/OpenCreator</a> 🔥🔥</strong> <br/><br/>
 <em>Formerly KrillinAI, VideoTranslation and Dubbing Tool for 120+ Languages. Open-source AI workspace for creators, powered by Codex. Video downloader, video translation, create videos, images, audios, and edits with Agents in one place. For your Social Media like YouTube, TikTok, Instagram, etc.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>agent-skills</code> <code>codex-cli</code> <code>deskop-app</code> <code>dubbing</code> <code>image-generation</code> <code>localization</code></small><br/><br/>
 <span>
-<a href="https://github.com/krillinai/OpenCreator/stargazers"><img src="https://img.shields.io/github/stars/krillinai/OpenCreator?style=flat-square&labelColor=343b41" alt="Stars: 14181"></a>
+<a href="https://github.com/krillinai/OpenCreator/stargazers"><img src="https://img.shields.io/github/stars/krillinai/OpenCreator?style=flat-square&labelColor=343b41" alt="Stars: 14182"></a>
 <a href="https://github.com/krillinai/OpenCreator/network/members"><img src="https://img.shields.io/github/forks/krillinai/OpenCreator?style=flat-square&labelColor=343b41" alt="Forks: 1582"></a>
 </span>
 </div><br/>
@@ -140,7 +140,7 @@
 <img src="https://avatars.githubusercontent.com/u/175308387?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/qubvel-org/segmentation_models.pytorch">qubvel-org/segmentation_models.pytorch</a> 🔥🔥</strong> <br/><br/>
 <em>Semantic segmentation models with 500+ pretrained convolutional and transformer-based backbones.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-02</small><br/><small>🏷️ <code>computer-vision</code> <code>deeplab-v3-plus</code> <code>deeplabv3</code> <code>dpt</code> <code>fpn</code> <code>image-processing</code></small><br/><br/>
 <span>
-<a href="https://github.com/qubvel-org/segmentation_models.pytorch/stargazers"><img src="https://img.shields.io/github/stars/qubvel-org/segmentation_models.pytorch?style=flat-square&labelColor=343b41" alt="Stars: 11795"></a>
+<a href="https://github.com/qubvel-org/segmentation_models.pytorch/stargazers"><img src="https://img.shields.io/github/stars/qubvel-org/segmentation_models.pytorch?style=flat-square&labelColor=343b41" alt="Stars: 11796"></a>
 <a href="https://github.com/qubvel-org/segmentation_models.pytorch/network/members"><img src="https://img.shields.io/github/forks/qubvel-org/segmentation_models.pytorch?style=flat-square&labelColor=343b41" alt="Forks: 1852"></a>
 </span>
 </div><br/>
@@ -149,7 +149,7 @@
 <img src="https://avatars.githubusercontent.com/u/2695301?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/NVlabs/Sana">NVlabs/Sana</a> 🔥🔥</strong> <br/><br/>
 <em>SANA &amp; Sol: Efficient Generative Models and Full-Stack Training &amp; Inference Engines for Image, Video, and World Modeling</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>diffusion</code> <code>dit</code> <code>linear-transformer</code> <code>nvfp4</code> <code>pytorch</code> <code>reinforcement-learning</code></small><br/><br/>
 <span>
-<a href="https://github.com/NVlabs/Sana/stargazers"><img src="https://img.shields.io/github/stars/NVlabs/Sana?style=flat-square&labelColor=343b41" alt="Stars: 9775"></a>
+<a href="https://github.com/NVlabs/Sana/stargazers"><img src="https://img.shields.io/github/stars/NVlabs/Sana?style=flat-square&labelColor=343b41" alt="Stars: 9776"></a>
 <a href="https://github.com/NVlabs/Sana/network/members"><img src="https://img.shields.io/github/forks/NVlabs/Sana?style=flat-square&labelColor=343b41" alt="Forks: 799"></a>
 </span>
 </div><br/>
@@ -185,7 +185,7 @@
 <img src="https://avatars.githubusercontent.com/u/163981778?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/TMElyralab/MuseTalk">TMElyralab/MuseTalk</a> 🔥🔥</strong> <br/><br/>
 <em>MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2025-09-26</small><br/><small>🏷️ <code>lip-sync</code> <code>virtualhumans</code></small><br/><br/>
 <span>
-<a href="https://github.com/TMElyralab/MuseTalk/stargazers"><img src="https://img.shields.io/github/stars/TMElyralab/MuseTalk?style=flat-square&labelColor=343b41" alt="Stars: 6883"></a>
+<a href="https://github.com/TMElyralab/MuseTalk/stargazers"><img src="https://img.shields.io/github/stars/TMElyralab/MuseTalk?style=flat-square&labelColor=343b41" alt="Stars: 6884"></a>
 <a href="https://github.com/TMElyralab/MuseTalk/network/members"><img src="https://img.shields.io/github/forks/TMElyralab/MuseTalk?style=flat-square&labelColor=343b41" alt="Forks: 1004"></a>
 </span>
 </div><br/>

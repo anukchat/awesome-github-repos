@@ -12,7 +12,7 @@
 | [**ggml-org/llama.cpp**](https://github.com/ggml-org/llama.cpp) | ⭐ 134k | C++ | 2026-11-06 | LLM inference in C/C++ |
 | [**deepseek-ai/DeepSeek-V3**](https://github.com/deepseek-ai/DeepSeek-V3) | ⭐ 105k | Python | 2025-08-28 | Official repository for DeepSeek-V3, a strong Mixture-of-Experts (MoE) large language... |
 | [**unslothai/unsloth**](https://github.com/unslothai/unsloth) | ⭐ 79k | Python | 2026-11-06 | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Dee... |
-| [**karpathy/nanoGPT**](https://github.com/karpathy/nanoGPT) | ⭐ 64k | Python | 2025-11-12 | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
+| [**karpathy/nanoGPT**](https://github.com/karpathy/nanoGPT) | ⭐ 65k | Python | 2025-11-12 | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
 | [**shiyu-coder/Kronos**](https://github.com/shiyu-coder/Kronos) | ⭐ 47k | Python | 2026-04-13 | Kronos: A Foundation Model for the Language of Financial Markets |
 | [**lyogavin/airllm**](https://github.com/lyogavin/airllm) | ⭐ 42k | Jupyter Notebook | 2026-11-06 | AirLLM 2.8T LLM inference with single 4GB GPU |
 | [**microsoft/BitNet**](https://github.com/microsoft/BitNet) | ⭐ 41k | C++ | 2026-07-27 | Official inference framework for 1-bit LLMs |
@@ -58,8 +58,8 @@
 <img src="https://avatars.githubusercontent.com/u/151674099?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/ollama/ollama">ollama/ollama</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</em><br/><small><code>Go</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>deepseek</code> <code>gemma</code> <code>glm</code> <code>go</code> <code>golang</code> <code>gpt-oss</code></small><br/><br/>
 <span>
-<a href="https://github.com/ollama/ollama/stargazers"><img src="https://img.shields.io/github/stars/ollama/ollama?style=flat-square&labelColor=343b41" alt="Stars: 186051"></a>
-<a href="https://github.com/ollama/ollama/network/members"><img src="https://img.shields.io/github/forks/ollama/ollama?style=flat-square&labelColor=343b41" alt="Forks: 18919"></a>
+<a href="https://github.com/ollama/ollama/stargazers"><img src="https://img.shields.io/github/stars/ollama/ollama?style=flat-square&labelColor=343b41" alt="Stars: 186059"></a>
+<a href="https://github.com/ollama/ollama/network/members"><img src="https://img.shields.io/github/forks/ollama/ollama?style=flat-square&labelColor=343b41" alt="Forks: 18922"></a>
 </span>
 </div><br/>
 
@@ -67,8 +67,8 @@
 <img src="https://avatars.githubusercontent.com/u/134263123?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/ggml-org/llama.cpp">ggml-org/llama.cpp</a> 🔥🔥🔥</strong> <br/><br/>
 <em>LLM inference in C/C++</em><br/><small><code>C++</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>ggml</code></small><br/><br/>
 <span>
-<a href="https://github.com/ggml-org/llama.cpp/stargazers"><img src="https://img.shields.io/github/stars/ggml-org/llama.cpp?style=flat-square&labelColor=343b41" alt="Stars: 133519"></a>
-<a href="https://github.com/ggml-org/llama.cpp/network/members"><img src="https://img.shields.io/github/forks/ggml-org/llama.cpp?style=flat-square&labelColor=343b41" alt="Forks: 25196"></a>
+<a href="https://github.com/ggml-org/llama.cpp/stargazers"><img src="https://img.shields.io/github/stars/ggml-org/llama.cpp?style=flat-square&labelColor=343b41" alt="Stars: 133527"></a>
+<a href="https://github.com/ggml-org/llama.cpp/network/members"><img src="https://img.shields.io/github/forks/ggml-org/llama.cpp?style=flat-square&labelColor=343b41" alt="Forks: 25198"></a>
 </span>
 </div><br/>
 
@@ -85,7 +85,7 @@
 <img src="https://avatars.githubusercontent.com/u/150920049?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/unslothai/unsloth">unslothai/unsloth</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>agent</code> <code>ai</code> <code>chatgpt</code> <code>deepseek</code> <code>fine-tuning</code> <code>gemma</code></small><br/><br/>
 <span>
-<a href="https://github.com/unslothai/unsloth/stargazers"><img src="https://img.shields.io/github/stars/unslothai/unsloth?style=flat-square&labelColor=343b41" alt="Stars: 79093"></a>
+<a href="https://github.com/unslothai/unsloth/stargazers"><img src="https://img.shields.io/github/stars/unslothai/unsloth?style=flat-square&labelColor=343b41" alt="Stars: 79095"></a>
 <a href="https://github.com/unslothai/unsloth/network/members"><img src="https://img.shields.io/github/forks/unslothai/unsloth?style=flat-square&labelColor=343b41" alt="Forks: 7363"></a>
 </span>
 </div><br/>
@@ -94,8 +94,8 @@
 <img src="https://avatars.githubusercontent.com/u/241138?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/karpathy/nanoGPT">karpathy/nanoGPT</a> 🔥🔥🔥</strong> <br/><br/>
 <em>The simplest, fastest repository for training/finetuning medium-sized GPTs.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2025-11-12</small><br/><br/>
 <span>
-<a href="https://github.com/karpathy/nanoGPT/stargazers"><img src="https://img.shields.io/github/stars/karpathy/nanoGPT?style=flat-square&labelColor=343b41" alt="Stars: 64497"></a>
-<a href="https://github.com/karpathy/nanoGPT/network/members"><img src="https://img.shields.io/github/forks/karpathy/nanoGPT?style=flat-square&labelColor=343b41" alt="Forks: 11080"></a>
+<a href="https://github.com/karpathy/nanoGPT/stargazers"><img src="https://img.shields.io/github/stars/karpathy/nanoGPT?style=flat-square&labelColor=343b41" alt="Stars: 64500"></a>
+<a href="https://github.com/karpathy/nanoGPT/network/members"><img src="https://img.shields.io/github/forks/karpathy/nanoGPT?style=flat-square&labelColor=343b41" alt="Forks: 11081"></a>
 </span>
 </div><br/>
 
@@ -103,8 +103,8 @@
 <img src="https://avatars.githubusercontent.com/u/65760973?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/shiyu-coder/Kronos">shiyu-coder/Kronos</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Kronos: A Foundation Model for the Language of Financial Markets</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-04-13</small><br/><br/>
 <span>
-<a href="https://github.com/shiyu-coder/Kronos/stargazers"><img src="https://img.shields.io/github/stars/shiyu-coder/Kronos?style=flat-square&labelColor=343b41" alt="Stars: 46973"></a>
-<a href="https://github.com/shiyu-coder/Kronos/network/members"><img src="https://img.shields.io/github/forks/shiyu-coder/Kronos?style=flat-square&labelColor=343b41" alt="Forks: 7765"></a>
+<a href="https://github.com/shiyu-coder/Kronos/stargazers"><img src="https://img.shields.io/github/stars/shiyu-coder/Kronos?style=flat-square&labelColor=343b41" alt="Stars: 46979"></a>
+<a href="https://github.com/shiyu-coder/Kronos/network/members"><img src="https://img.shields.io/github/forks/shiyu-coder/Kronos?style=flat-square&labelColor=343b41" alt="Forks: 7766"></a>
 </span>
 </div><br/>
 
@@ -112,7 +112,7 @@
 <img src="https://avatars.githubusercontent.com/u/1113905?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/lyogavin/airllm">lyogavin/airllm</a> 🔥🔥🔥</strong> <br/><br/>
 <em>AirLLM 2.8T LLM inference with single 4GB GPU</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>chinese-llm</code> <code>chinese-nlp</code> <code>finetune</code> <code>generative-ai</code> <code>instruct-gpt</code> <code>instruction-set</code></small><br/><br/>
 <span>
-<a href="https://github.com/lyogavin/airllm/stargazers"><img src="https://img.shields.io/github/stars/lyogavin/airllm?style=flat-square&labelColor=343b41" alt="Stars: 41826"></a>
+<a href="https://github.com/lyogavin/airllm/stargazers"><img src="https://img.shields.io/github/stars/lyogavin/airllm?style=flat-square&labelColor=343b41" alt="Stars: 41829"></a>
 <a href="https://github.com/lyogavin/airllm/network/members"><img src="https://img.shields.io/github/forks/lyogavin/airllm?style=flat-square&labelColor=343b41" alt="Forks: 4303"></a>
 </span>
 </div><br/>
@@ -130,7 +130,7 @@
 <img src="https://avatars.githubusercontent.com/u/134869877?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/SillyTavern/SillyTavern">SillyTavern/SillyTavern</a> 🔥🔥🔥</strong> <br/><br/>
 <em>LLM Frontend for Power Users.</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-10-02</small><br/><small>🏷️ <code>ai</code> <code>chat</code> <code>llm</code></small><br/><br/>
 <span>
-<a href="https://github.com/SillyTavern/SillyTavern/stargazers"><img src="https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=flat-square&labelColor=343b41" alt="Stars: 35323"></a>
+<a href="https://github.com/SillyTavern/SillyTavern/stargazers"><img src="https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=flat-square&labelColor=343b41" alt="Stars: 35328"></a>
 <a href="https://github.com/SillyTavern/SillyTavern/network/members"><img src="https://img.shields.io/github/forks/SillyTavern/SillyTavern?style=flat-square&labelColor=343b41" alt="Forks: 6654"></a>
 </span>
 </div><br/>
@@ -166,8 +166,8 @@
 <img src="https://avatars.githubusercontent.com/u/183970190?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/dyad-sh/dyad">dyad-sh/dyad</a> 🔥🔥</strong> <br/><br/>
 <em>Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>ai-app-builder</code> <code>anthropic</code> <code>artificial-intelligence</code> <code>bolt</code> <code>deepseek</code> <code>gemini</code></small><br/><br/>
 <span>
-<a href="https://github.com/dyad-sh/dyad/stargazers"><img src="https://img.shields.io/github/stars/dyad-sh/dyad?style=flat-square&labelColor=343b41" alt="Stars: 22195"></a>
-<a href="https://github.com/dyad-sh/dyad/network/members"><img src="https://img.shields.io/github/forks/dyad-sh/dyad?style=flat-square&labelColor=343b41" alt="Forks: 2797"></a>
+<a href="https://github.com/dyad-sh/dyad/stargazers"><img src="https://img.shields.io/github/stars/dyad-sh/dyad?style=flat-square&labelColor=343b41" alt="Stars: 22197"></a>
+<a href="https://github.com/dyad-sh/dyad/network/members"><img src="https://img.shields.io/github/forks/dyad-sh/dyad?style=flat-square&labelColor=343b41" alt="Forks: 2798"></a>
 </span>
 </div><br/>
 
@@ -202,7 +202,7 @@
 <img src="https://avatars.githubusercontent.com/u/38156925?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/GeeeekExplorer/nano-vllm">GeeeekExplorer/nano-vllm</a> 🔥🔥</strong> <br/><br/>
 <em>Nano vLLM</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-04-26</small><br/><small>🏷️ <code>deep-learning</code> <code>inference</code> <code>llm</code> <code>nlp</code> <code>pytorch</code> <code>transformer</code></small><br/><br/>
 <span>
-<a href="https://github.com/GeeeekExplorer/nano-vllm/stargazers"><img src="https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm?style=flat-square&labelColor=343b41" alt="Stars: 16316"></a>
+<a href="https://github.com/GeeeekExplorer/nano-vllm/stargazers"><img src="https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm?style=flat-square&labelColor=343b41" alt="Stars: 16317"></a>
 <a href="https://github.com/GeeeekExplorer/nano-vllm/network/members"><img src="https://img.shields.io/github/forks/GeeeekExplorer/nano-vllm?style=flat-square&labelColor=343b41" alt="Forks: 2829"></a>
 </span>
 </div><br/>
@@ -211,7 +211,7 @@
 <img src="https://avatars.githubusercontent.com/u/1728152?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/NVIDIA/TensorRT-LLM">NVIDIA/TensorRT-LLM</a> 🔥🔥</strong> <br/><br/>
 <em>TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>blackwell</code> <code>cuda</code> <code>llm-serving</code> <code>moe</code> <code>pytorch</code></small><br/><br/>
 <span>
-<a href="https://github.com/NVIDIA/TensorRT-LLM/stargazers"><img src="https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=flat-square&labelColor=343b41" alt="Stars: 15021"></a>
+<a href="https://github.com/NVIDIA/TensorRT-LLM/stargazers"><img src="https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=flat-square&labelColor=343b41" alt="Stars: 15023"></a>
 <a href="https://github.com/NVIDIA/TensorRT-LLM/network/members"><img src="https://img.shields.io/github/forks/NVIDIA/TensorRT-LLM?style=flat-square&labelColor=343b41" alt="Forks: 2912"></a>
 </span>
 </div><br/>

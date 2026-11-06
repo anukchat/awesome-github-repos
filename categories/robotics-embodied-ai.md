@@ -49,7 +49,7 @@
 <img src="https://avatars.githubusercontent.com/u/47722602?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/harvard-edge/cs249r_book">harvard-edge/cs249r_book</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>agentic-ai</code> <code>ai-agents</code> <code>artificial-intelligence</code> <code>cloud-ml</code> <code>computer-systems</code> <code>courseware</code></small><br/><br/>
 <span>
-<a href="https://github.com/harvard-edge/cs249r_book/stargazers"><img src="https://img.shields.io/github/stars/harvard-edge/cs249r_book?style=flat-square&labelColor=343b41" alt="Stars: 29984"></a>
+<a href="https://github.com/harvard-edge/cs249r_book/stargazers"><img src="https://img.shields.io/github/stars/harvard-edge/cs249r_book?style=flat-square&labelColor=343b41" alt="Stars: 29986"></a>
 <a href="https://github.com/harvard-edge/cs249r_book/network/members"><img src="https://img.shields.io/github/forks/harvard-edge/cs249r_book?style=flat-square&labelColor=343b41" alt="Forks: 3716"></a>
 </span>
 </div><br/>
@@ -58,8 +58,8 @@
 <img src="https://avatars.githubusercontent.com/u/25720743?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/huggingface/lerobot">huggingface/lerobot</a> 🔥🔥🔥</strong> <br/><br/>
 <em>🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><br/>
 <span>
-<a href="https://github.com/huggingface/lerobot/stargazers"><img src="https://img.shields.io/github/stars/huggingface/lerobot?style=flat-square&labelColor=343b41" alt="Stars: 28713"></a>
-<a href="https://github.com/huggingface/lerobot/network/members"><img src="https://img.shields.io/github/forks/huggingface/lerobot?style=flat-square&labelColor=343b41" alt="Forks: 6023"></a>
+<a href="https://github.com/huggingface/lerobot/stargazers"><img src="https://img.shields.io/github/stars/huggingface/lerobot?style=flat-square&labelColor=343b41" alt="Stars: 28714"></a>
+<a href="https://github.com/huggingface/lerobot/network/members"><img src="https://img.shields.io/github/forks/huggingface/lerobot?style=flat-square&labelColor=343b41" alt="Forks: 6024"></a>
 </span>
 </div><br/>
 
@@ -67,7 +67,7 @@
 <img src="https://avatars.githubusercontent.com/u/162759805?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Physical-Intelligence/openpi">Physical-Intelligence/openpi</a> 🔥🔥</strong> <br/><br/>
 <em>Open-source foundation models and packages for robotics published by Physical Intelligence.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-08-24</small><br/><br/>
 <span>
-<a href="https://github.com/Physical-Intelligence/openpi/stargazers"><img src="https://img.shields.io/github/stars/Physical-Intelligence/openpi?style=flat-square&labelColor=343b41" alt="Stars: 14554"></a>
+<a href="https://github.com/Physical-Intelligence/openpi/stargazers"><img src="https://img.shields.io/github/stars/Physical-Intelligence/openpi?style=flat-square&labelColor=343b41" alt="Stars: 14556"></a>
 <a href="https://github.com/Physical-Intelligence/openpi/network/members"><img src="https://img.shields.io/github/forks/Physical-Intelligence/openpi?style=flat-square&labelColor=343b41" alt="Forks: 2627"></a>
 </span>
 </div><br/>
@@ -76,7 +76,7 @@
 <img src="https://avatars.githubusercontent.com/u/15352619?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/dusty-nv/jetson-inference">dusty-nv/jetson-inference</a> 🔥🔥</strong> <br/><br/>
 <em>Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.</em><br/><small><code>C++</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2025-10-16</small><br/><small>🏷️ <code>caffe</code> <code>computer-vision</code> <code>deep-learning</code> <code>digits</code> <code>embedded</code> <code>image-recognition</code></small><br/><br/>
 <span>
-<a href="https://github.com/dusty-nv/jetson-inference/stargazers"><img src="https://img.shields.io/github/stars/dusty-nv/jetson-inference?style=flat-square&labelColor=343b41" alt="Stars: 9033"></a>
+<a href="https://github.com/dusty-nv/jetson-inference/stargazers"><img src="https://img.shields.io/github/stars/dusty-nv/jetson-inference?style=flat-square&labelColor=343b41" alt="Stars: 9034"></a>
 <a href="https://github.com/dusty-nv/jetson-inference/network/members"><img src="https://img.shields.io/github/forks/dusty-nv/jetson-inference?style=flat-square&labelColor=343b41" alt="Forks: 3117"></a>
 </span>
 </div><br/>
@@ -85,7 +85,7 @@
 <img src="https://avatars.githubusercontent.com/u/157846462?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/isaac-sim/IsaacLab">isaac-sim/IsaacLab</a> 🔥🔥</strong> <br/><br/>
 <em>Unified framework for robot learning with multi-physics/renderer support</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>isaac-sim</code> <code>omniverse-kit-extension</code> <code>robot-learning</code> <code>robotics</code></small><br/><br/>
 <span>
-<a href="https://github.com/isaac-sim/IsaacLab/stargazers"><img src="https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=flat-square&labelColor=343b41" alt="Stars: 8578"></a>
+<a href="https://github.com/isaac-sim/IsaacLab/stargazers"><img src="https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=flat-square&labelColor=343b41" alt="Stars: 8579"></a>
 <a href="https://github.com/isaac-sim/IsaacLab/network/members"><img src="https://img.shields.io/github/forks/isaac-sim/IsaacLab?style=flat-square&labelColor=343b41" alt="Forks: 4003"></a>
 </span>
 </div><br/>
@@ -94,7 +94,7 @@
 <img src="https://avatars.githubusercontent.com/u/5095811?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/TheRobotStudio/SO-ARM100">TheRobotStudio/SO-ARM100</a> 🔥🔥</strong> <br/><br/>
 <em>Standard Open Arm 100</em><br/><small>⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-10-06</small><br/><br/>
 <span>
-<a href="https://github.com/TheRobotStudio/SO-ARM100/stargazers"><img src="https://img.shields.io/github/stars/TheRobotStudio/SO-ARM100?style=flat-square&labelColor=343b41" alt="Stars: 8010"></a>
+<a href="https://github.com/TheRobotStudio/SO-ARM100/stargazers"><img src="https://img.shields.io/github/stars/TheRobotStudio/SO-ARM100?style=flat-square&labelColor=343b41" alt="Stars: 8011"></a>
 <a href="https://github.com/TheRobotStudio/SO-ARM100/network/members"><img src="https://img.shields.io/github/forks/TheRobotStudio/SO-ARM100?style=flat-square&labelColor=343b41" alt="Forks: 748"></a>
 </span>
 </div><br/>

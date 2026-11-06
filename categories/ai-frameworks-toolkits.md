@@ -37,8 +37,8 @@
 <img src="https://avatars.githubusercontent.com/u/127165244?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/langgenius/dify">langgenius/dify</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>agent</code> <code>agentic-ai</code> <code>agentic-framework</code> <code>agentic-workflow</code> <code>ai</code> <code>automation</code></small><br/><br/>
 <span>
-<a href="https://github.com/langgenius/dify/stargazers"><img src="https://img.shields.io/github/stars/langgenius/dify?style=flat-square&labelColor=343b41" alt="Stars: 160513"></a>
-<a href="https://github.com/langgenius/dify/network/members"><img src="https://img.shields.io/github/forks/langgenius/dify?style=flat-square&labelColor=343b41" alt="Forks: 25397"></a>
+<a href="https://github.com/langgenius/dify/stargazers"><img src="https://img.shields.io/github/stars/langgenius/dify?style=flat-square&labelColor=343b41" alt="Stars: 160519"></a>
+<a href="https://github.com/langgenius/dify/network/members"><img src="https://img.shields.io/github/forks/langgenius/dify?style=flat-square&labelColor=343b41" alt="Forks: 25399"></a>
 </span>
 </div><br/>
 
@@ -46,8 +46,8 @@
 <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/langchain-ai/langchain">langchain-ai/langchain</a> 🔥🔥🔥</strong> <br/><br/>
 <em>The agent engineering platform.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>agents</code> <code>ai</code> <code>ai-agents</code> <code>anthropic</code> <code>chatgpt</code> <code>deepagents</code></small><br/><br/>
 <span>
-<a href="https://github.com/langchain-ai/langchain/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=flat-square&labelColor=343b41" alt="Stars: 149104"></a>
-<a href="https://github.com/langchain-ai/langchain/network/members"><img src="https://img.shields.io/github/forks/langchain-ai/langchain?style=flat-square&labelColor=343b41" alt="Forks: 25084"></a>
+<a href="https://github.com/langchain-ai/langchain/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=flat-square&labelColor=343b41" alt="Stars: 149111"></a>
+<a href="https://github.com/langchain-ai/langchain/network/members"><img src="https://img.shields.io/github/forks/langchain-ai/langchain?style=flat-square&labelColor=343b41" alt="Forks: 25085"></a>
 </span>
 </div><br/>
 
@@ -55,8 +55,8 @@
 <img src="https://avatars.githubusercontent.com/u/156354296?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/fastapi/fastapi">fastapi/fastapi</a> 🔥🔥🔥</strong> <br/><br/>
 <em>FastAPI framework, high performance, easy to learn, fast to code, ready for production</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>api</code> <code>async</code> <code>asyncio</code> <code>fastapi</code> <code>framework</code> <code>json</code></small><br/><br/>
 <span>
-<a href="https://github.com/fastapi/fastapi/stargazers"><img src="https://img.shields.io/github/stars/fastapi/fastapi?style=flat-square&labelColor=343b41" alt="Stars: 104441"></a>
-<a href="https://github.com/fastapi/fastapi/network/members"><img src="https://img.shields.io/github/forks/fastapi/fastapi?style=flat-square&labelColor=343b41" alt="Forks: 10194"></a>
+<a href="https://github.com/fastapi/fastapi/stargazers"><img src="https://img.shields.io/github/stars/fastapi/fastapi?style=flat-square&labelColor=343b41" alt="Stars: 104442"></a>
+<a href="https://github.com/fastapi/fastapi/network/members"><img src="https://img.shields.io/github/forks/fastapi/fastapi?style=flat-square&labelColor=343b41" alt="Forks: 10195"></a>
 </span>
 </div><br/>
 
@@ -65,7 +65,7 @@
 <em>Animation engine for explanatory math videos</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-09-09</small><br/><small>🏷️ <code>3b1b-videos</code> <code>animation</code> <code>explanatory-math-videos</code> <code>python</code></small><br/><br/>
 <span>
 <a href="https://github.com/3b1b/manim/stargazers"><img src="https://img.shields.io/github/stars/3b1b/manim?style=flat-square&labelColor=343b41" alt="Stars: 96187"></a>
-<a href="https://github.com/3b1b/manim/network/members"><img src="https://img.shields.io/github/forks/3b1b/manim?style=flat-square&labelColor=343b41" alt="Forks: 7903"></a>
+<a href="https://github.com/3b1b/manim/network/members"><img src="https://img.shields.io/github/forks/3b1b/manim?style=flat-square&labelColor=343b41" alt="Forks: 7904"></a>
 </span>
 </div><br/>
 
@@ -91,7 +91,7 @@
 <img src="https://avatars.githubusercontent.com/u/3046006?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/stanfordnlp/dspy">stanfordnlp/dspy</a> 🔥🔥🔥</strong> <br/><br/>
 <em>DSPy: The framework for programming—not prompting—language models</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><br/>
 <span>
-<a href="https://github.com/stanfordnlp/dspy/stargazers"><img src="https://img.shields.io/github/stars/stanfordnlp/dspy?style=flat-square&labelColor=343b41" alt="Stars: 38952"></a>
+<a href="https://github.com/stanfordnlp/dspy/stargazers"><img src="https://img.shields.io/github/stars/stanfordnlp/dspy?style=flat-square&labelColor=343b41" alt="Stars: 38957"></a>
 <a href="https://github.com/stanfordnlp/dspy/network/members"><img src="https://img.shields.io/github/forks/stanfordnlp/dspy?style=flat-square&labelColor=343b41" alt="Forks: 3487"></a>
 </span>
 </div><br/>
@@ -118,7 +118,7 @@
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/microsoft/semantic-kernel">microsoft/semantic-kernel</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Integrate cutting-edge LLM technology quickly and easily into your apps</em><br/><small><code>C#</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>ai</code> <code>artificial-intelligence</code> <code>llm</code> <code>openai</code> <code>sdk</code></small><br/><br/>
 <span>
-<a href="https://github.com/microsoft/semantic-kernel/stargazers"><img src="https://img.shields.io/github/stars/microsoft/semantic-kernel?style=flat-square&labelColor=343b41" alt="Stars: 28739"></a>
+<a href="https://github.com/microsoft/semantic-kernel/stargazers"><img src="https://img.shields.io/github/stars/microsoft/semantic-kernel?style=flat-square&labelColor=343b41" alt="Stars: 28740"></a>
 <a href="https://github.com/microsoft/semantic-kernel/network/members"><img src="https://img.shields.io/github/forks/microsoft/semantic-kernel?style=flat-square&labelColor=343b41" alt="Forks: 4852"></a>
 </span>
 </div><br/>

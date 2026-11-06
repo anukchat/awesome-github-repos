@@ -48,8 +48,8 @@
 <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial">anthropics/prompt-eng-interactive-tutorial</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Anthropic's Interactive Prompt Engineering Tutorial</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; 🕒 Updated 2026-08-28</small><br/><br/>
 <span>
-<a href="https://github.com/anthropics/prompt-eng-interactive-tutorial/stargazers"><img src="https://img.shields.io/github/stars/anthropics/prompt-eng-interactive-tutorial?style=flat-square&labelColor=343b41" alt="Stars: 39086"></a>
-<a href="https://github.com/anthropics/prompt-eng-interactive-tutorial/network/members"><img src="https://img.shields.io/github/forks/anthropics/prompt-eng-interactive-tutorial?style=flat-square&labelColor=343b41" alt="Forks: 4329"></a>
+<a href="https://github.com/anthropics/prompt-eng-interactive-tutorial/stargazers"><img src="https://img.shields.io/github/stars/anthropics/prompt-eng-interactive-tutorial?style=flat-square&labelColor=343b41" alt="Stars: 39088"></a>
+<a href="https://github.com/anthropics/prompt-eng-interactive-tutorial/network/members"><img src="https://img.shields.io/github/forks/anthropics/prompt-eng-interactive-tutorial?style=flat-square&labelColor=343b41" alt="Forks: 4330"></a>
 </span>
 </div><br/>
 
@@ -57,7 +57,7 @@
 <img src="https://avatars.githubusercontent.com/u/132029956?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering">muratcankoylan/Agent-Skills-for-Context-Engineering</a> 🔥🔥</strong> <br/><br/>
 <em>A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-10-12</small><br/><br/>
 <span>
-<a href="https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/stargazers"><img src="https://img.shields.io/github/stars/muratcankoylan/Agent-Skills-for-Context-Engineering?style=flat-square&labelColor=343b41" alt="Stars: 18311"></a>
+<a href="https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/stargazers"><img src="https://img.shields.io/github/stars/muratcankoylan/Agent-Skills-for-Context-Engineering?style=flat-square&labelColor=343b41" alt="Stars: 18312"></a>
 <a href="https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/network/members"><img src="https://img.shields.io/github/forks/muratcankoylan/Agent-Skills-for-Context-Engineering?style=flat-square&labelColor=343b41" alt="Forks: 1509"></a>
 </span>
 </div><br/>
@@ -102,7 +102,7 @@
 <img src="https://avatars.githubusercontent.com/u/224673167?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/gepa-ai/gepa">gepa-ai/gepa</a> 🔥🔥</strong> <br/><br/>
 <em>Optimize prompts, code, and more with AI-powered Reflective Optimization</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><br/>
 <span>
-<a href="https://github.com/gepa-ai/gepa/stargazers"><img src="https://img.shields.io/github/stars/gepa-ai/gepa?style=flat-square&labelColor=343b41" alt="Stars: 7301"></a>
+<a href="https://github.com/gepa-ai/gepa/stargazers"><img src="https://img.shields.io/github/stars/gepa-ai/gepa?style=flat-square&labelColor=343b41" alt="Stars: 7303"></a>
 <a href="https://github.com/gepa-ai/gepa/network/members"><img src="https://img.shields.io/github/forks/gepa-ai/gepa?style=flat-square&labelColor=343b41" alt="Forks: 609"></a>
 </span>
 </div><br/>

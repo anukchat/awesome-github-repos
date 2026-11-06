@@ -20,7 +20,7 @@
 <img src="https://avatars.githubusercontent.com/u/6368483?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/odoo/odoo">odoo/odoo</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Odoo. Open Source Apps To Grow Your Business.</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>apps</code> <code>business</code> <code>erp</code> <code>management</code> <code>odoo</code> <code>odoo-apps</code></small><br/><br/>
 <span>
-<a href="https://github.com/odoo/odoo/stargazers"><img src="https://img.shields.io/github/stars/odoo/odoo?style=flat-square&labelColor=343b41" alt="Stars: 55582"></a>
+<a href="https://github.com/odoo/odoo/stargazers"><img src="https://img.shields.io/github/stars/odoo/odoo?style=flat-square&labelColor=343b41" alt="Stars: 55585"></a>
 <a href="https://github.com/odoo/odoo/network/members"><img src="https://img.shields.io/github/forks/odoo/odoo?style=flat-square&labelColor=343b41" alt="Forks: 34236"></a>
 </span>
 </div><br/>

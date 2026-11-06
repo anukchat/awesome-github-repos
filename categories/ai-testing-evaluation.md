@@ -34,8 +34,8 @@
 <img src="https://avatars.githubusercontent.com/u/187630752?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/usestrix/strix">usestrix/strix</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>agents</code> <code>ai-hacking</code> <code>ai-penetration-testing</code> <code>ai-pentesting</code> <code>ai-security</code> <code>artificial-intelligence</code></small><br/><br/>
 <span>
-<a href="https://github.com/usestrix/strix/stargazers"><img src="https://img.shields.io/github/stars/usestrix/strix?style=flat-square&labelColor=343b41" alt="Stars: 74009"></a>
-<a href="https://github.com/usestrix/strix/network/members"><img src="https://img.shields.io/github/forks/usestrix/strix?style=flat-square&labelColor=343b41" alt="Forks: 8350"></a>
+<a href="https://github.com/usestrix/strix/stargazers"><img src="https://img.shields.io/github/stars/usestrix/strix?style=flat-square&labelColor=343b41" alt="Stars: 74018"></a>
+<a href="https://github.com/usestrix/strix/network/members"><img src="https://img.shields.io/github/forks/usestrix/strix?style=flat-square&labelColor=343b41" alt="Forks: 8351"></a>
 </span>
 </div><br/>
 
@@ -43,8 +43,8 @@
 <img src="https://avatars.githubusercontent.com/u/54420737?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/qeeqbox/social-analyzer">qeeqbox/social-analyzer</a> 🔥🔥</strong> <br/><br/>
 <em>API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-01-12</small><br/><small>🏷️ <code>analysis</code> <code>analyzer</code> <code>cli</code> <code>information-gathering</code> <code>javascript</code> <code>nodejs</code></small><br/><br/>
 <span>
-<a href="https://github.com/qeeqbox/social-analyzer/stargazers"><img src="https://img.shields.io/github/stars/qeeqbox/social-analyzer?style=flat-square&labelColor=343b41" alt="Stars: 24479"></a>
-<a href="https://github.com/qeeqbox/social-analyzer/network/members"><img src="https://img.shields.io/github/forks/qeeqbox/social-analyzer?style=flat-square&labelColor=343b41" alt="Forks: 2366"></a>
+<a href="https://github.com/qeeqbox/social-analyzer/stargazers"><img src="https://img.shields.io/github/stars/qeeqbox/social-analyzer?style=flat-square&labelColor=343b41" alt="Stars: 24480"></a>
+<a href="https://github.com/qeeqbox/social-analyzer/network/members"><img src="https://img.shields.io/github/forks/qeeqbox/social-analyzer?style=flat-square&labelColor=343b41" alt="Forks: 2367"></a>
 </span>
 </div><br/>
 
@@ -61,7 +61,7 @@
 <img src="https://avatars.githubusercontent.com/u/252887899?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/tester-army/e2e">tester-army/e2e</a> 🔥🔥</strong> <br/><br/>
 <em>Next generation e2e testing framework for web and mobile apps.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>e2e</code> <code>e2e-testing</code> <code>end-to-end-testing</code> <code>mobile</code> <code>mobile-testing</code> <code>playwright</code></small><br/><br/>
 <span>
-<a href="https://github.com/tester-army/e2e/stargazers"><img src="https://img.shields.io/github/stars/tester-army/e2e?style=flat-square&labelColor=343b41" alt="Stars: 13352"></a>
+<a href="https://github.com/tester-army/e2e/stargazers"><img src="https://img.shields.io/github/stars/tester-army/e2e?style=flat-square&labelColor=343b41" alt="Stars: 13356"></a>
 <a href="https://github.com/tester-army/e2e/network/members"><img src="https://img.shields.io/github/forks/tester-army/e2e?style=flat-square&labelColor=343b41" alt="Forks: 695"></a>
 </span>
 </div><br/>

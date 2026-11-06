@@ -48,8 +48,8 @@
 <img src="https://avatars.githubusercontent.com/u/683968?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/thedotmack/claude-mem">thedotmack/claude-mem</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>ai</code> <code>ai-agents</code> <code>ai-memory</code> <code>anthropic</code> <code>artificial-intelligence</code> <code>chromadb</code></small><br/><br/>
 <span>
-<a href="https://github.com/thedotmack/claude-mem/stargazers"><img src="https://img.shields.io/github/stars/thedotmack/claude-mem?style=flat-square&labelColor=343b41" alt="Stars: 113673"></a>
-<a href="https://github.com/thedotmack/claude-mem/network/members"><img src="https://img.shields.io/github/forks/thedotmack/claude-mem?style=flat-square&labelColor=343b41" alt="Forks: 9861"></a>
+<a href="https://github.com/thedotmack/claude-mem/stargazers"><img src="https://img.shields.io/github/stars/thedotmack/claude-mem?style=flat-square&labelColor=343b41" alt="Stars: 113697"></a>
+<a href="https://github.com/thedotmack/claude-mem/network/members"><img src="https://img.shields.io/github/forks/thedotmack/claude-mem?style=flat-square&labelColor=343b41" alt="Forks: 9863"></a>
 </span>
 </div><br/>
 
@@ -57,8 +57,8 @@
 <img src="https://avatars.githubusercontent.com/u/69962740?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/infiniflow/ragflow">infiniflow/ragflow</a> 🔥🔥🔥</strong> <br/><br/>
 <em>RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.</em><br/><small><code>Go</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>agent-harness</code> <code>agent-native-database</code> <code>agentic-ai</code> <code>agentic-retrieval</code> <code>agentic-search</code> <code>ai</code></small><br/><br/>
 <span>
-<a href="https://github.com/infiniflow/ragflow/stargazers"><img src="https://img.shields.io/github/stars/infiniflow/ragflow?style=flat-square&labelColor=343b41" alt="Stars: 93648"></a>
-<a href="https://github.com/infiniflow/ragflow/network/members"><img src="https://img.shields.io/github/forks/infiniflow/ragflow?style=flat-square&labelColor=343b41" alt="Forks: 11243"></a>
+<a href="https://github.com/infiniflow/ragflow/stargazers"><img src="https://img.shields.io/github/stars/infiniflow/ragflow?style=flat-square&labelColor=343b41" alt="Stars: 93656"></a>
+<a href="https://github.com/infiniflow/ragflow/network/members"><img src="https://img.shields.io/github/forks/infiniflow/ragflow?style=flat-square&labelColor=343b41" alt="Forks: 11244"></a>
 </span>
 </div><br/>
 
@@ -66,7 +66,7 @@
 <img src="https://avatars.githubusercontent.com/u/294291659?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/headroomlabs-ai/headroom">headroomlabs-ai/headroom</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>agent</code> <code>ai</code> <code>anthropic</code> <code>claude-code</code> <code>compression</code> <code>context-engineering</code></small><br/><br/>
 <span>
-<a href="https://github.com/headroomlabs-ai/headroom/stargazers"><img src="https://img.shields.io/github/stars/headroomlabs-ai/headroom?style=flat-square&labelColor=343b41" alt="Stars: 78961"></a>
+<a href="https://github.com/headroomlabs-ai/headroom/stargazers"><img src="https://img.shields.io/github/stars/headroomlabs-ai/headroom?style=flat-square&labelColor=343b41" alt="Stars: 78964"></a>
 <a href="https://github.com/headroomlabs-ai/headroom/network/members"><img src="https://img.shields.io/github/forks/headroomlabs-ai/headroom?style=flat-square&labelColor=343b41" alt="Forks: 6173"></a>
 </span>
 </div><br/>
@@ -75,8 +75,8 @@
 <img src="https://avatars.githubusercontent.com/u/118165258?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/HKUDS/DeepTutor">HKUDS/DeepTutor</a> 🔥🔥🔥</strong> <br/><br/>
 <em>DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>ai-agents</code> <code>ai-tutor</code> <code>clawbot</code> <code>cli-tool</code> <code>deepresearch</code> <code>interactive-learning</code></small><br/><br/>
 <span>
-<a href="https://github.com/HKUDS/DeepTutor/stargazers"><img src="https://img.shields.io/github/stars/HKUDS/DeepTutor?style=flat-square&labelColor=343b41" alt="Stars: 55598"></a>
-<a href="https://github.com/HKUDS/DeepTutor/network/members"><img src="https://img.shields.io/github/forks/HKUDS/DeepTutor?style=flat-square&labelColor=343b41" alt="Forks: 6814"></a>
+<a href="https://github.com/HKUDS/DeepTutor/stargazers"><img src="https://img.shields.io/github/stars/HKUDS/DeepTutor?style=flat-square&labelColor=343b41" alt="Stars: 55635"></a>
+<a href="https://github.com/HKUDS/DeepTutor/network/members"><img src="https://img.shields.io/github/forks/HKUDS/DeepTutor?style=flat-square&labelColor=343b41" alt="Forks: 6818"></a>
 </span>
 </div><br/>
 
@@ -84,8 +84,8 @@
 <img src="https://avatars.githubusercontent.com/u/130722866?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/run-llama/llama_index">run-llama/llama_index</a> 🔥🔥🔥</strong> <br/><br/>
 <em>LlamaIndex is the document processing platform for AI</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>agents</code> <code>application</code> <code>data</code> <code>fine-tuning</code> <code>framework</code> <code>llamaindex</code></small><br/><br/>
 <span>
-<a href="https://github.com/run-llama/llama_index/stargazers"><img src="https://img.shields.io/github/stars/run-llama/llama_index?style=flat-square&labelColor=343b41" alt="Stars: 52827"></a>
-<a href="https://github.com/run-llama/llama_index/network/members"><img src="https://img.shields.io/github/forks/run-llama/llama_index?style=flat-square&labelColor=343b41" alt="Forks: 8523"></a>
+<a href="https://github.com/run-llama/llama_index/stargazers"><img src="https://img.shields.io/github/stars/run-llama/llama_index?style=flat-square&labelColor=343b41" alt="Stars: 52829"></a>
+<a href="https://github.com/run-llama/llama_index/network/members"><img src="https://img.shields.io/github/forks/run-llama/llama_index?style=flat-square&labelColor=343b41" alt="Forks: 8525"></a>
 </span>
 </div><br/>
 
@@ -93,7 +93,7 @@
 <img src="https://avatars.githubusercontent.com/u/38653995?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/patchy631/ai-engineering-hub">patchy631/ai-engineering-hub</a> 🔥🔥🔥</strong> <br/><br/>
 <em>In-depth tutorials on LLMs, RAGs and real-world AI agent applications.</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-01</small><br/><small>🏷️ <code>agents</code> <code>ai</code> <code>llms</code> <code>machine-learning</code> <code>mcp</code> <code>rag</code></small><br/><br/>
 <span>
-<a href="https://github.com/patchy631/ai-engineering-hub/stargazers"><img src="https://img.shields.io/github/stars/patchy631/ai-engineering-hub?style=flat-square&labelColor=343b41" alt="Stars: 41173"></a>
+<a href="https://github.com/patchy631/ai-engineering-hub/stargazers"><img src="https://img.shields.io/github/stars/patchy631/ai-engineering-hub?style=flat-square&labelColor=343b41" alt="Stars: 41177"></a>
 <a href="https://github.com/patchy631/ai-engineering-hub/network/members"><img src="https://img.shields.io/github/forks/patchy631/ai-engineering-hub?style=flat-square&labelColor=343b41" alt="Forks: 6571"></a>
 </span>
 </div><br/>
@@ -102,8 +102,8 @@
 <img src="https://avatars.githubusercontent.com/u/133959746?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/VectifyAI/PageIndex">VectifyAI/PageIndex</a> 🔥🔥🔥</strong> <br/><br/>
 <em>📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>agentic-ai</code> <code>agents</code> <code>ai</code> <code>ai-agents</code> <code>context-engineering</code> <code>information-retrieval</code></small><br/><br/>
 <span>
-<a href="https://github.com/VectifyAI/PageIndex/stargazers"><img src="https://img.shields.io/github/stars/VectifyAI/PageIndex?style=flat-square&labelColor=343b41" alt="Stars: 40067"></a>
-<a href="https://github.com/VectifyAI/PageIndex/network/members"><img src="https://img.shields.io/github/forks/VectifyAI/PageIndex?style=flat-square&labelColor=343b41" alt="Forks: 3448"></a>
+<a href="https://github.com/VectifyAI/PageIndex/stargazers"><img src="https://img.shields.io/github/stars/VectifyAI/PageIndex?style=flat-square&labelColor=343b41" alt="Stars: 40075"></a>
+<a href="https://github.com/VectifyAI/PageIndex/network/members"><img src="https://img.shields.io/github/forks/VectifyAI/PageIndex?style=flat-square&labelColor=343b41" alt="Forks: 3449"></a>
 </span>
 </div><br/>
 
@@ -111,7 +111,7 @@
 <img src="https://avatars.githubusercontent.com/u/95534749?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/ItzCrazyKns/Vane">ItzCrazyKns/Vane</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Vane is an AI-powered answering engine.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-09-01</small><br/><small>🏷️ <code>ai-agents</code> <code>ai-search-engine</code> <code>answering-engine</code> <code>artificial-intelligence</code> <code>llm</code> <code>machine-learning</code></small><br/><br/>
 <span>
-<a href="https://github.com/ItzCrazyKns/Vane/stargazers"><img src="https://img.shields.io/github/stars/ItzCrazyKns/Vane?style=flat-square&labelColor=343b41" alt="Stars: 38041"></a>
+<a href="https://github.com/ItzCrazyKns/Vane/stargazers"><img src="https://img.shields.io/github/stars/ItzCrazyKns/Vane?style=flat-square&labelColor=343b41" alt="Stars: 38042"></a>
 <a href="https://github.com/ItzCrazyKns/Vane/network/members"><img src="https://img.shields.io/github/forks/ItzCrazyKns/Vane?style=flat-square&labelColor=343b41" alt="Forks: 4238"></a>
 </span>
 </div><br/>
@@ -129,8 +129,8 @@
 <img src="https://avatars.githubusercontent.com/u/132832125?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/getzep/graphiti">getzep/graphiti</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Build Real-Time Knowledge Graphs for AI Agents</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>agents</code> <code>graph</code> <code>llms</code> <code>rag</code></small><br/><br/>
 <span>
-<a href="https://github.com/getzep/graphiti/stargazers"><img src="https://img.shields.io/github/stars/getzep/graphiti?style=flat-square&labelColor=343b41" alt="Stars: 32575"></a>
-<a href="https://github.com/getzep/graphiti/network/members"><img src="https://img.shields.io/github/forks/getzep/graphiti?style=flat-square&labelColor=343b41" alt="Forks: 3347"></a>
+<a href="https://github.com/getzep/graphiti/stargazers"><img src="https://img.shields.io/github/stars/getzep/graphiti?style=flat-square&labelColor=343b41" alt="Stars: 32580"></a>
+<a href="https://github.com/getzep/graphiti/network/members"><img src="https://img.shields.io/github/forks/getzep/graphiti?style=flat-square&labelColor=343b41" alt="Forks: 3348"></a>
 </span>
 </div><br/>
 
@@ -138,7 +138,7 @@
 <img src="https://avatars.githubusercontent.com/u/13667124?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/stanford-oval/storm">stanford-oval/storm</a> 🔥🔥🔥</strong> <br/><br/>
 <em>An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2025-09-30</small><br/><small>🏷️ <code>agentic-rag</code> <code>deep-research</code> <code>emnlp2024</code> <code>knowledge-curation</code> <code>large-language-models</code> <code>naacl</code></small><br/><br/>
 <span>
-<a href="https://github.com/stanford-oval/storm/stargazers"><img src="https://img.shields.io/github/stars/stanford-oval/storm?style=flat-square&labelColor=343b41" alt="Stars: 31796"></a>
+<a href="https://github.com/stanford-oval/storm/stargazers"><img src="https://img.shields.io/github/stars/stanford-oval/storm?style=flat-square&labelColor=343b41" alt="Stars: 31797"></a>
 <a href="https://github.com/stanford-oval/storm/network/members"><img src="https://img.shields.io/github/forks/stanford-oval/storm?style=flat-square&labelColor=343b41" alt="Forks: 3003"></a>
 </span>
 </div><br/>
@@ -156,7 +156,7 @@
 <img src="https://avatars.githubusercontent.com/u/51827949?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/deepset-ai/haystack">deepset-ai/haystack</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>agent-framework</code> <code>agentic-ai</code> <code>agentic-rag</code> <code>agents</code> <code>ai</code> <code>ai-agents</code></small><br/><br/>
 <span>
-<a href="https://github.com/deepset-ai/haystack/stargazers"><img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=flat-square&labelColor=343b41" alt="Stars: 26930"></a>
+<a href="https://github.com/deepset-ai/haystack/stargazers"><img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=flat-square&labelColor=343b41" alt="Stars: 26933"></a>
 <a href="https://github.com/deepset-ai/haystack/network/members"><img src="https://img.shields.io/github/forks/deepset-ai/haystack?style=flat-square&labelColor=343b41" alt="Forks: 3399"></a>
 </span>
 </div><br/>
@@ -165,8 +165,8 @@
 <img src="https://avatars.githubusercontent.com/u/3265185?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Cinnamon/kotaemon">Cinnamon/kotaemon</a> 🔥🔥🔥</strong> <br/><br/>
 <em>An open-source RAG-based tool for chatting with your documents.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-07-14</small><br/><small>🏷️ <code>chatbot</code> <code>llms</code> <code>open-source</code> <code>rag</code></small><br/><br/>
 <span>
-<a href="https://github.com/Cinnamon/kotaemon/stargazers"><img src="https://img.shields.io/github/stars/Cinnamon/kotaemon?style=flat-square&labelColor=343b41" alt="Stars: 25855"></a>
-<a href="https://github.com/Cinnamon/kotaemon/network/members"><img src="https://img.shields.io/github/forks/Cinnamon/kotaemon?style=flat-square&labelColor=343b41" alt="Forks: 2167"></a>
+<a href="https://github.com/Cinnamon/kotaemon/stargazers"><img src="https://img.shields.io/github/stars/Cinnamon/kotaemon?style=flat-square&labelColor=343b41" alt="Stars: 25862"></a>
+<a href="https://github.com/Cinnamon/kotaemon/network/members"><img src="https://img.shields.io/github/forks/Cinnamon/kotaemon?style=flat-square&labelColor=343b41" alt="Forks: 2168"></a>
 </span>
 </div><br/>
 
@@ -201,7 +201,7 @@
 <img src="https://avatars.githubusercontent.com/u/210160027?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/MemTensor/MemOS">MemTensor/MemOS</a> 🔥🔥</strong> <br/><br/>
 <em>Self-evolving memory OS for LLM &amp; AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-04</small><br/><small>🏷️ <code>agent</code> <code>agentic-ai</code> <code>ai</code> <code>ai-agents</code> <code>chatgpt</code> <code>claude</code></small><br/><br/>
 <span>
-<a href="https://github.com/MemTensor/MemOS/stargazers"><img src="https://img.shields.io/github/stars/MemTensor/MemOS?style=flat-square&labelColor=343b41" alt="Stars: 12289"></a>
+<a href="https://github.com/MemTensor/MemOS/stargazers"><img src="https://img.shields.io/github/stars/MemTensor/MemOS?style=flat-square&labelColor=343b41" alt="Stars: 12290"></a>
 <a href="https://github.com/MemTensor/MemOS/network/members"><img src="https://img.shields.io/github/forks/MemTensor/MemOS?style=flat-square&labelColor=343b41" alt="Forks: 1110"></a>
 </span>
 </div><br/>

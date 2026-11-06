@@ -36,8 +36,8 @@
 <img src="https://avatars.githubusercontent.com/u/14957082?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/openai/codex">openai/codex</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Lightweight coding agent that runs in your terminal</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><br/>
 <span>
-<a href="https://github.com/openai/codex/stargazers"><img src="https://img.shields.io/github/stars/openai/codex?style=flat-square&labelColor=343b41" alt="Stars: 133394"></a>
-<a href="https://github.com/openai/codex/network/members"><img src="https://img.shields.io/github/forks/openai/codex?style=flat-square&labelColor=343b41" alt="Forks: 21140"></a>
+<a href="https://github.com/openai/codex/stargazers"><img src="https://img.shields.io/github/stars/openai/codex?style=flat-square&labelColor=343b41" alt="Stars: 133406"></a>
+<a href="https://github.com/openai/codex/network/members"><img src="https://img.shields.io/github/forks/openai/codex?style=flat-square&labelColor=343b41" alt="Forks: 21144"></a>
 </span>
 </div><br/>
 
@@ -45,7 +45,7 @@
 <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Zie619/n8n-workflows">Zie619/n8n-workflows</a> 🔥🔥🔥</strong> <br/><br/>
 <em>all of the workflows of n8n i could find (also from the site itself)</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-06-24</small><br/><br/>
 <span>
-<a href="https://github.com/Zie619/n8n-workflows/stargazers"><img src="https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41" alt="Stars: 57180"></a>
+<a href="https://github.com/Zie619/n8n-workflows/stargazers"><img src="https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41" alt="Stars: 57181"></a>
 <a href="https://github.com/Zie619/n8n-workflows/network/members"><img src="https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41" alt="Forks: 7694"></a>
 </span>
 </div><br/>
@@ -63,8 +63,8 @@
 <img src="https://avatars.githubusercontent.com/u/128401275?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/gitroomhq/postiz-app">gitroomhq/postiz-app</a> 🔥🔥🔥</strong> <br/><br/>
 <em>📨 The ultimate agentic social media scheduling tool 🤖</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>nextjs</code> <code>open-source</code> <code>open-source-social-media-scheduling-tool</code> <code>oss</code> <code>postiz-cloud</code> <code>postiz-hosted</code></small><br/><br/>
 <span>
-<a href="https://github.com/gitroomhq/postiz-app/stargazers"><img src="https://img.shields.io/github/stars/gitroomhq/postiz-app?style=flat-square&labelColor=343b41" alt="Stars: 40992"></a>
-<a href="https://github.com/gitroomhq/postiz-app/network/members"><img src="https://img.shields.io/github/forks/gitroomhq/postiz-app?style=flat-square&labelColor=343b41" alt="Forks: 7808"></a>
+<a href="https://github.com/gitroomhq/postiz-app/stargazers"><img src="https://img.shields.io/github/stars/gitroomhq/postiz-app?style=flat-square&labelColor=343b41" alt="Stars: 40996"></a>
+<a href="https://github.com/gitroomhq/postiz-app/network/members"><img src="https://img.shields.io/github/forks/gitroomhq/postiz-app?style=flat-square&labelColor=343b41" alt="Forks: 7809"></a>
 </span>
 </div><br/>
 
@@ -90,7 +90,7 @@
 <img src="https://avatars.githubusercontent.com/u/99494700?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/activepieces/activepieces">activepieces/activepieces</a> 🔥🔥🔥</strong> <br/><br/>
 <em>AI Agents &amp; MCPs &amp; AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows &amp; AI Agents • MCPs for AI Agents</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>ai-agent</code> <code>ai-agent-tools</code> <code>ai-agents</code> <code>ai-agents-framework</code> <code>mcp</code> <code>mcp-server</code></small><br/><br/>
 <span>
-<a href="https://github.com/activepieces/activepieces/stargazers"><img src="https://img.shields.io/github/stars/activepieces/activepieces?style=flat-square&labelColor=343b41" alt="Stars: 25393"></a>
+<a href="https://github.com/activepieces/activepieces/stargazers"><img src="https://img.shields.io/github/stars/activepieces/activepieces?style=flat-square&labelColor=343b41" alt="Stars: 25395"></a>
 <a href="https://github.com/activepieces/activepieces/network/members"><img src="https://img.shields.io/github/forks/activepieces/activepieces?style=flat-square&labelColor=343b41" alt="Forks: 4442"></a>
 </span>
 </div><br/>

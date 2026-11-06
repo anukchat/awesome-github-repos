@@ -31,8 +31,8 @@
 <img src="https://avatars.githubusercontent.com/u/166579949?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Comfy-Org/ComfyUI">Comfy-Org/ComfyUI</a> 🔥🔥🔥</strong> <br/><br/>
 <em>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ GPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>ai</code> <code>comfy</code> <code>comfyui</code> <code>python</code> <code>pytorch</code> <code>stable-diffusion</code></small><br/><br/>
 <span>
-<a href="https://github.com/Comfy-Org/ComfyUI/stargazers"><img src="https://img.shields.io/github/stars/Comfy-Org/ComfyUI?style=flat-square&labelColor=343b41" alt="Stars: 145291"></a>
-<a href="https://github.com/Comfy-Org/ComfyUI/network/members"><img src="https://img.shields.io/github/forks/Comfy-Org/ComfyUI?style=flat-square&labelColor=343b41" alt="Forks: 17291"></a>
+<a href="https://github.com/Comfy-Org/ComfyUI/stargazers"><img src="https://img.shields.io/github/stars/Comfy-Org/ComfyUI?style=flat-square&labelColor=343b41" alt="Stars: 145307"></a>
+<a href="https://github.com/Comfy-Org/ComfyUI/network/members"><img src="https://img.shields.io/github/forks/Comfy-Org/ComfyUI?style=flat-square&labelColor=343b41" alt="Forks: 17293"></a>
 </span>
 </div><br/>
 
@@ -40,8 +40,8 @@
 <img src="https://avatars.githubusercontent.com/u/65394575?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/heygen-com/hyperframes">heygen-com/hyperframes</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Write HTML. Render video. Built for agents.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>ai</code> <code>ai-agents</code> <code>animation</code> <code>claude-code</code> <code>ffmpeg</code> <code>framework</code></small><br/><br/>
 <span>
-<a href="https://github.com/heygen-com/hyperframes/stargazers"><img src="https://img.shields.io/github/stars/heygen-com/hyperframes?style=flat-square&labelColor=343b41" alt="Stars: 79715"></a>
-<a href="https://github.com/heygen-com/hyperframes/network/members"><img src="https://img.shields.io/github/forks/heygen-com/hyperframes?style=flat-square&labelColor=343b41" alt="Forks: 7338"></a>
+<a href="https://github.com/heygen-com/hyperframes/stargazers"><img src="https://img.shields.io/github/stars/heygen-com/hyperframes?style=flat-square&labelColor=343b41" alt="Stars: 79758"></a>
+<a href="https://github.com/heygen-com/hyperframes/network/members"><img src="https://img.shields.io/github/forks/heygen-com/hyperframes?style=flat-square&labelColor=343b41" alt="Forks: 7343"></a>
 </span>
 </div><br/>
 
@@ -49,8 +49,8 @@
 <img src="https://avatars.githubusercontent.com/u/213189893?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/calesthio/OpenMontage">calesthio/OpenMontage</a> 🔥🔥🔥</strong> <br/><br/>
 <em>World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-03</small><br/><small>🏷️ <code>agent</code> <code>agentic-ai</code> <code>ai</code> <code>claude</code> <code>copilot</code> <code>cursor</code></small><br/><br/>
 <span>
-<a href="https://github.com/calesthio/OpenMontage/stargazers"><img src="https://img.shields.io/github/stars/calesthio/OpenMontage?style=flat-square&labelColor=343b41" alt="Stars: 77309"></a>
-<a href="https://github.com/calesthio/OpenMontage/network/members"><img src="https://img.shields.io/github/forks/calesthio/OpenMontage?style=flat-square&labelColor=343b41" alt="Forks: 10273"></a>
+<a href="https://github.com/calesthio/OpenMontage/stargazers"><img src="https://img.shields.io/github/stars/calesthio/OpenMontage?style=flat-square&labelColor=343b41" alt="Stars: 77342"></a>
+<a href="https://github.com/calesthio/OpenMontage/network/members"><img src="https://img.shields.io/github/forks/calesthio/OpenMontage?style=flat-square&labelColor=343b41" alt="Forks: 10278"></a>
 </span>
 </div><br/>
 
@@ -59,7 +59,7 @@
 <em>A community-maintained Python framework for creating mathematical animations.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>animations</code> <code>hacktoberfest</code> <code>manim</code> <code>math</code> <code>python</code></small><br/><br/>
 <span>
 <a href="https://github.com/ManimCommunity/manim/stargazers"><img src="https://img.shields.io/github/stars/ManimCommunity/manim?style=flat-square&labelColor=343b41" alt="Stars: 42284"></a>
-<a href="https://github.com/ManimCommunity/manim/network/members"><img src="https://img.shields.io/github/forks/ManimCommunity/manim?style=flat-square&labelColor=343b41" alt="Forks: 3295"></a>
+<a href="https://github.com/ManimCommunity/manim/network/members"><img src="https://img.shields.io/github/forks/ManimCommunity/manim?style=flat-square&labelColor=343b41" alt="Forks: 3296"></a>
 </span>
 </div><br/>
 
@@ -67,8 +67,8 @@
 <img src="https://avatars.githubusercontent.com/u/76897702?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/storytold/artcraft">storytold/artcraft</a> 🔥🔥🔥</strong> <br/><br/>
 <em>ArtCraft is an intentional crafting engine for artists, designers, and filmmakers</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>3d-graphics</code> <code>ai</code> <code>aivideo</code> <code>filmmaking</code> <code>imagegeneration</code></small><br/><br/>
 <span>
-<a href="https://github.com/storytold/artcraft/stargazers"><img src="https://img.shields.io/github/stars/storytold/artcraft?style=flat-square&labelColor=343b41" alt="Stars: 39040"></a>
-<a href="https://github.com/storytold/artcraft/network/members"><img src="https://img.shields.io/github/forks/storytold/artcraft?style=flat-square&labelColor=343b41" alt="Forks: 6162"></a>
+<a href="https://github.com/storytold/artcraft/stargazers"><img src="https://img.shields.io/github/stars/storytold/artcraft?style=flat-square&labelColor=343b41" alt="Stars: 39050"></a>
+<a href="https://github.com/storytold/artcraft/network/members"><img src="https://img.shields.io/github/forks/storytold/artcraft?style=flat-square&labelColor=343b41" alt="Forks: 6165"></a>
 </span>
 </div><br/>
 
@@ -76,7 +76,7 @@
 <img src="https://avatars.githubusercontent.com/u/150697620?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/google-ai-edge/gallery">google-ai-edge/gallery</a> 🔥🔥🔥</strong> <br/><br/>
 <em>A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.</em><br/><small><code>Kotlin</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><br/>
 <span>
-<a href="https://github.com/google-ai-edge/gallery/stargazers"><img src="https://img.shields.io/github/stars/google-ai-edge/gallery?style=flat-square&labelColor=343b41" alt="Stars: 25226"></a>
+<a href="https://github.com/google-ai-edge/gallery/stargazers"><img src="https://img.shields.io/github/stars/google-ai-edge/gallery?style=flat-square&labelColor=343b41" alt="Stars: 25227"></a>
 <a href="https://github.com/google-ai-edge/gallery/network/members"><img src="https://img.shields.io/github/forks/google-ai-edge/gallery?style=flat-square&labelColor=343b41" alt="Forks: 2799"></a>
 </span>
 </div><br/>
@@ -113,7 +113,7 @@
 <em>A Datacenter Scale Distributed Inference Serving Framework</em><br/><small><code>Rust</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>diffusion</code> <code>disaggregated-serving</code> <code>kubernetes</code> <code>llm-inference</code> <code>omni</code> <code>routing-engine</code></small><br/><br/>
 <span>
 <a href="https://github.com/ai-dynamo/dynamo/stargazers"><img src="https://img.shields.io/github/stars/ai-dynamo/dynamo?style=flat-square&labelColor=343b41" alt="Stars: 8447"></a>
-<a href="https://github.com/ai-dynamo/dynamo/network/members"><img src="https://img.shields.io/github/forks/ai-dynamo/dynamo?style=flat-square&labelColor=343b41" alt="Forks: 1825"></a>
+<a href="https://github.com/ai-dynamo/dynamo/network/members"><img src="https://img.shields.io/github/forks/ai-dynamo/dynamo?style=flat-square&labelColor=343b41" alt="Forks: 1827"></a>
 </span>
 </div><br/>
 
@@ -130,8 +130,8 @@
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/microsoft/ResearchStudio">microsoft/ResearchStudio</a> 🔥</strong> <br/><br/>
 <em>ResearchStudio: Our AI co-author, from research problem to final publication.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-09-21</small><br/><small>🏷️ <code>blog-generation</code> <code>idea-generation</code> <code>poster-generation</code> <code>presentation</code> <code>researchstudio-idea</code> <code>researchstudio-reel</code></small><br/><br/>
 <span>
-<a href="https://github.com/microsoft/ResearchStudio/stargazers"><img src="https://img.shields.io/github/stars/microsoft/ResearchStudio?style=flat-square&labelColor=343b41" alt="Stars: 3529"></a>
-<a href="https://github.com/microsoft/ResearchStudio/network/members"><img src="https://img.shields.io/github/forks/microsoft/ResearchStudio?style=flat-square&labelColor=343b41" alt="Forks: 203"></a>
+<a href="https://github.com/microsoft/ResearchStudio/stargazers"><img src="https://img.shields.io/github/stars/microsoft/ResearchStudio?style=flat-square&labelColor=343b41" alt="Stars: 3530"></a>
+<a href="https://github.com/microsoft/ResearchStudio/network/members"><img src="https://img.shields.io/github/forks/microsoft/ResearchStudio?style=flat-square&labelColor=343b41" alt="Forks: 204"></a>
 </span>
 </div><br/>
 

@@ -33,8 +33,8 @@
 <img src="https://avatars.githubusercontent.com/u/5458997?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/donnemartin/system-design-primer">donnemartin/system-design-primer</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-09-15</small><br/><small>🏷️ <code>design</code> <code>design-patterns</code> <code>design-system</code> <code>development</code> <code>interview</code> <code>interview-practice</code></small><br/><br/>
 <span>
-<a href="https://github.com/donnemartin/system-design-primer/stargazers"><img src="https://img.shields.io/github/stars/donnemartin/system-design-primer?style=flat-square&labelColor=343b41" alt="Stars: 377000"></a>
-<a href="https://github.com/donnemartin/system-design-primer/network/members"><img src="https://img.shields.io/github/forks/donnemartin/system-design-primer?style=flat-square&labelColor=343b41" alt="Forks: 59174"></a>
+<a href="https://github.com/donnemartin/system-design-primer/stargazers"><img src="https://img.shields.io/github/stars/donnemartin/system-design-primer?style=flat-square&labelColor=343b41" alt="Stars: 377001"></a>
+<a href="https://github.com/donnemartin/system-design-primer/network/members"><img src="https://img.shields.io/github/forks/donnemartin/system-design-primer?style=flat-square&labelColor=343b41" alt="Forks: 59172"></a>
 </span>
 </div><br/>
 
@@ -42,8 +42,8 @@
 <img src="https://avatars.githubusercontent.com/u/11298292?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/NationalSecurityAgency/ghidra">NationalSecurityAgency/ghidra</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Ghidra is a software reverse engineering (SRE) framework</em><br/><small><code>Java</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>disassembler</code> <code>reverse-engineering</code> <code>software-analysis</code></small><br/><br/>
 <span>
-<a href="https://github.com/NationalSecurityAgency/ghidra/stargazers"><img src="https://img.shields.io/github/stars/NationalSecurityAgency/ghidra?style=flat-square&labelColor=343b41" alt="Stars: 98205"></a>
-<a href="https://github.com/NationalSecurityAgency/ghidra/network/members"><img src="https://img.shields.io/github/forks/NationalSecurityAgency/ghidra?style=flat-square&labelColor=343b41" alt="Forks: 11114"></a>
+<a href="https://github.com/NationalSecurityAgency/ghidra/stargazers"><img src="https://img.shields.io/github/stars/NationalSecurityAgency/ghidra?style=flat-square&labelColor=343b41" alt="Stars: 98222"></a>
+<a href="https://github.com/NationalSecurityAgency/ghidra/network/members"><img src="https://img.shields.io/github/forks/NationalSecurityAgency/ghidra?style=flat-square&labelColor=343b41" alt="Forks: 11116"></a>
 </span>
 </div><br/>
 
@@ -60,8 +60,8 @@
 <img src="https://avatars.githubusercontent.com/u/245012214?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/realworld-apps/realworld">realworld-apps/realworld</a> 🔥🔥🔥</strong> <br/><br/>
 <em>&quot;The mother of all demo apps&quot; — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-02</small><br/><br/>
 <span>
-<a href="https://github.com/realworld-apps/realworld/stargazers"><img src="https://img.shields.io/github/stars/realworld-apps/realworld?style=flat-square&labelColor=343b41" alt="Stars: 84367"></a>
-<a href="https://github.com/realworld-apps/realworld/network/members"><img src="https://img.shields.io/github/forks/realworld-apps/realworld?style=flat-square&labelColor=343b41" alt="Forks: 7703"></a>
+<a href="https://github.com/realworld-apps/realworld/stargazers"><img src="https://img.shields.io/github/stars/realworld-apps/realworld?style=flat-square&labelColor=343b41" alt="Stars: 84368"></a>
+<a href="https://github.com/realworld-apps/realworld/network/members"><img src="https://img.shields.io/github/forks/realworld-apps/realworld?style=flat-square&labelColor=343b41" alt="Forks: 7702"></a>
 </span>
 </div><br/>
 
@@ -69,7 +69,7 @@
 <img src="https://avatars.githubusercontent.com/u/15001306?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/binhnguyennus/awesome-scalability">binhnguyennus/awesome-scalability</a> 🔥🔥🔥</strong> <br/><br/>
 <em>The Patterns of Scalable, Reliable, and Performant Large-Scale Systems</em><br/><small>⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-01-04</small><br/><small>🏷️ <code>architecture</code> <code>awesome</code> <code>awesome-list</code> <code>backend</code> <code>big-data</code> <code>computer-science</code></small><br/><br/>
 <span>
-<a href="https://github.com/binhnguyennus/awesome-scalability/stargazers"><img src="https://img.shields.io/github/stars/binhnguyennus/awesome-scalability?style=flat-square&labelColor=343b41" alt="Stars: 75493"></a>
+<a href="https://github.com/binhnguyennus/awesome-scalability/stargazers"><img src="https://img.shields.io/github/stars/binhnguyennus/awesome-scalability?style=flat-square&labelColor=343b41" alt="Stars: 75496"></a>
 <a href="https://github.com/binhnguyennus/awesome-scalability/network/members"><img src="https://img.shields.io/github/forks/binhnguyennus/awesome-scalability?style=flat-square&labelColor=343b41" alt="Forks: 7234"></a>
 </span>
 </div><br/>
@@ -78,7 +78,7 @@
 <img src="https://avatars.githubusercontent.com/u/29705703?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/karanpratapsingh/system-design">karanpratapsingh/system-design</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Learn how to design systems at scale and prepare for system design interviews</em><br/><small>🕒 Updated 2026-10-18</small><br/><small>🏷️ <code>architecture</code> <code>distributed-systems</code> <code>engineering</code> <code>interview</code> <code>interview-preparation</code> <code>microservices</code></small><br/><br/>
 <span>
-<a href="https://github.com/karanpratapsingh/system-design/stargazers"><img src="https://img.shields.io/github/stars/karanpratapsingh/system-design?style=flat-square&labelColor=343b41" alt="Stars: 46809"></a>
+<a href="https://github.com/karanpratapsingh/system-design/stargazers"><img src="https://img.shields.io/github/stars/karanpratapsingh/system-design?style=flat-square&labelColor=343b41" alt="Stars: 46811"></a>
 <a href="https://github.com/karanpratapsingh/system-design/network/members"><img src="https://img.shields.io/github/forks/karanpratapsingh/system-design?style=flat-square&labelColor=343b41" alt="Forks: 6093"></a>
 </span>
 </div><br/>
@@ -87,7 +87,7 @@
 <img src="https://avatars.githubusercontent.com/u/103972607?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/HeyPuter/puter">HeyPuter/puter</a> 🔥🔥🔥</strong> <br/><br/>
 <em>🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>cloud</code> <code>cloud-os</code> <code>cloud-storage</code> <code>desktop</code> <code>desktop-environment</code> <code>dropbox</code></small><br/><br/>
 <span>
-<a href="https://github.com/HeyPuter/puter/stargazers"><img src="https://img.shields.io/github/stars/HeyPuter/puter?style=flat-square&labelColor=343b41" alt="Stars: 44092"></a>
+<a href="https://github.com/HeyPuter/puter/stargazers"><img src="https://img.shields.io/github/stars/HeyPuter/puter?style=flat-square&labelColor=343b41" alt="Stars: 44093"></a>
 <a href="https://github.com/HeyPuter/puter/network/members"><img src="https://img.shields.io/github/forks/HeyPuter/puter?style=flat-square&labelColor=343b41" alt="Forks: 4147"></a>
 </span>
 </div><br/>
@@ -96,7 +96,7 @@
 <img src="https://avatars.githubusercontent.com/u/8646889?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/ashishps1/awesome-system-design-resources">ashishps1/awesome-system-design-resources</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Learn System Design concepts and prepare for interviews using free resources.</em><br/><small><code>Java</code> &nbsp;•&nbsp; ⚖️ GPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-01</small><br/><small>🏷️ <code>awesome</code> <code>backend</code> <code>computer-science</code> <code>distributed-systems</code> <code>high-level-design</code> <code>hld</code></small><br/><br/>
 <span>
-<a href="https://github.com/ashishps1/awesome-system-design-resources/stargazers"><img src="https://img.shields.io/github/stars/ashishps1/awesome-system-design-resources?style=flat-square&labelColor=343b41" alt="Stars: 43100"></a>
+<a href="https://github.com/ashishps1/awesome-system-design-resources/stargazers"><img src="https://img.shields.io/github/stars/ashishps1/awesome-system-design-resources?style=flat-square&labelColor=343b41" alt="Stars: 43102"></a>
 <a href="https://github.com/ashishps1/awesome-system-design-resources/network/members"><img src="https://img.shields.io/github/forks/ashishps1/awesome-system-design-resources?style=flat-square&labelColor=343b41" alt="Forks: 8932"></a>
 </span>
 </div><br/>
@@ -105,7 +105,7 @@
 <img src="https://avatars.githubusercontent.com/u/105950641?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Crosstalk-Solutions/project-nomad">Crosstalk-Solutions/project-nomad</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><br/>
 <span>
-<a href="https://github.com/Crosstalk-Solutions/project-nomad/stargazers"><img src="https://img.shields.io/github/stars/Crosstalk-Solutions/project-nomad?style=flat-square&labelColor=343b41" alt="Stars: 42350"></a>
+<a href="https://github.com/Crosstalk-Solutions/project-nomad/stargazers"><img src="https://img.shields.io/github/stars/Crosstalk-Solutions/project-nomad?style=flat-square&labelColor=343b41" alt="Stars: 42353"></a>
 <a href="https://github.com/Crosstalk-Solutions/project-nomad/network/members"><img src="https://img.shields.io/github/forks/Crosstalk-Solutions/project-nomad?style=flat-square&labelColor=343b41" alt="Forks: 4337"></a>
 </span>
 </div><br/>
@@ -123,8 +123,8 @@
 <img src="https://avatars.githubusercontent.com/u/170767358?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/kortix-ai/CompanyOS">kortix-ai/CompanyOS</a> 🔥🔥</strong> <br/><br/>
 <em>Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>ai</code> <code>ai-agents</code> <code>company-as-code</code> <code>company-operating-system</code> <code>company-os</code> <code>companyos</code></small><br/><br/>
 <span>
-<a href="https://github.com/kortix-ai/CompanyOS/stargazers"><img src="https://img.shields.io/github/stars/kortix-ai/CompanyOS?style=flat-square&labelColor=343b41" alt="Stars: 20387"></a>
-<a href="https://github.com/kortix-ai/CompanyOS/network/members"><img src="https://img.shields.io/github/forks/kortix-ai/CompanyOS?style=flat-square&labelColor=343b41" alt="Forks: 3441"></a>
+<a href="https://github.com/kortix-ai/CompanyOS/stargazers"><img src="https://img.shields.io/github/stars/kortix-ai/CompanyOS?style=flat-square&labelColor=343b41" alt="Stars: 20388"></a>
+<a href="https://github.com/kortix-ai/CompanyOS/network/members"><img src="https://img.shields.io/github/forks/kortix-ai/CompanyOS?style=flat-square&labelColor=343b41" alt="Forks: 3442"></a>
 </span>
 </div><br/>
 

@@ -32,8 +32,8 @@
 <img src="https://avatars.githubusercontent.com/u/158137808?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/open-webui/open-webui">open-webui/open-webui</a> 🔥🔥🔥</strong> <br/><br/>
 <em>User-friendly AI Interface (Supports Ollama, OpenAI API, ...)</em><br/><small><code>Svelte</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>ai</code> <code>llm</code> <code>llm-ui</code> <code>llm-webui</code> <code>llms</code> <code>mcp</code></small><br/><br/>
 <span>
-<a href="https://github.com/open-webui/open-webui/stargazers"><img src="https://img.shields.io/github/stars/open-webui/open-webui?style=flat-square&labelColor=343b41" alt="Stars: 157890"></a>
-<a href="https://github.com/open-webui/open-webui/network/members"><img src="https://img.shields.io/github/forks/open-webui/open-webui?style=flat-square&labelColor=343b41" alt="Forks: 22954"></a>
+<a href="https://github.com/open-webui/open-webui/stargazers"><img src="https://img.shields.io/github/stars/open-webui/open-webui?style=flat-square&labelColor=343b41" alt="Stars: 157900"></a>
+<a href="https://github.com/open-webui/open-webui/network/members"><img src="https://img.shields.io/github/forks/open-webui/open-webui?style=flat-square&labelColor=343b41" alt="Forks: 22955"></a>
 </span>
 </div><br/>
 
@@ -41,7 +41,7 @@
 <img src="https://avatars.githubusercontent.com/u/98614666?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/xtekky/gpt4free">xtekky/gpt4free</a> 🔥🔥🔥</strong> <br/><br/>
 <em>The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ GPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-03</small><br/><small>🏷️ <code>chatbot</code> <code>chatbots</code> <code>chatgpt</code> <code>chatgpt-4</code> <code>chatgpt-api</code> <code>chatgpt-free</code></small><br/><br/>
 <span>
-<a href="https://github.com/xtekky/gpt4free/stargazers"><img src="https://img.shields.io/github/stars/xtekky/gpt4free?style=flat-square&labelColor=343b41" alt="Stars: 67013"></a>
+<a href="https://github.com/xtekky/gpt4free/stargazers"><img src="https://img.shields.io/github/stars/xtekky/gpt4free?style=flat-square&labelColor=343b41" alt="Stars: 67011"></a>
 <a href="https://github.com/xtekky/gpt4free/network/members"><img src="https://img.shields.io/github/forks/xtekky/gpt4free?style=flat-square&labelColor=343b41" alt="Forks: 13463"></a>
 </span>
 </div><br/>
@@ -50,7 +50,7 @@
 <img src="https://avatars.githubusercontent.com/u/185116535?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/block/buzz">block/buzz</a> 🔥🔥🔥</strong> <br/><br/>
 <em>A hive mind communication platform</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><br/>
 <span>
-<a href="https://github.com/block/buzz/stargazers"><img src="https://img.shields.io/github/stars/block/buzz?style=flat-square&labelColor=343b41" alt="Stars: 36763"></a>
+<a href="https://github.com/block/buzz/stargazers"><img src="https://img.shields.io/github/stars/block/buzz?style=flat-square&labelColor=343b41" alt="Stars: 36762"></a>
 <a href="https://github.com/block/buzz/network/members"><img src="https://img.shields.io/github/forks/block/buzz?style=flat-square&labelColor=343b41" alt="Forks: 4886"></a>
 </span>
 </div><br/>
@@ -60,7 +60,7 @@
 <em>Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>acp</code> <code>agent-team</code> <code>ai</code> <code>ai-agent</code> <code>chat</code> <code>chatbot</code></small><br/><br/>
 <span>
 <a href="https://github.com/iOfficeAI/AionUi/stargazers"><img src="https://img.shields.io/github/stars/iOfficeAI/AionUi?style=flat-square&labelColor=343b41" alt="Stars: 34065"></a>
-<a href="https://github.com/iOfficeAI/AionUi/network/members"><img src="https://img.shields.io/github/forks/iOfficeAI/AionUi?style=flat-square&labelColor=343b41" alt="Forks: 3559"></a>
+<a href="https://github.com/iOfficeAI/AionUi/network/members"><img src="https://img.shields.io/github/forks/iOfficeAI/AionUi?style=flat-square&labelColor=343b41" alt="Forks: 3557"></a>
 </span>
 </div><br/>
 
@@ -68,8 +68,8 @@
 <img src="https://avatars.githubusercontent.com/u/4488133?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/78/xiaozhi-esp32">78/xiaozhi-esp32</a> 🔥🔥🔥</strong> <br/><br/>
 <em>An MCP-based chatbot | 一个基于MCP的聊天机器人</em><br/><small><code>C++</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-04</small><br/><small>🏷️ <code>chatbot</code> <code>esp32</code> <code>mcp</code></small><br/><br/>
 <span>
-<a href="https://github.com/78/xiaozhi-esp32/stargazers"><img src="https://img.shields.io/github/stars/78/xiaozhi-esp32?style=flat-square&labelColor=343b41" alt="Stars: 32723"></a>
-<a href="https://github.com/78/xiaozhi-esp32/network/members"><img src="https://img.shields.io/github/forks/78/xiaozhi-esp32?style=flat-square&labelColor=343b41" alt="Forks: 7722"></a>
+<a href="https://github.com/78/xiaozhi-esp32/stargazers"><img src="https://img.shields.io/github/stars/78/xiaozhi-esp32?style=flat-square&labelColor=343b41" alt="Stars: 32731"></a>
+<a href="https://github.com/78/xiaozhi-esp32/network/members"><img src="https://img.shields.io/github/forks/78/xiaozhi-esp32?style=flat-square&labelColor=343b41" alt="Forks: 7724"></a>
 </span>
 </div><br/>
 
@@ -78,7 +78,7 @@
 <em>Build Conversational AI in minutes ⚡️</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-09-18</small><br/><small>🏷️ <code>chatgpt</code> <code>langchain</code> <code>llm</code> <code>openai</code> <code>openai-chatgpt</code> <code>python</code></small><br/><br/>
 <span>
 <a href="https://github.com/Chainlit/chainlit/stargazers"><img src="https://img.shields.io/github/stars/Chainlit/chainlit?style=flat-square&labelColor=343b41" alt="Stars: 12505"></a>
-<a href="https://github.com/Chainlit/chainlit/network/members"><img src="https://img.shields.io/github/forks/Chainlit/chainlit?style=flat-square&labelColor=343b41" alt="Forks: 1766"></a>
+<a href="https://github.com/Chainlit/chainlit/network/members"><img src="https://img.shields.io/github/forks/Chainlit/chainlit?style=flat-square&labelColor=343b41" alt="Forks: 1767"></a>
 </span>
 </div><br/>
 
@@ -95,8 +95,8 @@
 <img src="https://avatars.githubusercontent.com/u/69076224?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/aurelio-labs/semantic-router">aurelio-labs/semantic-router</a> 🔥</strong> <br/><br/>
 <em>Superfast AI decision making and intelligent processing of multi-modal data.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-10-22</small><br/><small>🏷️ <code>ai</code> <code>artificial-intelligence</code> <code>chatbot</code> <code>computer-vision</code> <code>generative-ai</code> <code>machine-learning</code></small><br/><br/>
 <span>
-<a href="https://github.com/aurelio-labs/semantic-router/stargazers"><img src="https://img.shields.io/github/stars/aurelio-labs/semantic-router?style=flat-square&labelColor=343b41" alt="Stars: 4022"></a>
-<a href="https://github.com/aurelio-labs/semantic-router/network/members"><img src="https://img.shields.io/github/forks/aurelio-labs/semantic-router?style=flat-square&labelColor=343b41" alt="Forks: 391"></a>
+<a href="https://github.com/aurelio-labs/semantic-router/stargazers"><img src="https://img.shields.io/github/stars/aurelio-labs/semantic-router?style=flat-square&labelColor=343b41" alt="Stars: 4024"></a>
+<a href="https://github.com/aurelio-labs/semantic-router/network/members"><img src="https://img.shields.io/github/forks/aurelio-labs/semantic-router?style=flat-square&labelColor=343b41" alt="Forks: 392"></a>
 </span>
 </div><br/>
 

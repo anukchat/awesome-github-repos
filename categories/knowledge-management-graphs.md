@@ -23,7 +23,7 @@
 | [**markmap/markmap**](https://github.com/markmap/markmap) | ⭐ 13k | TypeScript | 2026-09-12 | Build mindmaps with plain text |
 | [**fastrepl/anarlog**](https://github.com/fastrepl/anarlog) | ⭐ 9.8k | Rust | 2026-11-05 | Open source Granola AI Alternative |
 | [**GoogleCloudPlatform/knowledge-catalog**](https://github.com/GoogleCloudPlatform/knowledge-catalog) | ⭐ 9.6k | TypeScript | 2026-11-06 | Google Cloud Knowledge Catalog Tools and Samples |
-| [**NVIDIA/auto-ontology**](https://github.com/NVIDIA/auto-ontology) | ⭐ 7.9k | Python | 2026-11-05 | Auto Ontology is a Python framework for building semantic, graph-based reasoning laye... |
+| [**NVIDIA/auto-ontology**](https://github.com/NVIDIA/auto-ontology) | ⭐ 8k | Python | 2026-11-06 | Auto Ontology is a Python framework for building semantic, graph-based reasoning laye... |
 | [**rahulnyk/knowledge_graph**](https://github.com/rahulnyk/knowledge_graph) | ⭐ 4.2k | Jupyter Notebook | 2026-08-15 | Convert any text to a graph of knowledge. This can be used for Graph Augmented Genera... |
 | [**robert-mcdermott/ai-knowledge-graph**](https://github.com/robert-mcdermott/ai-knowledge-graph) | ⭐ 3.1k | Python | 2026-09-13 | AI Powered Knowledge Graph Generator |
 | [**lucasastorian/llmwiki**](https://github.com/lucasastorian/llmwiki) | ⭐ 1.8k | Python | 2026-11-04 | Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Cla... |
@@ -32,7 +32,7 @@
 | [**extend-hq/jevbox**](https://github.com/extend-hq/jevbox) | ⭐ 756 | TypeScript | 2026-10-31 | A full-stack, permission-aware document library with document tree inspection and par... |
 | [**shannhk/llm-wikid**](https://github.com/shannhk/llm-wikid) | ⭐ 432 | Shell | 2026-08-24 | Karpathy-style LLM knowledge base for Obsidian. Clone, run Claude Code, start buildin... |
 | [**nhevers/MoltBrain**](https://github.com/nhevers/MoltBrain) | ⭐ 253 | TypeScript | 2026-03-25 | Long-term memory layer for OpenClaw &amp; MoltBook agents that learns and recalls your pr... |
-| [**Dongbumlee/ontosmith**](https://github.com/Dongbumlee/ontosmith) | ⭐ 59 | Python | 2026-11-06 | A decision-model-based ontology &amp; knowledge-graph builder — builds governed knowledge... |
+| [**Dongbumlee/ontosmith**](https://github.com/Dongbumlee/ontosmith) | ⭐ 63 | Python | 2026-11-06 | A decision-model-based ontology &amp; knowledge-graph builder — builds governed knowledge... |
 
 </details>
 
@@ -42,8 +42,8 @@
 <img src="https://avatars.githubusercontent.com/u/297659074?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Graphify-Labs/graphify">Graphify-Labs/graphify</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>ai-agents</code> <code>antigravity</code> <code>ast</code> <code>claude-code</code> <code>code-analysis</code> <code>code-search</code></small><br/><br/>
 <span>
-<a href="https://github.com/Graphify-Labs/graphify/stargazers"><img src="https://img.shields.io/github/stars/Graphify-Labs/graphify?style=flat-square&labelColor=343b41" alt="Stars: 143122"></a>
-<a href="https://github.com/Graphify-Labs/graphify/network/members"><img src="https://img.shields.io/github/forks/Graphify-Labs/graphify?style=flat-square&labelColor=343b41" alt="Forks: 13688"></a>
+<a href="https://github.com/Graphify-Labs/graphify/stargazers"><img src="https://img.shields.io/github/stars/Graphify-Labs/graphify?style=flat-square&labelColor=343b41" alt="Stars: 143149"></a>
+<a href="https://github.com/Graphify-Labs/graphify/network/members"><img src="https://img.shields.io/github/forks/Graphify-Labs/graphify?style=flat-square&labelColor=343b41" alt="Forks: 13691"></a>
 </span>
 </div><br/>
 
@@ -51,7 +51,7 @@
 <img src="https://avatars.githubusercontent.com/u/257477979?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Egonex-AI/Understand-Anything">Egonex-AI/Understand-Anything</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>antigravity-skills</code> <code>business-knowledge</code> <code>claude-code</code> <code>claude-skills</code> <code>codebase-analysis</code> <code>codex</code></small><br/><br/>
 <span>
-<a href="https://github.com/Egonex-AI/Understand-Anything/stargazers"><img src="https://img.shields.io/github/stars/Egonex-AI/Understand-Anything?style=flat-square&labelColor=343b41" alt="Stars: 90997"></a>
+<a href="https://github.com/Egonex-AI/Understand-Anything/stargazers"><img src="https://img.shields.io/github/stars/Egonex-AI/Understand-Anything?style=flat-square&labelColor=343b41" alt="Stars: 91014"></a>
 <a href="https://github.com/Egonex-AI/Understand-Anything/network/members"><img src="https://img.shields.io/github/forks/Egonex-AI/Understand-Anything?style=flat-square&labelColor=343b41" alt="Forks: 7776"></a>
 </span>
 </div><br/>
@@ -60,7 +60,7 @@
 <img src="https://avatars.githubusercontent.com/u/86002201?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/AppFlowy-IO/AppFlowy">AppFlowy-IO/AppFlowy</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.</em><br/><small><code>Dart</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-02</small><br/><small>🏷️ <code>blog</code> <code>confluence-alternative</code> <code>content-management</code> <code>content-services</code> <code>documentation</code> <code>flutter</code></small><br/><br/>
 <span>
-<a href="https://github.com/AppFlowy-IO/AppFlowy/stargazers"><img src="https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=flat-square&labelColor=343b41" alt="Stars: 78272"></a>
+<a href="https://github.com/AppFlowy-IO/AppFlowy/stargazers"><img src="https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=flat-square&labelColor=343b41" alt="Stars: 78277"></a>
 <a href="https://github.com/AppFlowy-IO/AppFlowy/network/members"><img src="https://img.shields.io/github/forks/AppFlowy-IO/AppFlowy?style=flat-square&labelColor=343b41" alt="Forks: 6189"></a>
 </span>
 </div><br/>
@@ -69,7 +69,7 @@
 <img src="https://avatars.githubusercontent.com/u/70468694?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/siyuan-note/siyuan">siyuan-note/siyuan</a> 🔥🔥🔥</strong> <br/><br/>
 <em>An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>agentic-ai</code> <code>ai-agent</code> <code>knowledge-base</code> <code>local-first</code> <code>markdown</code> <code>mcp</code></small><br/><br/>
 <span>
-<a href="https://github.com/siyuan-note/siyuan/stargazers"><img src="https://img.shields.io/github/stars/siyuan-note/siyuan?style=flat-square&labelColor=343b41" alt="Stars: 47097"></a>
+<a href="https://github.com/siyuan-note/siyuan/stargazers"><img src="https://img.shields.io/github/stars/siyuan-note/siyuan?style=flat-square&labelColor=343b41" alt="Stars: 47098"></a>
 <a href="https://github.com/siyuan-note/siyuan/network/members"><img src="https://img.shields.io/github/forks/siyuan-note/siyuan?style=flat-square&labelColor=343b41" alt="Forks: 3099"></a>
 </span>
 </div><br/>
@@ -78,7 +78,7 @@
 <img src="https://avatars.githubusercontent.com/u/579178?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/lfnovo/open-notebook">lfnovo/open-notebook</a> 🔥🔥🔥</strong> <br/><br/>
 <em>An Open Source implementation of Notebook LM with more flexibility and features</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-04</small><br/><small>🏷️ <code>assistant</code> <code>learning</code> <code>note-taking</code> <code>notebook</code> <code>notes-app</code> <code>self-learning</code></small><br/><br/>
 <span>
-<a href="https://github.com/lfnovo/open-notebook/stargazers"><img src="https://img.shields.io/github/stars/lfnovo/open-notebook?style=flat-square&labelColor=343b41" alt="Stars: 41667"></a>
+<a href="https://github.com/lfnovo/open-notebook/stargazers"><img src="https://img.shields.io/github/stars/lfnovo/open-notebook?style=flat-square&labelColor=343b41" alt="Stars: 41668"></a>
 <a href="https://github.com/lfnovo/open-notebook/network/members"><img src="https://img.shields.io/github/forks/lfnovo/open-notebook?style=flat-square&labelColor=343b41" alt="Forks: 4789"></a>
 </span>
 </div><br/>
@@ -87,8 +87,8 @@
 <img src="https://avatars.githubusercontent.com/u/205132128?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/PDFMathTranslate/PDFMathTranslate">PDFMathTranslate/PDFMathTranslate</a> 🔥🔥🔥</strong> <br/><br/>
 <em>[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>chinese</code> <code>document</code> <code>edit</code> <code>english</code> <code>japanese</code> <code>korean</code></small><br/><br/>
 <span>
-<a href="https://github.com/PDFMathTranslate/PDFMathTranslate/stargazers"><img src="https://img.shields.io/github/stars/PDFMathTranslate/PDFMathTranslate?style=flat-square&labelColor=343b41" alt="Stars: 38237"></a>
-<a href="https://github.com/PDFMathTranslate/PDFMathTranslate/network/members"><img src="https://img.shields.io/github/forks/PDFMathTranslate/PDFMathTranslate?style=flat-square&labelColor=343b41" alt="Forks: 3426"></a>
+<a href="https://github.com/PDFMathTranslate/PDFMathTranslate/stargazers"><img src="https://img.shields.io/github/stars/PDFMathTranslate/PDFMathTranslate?style=flat-square&labelColor=343b41" alt="Stars: 38239"></a>
+<a href="https://github.com/PDFMathTranslate/PDFMathTranslate/network/members"><img src="https://img.shields.io/github/forks/PDFMathTranslate/PDFMathTranslate?style=flat-square&labelColor=343b41" alt="Forks: 3425"></a>
 </span>
 </div><br/>
 
@@ -96,7 +96,7 @@
 <img src="https://avatars.githubusercontent.com/u/18461506?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Tencent/WeKnora">Tencent/WeKnora</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</em><br/><small><code>Go</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-03</small><br/><small>🏷️ <code>agent</code> <code>agentic</code> <code>ai</code> <code>chatbot</code> <code>dsh-plugin</code> <code>embeddings</code></small><br/><br/>
 <span>
-<a href="https://github.com/Tencent/WeKnora/stargazers"><img src="https://img.shields.io/github/stars/Tencent/WeKnora?style=flat-square&labelColor=343b41" alt="Stars: 36628"></a>
+<a href="https://github.com/Tencent/WeKnora/stargazers"><img src="https://img.shields.io/github/stars/Tencent/WeKnora?style=flat-square&labelColor=343b41" alt="Stars: 36642"></a>
 <a href="https://github.com/Tencent/WeKnora/network/members"><img src="https://img.shields.io/github/forks/Tencent/WeKnora?style=flat-square&labelColor=343b41" alt="Forks: 5018"></a>
 </span>
 </div><br/>
@@ -123,7 +123,7 @@
 <img src="https://avatars.githubusercontent.com/u/2127280?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/nashsu/llm_wiki">nashsu/llm_wiki</a> 🔥🔥</strong> <br/><br/>
 <em>LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-10-21</small><br/><br/>
 <span>
-<a href="https://github.com/nashsu/llm_wiki/stargazers"><img src="https://img.shields.io/github/stars/nashsu/llm_wiki?style=flat-square&labelColor=343b41" alt="Stars: 21420"></a>
+<a href="https://github.com/nashsu/llm_wiki/stargazers"><img src="https://img.shields.io/github/stars/nashsu/llm_wiki?style=flat-square&labelColor=343b41" alt="Stars: 21423"></a>
 <a href="https://github.com/nashsu/llm_wiki/network/members"><img src="https://img.shields.io/github/forks/nashsu/llm_wiki?style=flat-square&labelColor=343b41" alt="Forks: 2435"></a>
 </span>
 </div><br/>
@@ -150,7 +150,7 @@
 <img src="https://avatars.githubusercontent.com/u/111946737?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/markmap/markmap">markmap/markmap</a> 🔥🔥</strong> <br/><br/>
 <em>Build mindmaps with plain text</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-09-12</small><br/><small>🏷️ <code>markmap</code> <code>mindmap</code></small><br/><br/>
 <span>
-<a href="https://github.com/markmap/markmap/stargazers"><img src="https://img.shields.io/github/stars/markmap/markmap?style=flat-square&labelColor=343b41" alt="Stars: 13217"></a>
+<a href="https://github.com/markmap/markmap/stargazers"><img src="https://img.shields.io/github/stars/markmap/markmap?style=flat-square&labelColor=343b41" alt="Stars: 13218"></a>
 <a href="https://github.com/markmap/markmap/network/members"><img src="https://img.shields.io/github/forks/markmap/markmap?style=flat-square&labelColor=343b41" alt="Forks: 1021"></a>
 </span>
 </div><br/>
@@ -175,10 +175,10 @@
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/1728152?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/NVIDIA/auto-ontology">NVIDIA/auto-ontology</a> 🔥🔥</strong> <br/><br/>
-<em>Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><br/>
+<em>Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><br/>
 <span>
-<a href="https://github.com/NVIDIA/auto-ontology/stargazers"><img src="https://img.shields.io/github/stars/NVIDIA/auto-ontology?style=flat-square&labelColor=343b41" alt="Stars: 7854"></a>
-<a href="https://github.com/NVIDIA/auto-ontology/network/members"><img src="https://img.shields.io/github/forks/NVIDIA/auto-ontology?style=flat-square&labelColor=343b41" alt="Forks: 633"></a>
+<a href="https://github.com/NVIDIA/auto-ontology/stargazers"><img src="https://img.shields.io/github/stars/NVIDIA/auto-ontology?style=flat-square&labelColor=343b41" alt="Stars: 7965"></a>
+<a href="https://github.com/NVIDIA/auto-ontology/network/members"><img src="https://img.shields.io/github/forks/NVIDIA/auto-ontology?style=flat-square&labelColor=343b41" alt="Forks: 641"></a>
 </span>
 </div><br/>
 
@@ -213,7 +213,7 @@
 <img src="https://avatars.githubusercontent.com/u/85617033?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/undefined-ui/second-brain-os">undefined-ui/second-brain-os</a> 🔥</strong> <br/><br/>
 <em>Guides and resources for AI engineers: an agents course, five handbooks, a hands-on second-brain project and a vetted reading list.</em><br/><small><code>HTML</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-03</small><br/><small>🏷️ <code>agent-skills</code> <code>ai-agents</code> <code>ai-engineering</code> <code>claude</code> <code>claude-code</code> <code>claude-skills</code></small><br/><br/>
 <span>
-<a href="https://github.com/undefined-ui/second-brain-os/stargazers"><img src="https://img.shields.io/github/stars/undefined-ui/second-brain-os?style=flat-square&labelColor=343b41" alt="Stars: 1474"></a>
+<a href="https://github.com/undefined-ui/second-brain-os/stargazers"><img src="https://img.shields.io/github/stars/undefined-ui/second-brain-os?style=flat-square&labelColor=343b41" alt="Stars: 1475"></a>
 <a href="https://github.com/undefined-ui/second-brain-os/network/members"><img src="https://img.shields.io/github/forks/undefined-ui/second-brain-os?style=flat-square&labelColor=343b41" alt="Forks: 253"></a>
 </span>
 </div><br/>
@@ -258,8 +258,8 @@
 <img src="https://avatars.githubusercontent.com/u/22075636?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Dongbumlee/ontosmith">Dongbumlee/ontosmith</a> </strong> <br/><br/>
 <em>A decision-model-based ontology &amp; knowledge-graph builder — builds governed knowledge graphs from your documents, every fact gated and traceable to its evidence.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>graphrag</code> <code>information-extraction</code> <code>knowledge-graph</code> <code>llm</code> <code>neo4j</code> <code>ontology</code></small><br/><br/>
 <span>
-<a href="https://github.com/Dongbumlee/ontosmith/stargazers"><img src="https://img.shields.io/github/stars/Dongbumlee/ontosmith?style=flat-square&labelColor=343b41" alt="Stars: 59"></a>
-<a href="https://github.com/Dongbumlee/ontosmith/network/members"><img src="https://img.shields.io/github/forks/Dongbumlee/ontosmith?style=flat-square&labelColor=343b41" alt="Forks: 4"></a>
+<a href="https://github.com/Dongbumlee/ontosmith/stargazers"><img src="https://img.shields.io/github/stars/Dongbumlee/ontosmith?style=flat-square&labelColor=343b41" alt="Stars: 63"></a>
+<a href="https://github.com/Dongbumlee/ontosmith/network/members"><img src="https://img.shields.io/github/forks/Dongbumlee/ontosmith?style=flat-square&labelColor=343b41" alt="Forks: 5"></a>
 </span>
 </div><br/>
 

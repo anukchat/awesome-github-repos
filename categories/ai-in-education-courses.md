@@ -9,7 +9,7 @@
 | Repository | Stars | Language | Updated | Description |
 | :--- | ---: | :--- | :--- | :--- |
 | [**codecrafters-io/build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) | ⭐ 560k | Markdown | 2026-07-14 | Master programming by recreating your favorite technologies from scratch. |
-| [**nilbuild/developer-roadmap**](https://github.com/nilbuild/developer-roadmap) | ⭐ 371k | TypeScript | 2026-11-05 | Interactive roadmaps, guides and other educational content to help developers grow in... |
+| [**nilbuild/developer-roadmap**](https://github.com/nilbuild/developer-roadmap) | ⭐ 371k | TypeScript | 2026-11-06 | Interactive roadmaps, guides and other educational content to help developers grow in... |
 | [**jwasham/coding-interview-university**](https://github.com/jwasham/coding-interview-university) | ⭐ 364k | — | 2026-11-06 | A complete computer science study plan to become a software engineer. |
 | [**practical-tutorials/project-based-learning**](https://github.com/practical-tutorials/project-based-learning) | ⭐ 289k | Python | 2026-11-02 | Curated list of project-based tutorials |
 | [**TheAlgorithms/Python**](https://github.com/TheAlgorithms/Python) | ⭐ 226k | Python | 2026-11-02 | All Algorithms implemented in Python |
@@ -74,7 +74,7 @@
 | [**0xairdropfarmer/medium-clone-on-node**](https://github.com/0xairdropfarmer/medium-clone-on-node) | ⭐ 579 | JavaScript | 2021-03-01 | clone Medium on Nodejs and Reactjs |
 | [**maykulkarni/Machine-Learning-Notebooks**](https://github.com/maykulkarni/Machine-Learning-Notebooks) | ⭐ 554 | Jupyter Notebook | 2021-08-24 | Machine Learning notebooks for refreshing concepts. |
 | [**rkinas/cuda-learning**](https://github.com/rkinas/cuda-learning) | ⭐ 520 | — | 2025-02-22 | This repository is a curated collection of resources, tutorials, and practical exampl... |
-| [**Infini-AI-Lab/hermit**](https://github.com/Infini-AI-Lab/hermit) | ⭐ 477 | Python | 2026-11-06 | A framework for continual learning and recursive self-improvement through harness ada... |
+| [**Infini-AI-Lab/hermit**](https://github.com/Infini-AI-Lab/hermit) | ⭐ 478 | Python | 2026-11-06 | A framework for continual learning and recursive self-improvement through harness ada... |
 | [**dair-ai/d2l-study-group**](https://github.com/dair-ai/d2l-study-group) | ⭐ 396 | — | 2022-03-18 | 🧠 Material for the Deep Learning Study Group |
 | [**vopani/datatableton**](https://github.com/vopani/datatableton) | ⭐ 272 | Jupyter Notebook | 2022-01-01 | 100 exercises to learn Python Datatable |
 | [**IvanReznikov/DataVerse**](https://github.com/IvanReznikov/DataVerse) | ⭐ 259 | Jupyter Notebook | 2026-06-22 | Public code of Dr. Ivan Reznikov used in posts, articles, conferences |
@@ -95,17 +95,17 @@
 <img src="https://avatars.githubusercontent.com/u/58904235?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/codecrafters-io/build-your-own-x">codecrafters-io/build-your-own-x</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Master programming by recreating your favorite technologies from scratch.</em><br/><small><code>Markdown</code> &nbsp;•&nbsp; 🕒 Updated 2026-07-14</small><br/><small>🏷️ <code>awesome-list</code> <code>free</code> <code>programming</code> <code>tutorial-code</code> <code>tutorial-exercises</code> <code>tutorials</code></small><br/><br/>
 <span>
-<a href="https://github.com/codecrafters-io/build-your-own-x/stargazers"><img src="https://img.shields.io/github/stars/codecrafters-io/build-your-own-x?style=flat-square&labelColor=343b41" alt="Stars: 560215"></a>
-<a href="https://github.com/codecrafters-io/build-your-own-x/network/members"><img src="https://img.shields.io/github/forks/codecrafters-io/build-your-own-x?style=flat-square&labelColor=343b41" alt="Forks: 52421"></a>
+<a href="https://github.com/codecrafters-io/build-your-own-x/stargazers"><img src="https://img.shields.io/github/stars/codecrafters-io/build-your-own-x?style=flat-square&labelColor=343b41" alt="Stars: 560237"></a>
+<a href="https://github.com/codecrafters-io/build-your-own-x/network/members"><img src="https://img.shields.io/github/forks/codecrafters-io/build-your-own-x?style=flat-square&labelColor=343b41" alt="Forks: 52420"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/4921183?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/nilbuild/developer-roadmap">nilbuild/developer-roadmap</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>angular-roadmap</code> <code>backend-roadmap</code> <code>blockchain-roadmap</code> <code>computer-science</code> <code>dba-roadmap</code> <code>developer-roadmap</code></small><br/><br/>
+<em>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>angular-roadmap</code> <code>backend-roadmap</code> <code>blockchain-roadmap</code> <code>computer-science</code> <code>dba-roadmap</code> <code>developer-roadmap</code></small><br/><br/>
 <span>
-<a href="https://github.com/nilbuild/developer-roadmap/stargazers"><img src="https://img.shields.io/github/stars/nilbuild/developer-roadmap?style=flat-square&labelColor=343b41" alt="Stars: 371361"></a>
-<a href="https://github.com/nilbuild/developer-roadmap/network/members"><img src="https://img.shields.io/github/forks/nilbuild/developer-roadmap?style=flat-square&labelColor=343b41" alt="Forks: 45314"></a>
+<a href="https://github.com/nilbuild/developer-roadmap/stargazers"><img src="https://img.shields.io/github/stars/nilbuild/developer-roadmap?style=flat-square&labelColor=343b41" alt="Stars: 371362"></a>
+<a href="https://github.com/nilbuild/developer-roadmap/network/members"><img src="https://img.shields.io/github/forks/nilbuild/developer-roadmap?style=flat-square&labelColor=343b41" alt="Forks: 45317"></a>
 </span>
 </div><br/>
 
@@ -113,8 +113,8 @@
 <img src="https://avatars.githubusercontent.com/u/3771963?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/jwasham/coding-interview-university">jwasham/coding-interview-university</a> 🔥🔥🔥</strong> <br/><br/>
 <em>A complete computer science study plan to become a software engineer.</em><br/><small>⚖️ CC-BY-SA-4.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>algorithm</code> <code>algorithms</code> <code>coding-interview</code> <code>coding-interviews</code> <code>computer-science</code> <code>data-structures</code></small><br/><br/>
 <span>
-<a href="https://github.com/jwasham/coding-interview-university/stargazers"><img src="https://img.shields.io/github/stars/jwasham/coding-interview-university?style=flat-square&labelColor=343b41" alt="Stars: 364009"></a>
-<a href="https://github.com/jwasham/coding-interview-university/network/members"><img src="https://img.shields.io/github/forks/jwasham/coding-interview-university?style=flat-square&labelColor=343b41" alt="Forks: 85259"></a>
+<a href="https://github.com/jwasham/coding-interview-university/stargazers"><img src="https://img.shields.io/github/stars/jwasham/coding-interview-university?style=flat-square&labelColor=343b41" alt="Stars: 364011"></a>
+<a href="https://github.com/jwasham/coding-interview-university/network/members"><img src="https://img.shields.io/github/forks/jwasham/coding-interview-university?style=flat-square&labelColor=343b41" alt="Forks: 85271"></a>
 </span>
 </div><br/>
 
@@ -122,7 +122,7 @@
 <img src="https://avatars.githubusercontent.com/u/89421154?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/practical-tutorials/project-based-learning">practical-tutorials/project-based-learning</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Curated list of project-based tutorials</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-02</small><br/><small>🏷️ <code>beginner-project</code> <code>cpp</code> <code>golang</code> <code>javascript</code> <code>project</code> <code>python</code></small><br/><br/>
 <span>
-<a href="https://github.com/practical-tutorials/project-based-learning/stargazers"><img src="https://img.shields.io/github/stars/practical-tutorials/project-based-learning?style=flat-square&labelColor=343b41" alt="Stars: 289157"></a>
+<a href="https://github.com/practical-tutorials/project-based-learning/stargazers"><img src="https://img.shields.io/github/stars/practical-tutorials/project-based-learning?style=flat-square&labelColor=343b41" alt="Stars: 289164"></a>
 <a href="https://github.com/practical-tutorials/project-based-learning/network/members"><img src="https://img.shields.io/github/forks/practical-tutorials/project-based-learning?style=flat-square&labelColor=343b41" alt="Forks: 36813"></a>
 </span>
 </div><br/>
@@ -131,7 +131,7 @@
 <img src="https://avatars.githubusercontent.com/u/20487725?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/TheAlgorithms/Python">TheAlgorithms/Python</a> 🔥🔥🔥</strong> <br/><br/>
 <em>All Algorithms implemented in Python</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-02</small><br/><small>🏷️ <code>algorithm</code> <code>algorithm-competitions</code> <code>algorithms-implemented</code> <code>algos</code> <code>community-driven</code> <code>education</code></small><br/><br/>
 <span>
-<a href="https://github.com/TheAlgorithms/Python/stargazers"><img src="https://img.shields.io/github/stars/TheAlgorithms/Python?style=flat-square&labelColor=343b41" alt="Stars: 225915"></a>
+<a href="https://github.com/TheAlgorithms/Python/stargazers"><img src="https://img.shields.io/github/stars/TheAlgorithms/Python?style=flat-square&labelColor=343b41" alt="Stars: 225918"></a>
 <a href="https://github.com/TheAlgorithms/Python/network/members"><img src="https://img.shields.io/github/forks/TheAlgorithms/Python?style=flat-square&labelColor=343b41" alt="Forks: 51277"></a>
 </span>
 </div><br/>
@@ -140,8 +140,8 @@
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/microsoft/generative-ai-for-beginners">microsoft/generative-ai-for-beginners</a> 🔥🔥🔥</strong> <br/><br/>
 <em>21 Lessons, Get Started Building with Generative AI</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>ai</code> <code>azure</code> <code>chatgpt</code> <code>dall-e</code> <code>generative-ai</code> <code>generativeai</code></small><br/><br/>
 <span>
-<a href="https://github.com/microsoft/generative-ai-for-beginners/stargazers"><img src="https://img.shields.io/github/stars/microsoft/generative-ai-for-beginners?style=flat-square&labelColor=343b41" alt="Stars: 123039"></a>
-<a href="https://github.com/microsoft/generative-ai-for-beginners/network/members"><img src="https://img.shields.io/github/forks/microsoft/generative-ai-for-beginners?style=flat-square&labelColor=343b41" alt="Forks: 65971"></a>
+<a href="https://github.com/microsoft/generative-ai-for-beginners/stargazers"><img src="https://img.shields.io/github/stars/microsoft/generative-ai-for-beginners?style=flat-square&labelColor=343b41" alt="Stars: 123041"></a>
+<a href="https://github.com/microsoft/generative-ai-for-beginners/network/members"><img src="https://img.shields.io/github/forks/microsoft/generative-ai-for-beginners?style=flat-square&labelColor=343b41" alt="Forks: 65975"></a>
 </span>
 </div><br/>
 
@@ -149,7 +149,7 @@
 <img src="https://avatars.githubusercontent.com/u/5618407?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/rasbt/LLMs-from-scratch">rasbt/LLMs-from-scratch</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Implement a ChatGPT-like LLM in PyTorch from scratch, step by step</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>ai</code> <code>artificial-intelligence</code> <code>attention-mechanism</code> <code>deep-learning</code> <code>finetuning</code> <code>from-scratch</code></small><br/><br/>
 <span>
-<a href="https://github.com/rasbt/LLMs-from-scratch/stargazers"><img src="https://img.shields.io/github/stars/rasbt/LLMs-from-scratch?style=flat-square&labelColor=343b41" alt="Stars: 107890"></a>
+<a href="https://github.com/rasbt/LLMs-from-scratch/stargazers"><img src="https://img.shields.io/github/stars/rasbt/LLMs-from-scratch?style=flat-square&labelColor=343b41" alt="Stars: 107892"></a>
 <a href="https://github.com/rasbt/LLMs-from-scratch/network/members"><img src="https://img.shields.io/github/forks/rasbt/LLMs-from-scratch?style=flat-square&labelColor=343b41" alt="Forks: 16665"></a>
 </span>
 </div><br/>
@@ -158,7 +158,7 @@
 <img src="https://avatars.githubusercontent.com/u/81252890?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/mlabonne/llm-course">mlabonne/llm-course</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.</em><br/><small>⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-02-05</small><br/><small>🏷️ <code>course</code> <code>large-language-models</code> <code>llm</code> <code>machine-learning</code> <code>roadmap</code></small><br/><br/>
 <span>
-<a href="https://github.com/mlabonne/llm-course/stargazers"><img src="https://img.shields.io/github/stars/mlabonne/llm-course?style=flat-square&labelColor=343b41" alt="Stars: 84924"></a>
+<a href="https://github.com/mlabonne/llm-course/stargazers"><img src="https://img.shields.io/github/stars/mlabonne/llm-course?style=flat-square&labelColor=343b41" alt="Stars: 84925"></a>
 <a href="https://github.com/mlabonne/llm-course/network/members"><img src="https://img.shields.io/github/forks/mlabonne/llm-course?style=flat-square&labelColor=343b41" alt="Forks: 9870"></a>
 </span>
 </div><br/>
@@ -167,7 +167,7 @@
 <img src="https://avatars.githubusercontent.com/u/22699926?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Developer-Y/cs-video-courses">Developer-Y/cs-video-courses</a> 🔥🔥🔥</strong> <br/><br/>
 <em>List of Computer Science courses with video lectures.</em><br/><small>🕒 Updated 2026-11-04</small><br/><small>🏷️ <code>algorithms</code> <code>bioinformatics</code> <code>computational-biology</code> <code>computational-physics</code> <code>computer-architecture</code> <code>computer-science</code></small><br/><br/>
 <span>
-<a href="https://github.com/Developer-Y/cs-video-courses/stargazers"><img src="https://img.shields.io/github/stars/Developer-Y/cs-video-courses?style=flat-square&labelColor=343b41" alt="Stars: 84601"></a>
+<a href="https://github.com/Developer-Y/cs-video-courses/stargazers"><img src="https://img.shields.io/github/stars/Developer-Y/cs-video-courses?style=flat-square&labelColor=343b41" alt="Stars: 84602"></a>
 <a href="https://github.com/Developer-Y/cs-video-courses/network/members"><img src="https://img.shields.io/github/forks/Developer-Y/cs-video-courses?style=flat-square&labelColor=343b41" alt="Forks: 11619"></a>
 </span>
 </div><br/>
@@ -176,8 +176,8 @@
 <img src="https://avatars.githubusercontent.com/u/323287742?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/career-ops-hq/career-ops">career-ops-hq/career-ops</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an application tracker. It helps you fill in each application; you press Submit. Runs locally in Codex, OpenCode and other AI CLIs, or as a Claude Code plugin.</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>agent-skills</code> <code>ai-agent</code> <code>ai-job-search</code> <code>ats</code> <code>career</code> <code>career-ops</code></small><br/><br/>
 <span>
-<a href="https://github.com/career-ops-hq/career-ops/stargazers"><img src="https://img.shields.io/github/stars/career-ops-hq/career-ops?style=flat-square&labelColor=343b41" alt="Stars: 80522"></a>
-<a href="https://github.com/career-ops-hq/career-ops/network/members"><img src="https://img.shields.io/github/forks/career-ops-hq/career-ops?style=flat-square&labelColor=343b41" alt="Forks: 14816"></a>
+<a href="https://github.com/career-ops-hq/career-ops/stargazers"><img src="https://img.shields.io/github/stars/career-ops-hq/career-ops?style=flat-square&labelColor=343b41" alt="Stars: 80542"></a>
+<a href="https://github.com/career-ops-hq/career-ops/network/members"><img src="https://img.shields.io/github/forks/career-ops-hq/career-ops?style=flat-square&labelColor=343b41" alt="Forks: 14820"></a>
 </span>
 </div><br/>
 
@@ -185,8 +185,8 @@
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/microsoft/ai-agents-for-beginners">microsoft/ai-agents-for-beginners</a> 🔥🔥🔥</strong> <br/><br/>
 <em>18 Lessons to Get Started Building AI Agents</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-02</small><br/><small>🏷️ <code>agentic-ai</code> <code>agentic-framework</code> <code>agentic-rag</code> <code>ai-agents</code> <code>ai-agents-framework</code> <code>autogen</code></small><br/><br/>
 <span>
-<a href="https://github.com/microsoft/ai-agents-for-beginners/stargazers"><img src="https://img.shields.io/github/stars/microsoft/ai-agents-for-beginners?style=flat-square&labelColor=343b41" alt="Stars: 79019"></a>
-<a href="https://github.com/microsoft/ai-agents-for-beginners/network/members"><img src="https://img.shields.io/github/forks/microsoft/ai-agents-for-beginners?style=flat-square&labelColor=343b41" alt="Forks: 25867"></a>
+<a href="https://github.com/microsoft/ai-agents-for-beginners/stargazers"><img src="https://img.shields.io/github/stars/microsoft/ai-agents-for-beginners?style=flat-square&labelColor=343b41" alt="Stars: 79022"></a>
+<a href="https://github.com/microsoft/ai-agents-for-beginners/network/members"><img src="https://img.shields.io/github/forks/microsoft/ai-agents-for-beginners?style=flat-square&labelColor=343b41" alt="Forks: 25869"></a>
 </span>
 </div><br/>
 
@@ -194,7 +194,7 @@
 <img src="https://avatars.githubusercontent.com/u/48523873?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/rohitg00/ai-engineering-from-scratch">rohitg00/ai-engineering-from-scratch</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Learn AI Engineering! Learn it. Build it. Ship it for others.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>agents</code> <code>ai</code> <code>ai-agents</code> <code>ai-engineering</code> <code>computer-vision</code> <code>course</code></small><br/><br/>
 <span>
-<a href="https://github.com/rohitg00/ai-engineering-from-scratch/stargazers"><img src="https://img.shields.io/github/stars/rohitg00/ai-engineering-from-scratch?style=flat-square&labelColor=343b41" alt="Stars: 77033"></a>
+<a href="https://github.com/rohitg00/ai-engineering-from-scratch/stargazers"><img src="https://img.shields.io/github/stars/rohitg00/ai-engineering-from-scratch?style=flat-square&labelColor=343b41" alt="Stars: 77044"></a>
 <a href="https://github.com/rohitg00/ai-engineering-from-scratch/network/members"><img src="https://img.shields.io/github/forks/rohitg00/ai-engineering-from-scratch?style=flat-square&labelColor=343b41" alt="Forks: 13640"></a>
 </span>
 </div><br/>
@@ -212,7 +212,7 @@
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/microsoft/AI-For-Beginners">microsoft/AI-For-Beginners</a> 🔥🔥🔥</strong> <br/><br/>
 <em>12 Weeks, 24 Lessons, AI for All!</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-04</small><br/><small>🏷️ <code>ai</code> <code>artificial-intelligence</code> <code>cnn</code> <code>computer-vision</code> <code>deep-learning</code> <code>gan</code></small><br/><br/>
 <span>
-<a href="https://github.com/microsoft/AI-For-Beginners/stargazers"><img src="https://img.shields.io/github/stars/microsoft/AI-For-Beginners?style=flat-square&labelColor=343b41" alt="Stars: 70594"></a>
+<a href="https://github.com/microsoft/AI-For-Beginners/stargazers"><img src="https://img.shields.io/github/stars/microsoft/AI-For-Beginners?style=flat-square&labelColor=343b41" alt="Stars: 70597"></a>
 <a href="https://github.com/microsoft/AI-For-Beginners/network/members"><img src="https://img.shields.io/github/forks/microsoft/AI-For-Beginners?style=flat-square&labelColor=343b41" alt="Forks: 13742"></a>
 </span>
 </div><br/>
@@ -221,7 +221,7 @@
 <img src="https://avatars.githubusercontent.com/u/64068543?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/labmlai/annotated_deep_learning_paper_implementations">labmlai/annotated_deep_learning_paper_implementations</a> 🔥🔥🔥</strong> <br/><br/>
 <em>🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-02</small><br/><small>🏷️ <code>attention</code> <code>deep-learning</code> <code>deep-learning-tutorial</code> <code>gan</code> <code>literate-programming</code> <code>lora</code></small><br/><br/>
 <span>
-<a href="https://github.com/labmlai/annotated_deep_learning_paper_implementations/stargazers"><img src="https://img.shields.io/github/stars/labmlai/annotated_deep_learning_paper_implementations?style=flat-square&labelColor=343b41" alt="Stars: 67711"></a>
+<a href="https://github.com/labmlai/annotated_deep_learning_paper_implementations/stargazers"><img src="https://img.shields.io/github/stars/labmlai/annotated_deep_learning_paper_implementations?style=flat-square&labelColor=343b41" alt="Stars: 67713"></a>
 <a href="https://github.com/labmlai/annotated_deep_learning_paper_implementations/network/members"><img src="https://img.shields.io/github/forks/labmlai/annotated_deep_learning_paper_implementations?style=flat-square&labelColor=343b41" alt="Forks: 6783"></a>
 </span>
 </div><br/>
@@ -230,7 +230,7 @@
 <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/anthropics/claude-cookbooks">anthropics/claude-cookbooks</a> 🔥🔥🔥</strong> <br/><br/>
 <em>A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-04</small><br/><br/>
 <span>
-<a href="https://github.com/anthropics/claude-cookbooks/stargazers"><img src="https://img.shields.io/github/stars/anthropics/claude-cookbooks?style=flat-square&labelColor=343b41" alt="Stars: 54268"></a>
+<a href="https://github.com/anthropics/claude-cookbooks/stargazers"><img src="https://img.shields.io/github/stars/anthropics/claude-cookbooks?style=flat-square&labelColor=343b41" alt="Stars: 54273"></a>
 <a href="https://github.com/anthropics/claude-cookbooks/network/members"><img src="https://img.shields.io/github/forks/anthropics/claude-cookbooks?style=flat-square&labelColor=343b41" alt="Forks: 6574"></a>
 </span>
 </div><br/>
@@ -257,7 +257,7 @@
 <img src="https://avatars.githubusercontent.com/u/1170130?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/geekcomputers/Python">geekcomputers/Python</a> 🔥🔥🔥</strong> <br/><br/>
 <em>My Python Examples</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><br/>
 <span>
-<a href="https://github.com/geekcomputers/Python/stargazers"><img src="https://img.shields.io/github/stars/geekcomputers/Python?style=flat-square&labelColor=343b41" alt="Stars: 35472"></a>
+<a href="https://github.com/geekcomputers/Python/stargazers"><img src="https://img.shields.io/github/stars/geekcomputers/Python?style=flat-square&labelColor=343b41" alt="Stars: 35474"></a>
 <a href="https://github.com/geekcomputers/Python/network/members"><img src="https://img.shields.io/github/forks/geekcomputers/Python?style=flat-square&labelColor=343b41" alt="Forks: 12917"></a>
 </span>
 </div><br/>
@@ -266,7 +266,7 @@
 <img src="https://avatars.githubusercontent.com/u/25720743?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/huggingface/agents-course">huggingface/agents-course</a> 🔥🔥🔥</strong> <br/><br/>
 <em>This repository contains the Hugging Face Agents Course.</em><br/><small><code>MDX</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-03</small><br/><small>🏷️ <code>agentic-ai</code> <code>agents</code> <code>course</code> <code>huggingface</code> <code>langchain</code> <code>llamaindex</code></small><br/><br/>
 <span>
-<a href="https://github.com/huggingface/agents-course/stargazers"><img src="https://img.shields.io/github/stars/huggingface/agents-course?style=flat-square&labelColor=343b41" alt="Stars: 34522"></a>
+<a href="https://github.com/huggingface/agents-course/stargazers"><img src="https://img.shields.io/github/stars/huggingface/agents-course?style=flat-square&labelColor=343b41" alt="Stars: 34524"></a>
 <a href="https://github.com/huggingface/agents-course/network/members"><img src="https://img.shields.io/github/forks/huggingface/agents-course?style=flat-square&labelColor=343b41" alt="Forks: 2476"></a>
 </span>
 </div><br/>
@@ -311,7 +311,7 @@
 <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/anthropics/courses">anthropics/courses</a> 🔥🔥</strong> <code>⚠️ Archived</code><br/><br/>
 <em>Anthropic's educational courses</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; 🕒 Updated 2026-08-28</small><br/><br/>
 <span>
-<a href="https://github.com/anthropics/courses/stargazers"><img src="https://img.shields.io/github/stars/anthropics/courses?style=flat-square&labelColor=343b41" alt="Stars: 22980"></a>
+<a href="https://github.com/anthropics/courses/stargazers"><img src="https://img.shields.io/github/stars/anthropics/courses?style=flat-square&labelColor=343b41" alt="Stars: 22981"></a>
 <a href="https://github.com/anthropics/courses/network/members"><img src="https://img.shields.io/github/forks/anthropics/courses?style=flat-square&labelColor=343b41" alt="Forks: 2541"></a>
 </span>
 </div><br/>
@@ -321,7 +321,7 @@
 <em>Graphic notes on Gilbert Strang's &quot;Linear Algebra for Everyone&quot;</em><br/><small><code>PostScript</code> &nbsp;•&nbsp; ⚖️ CC0-1.0 &nbsp;•&nbsp; 🕒 Updated 2026-09-18</small><br/><br/>
 <span>
 <a href="https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra/stargazers"><img src="https://img.shields.io/github/stars/kenjihiranabe/The-Art-of-Linear-Algebra?style=flat-square&labelColor=343b41" alt="Stars: 21874"></a>
-<a href="https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra/network/members"><img src="https://img.shields.io/github/forks/kenjihiranabe/The-Art-of-Linear-Algebra?style=flat-square&labelColor=343b41" alt="Forks: 2580"></a>
+<a href="https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra/network/members"><img src="https://img.shields.io/github/forks/kenjihiranabe/The-Art-of-Linear-Algebra?style=flat-square&labelColor=343b41" alt="Forks: 2579"></a>
 </span>
 </div><br/>
 
@@ -329,7 +329,7 @@
 <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/anthropics/claude-quickstarts">anthropics/claude-quickstarts</a> 🔥🔥</strong> <br/><br/>
 <em>A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-04</small><br/><br/>
 <span>
-<a href="https://github.com/anthropics/claude-quickstarts/stargazers"><img src="https://img.shields.io/github/stars/anthropics/claude-quickstarts?style=flat-square&labelColor=343b41" alt="Stars: 19117"></a>
+<a href="https://github.com/anthropics/claude-quickstarts/stargazers"><img src="https://img.shields.io/github/stars/anthropics/claude-quickstarts?style=flat-square&labelColor=343b41" alt="Stars: 19118"></a>
 <a href="https://github.com/anthropics/claude-quickstarts/network/members"><img src="https://img.shields.io/github/forks/anthropics/claude-quickstarts?style=flat-square&labelColor=343b41" alt="Forks: 3254"></a>
 </span>
 </div><br/>
@@ -338,7 +338,7 @@
 <img src="https://avatars.githubusercontent.com/u/168156256?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/ZJU-LLMs/Foundations-of-LLMs">ZJU-LLMs/Foundations-of-LLMs</a> 🔥🔥</strong> <br/><br/>
 <em>A book for Learning the Foundations of LLMs</em><br/><small>🕒 Updated 2025-12-12</small><br/><br/>
 <span>
-<a href="https://github.com/ZJU-LLMs/Foundations-of-LLMs/stargazers"><img src="https://img.shields.io/github/stars/ZJU-LLMs/Foundations-of-LLMs?style=flat-square&labelColor=343b41" alt="Stars: 18495"></a>
+<a href="https://github.com/ZJU-LLMs/Foundations-of-LLMs/stargazers"><img src="https://img.shields.io/github/stars/ZJU-LLMs/Foundations-of-LLMs?style=flat-square&labelColor=343b41" alt="Stars: 18497"></a>
 <a href="https://github.com/ZJU-LLMs/Foundations-of-LLMs/network/members"><img src="https://img.shields.io/github/forks/ZJU-LLMs/Foundations-of-LLMs?style=flat-square&labelColor=343b41" alt="Forks: 1749"></a>
 </span>
 </div><br/>
@@ -366,7 +366,7 @@
 <em>Advanced Python Mastery (course by @dabeaz)</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ CC-BY-SA-4.0 &nbsp;•&nbsp; 🕒 Updated 2026-10-22</small><br/><small>🏷️ <code>python</code> <code>python-tutorial</code> <code>tutorial</code></small><br/><br/>
 <span>
 <a href="https://github.com/dabeaz-course/python-mastery/stargazers"><img src="https://img.shields.io/github/stars/dabeaz-course/python-mastery?style=flat-square&labelColor=343b41" alt="Stars: 13356"></a>
-<a href="https://github.com/dabeaz-course/python-mastery/network/members"><img src="https://img.shields.io/github/forks/dabeaz-course/python-mastery?style=flat-square&labelColor=343b41" alt="Forks: 2312"></a>
+<a href="https://github.com/dabeaz-course/python-mastery/network/members"><img src="https://img.shields.io/github/forks/dabeaz-course/python-mastery?style=flat-square&labelColor=343b41" alt="Forks: 2311"></a>
 </span>
 </div><br/>
 
@@ -410,7 +410,7 @@
 <img src="https://avatars.githubusercontent.com/u/110402648?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/udlbook/udlbook">udlbook/udlbook</a> 🔥🔥</strong> <br/><br/>
 <em>Understanding Deep Learning - Simon J.D. Prince</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; 🕒 Updated 2026-10-13</small><br/><br/>
 <span>
-<a href="https://github.com/udlbook/udlbook/stargazers"><img src="https://img.shields.io/github/stars/udlbook/udlbook?style=flat-square&labelColor=343b41" alt="Stars: 10132"></a>
+<a href="https://github.com/udlbook/udlbook/stargazers"><img src="https://img.shields.io/github/stars/udlbook/udlbook?style=flat-square&labelColor=343b41" alt="Stars: 10133"></a>
 <a href="https://github.com/udlbook/udlbook/network/members"><img src="https://img.shields.io/github/forks/udlbook/udlbook?style=flat-square&labelColor=343b41" alt="Forks: 2409"></a>
 </span>
 </div><br/>
@@ -464,7 +464,7 @@
 <img src="https://avatars.githubusercontent.com/u/30384625?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/dair-ai/Mathematics-for-ML">dair-ai/Mathematics-for-ML</a> 🔥🔥</strong> <br/><br/>
 <em>🧮  A collection of resources to learn mathematics for machine learning</em><br/><small>🕒 Updated 2023-01-24</small><br/><small>🏷️ <code>ai</code> <code>deep-learning</code> <code>machine-learning</code> <code>mathematics</code> <code>ml</code></small><br/><br/>
 <span>
-<a href="https://github.com/dair-ai/Mathematics-for-ML/stargazers"><img src="https://img.shields.io/github/stars/dair-ai/Mathematics-for-ML?style=flat-square&labelColor=343b41" alt="Stars: 6519"></a>
+<a href="https://github.com/dair-ai/Mathematics-for-ML/stargazers"><img src="https://img.shields.io/github/stars/dair-ai/Mathematics-for-ML?style=flat-square&labelColor=343b41" alt="Stars: 6520"></a>
 <a href="https://github.com/dair-ai/Mathematics-for-ML/network/members"><img src="https://img.shields.io/github/forks/dair-ai/Mathematics-for-ML?style=flat-square&labelColor=343b41" alt="Forks: 740"></a>
 </span>
 </div><br/>
@@ -527,7 +527,7 @@
 <img src="https://avatars.githubusercontent.com/u/33235742?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/wesammustafa/Claude-Code-Quest">wesammustafa/Claude-Code-Quest</a> 🔥</strong> <br/><br/>
 <em>Claude Code guide in three levels, Beginner to Advanced: hands-on lessons with checked exercises, every volatile fact cited to its source. Independent community guide.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>agent-skills</code> <code>agentic-coding</code> <code>ai-agents</code> <code>anthropic</code> <code>anthropic-claude</code> <code>best-practices</code></small><br/><br/>
 <span>
-<a href="https://github.com/wesammustafa/Claude-Code-Quest/stargazers"><img src="https://img.shields.io/github/stars/wesammustafa/Claude-Code-Quest?style=flat-square&labelColor=343b41" alt="Stars: 3613"></a>
+<a href="https://github.com/wesammustafa/Claude-Code-Quest/stargazers"><img src="https://img.shields.io/github/stars/wesammustafa/Claude-Code-Quest?style=flat-square&labelColor=343b41" alt="Stars: 3615"></a>
 <a href="https://github.com/wesammustafa/Claude-Code-Quest/network/members"><img src="https://img.shields.io/github/forks/wesammustafa/Claude-Code-Quest?style=flat-square&labelColor=343b41" alt="Forks: 414"></a>
 </span>
 </div><br/>
@@ -689,7 +689,7 @@
 <img src="https://avatars.githubusercontent.com/u/149595684?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Infini-AI-Lab/hermit">Infini-AI-Lab/hermit</a> </strong> <br/><br/>
 <em>A framework for continual learning and recursive self-improvement through harness adapter evolution.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><br/>
 <span>
-<a href="https://github.com/Infini-AI-Lab/hermit/stargazers"><img src="https://img.shields.io/github/stars/Infini-AI-Lab/hermit?style=flat-square&labelColor=343b41" alt="Stars: 477"></a>
+<a href="https://github.com/Infini-AI-Lab/hermit/stargazers"><img src="https://img.shields.io/github/stars/Infini-AI-Lab/hermit?style=flat-square&labelColor=343b41" alt="Stars: 478"></a>
 <a href="https://github.com/Infini-AI-Lab/hermit/network/members"><img src="https://img.shields.io/github/forks/Infini-AI-Lab/hermit?style=flat-square&labelColor=343b41" alt="Forks: 44"></a>
 </span>
 </div><br/>

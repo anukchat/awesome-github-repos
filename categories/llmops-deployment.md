@@ -25,7 +25,7 @@
 | [**Helicone/helicone**](https://github.com/Helicone/helicone) | ⭐ 6.3k | TypeScript | 2026-10-28 | 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and... |
 | [**lm-sys/RouteLLM**](https://github.com/lm-sys/RouteLLM) | ⭐ 5.7k | Python | 2024-08-10 | A framework for serving and evaluating LLM routers - save LLM costs without compromis... |
 | [**PacktPublishing/LLM-Engineers-Handbook**](https://github.com/PacktPublishing/LLM-Engineers-Handbook) | ⭐ 5.4k | Python | 2026-04-22 | The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG ap... |
-| [**latitude-dev/latitude-llm**](https://github.com/latitude-dev/latitude-llm) | ⭐ 4.7k | TypeScript | 2026-11-04 | Open-source observability for AI agents. Find where your agents fail, dispatch your c... |
+| [**latitude-dev/latitude-llm**](https://github.com/latitude-dev/latitude-llm) | ⭐ 4.7k | TypeScript | 2026-11-06 | Open-source observability for AI agents. Find where your agents fail, dispatch your c... |
 | [**zml/zml**](https://github.com/zml/zml) | ⭐ 4.2k | Zig | 2026-11-05 | Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @ba... |
 | [**predibase/lorax**](https://github.com/predibase/lorax) | ⭐ 3.8k | Python | 2026-05-28 | Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs |
 | [**PublicAffairs/openai-gemini**](https://github.com/PublicAffairs/openai-gemini) | ⭐ 3.7k | JavaScript | 2026-03-17 | ✦ Gemini ➜ OpenAI API proxy. Serverless! |
@@ -44,8 +44,8 @@
 <img src="https://avatars.githubusercontent.com/u/136984999?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/vllm-project/vllm">vllm-project/vllm</a> 🔥🔥🔥</strong> <br/><br/>
 <em>A high-throughput and memory-efficient inference and serving engine for LLMs</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>amd</code> <code>blackwell</code> <code>cuda</code> <code>deepseek</code> <code>deepseek-v3</code> <code>gpt</code></small><br/><br/>
 <span>
-<a href="https://github.com/vllm-project/vllm/stargazers"><img src="https://img.shields.io/github/stars/vllm-project/vllm?style=flat-square&labelColor=343b41" alt="Stars: 96433"></a>
-<a href="https://github.com/vllm-project/vllm/network/members"><img src="https://img.shields.io/github/forks/vllm-project/vllm?style=flat-square&labelColor=343b41" alt="Forks: 24473"></a>
+<a href="https://github.com/vllm-project/vllm/stargazers"><img src="https://img.shields.io/github/stars/vllm-project/vllm?style=flat-square&labelColor=343b41" alt="Stars: 96440"></a>
+<a href="https://github.com/vllm-project/vllm/network/members"><img src="https://img.shields.io/github/forks/vllm-project/vllm?style=flat-square&labelColor=343b41" alt="Forks: 24475"></a>
 </span>
 </div><br/>
 
@@ -53,8 +53,8 @@
 <img src="https://avatars.githubusercontent.com/u/121462774?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/BerriAI/litellm">BerriAI/litellm</a> 🔥🔥🔥</strong> <br/><br/>
 <em>The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>ai-gateway</code> <code>anthropic</code> <code>azure-openai</code> <code>bedrock</code> <code>gateway</code> <code>langchain</code></small><br/><br/>
 <span>
-<a href="https://github.com/BerriAI/litellm/stargazers"><img src="https://img.shields.io/github/stars/BerriAI/litellm?style=flat-square&labelColor=343b41" alt="Stars: 62805"></a>
-<a href="https://github.com/BerriAI/litellm/network/members"><img src="https://img.shields.io/github/forks/BerriAI/litellm?style=flat-square&labelColor=343b41" alt="Forks: 13060"></a>
+<a href="https://github.com/BerriAI/litellm/stargazers"><img src="https://img.shields.io/github/stars/BerriAI/litellm?style=flat-square&labelColor=343b41" alt="Stars: 62811"></a>
+<a href="https://github.com/BerriAI/litellm/network/members"><img src="https://img.shields.io/github/forks/BerriAI/litellm?style=flat-square&labelColor=343b41" alt="Forks: 13062"></a>
 </span>
 </div><br/>
 
@@ -62,8 +62,8 @@
 <img src="https://avatars.githubusercontent.com/u/147780389?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/sgl-project/sglang">sgl-project/sglang</a> 🔥🔥🔥</strong> <br/><br/>
 <em>SGLang is a high-performance serving framework for large language models and multimodal models.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>attention</code> <code>blackwell</code> <code>cuda</code> <code>deepseek</code> <code>diffusion</code> <code>glm</code></small><br/><br/>
 <span>
-<a href="https://github.com/sgl-project/sglang/stargazers"><img src="https://img.shields.io/github/stars/sgl-project/sglang?style=flat-square&labelColor=343b41" alt="Stars: 38515"></a>
-<a href="https://github.com/sgl-project/sglang/network/members"><img src="https://img.shields.io/github/forks/sgl-project/sglang?style=flat-square&labelColor=343b41" alt="Forks: 10203"></a>
+<a href="https://github.com/sgl-project/sglang/stargazers"><img src="https://img.shields.io/github/stars/sgl-project/sglang?style=flat-square&labelColor=343b41" alt="Stars: 38522"></a>
+<a href="https://github.com/sgl-project/sglang/network/members"><img src="https://img.shields.io/github/forks/sgl-project/sglang?style=flat-square&labelColor=343b41" alt="Forks: 10209"></a>
 </span>
 </div><br/>
 
@@ -71,7 +71,7 @@
 <img src="https://avatars.githubusercontent.com/u/128464815?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/ComposioHQ/composio">ComposioHQ/composio</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>agentic-ai</code> <code>agents</code> <code>ai</code> <code>ai-agents</code> <code>aiagents</code> <code>developer-tools</code></small><br/><br/>
 <span>
-<a href="https://github.com/ComposioHQ/composio/stargazers"><img src="https://img.shields.io/github/stars/ComposioHQ/composio?style=flat-square&labelColor=343b41" alt="Stars: 30948"></a>
+<a href="https://github.com/ComposioHQ/composio/stargazers"><img src="https://img.shields.io/github/stars/ComposioHQ/composio?style=flat-square&labelColor=343b41" alt="Stars: 30947"></a>
 <a href="https://github.com/ComposioHQ/composio/network/members"><img src="https://img.shields.io/github/forks/ComposioHQ/composio?style=flat-square&labelColor=343b41" alt="Forks: 4927"></a>
 </span>
 </div><br/>
@@ -80,7 +80,7 @@
 <img src="https://avatars.githubusercontent.com/u/1728152?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/NVIDIA/OpenShell">NVIDIA/OpenShell</a> 🔥🔥</strong> <br/><br/>
 <em>OpenShell is the safe, private runtime for autonomous AI agents.</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><br/>
 <span>
-<a href="https://github.com/NVIDIA/OpenShell/stargazers"><img src="https://img.shields.io/github/stars/NVIDIA/OpenShell?style=flat-square&labelColor=343b41" alt="Stars: 21183"></a>
+<a href="https://github.com/NVIDIA/OpenShell/stargazers"><img src="https://img.shields.io/github/stars/NVIDIA/OpenShell?style=flat-square&labelColor=343b41" alt="Stars: 21186"></a>
 <a href="https://github.com/NVIDIA/OpenShell/network/members"><img src="https://img.shields.io/github/forks/NVIDIA/OpenShell?style=flat-square&labelColor=343b41" alt="Forks: 2074"></a>
 </span>
 </div><br/>
@@ -89,7 +89,7 @@
 <img src="https://avatars.githubusercontent.com/u/10676103?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/stas00/ml-engineering">stas00/ml-engineering</a> 🔥🔥</strong> <br/><br/>
 <em>Machine Learning Engineering Open Book</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ CC-BY-SA-4.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-04</small><br/><small>🏷️ <code>ai</code> <code>debugging</code> <code>gpus</code> <code>inference</code> <code>large-language-models</code> <code>llm</code></small><br/><br/>
 <span>
-<a href="https://github.com/stas00/ml-engineering/stargazers"><img src="https://img.shields.io/github/stars/stas00/ml-engineering?style=flat-square&labelColor=343b41" alt="Stars: 19672"></a>
+<a href="https://github.com/stas00/ml-engineering/stargazers"><img src="https://img.shields.io/github/stars/stas00/ml-engineering?style=flat-square&labelColor=343b41" alt="Stars: 19671"></a>
 <a href="https://github.com/stas00/ml-engineering/network/members"><img src="https://img.shields.io/github/forks/stas00/ml-engineering?style=flat-square&labelColor=343b41" alt="Forks: 1302"></a>
 </span>
 </div><br/>
@@ -107,8 +107,8 @@
 <img src="https://avatars.githubusercontent.com/u/131141116?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Portkey-AI/gateway">Portkey-AI/gateway</a> 🔥🔥</strong> <br/><br/>
 <em>A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast &amp; friendly API.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-05-25</small><br/><small>🏷️ <code>ai-gateway</code> <code>gateway</code> <code>generative-ai</code> <code>hacktoberfest</code> <code>langchain</code> <code>llm</code></small><br/><br/>
 <span>
-<a href="https://github.com/Portkey-AI/gateway/stargazers"><img src="https://img.shields.io/github/stars/Portkey-AI/gateway?style=flat-square&labelColor=343b41" alt="Stars: 13332"></a>
-<a href="https://github.com/Portkey-AI/gateway/network/members"><img src="https://img.shields.io/github/forks/Portkey-AI/gateway?style=flat-square&labelColor=343b41" alt="Forks: 1371"></a>
+<a href="https://github.com/Portkey-AI/gateway/stargazers"><img src="https://img.shields.io/github/stars/Portkey-AI/gateway?style=flat-square&labelColor=343b41" alt="Stars: 13333"></a>
+<a href="https://github.com/Portkey-AI/gateway/network/members"><img src="https://img.shields.io/github/forks/Portkey-AI/gateway?style=flat-square&labelColor=343b41" alt="Forks: 1372"></a>
 </span>
 </div><br/>
 
@@ -116,8 +116,8 @@
 <img src="https://avatars.githubusercontent.com/u/59858760?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Arize-ai/phoenix">Arize-ai/phoenix</a> 🔥🔥</strong> <br/><br/>
 <em>AI Observability &amp; Evaluation</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>agents</code> <code>ai-monitoring</code> <code>ai-observability</code> <code>aiengineering</code> <code>anthropic</code> <code>datasets</code></small><br/><br/>
 <span>
-<a href="https://github.com/Arize-ai/phoenix/stargazers"><img src="https://img.shields.io/github/stars/Arize-ai/phoenix?style=flat-square&labelColor=343b41" alt="Stars: 12168"></a>
-<a href="https://github.com/Arize-ai/phoenix/network/members"><img src="https://img.shields.io/github/forks/Arize-ai/phoenix?style=flat-square&labelColor=343b41" alt="Forks: 1268"></a>
+<a href="https://github.com/Arize-ai/phoenix/stargazers"><img src="https://img.shields.io/github/stars/Arize-ai/phoenix?style=flat-square&labelColor=343b41" alt="Stars: 12171"></a>
+<a href="https://github.com/Arize-ai/phoenix/network/members"><img src="https://img.shields.io/github/forks/Arize-ai/phoenix?style=flat-square&labelColor=343b41" alt="Forks: 1269"></a>
 </span>
 </div><br/>
 
@@ -134,7 +134,7 @@
 <img src="https://avatars.githubusercontent.com/u/109387420?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/skypilot-org/skypilot">skypilot-org/skypilot</a> 🔥🔥</strong> <br/><br/>
 <em>The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>cloud-computing</code> <code>cloud-management</code> <code>cost-optimization</code> <code>deep-learning</code> <code>distributed-training</code> <code>gpu</code></small><br/><br/>
 <span>
-<a href="https://github.com/skypilot-org/skypilot/stargazers"><img src="https://img.shields.io/github/stars/skypilot-org/skypilot?style=flat-square&labelColor=343b41" alt="Stars: 10798"></a>
+<a href="https://github.com/skypilot-org/skypilot/stargazers"><img src="https://img.shields.io/github/stars/skypilot-org/skypilot?style=flat-square&labelColor=343b41" alt="Stars: 10799"></a>
 <a href="https://github.com/skypilot-org/skypilot/network/members"><img src="https://img.shields.io/github/forks/skypilot-org/skypilot?style=flat-square&labelColor=343b41" alt="Forks: 1331"></a>
 </span>
 </div><br/>
@@ -143,7 +143,7 @@
 <img src="https://avatars.githubusercontent.com/u/151674099?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/ollama/ollama-python">ollama/ollama-python</a> 🔥🔥</strong> <br/><br/>
 <em>Ollama Python library</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-10-16</small><br/><small>🏷️ <code>ollama</code> <code>python</code></small><br/><br/>
 <span>
-<a href="https://github.com/ollama/ollama-python/stargazers"><img src="https://img.shields.io/github/stars/ollama/ollama-python?style=flat-square&labelColor=343b41" alt="Stars: 10677"></a>
+<a href="https://github.com/ollama/ollama-python/stargazers"><img src="https://img.shields.io/github/stars/ollama/ollama-python?style=flat-square&labelColor=343b41" alt="Stars: 10678"></a>
 <a href="https://github.com/ollama/ollama-python/network/members"><img src="https://img.shields.io/github/forks/ollama/ollama-python?style=flat-square&labelColor=343b41" alt="Forks: 1228"></a>
 </span>
 </div><br/>
@@ -161,7 +161,7 @@
 <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/anthropics/sandbox-runtime">anthropics/sandbox-runtime</a> 🔥🔥</strong> <br/><br/>
 <em>A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><br/>
 <span>
-<a href="https://github.com/anthropics/sandbox-runtime/stargazers"><img src="https://img.shields.io/github/stars/anthropics/sandbox-runtime?style=flat-square&labelColor=343b41" alt="Stars: 6997"></a>
+<a href="https://github.com/anthropics/sandbox-runtime/stargazers"><img src="https://img.shields.io/github/stars/anthropics/sandbox-runtime?style=flat-square&labelColor=343b41" alt="Stars: 6999"></a>
 <a href="https://github.com/anthropics/sandbox-runtime/network/members"><img src="https://img.shields.io/github/forks/anthropics/sandbox-runtime?style=flat-square&labelColor=343b41" alt="Forks: 625"></a>
 </span>
 </div><br/>
@@ -179,8 +179,8 @@
 <img src="https://avatars.githubusercontent.com/u/126381704?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/lm-sys/RouteLLM">lm-sys/RouteLLM</a> 🔥🔥</strong> <br/><br/>
 <em>A framework for serving and evaluating LLM routers - save LLM costs without compromising quality</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2024-08-10</small><br/><br/>
 <span>
-<a href="https://github.com/lm-sys/RouteLLM/stargazers"><img src="https://img.shields.io/github/stars/lm-sys/RouteLLM?style=flat-square&labelColor=343b41" alt="Stars: 5679"></a>
-<a href="https://github.com/lm-sys/RouteLLM/network/members"><img src="https://img.shields.io/github/forks/lm-sys/RouteLLM?style=flat-square&labelColor=343b41" alt="Forks: 451"></a>
+<a href="https://github.com/lm-sys/RouteLLM/stargazers"><img src="https://img.shields.io/github/stars/lm-sys/RouteLLM?style=flat-square&labelColor=343b41" alt="Stars: 5680"></a>
+<a href="https://github.com/lm-sys/RouteLLM/network/members"><img src="https://img.shields.io/github/forks/lm-sys/RouteLLM?style=flat-square&labelColor=343b41" alt="Forks: 452"></a>
 </span>
 </div><br/>
 
@@ -195,7 +195,7 @@
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/98949449?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/latitude-dev/latitude-llm">latitude-dev/latitude-llm</a> 🔥</strong> <br/><br/>
-<em>Open-source observability for AI agents. Find where your agents fail, dispatch your coding agent to fix it, and verify the fix against real traces.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-04</small><br/><small>🏷️ <code>agent-monitoring</code> <code>agent-observability</code> <code>ai-error-monitor</code> <code>ai-monitoring</code> <code>ai-observability</code> <code>llm-error-tracing</code></small><br/><br/>
+<em>Open-source observability for AI agents. Find where your agents fail, dispatch your coding agent to fix it, and verify the fix against real traces.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>agent-monitoring</code> <code>agent-observability</code> <code>ai-error-monitor</code> <code>ai-monitoring</code> <code>ai-observability</code> <code>llm-error-tracing</code></small><br/><br/>
 <span>
 <a href="https://github.com/latitude-dev/latitude-llm/stargazers"><img src="https://img.shields.io/github/stars/latitude-dev/latitude-llm?style=flat-square&labelColor=343b41" alt="Stars: 4744"></a>
 <a href="https://github.com/latitude-dev/latitude-llm/network/members"><img src="https://img.shields.io/github/forks/latitude-dev/latitude-llm?style=flat-square&labelColor=343b41" alt="Forks: 408"></a>

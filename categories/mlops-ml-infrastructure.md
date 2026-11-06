@@ -26,7 +26,7 @@
 <img src="https://avatars.githubusercontent.com/u/6831355?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/eugeneyan/applied-ml">eugeneyan/applied-ml</a> 🔥🔥🔥</strong> <br/><br/>
 <em>📚 Papers &amp; tech blogs by companies sharing their work on data science &amp; machine learning in production.</em><br/><small>⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2024-07-18</small><br/><small>🏷️ <code>applied-data-science</code> <code>applied-machine-learning</code> <code>computer-vision</code> <code>data-discovery</code> <code>data-engineering</code> <code>data-quality</code></small><br/><br/>
 <span>
-<a href="https://github.com/eugeneyan/applied-ml/stargazers"><img src="https://img.shields.io/github/stars/eugeneyan/applied-ml?style=flat-square&labelColor=343b41" alt="Stars: 30809"></a>
+<a href="https://github.com/eugeneyan/applied-ml/stargazers"><img src="https://img.shields.io/github/stars/eugeneyan/applied-ml?style=flat-square&labelColor=343b41" alt="Stars: 30810"></a>
 <a href="https://github.com/eugeneyan/applied-ml/network/members"><img src="https://img.shields.io/github/forks/eugeneyan/applied-ml?style=flat-square&labelColor=343b41" alt="Forks: 4052"></a>
 </span>
 </div><br/>
@@ -36,7 +36,7 @@
 <em>The absolute trainer to light up AI agents.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>agent</code> <code>agentic-ai</code> <code>llm</code> <code>mlops</code> <code>reinforcement-learning</code></small><br/><br/>
 <span>
 <a href="https://github.com/microsoft/agent-lightning/stargazers"><img src="https://img.shields.io/github/stars/microsoft/agent-lightning?style=flat-square&labelColor=343b41" alt="Stars: 18907"></a>
-<a href="https://github.com/microsoft/agent-lightning/network/members"><img src="https://img.shields.io/github/forks/microsoft/agent-lightning?style=flat-square&labelColor=343b41" alt="Forks: 1710"></a>
+<a href="https://github.com/microsoft/agent-lightning/network/members"><img src="https://img.shields.io/github/forks/microsoft/agent-lightning?style=flat-square&labelColor=343b41" alt="Forks: 1711"></a>
 </span>
 </div><br/>
 
@@ -44,7 +44,7 @@
 <img src="https://avatars.githubusercontent.com/u/2014749?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/visenger/awesome-mlops">visenger/awesome-mlops</a> 🔥🔥</strong> <br/><br/>
 <em>A curated list of references for MLOps</em><br/><small>🕒 Updated 2024-11-21</small><br/><small>🏷️ <code>ai</code> <code>data-science</code> <code>devops</code> <code>engineering</code> <code>federated-learning</code> <code>machine-learning</code></small><br/><br/>
 <span>
-<a href="https://github.com/visenger/awesome-mlops/stargazers"><img src="https://img.shields.io/github/stars/visenger/awesome-mlops?style=flat-square&labelColor=343b41" alt="Stars: 14271"></a>
+<a href="https://github.com/visenger/awesome-mlops/stargazers"><img src="https://img.shields.io/github/stars/visenger/awesome-mlops?style=flat-square&labelColor=343b41" alt="Stars: 14270"></a>
 <a href="https://github.com/visenger/awesome-mlops/network/members"><img src="https://img.shields.io/github/forks/visenger/awesome-mlops?style=flat-square&labelColor=343b41" alt="Forks: 2132"></a>
 </span>
 </div><br/>
@@ -62,7 +62,7 @@
 <img src="https://avatars.githubusercontent.com/u/7556119?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/graviraja/MLOps-Basics">graviraja/MLOps-Basics</a> 🔥🔥</strong> <br/><br/>
 <em>Step-by-step hands-on series covering MLOps practices: training, tracking, packaging, and deployment.</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2024-09-22</small><br/><br/>
 <span>
-<a href="https://github.com/graviraja/MLOps-Basics/stargazers"><img src="https://img.shields.io/github/stars/graviraja/MLOps-Basics?style=flat-square&labelColor=343b41" alt="Stars: 8921"></a>
+<a href="https://github.com/graviraja/MLOps-Basics/stargazers"><img src="https://img.shields.io/github/stars/graviraja/MLOps-Basics?style=flat-square&labelColor=343b41" alt="Stars: 8922"></a>
 <a href="https://github.com/graviraja/MLOps-Basics/network/members"><img src="https://img.shields.io/github/forks/graviraja/MLOps-Basics?style=flat-square&labelColor=343b41" alt="Forks: 1768"></a>
 </span>
 </div><br/>

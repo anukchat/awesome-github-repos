@@ -43,8 +43,8 @@
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/microsoft/vscode">microsoft/vscode</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Visual Studio Code</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>editor</code> <code>electron</code> <code>microsoft</code> <code>typescript</code> <code>visual-studio-code</code></small><br/><br/>
 <span>
-<a href="https://github.com/microsoft/vscode/stargazers"><img src="https://img.shields.io/github/stars/microsoft/vscode?style=flat-square&labelColor=343b41" alt="Stars: 194760"></a>
-<a href="https://github.com/microsoft/vscode/network/members"><img src="https://img.shields.io/github/forks/microsoft/vscode?style=flat-square&labelColor=343b41" alt="Forks: 44404"></a>
+<a href="https://github.com/microsoft/vscode/stargazers"><img src="https://img.shields.io/github/stars/microsoft/vscode?style=flat-square&labelColor=343b41" alt="Stars: 194762"></a>
+<a href="https://github.com/microsoft/vscode/network/members"><img src="https://img.shields.io/github/forks/microsoft/vscode?style=flat-square&labelColor=343b41" alt="Forks: 44403"></a>
 </span>
 </div><br/>
 
@@ -52,7 +52,7 @@
 <img src="https://avatars.githubusercontent.com/u/83095831?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/slidevjs/slidev">slidevjs/slidev</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Presentation Slides for Developers</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>markdown</code> <code>presentation</code> <code>slides</code> <code>vite</code> <code>vue</code> <code>vueuse</code></small><br/><br/>
 <span>
-<a href="https://github.com/slidevjs/slidev/stargazers"><img src="https://img.shields.io/github/stars/slidevjs/slidev?style=flat-square&labelColor=343b41" alt="Stars: 49383"></a>
+<a href="https://github.com/slidevjs/slidev/stargazers"><img src="https://img.shields.io/github/stars/slidevjs/slidev?style=flat-square&labelColor=343b41" alt="Stars: 49384"></a>
 <a href="https://github.com/slidevjs/slidev/network/members"><img src="https://img.shields.io/github/forks/slidevjs/slidev?style=flat-square&labelColor=343b41" alt="Forks: 2270"></a>
 </span>
 </div><br/>
@@ -61,8 +61,8 @@
 <img src="https://avatars.githubusercontent.com/u/107882187?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/hyprwm/Hyprland">hyprwm/Hyprland</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.</em><br/><small><code>C++</code> &nbsp;•&nbsp; ⚖️ BSD-3-Clause &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>compositor</code> <code>cpp26</code> <code>wayland</code> <code>wayland-compositor</code></small><br/><br/>
 <span>
-<a href="https://github.com/hyprwm/Hyprland/stargazers"><img src="https://img.shields.io/github/stars/hyprwm/Hyprland?style=flat-square&labelColor=343b41" alt="Stars: 40389"></a>
-<a href="https://github.com/hyprwm/Hyprland/network/members"><img src="https://img.shields.io/github/forks/hyprwm/Hyprland?style=flat-square&labelColor=343b41" alt="Forks: 2168"></a>
+<a href="https://github.com/hyprwm/Hyprland/stargazers"><img src="https://img.shields.io/github/stars/hyprwm/Hyprland?style=flat-square&labelColor=343b41" alt="Stars: 40391"></a>
+<a href="https://github.com/hyprwm/Hyprland/network/members"><img src="https://img.shields.io/github/forks/hyprwm/Hyprland?style=flat-square&labelColor=343b41" alt="Forks: 2169"></a>
 </span>
 </div><br/>
 
@@ -70,7 +70,7 @@
 <img src="https://avatars.githubusercontent.com/u/776747?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/nicolargo/glances">nicolargo/glances</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>monitoring</code> <code>multi-platform</code> <code>python</code> <code>restful</code> <code>restful-api</code> <code>system</code></small><br/><br/>
 <span>
-<a href="https://github.com/nicolargo/glances/stargazers"><img src="https://img.shields.io/github/stars/nicolargo/glances?style=flat-square&labelColor=343b41" alt="Stars: 33907"></a>
+<a href="https://github.com/nicolargo/glances/stargazers"><img src="https://img.shields.io/github/stars/nicolargo/glances?style=flat-square&labelColor=343b41" alt="Stars: 33906"></a>
 <a href="https://github.com/nicolargo/glances/network/members"><img src="https://img.shields.io/github/forks/nicolargo/glances?style=flat-square&labelColor=343b41" alt="Forks: 1844"></a>
 </span>
 </div><br/>
@@ -79,7 +79,7 @@
 <img src="https://avatars.githubusercontent.com/u/259576467?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/niri-wm/niri">niri-wm/niri</a> 🔥🔥🔥</strong> <br/><br/>
 <em>A scrollable-tiling Wayland compositor.</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ GPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>rust</code> <code>smithay</code> <code>tiling-window-manager</code> <code>wayland</code> <code>wayland-compositor</code></small><br/><br/>
 <span>
-<a href="https://github.com/niri-wm/niri/stargazers"><img src="https://img.shields.io/github/stars/niri-wm/niri?style=flat-square&labelColor=343b41" alt="Stars: 28921"></a>
+<a href="https://github.com/niri-wm/niri/stargazers"><img src="https://img.shields.io/github/stars/niri-wm/niri?style=flat-square&labelColor=343b41" alt="Stars: 28923"></a>
 <a href="https://github.com/niri-wm/niri/network/members"><img src="https://img.shields.io/github/forks/niri-wm/niri?style=flat-square&labelColor=343b41" alt="Forks: 1257"></a>
 </span>
 </div><br/>
@@ -97,8 +97,8 @@
 <img src="https://avatars.githubusercontent.com/u/151241629?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/CapSoftware/Cap">CapSoftware/Cap</a> 🔥🔥</strong> <br/><br/>
 <em>Open source Loom alternative. Beautiful, shareable screen recordings.</em><br/><small><code>Rust</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>app</code> <code>cap</code> <code>coss</code> <code>loom</code> <code>mac</code> <code>nextjs</code></small><br/><br/>
 <span>
-<a href="https://github.com/CapSoftware/Cap/stargazers"><img src="https://img.shields.io/github/stars/CapSoftware/Cap?style=flat-square&labelColor=343b41" alt="Stars: 24463"></a>
-<a href="https://github.com/CapSoftware/Cap/network/members"><img src="https://img.shields.io/github/forks/CapSoftware/Cap?style=flat-square&labelColor=343b41" alt="Forks: 2261"></a>
+<a href="https://github.com/CapSoftware/Cap/stargazers"><img src="https://img.shields.io/github/stars/CapSoftware/Cap?style=flat-square&labelColor=343b41" alt="Stars: 24470"></a>
+<a href="https://github.com/CapSoftware/Cap/network/members"><img src="https://img.shields.io/github/forks/CapSoftware/Cap?style=flat-square&labelColor=343b41" alt="Forks: 2262"></a>
 </span>
 </div><br/>
 
@@ -134,7 +134,7 @@
 <em>The fastest way to create an HTML app</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><br/>
 <span>
 <a href="https://github.com/AnswerDotAI/fasthtml/stargazers"><img src="https://img.shields.io/github/stars/AnswerDotAI/fasthtml?style=flat-square&labelColor=343b41" alt="Stars: 7061"></a>
-<a href="https://github.com/AnswerDotAI/fasthtml/network/members"><img src="https://img.shields.io/github/forks/AnswerDotAI/fasthtml?style=flat-square&labelColor=343b41" alt="Forks: 326"></a>
+<a href="https://github.com/AnswerDotAI/fasthtml/network/members"><img src="https://img.shields.io/github/forks/AnswerDotAI/fasthtml?style=flat-square&labelColor=343b41" alt="Forks: 325"></a>
 </span>
 </div><br/>
 

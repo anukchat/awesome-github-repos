@@ -28,8 +28,8 @@
 <img src="https://avatars.githubusercontent.com/u/188446108?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/docling-project/docling">docling-project/docling</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Get your documents ready for gen AI</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>ai</code> <code>convert</code> <code>document-parser</code> <code>document-parsing</code> <code>documents</code> <code>docx</code></small><br/><br/>
 <span>
-<a href="https://github.com/docling-project/docling/stargazers"><img src="https://img.shields.io/github/stars/docling-project/docling?style=flat-square&labelColor=343b41" alt="Stars: 70184"></a>
-<a href="https://github.com/docling-project/docling/network/members"><img src="https://img.shields.io/github/forks/docling-project/docling?style=flat-square&labelColor=343b41" alt="Forks: 5271"></a>
+<a href="https://github.com/docling-project/docling/stargazers"><img src="https://img.shields.io/github/stars/docling-project/docling?style=flat-square&labelColor=343b41" alt="Stars: 70187"></a>
+<a href="https://github.com/docling-project/docling/network/members"><img src="https://img.shields.io/github/forks/docling-project/docling?style=flat-square&labelColor=343b41" alt="Forks: 5272"></a>
 </span>
 </div><br/>
 
@@ -65,7 +65,7 @@
 <em>A system for agentic LLM-powered data processing and ETL</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-10-30</small><br/><small>🏷️ <code>agents</code> <code>data</code> <code>data-pipelines</code> <code>document-analysis</code> <code>document-processing</code> <code>elt</code></small><br/><br/>
 <span>
 <a href="https://github.com/ucbepic/docetl/stargazers"><img src="https://img.shields.io/github/stars/ucbepic/docetl?style=flat-square&labelColor=343b41" alt="Stars: 4204"></a>
-<a href="https://github.com/ucbepic/docetl/network/members"><img src="https://img.shields.io/github/forks/ucbepic/docetl?style=flat-square&labelColor=343b41" alt="Forks: 464"></a>
+<a href="https://github.com/ucbepic/docetl/network/members"><img src="https://img.shields.io/github/forks/ucbepic/docetl?style=flat-square&labelColor=343b41" alt="Forks: 465"></a>
 </span>
 </div><br/>
 

@@ -38,8 +38,8 @@
 <img src="https://avatars.githubusercontent.com/u/109746326?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/immich-app/immich">immich-app/immich</a> 🔥🔥🔥</strong> <br/><br/>
 <em>High performance self-hosted photo and video management solution.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>backup-tool</code> <code>flutter</code> <code>google-photos</code> <code>google-photos-alternative</code> <code>javascript</code> <code>mobile-app</code></small><br/><br/>
 <span>
-<a href="https://github.com/immich-app/immich/stargazers"><img src="https://img.shields.io/github/stars/immich-app/immich?style=flat-square&labelColor=343b41" alt="Stars: 118364"></a>
-<a href="https://github.com/immich-app/immich/network/members"><img src="https://img.shields.io/github/forks/immich-app/immich?style=flat-square&labelColor=343b41" alt="Forks: 7499"></a>
+<a href="https://github.com/immich-app/immich/stargazers"><img src="https://img.shields.io/github/stars/immich-app/immich?style=flat-square&labelColor=343b41" alt="Stars: 118367"></a>
+<a href="https://github.com/immich-app/immich/network/members"><img src="https://img.shields.io/github/forks/immich-app/immich?style=flat-square&labelColor=343b41" alt="Forks: 7500"></a>
 </span>
 </div><br/>
 
@@ -47,7 +47,7 @@
 <img src="https://avatars.githubusercontent.com/u/10349437?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/bregman-arie/devops-exercises">bregman-arie/devops-exercises</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2025-12-27</small><br/><small>🏷️ <code>ansible</code> <code>aws</code> <code>azure</code> <code>coding</code> <code>containers</code> <code>devops</code></small><br/><br/>
 <span>
-<a href="https://github.com/bregman-arie/devops-exercises/stargazers"><img src="https://img.shields.io/github/stars/bregman-arie/devops-exercises?style=flat-square&labelColor=343b41" alt="Stars: 86548"></a>
+<a href="https://github.com/bregman-arie/devops-exercises/stargazers"><img src="https://img.shields.io/github/stars/bregman-arie/devops-exercises?style=flat-square&labelColor=343b41" alt="Stars: 86550"></a>
 <a href="https://github.com/bregman-arie/devops-exercises/network/members"><img src="https://img.shields.io/github/forks/bregman-arie/devops-exercises?style=flat-square&labelColor=343b41" alt="Forks: 20607"></a>
 </span>
 </div><br/>
@@ -56,8 +56,8 @@
 <img src="https://avatars.githubusercontent.com/u/60715044?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/coollabsio/coolify">coollabsio/coolify</a> 🔥🔥🔥</strong> <br/><br/>
 <em>An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.</em><br/><small><code>PHP</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>coolify</code> <code>databases</code> <code>deployment</code> <code>docker</code> <code>docker-compose</code> <code>inertiajs</code></small><br/><br/>
 <span>
-<a href="https://github.com/coollabsio/coolify/stargazers"><img src="https://img.shields.io/github/stars/coollabsio/coolify?style=flat-square&labelColor=343b41" alt="Stars: 65693"></a>
-<a href="https://github.com/coollabsio/coolify/network/members"><img src="https://img.shields.io/github/forks/coollabsio/coolify?style=flat-square&labelColor=343b41" alt="Forks: 5936"></a>
+<a href="https://github.com/coollabsio/coolify/stargazers"><img src="https://img.shields.io/github/stars/coollabsio/coolify?style=flat-square&labelColor=343b41" alt="Stars: 65694"></a>
+<a href="https://github.com/coollabsio/coolify/network/members"><img src="https://img.shields.io/github/forks/coollabsio/coolify?style=flat-square&labelColor=343b41" alt="Forks: 5937"></a>
 </span>
 </div><br/>
 
@@ -65,7 +65,7 @@
 <img src="https://avatars.githubusercontent.com/u/28732122?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/localstack/localstack">localstack/localstack</a> 🔥🔥🔥</strong> <code>⚠️ Archived</code><br/><br/>
 <em>💻 A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-03-23</small><br/><small>🏷️ <code>aws</code> <code>cloud</code> <code>continuous-integration</code> <code>developer-tools</code> <code>localstack</code> <code>python</code></small><br/><br/>
 <span>
-<a href="https://github.com/localstack/localstack/stargazers"><img src="https://img.shields.io/github/stars/localstack/localstack?style=flat-square&labelColor=343b41" alt="Stars: 65123"></a>
+<a href="https://github.com/localstack/localstack/stargazers"><img src="https://img.shields.io/github/stars/localstack/localstack?style=flat-square&labelColor=343b41" alt="Stars: 65124"></a>
 <a href="https://github.com/localstack/localstack/network/members"><img src="https://img.shields.io/github/forks/localstack/localstack?style=flat-square&labelColor=343b41" alt="Forks: 4833"></a>
 </span>
 </div><br/>
@@ -74,7 +74,7 @@
 <img src="https://avatars.githubusercontent.com/u/162823259?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/exo-explore/exo">exo-explore/exo</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Run frontier AI locally.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><br/>
 <span>
-<a href="https://github.com/exo-explore/exo/stargazers"><img src="https://img.shields.io/github/stars/exo-explore/exo?style=flat-square&labelColor=343b41" alt="Stars: 48207"></a>
+<a href="https://github.com/exo-explore/exo/stargazers"><img src="https://img.shields.io/github/stars/exo-explore/exo?style=flat-square&labelColor=343b41" alt="Stars: 48208"></a>
 <a href="https://github.com/exo-explore/exo/network/members"><img src="https://img.shields.io/github/forks/exo-explore/exo?style=flat-square&labelColor=343b41" alt="Forks: 3598"></a>
 </span>
 </div><br/>
@@ -83,8 +83,8 @@
 <img src="https://avatars.githubusercontent.com/u/245328954?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/reactive-resume/reactive-resume">reactive-resume/reactive-resume</a> 🔥🔥🔥</strong> <br/><br/>
 <em>A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>agent-skills</code> <code>ai</code> <code>dsh-plugin</code> <code>hacktoberfest</code> <code>javascript</code> <code>mcp-server</code></small><br/><br/>
 <span>
-<a href="https://github.com/reactive-resume/reactive-resume/stargazers"><img src="https://img.shields.io/github/stars/reactive-resume/reactive-resume?style=flat-square&labelColor=343b41" alt="Stars: 45405"></a>
-<a href="https://github.com/reactive-resume/reactive-resume/network/members"><img src="https://img.shields.io/github/forks/reactive-resume/reactive-resume?style=flat-square&labelColor=343b41" alt="Forks: 4926"></a>
+<a href="https://github.com/reactive-resume/reactive-resume/stargazers"><img src="https://img.shields.io/github/stars/reactive-resume/reactive-resume?style=flat-square&labelColor=343b41" alt="Stars: 45409"></a>
+<a href="https://github.com/reactive-resume/reactive-resume/network/members"><img src="https://img.shields.io/github/forks/reactive-resume/reactive-resume?style=flat-square&labelColor=343b41" alt="Forks: 4927"></a>
 </span>
 </div><br/>
 
@@ -92,8 +92,8 @@
 <img src="https://avatars.githubusercontent.com/u/23416667?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/chatwoot/chatwoot">chatwoot/chatwoot</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬</em><br/><small><code>Ruby</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>actioncable</code> <code>chat-widget</code> <code>conversation</code> <code>customer-support</code> <code>dashboard</code> <code>design</code></small><br/><br/>
 <span>
-<a href="https://github.com/chatwoot/chatwoot/stargazers"><img src="https://img.shields.io/github/stars/chatwoot/chatwoot?style=flat-square&labelColor=343b41" alt="Stars: 38967"></a>
-<a href="https://github.com/chatwoot/chatwoot/network/members"><img src="https://img.shields.io/github/forks/chatwoot/chatwoot?style=flat-square&labelColor=343b41" alt="Forks: 9483"></a>
+<a href="https://github.com/chatwoot/chatwoot/stargazers"><img src="https://img.shields.io/github/stars/chatwoot/chatwoot?style=flat-square&labelColor=343b41" alt="Stars: 38970"></a>
+<a href="https://github.com/chatwoot/chatwoot/network/members"><img src="https://img.shields.io/github/forks/chatwoot/chatwoot?style=flat-square&labelColor=343b41" alt="Forks: 9484"></a>
 </span>
 </div><br/>
 
@@ -119,7 +119,7 @@
 <img src="https://avatars.githubusercontent.com/u/202258986?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/karakeep-app/karakeep">karakeep-app/karakeep</a> 🔥🔥🔥</strong> <br/><br/>
 <em>A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-04</small><br/><small>🏷️ <code>bookmark-manager</code> <code>bookmarks</code> <code>bookmarks-manager</code> <code>nextjs</code> <code>react-native</code> <code>read-it-later</code></small><br/><br/>
 <span>
-<a href="https://github.com/karakeep-app/karakeep/stargazers"><img src="https://img.shields.io/github/stars/karakeep-app/karakeep?style=flat-square&labelColor=343b41" alt="Stars: 30334"></a>
+<a href="https://github.com/karakeep-app/karakeep/stargazers"><img src="https://img.shields.io/github/stars/karakeep-app/karakeep?style=flat-square&labelColor=343b41" alt="Stars: 30335"></a>
 <a href="https://github.com/karakeep-app/karakeep/network/members"><img src="https://img.shields.io/github/forks/karakeep-app/karakeep?style=flat-square&labelColor=343b41" alt="Forks: 1619"></a>
 </span>
 </div><br/>
@@ -137,8 +137,8 @@
 <img src="https://avatars.githubusercontent.com/u/69631?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/meta/astryx">meta/astryx</a> 🔥🔥</strong> <br/><br/>
 <em>An open source design system that's fully customizable and agent ready</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><br/>
 <span>
-<a href="https://github.com/meta/astryx/stargazers"><img src="https://img.shields.io/github/stars/meta/astryx?style=flat-square&labelColor=343b41" alt="Stars: 13988"></a>
-<a href="https://github.com/meta/astryx/network/members"><img src="https://img.shields.io/github/forks/meta/astryx?style=flat-square&labelColor=343b41" alt="Forks: 1160"></a>
+<a href="https://github.com/meta/astryx/stargazers"><img src="https://img.shields.io/github/stars/meta/astryx?style=flat-square&labelColor=343b41" alt="Stars: 13999"></a>
+<a href="https://github.com/meta/astryx/network/members"><img src="https://img.shields.io/github/forks/meta/astryx?style=flat-square&labelColor=343b41" alt="Forks: 1161"></a>
 </span>
 </div><br/>
 

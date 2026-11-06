@@ -21,7 +21,7 @@
 <em>Build AI Agents, Visually</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-08-13</small><br/><small>🏷️ <code>agentic-ai</code> <code>agentic-workflow</code> <code>agents</code> <code>artificial-intelligence</code> <code>chatbot</code> <code>chatgpt</code></small><br/><br/>
 <span>
 <a href="https://github.com/FlowiseAI/Flowise/stargazers"><img src="https://img.shields.io/github/stars/FlowiseAI/Flowise?style=flat-square&labelColor=343b41" alt="Stars: 55556"></a>
-<a href="https://github.com/FlowiseAI/Flowise/network/members"><img src="https://img.shields.io/github/forks/FlowiseAI/Flowise?style=flat-square&labelColor=343b41" alt="Forks: 25086"></a>
+<a href="https://github.com/FlowiseAI/Flowise/network/members"><img src="https://img.shields.io/github/forks/FlowiseAI/Flowise?style=flat-square&labelColor=343b41" alt="Forks: 25087"></a>
 </span>
 </div><br/>
 
@@ -39,7 +39,7 @@
 <em>The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.</em><br/><small>⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-10-12</small><br/><small>🏷️ <code>ai</code> <code>ai-agents</code> <code>low-code</code> <code>self-hosted</code> <code>starter-kit</code></small><br/><br/>
 <span>
 <a href="https://github.com/n8n-io/self-hosted-ai-starter-kit/stargazers"><img src="https://img.shields.io/github/stars/n8n-io/self-hosted-ai-starter-kit?style=flat-square&labelColor=343b41" alt="Stars: 15331"></a>
-<a href="https://github.com/n8n-io/self-hosted-ai-starter-kit/network/members"><img src="https://img.shields.io/github/forks/n8n-io/self-hosted-ai-starter-kit?style=flat-square&labelColor=343b41" alt="Forks: 3809"></a>
+<a href="https://github.com/n8n-io/self-hosted-ai-starter-kit/network/members"><img src="https://img.shields.io/github/forks/n8n-io/self-hosted-ai-starter-kit?style=flat-square&labelColor=343b41" alt="Forks: 3810"></a>
 </span>
 </div><br/>
 

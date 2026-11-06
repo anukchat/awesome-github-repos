@@ -25,8 +25,8 @@
 <img src="https://avatars.githubusercontent.com/u/2934394?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/ruvnet/RuView">ruvnet/RuView</a> 🔥🔥🔥</strong> <br/><br/>
 <em>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>awesome</code> <code>claude</code> <code>densepose</code> <code>esp32</code> <code>firmware</code> <code>home-assistant</code></small><br/><br/>
 <span>
-<a href="https://github.com/ruvnet/RuView/stargazers"><img src="https://img.shields.io/github/stars/ruvnet/RuView?style=flat-square&labelColor=343b41" alt="Stars: 102620"></a>
-<a href="https://github.com/ruvnet/RuView/network/members"><img src="https://img.shields.io/github/forks/ruvnet/RuView?style=flat-square&labelColor=343b41" alt="Forks: 13315"></a>
+<a href="https://github.com/ruvnet/RuView/stargazers"><img src="https://img.shields.io/github/stars/ruvnet/RuView?style=flat-square&labelColor=343b41" alt="Stars: 102625"></a>
+<a href="https://github.com/ruvnet/RuView/network/members"><img src="https://img.shields.io/github/forks/ruvnet/RuView?style=flat-square&labelColor=343b41" alt="Forks: 13317"></a>
 </span>
 </div><br/>
 

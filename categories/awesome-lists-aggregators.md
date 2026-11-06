@@ -9,7 +9,7 @@
 | Repository | Stars | Language | Updated | Description |
 | :--- | ---: | :--- | :--- | :--- |
 | [**sindresorhus/awesome**](https://github.com/sindresorhus/awesome) | ⭐ 532k | — | 2026-09-02 | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are tempo... |
-| [**public-apis/public-apis**](https://github.com/public-apis/public-apis) | ⭐ 496k | Python | 2026-11-05 | A collective list of free APIs |
+| [**public-apis/public-apis**](https://github.com/public-apis/public-apis) | ⭐ 497k | Python | 2026-11-05 | A collective list of free APIs |
 | [**awesome-selfhosted/awesome-selfhosted**](https://github.com/awesome-selfhosted/awesome-selfhosted) | ⭐ 334k | — | 2026-11-02 | A list of Free Software network services and web applications which can be hosted on... |
 | [**vinta/awesome-python**](https://github.com/vinta/awesome-python) | ⭐ 333k | Python | 2026-11-06 | The definitive list that answers &quot;I want to do X in Python, which tool should I use?&quot; |
 | [**trimstray/the-book-of-secret-knowledge**](https://github.com/trimstray/the-book-of-secret-knowledge) | ⭐ 256k | — | 2024-11-19 | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/... |
@@ -68,8 +68,8 @@
 <img src="https://avatars.githubusercontent.com/u/170270?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/sindresorhus/awesome">sindresorhus/awesome</a> 🔥🔥🔥</strong> <br/><br/>
 <em>😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]</em><br/><small>⚖️ CC0-1.0 &nbsp;•&nbsp; 🕒 Updated 2026-09-02</small><br/><small>🏷️ <code>awesome</code> <code>awesome-list</code> <code>lists</code> <code>resources</code> <code>unicorns</code></small><br/><br/>
 <span>
-<a href="https://github.com/sindresorhus/awesome/stargazers"><img src="https://img.shields.io/github/stars/sindresorhus/awesome?style=flat-square&labelColor=343b41" alt="Stars: 531947"></a>
-<a href="https://github.com/sindresorhus/awesome/network/members"><img src="https://img.shields.io/github/forks/sindresorhus/awesome?style=flat-square&labelColor=343b41" alt="Forks: 38125"></a>
+<a href="https://github.com/sindresorhus/awesome/stargazers"><img src="https://img.shields.io/github/stars/sindresorhus/awesome?style=flat-square&labelColor=343b41" alt="Stars: 531979"></a>
+<a href="https://github.com/sindresorhus/awesome/network/members"><img src="https://img.shields.io/github/forks/sindresorhus/awesome?style=flat-square&labelColor=343b41" alt="Forks: 38126"></a>
 </span>
 </div><br/>
 
@@ -77,8 +77,8 @@
 <img src="https://avatars.githubusercontent.com/u/51121562?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/public-apis/public-apis">public-apis/public-apis</a> 🔥🔥🔥</strong> <br/><br/>
 <em>A collective list of free APIs</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>api</code> <code>apis</code> <code>dataset</code> <code>development</code> <code>free</code> <code>list</code></small><br/><br/>
 <span>
-<a href="https://github.com/public-apis/public-apis/stargazers"><img src="https://img.shields.io/github/stars/public-apis/public-apis?style=flat-square&labelColor=343b41" alt="Stars: 496494"></a>
-<a href="https://github.com/public-apis/public-apis/network/members"><img src="https://img.shields.io/github/forks/public-apis/public-apis?style=flat-square&labelColor=343b41" alt="Forks: 55467"></a>
+<a href="https://github.com/public-apis/public-apis/stargazers"><img src="https://img.shields.io/github/stars/public-apis/public-apis?style=flat-square&labelColor=343b41" alt="Stars: 496509"></a>
+<a href="https://github.com/public-apis/public-apis/network/members"><img src="https://img.shields.io/github/forks/public-apis/public-apis?style=flat-square&labelColor=343b41" alt="Forks: 55470"></a>
 </span>
 </div><br/>
 
@@ -86,8 +86,8 @@
 <img src="https://avatars.githubusercontent.com/u/24270415?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/awesome-selfhosted/awesome-selfhosted">awesome-selfhosted/awesome-selfhosted</a> 🔥🔥🔥</strong> <br/><br/>
 <em>A list of Free Software network services and web applications which can be hosted on your own servers</em><br/><small>🕒 Updated 2026-11-02</small><br/><small>🏷️ <code>awesome</code> <code>awesome-list</code> <code>cloud</code> <code>free-software</code> <code>hosting</code> <code>privacy</code></small><br/><br/>
 <span>
-<a href="https://github.com/awesome-selfhosted/awesome-selfhosted/stargazers"><img src="https://img.shields.io/github/stars/awesome-selfhosted/awesome-selfhosted?style=flat-square&labelColor=343b41" alt="Stars: 334205"></a>
-<a href="https://github.com/awesome-selfhosted/awesome-selfhosted/network/members"><img src="https://img.shields.io/github/forks/awesome-selfhosted/awesome-selfhosted?style=flat-square&labelColor=343b41" alt="Forks: 15731"></a>
+<a href="https://github.com/awesome-selfhosted/awesome-selfhosted/stargazers"><img src="https://img.shields.io/github/stars/awesome-selfhosted/awesome-selfhosted?style=flat-square&labelColor=343b41" alt="Stars: 334232"></a>
+<a href="https://github.com/awesome-selfhosted/awesome-selfhosted/network/members"><img src="https://img.shields.io/github/forks/awesome-selfhosted/awesome-selfhosted?style=flat-square&labelColor=343b41" alt="Forks: 15732"></a>
 </span>
 </div><br/>
 
@@ -95,7 +95,7 @@
 <img src="https://avatars.githubusercontent.com/u/652070?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/vinta/awesome-python">vinta/awesome-python</a> 🔥🔥🔥</strong> <br/><br/>
 <em>The definitive list that answers &quot;I want to do X in Python, which tool should I use?&quot;</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>awesome</code> <code>awesome-list</code> <code>python</code> <code>python-frameworks</code> <code>python-libraries</code> <code>python-tools</code></small><br/><br/>
 <span>
-<a href="https://github.com/vinta/awesome-python/stargazers"><img src="https://img.shields.io/github/stars/vinta/awesome-python?style=flat-square&labelColor=343b41" alt="Stars: 332830"></a>
+<a href="https://github.com/vinta/awesome-python/stargazers"><img src="https://img.shields.io/github/stars/vinta/awesome-python?style=flat-square&labelColor=343b41" alt="Stars: 332836"></a>
 <a href="https://github.com/vinta/awesome-python/network/members"><img src="https://img.shields.io/github/forks/vinta/awesome-python?style=flat-square&labelColor=343b41" alt="Forks: 29054"></a>
 </span>
 </div><br/>
@@ -104,7 +104,7 @@
 <img src="https://avatars.githubusercontent.com/u/31127917?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/trimstray/the-book-of-secret-knowledge">trimstray/the-book-of-secret-knowledge</a> 🔥🔥🔥</strong> <br/><br/>
 <em>A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.</em><br/><small>⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2024-11-19</small><br/><small>🏷️ <code>awesome</code> <code>awesome-list</code> <code>bsd</code> <code>cheatsheets</code> <code>devops</code> <code>guidelines</code></small><br/><br/>
 <span>
-<a href="https://github.com/trimstray/the-book-of-secret-knowledge/stargazers"><img src="https://img.shields.io/github/stars/trimstray/the-book-of-secret-knowledge?style=flat-square&labelColor=343b41" alt="Stars: 256213"></a>
+<a href="https://github.com/trimstray/the-book-of-secret-knowledge/stargazers"><img src="https://img.shields.io/github/stars/trimstray/the-book-of-secret-knowledge?style=flat-square&labelColor=343b41" alt="Stars: 256218"></a>
 <a href="https://github.com/trimstray/the-book-of-secret-knowledge/network/members"><img src="https://img.shields.io/github/forks/trimstray/the-book-of-secret-knowledge?style=flat-square&labelColor=343b41" alt="Forks: 14794"></a>
 </span>
 </div><br/>
@@ -114,7 +114,7 @@
 <em>FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models</em><br/><small>⚖️ GPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-10-12</small><br/><small>🏷️ <code>ai</code> <code>bolt</code> <code>cluely</code> <code>copilot</code> <code>cursor</code> <code>cursorai</code></small><br/><br/>
 <span>
 <a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/stargazers"><img src="https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=flat-square&labelColor=343b41" alt="Stars: 144509"></a>
-<a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/network/members"><img src="https://img.shields.io/github/forks/x1xhlol/system-prompts-and-models-of-ai-tools?style=flat-square&labelColor=343b41" alt="Forks: 34697"></a>
+<a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/network/members"><img src="https://img.shields.io/github/forks/x1xhlol/system-prompts-and-models-of-ai-tools?style=flat-square&labelColor=343b41" alt="Forks: 34696"></a>
 </span>
 </div><br/>
 
@@ -122,7 +122,7 @@
 <img src="https://avatars.githubusercontent.com/u/31396011?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Shubhamsaboo/awesome-llm-apps">Shubhamsaboo/awesome-llm-apps</a> 🔥🔥🔥</strong> <br/><br/>
 <em>100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>agents</code> <code>llms</code> <code>python</code> <code>rag</code></small><br/><br/>
 <span>
-<a href="https://github.com/Shubhamsaboo/awesome-llm-apps/stargazers"><img src="https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps?style=flat-square&labelColor=343b41" alt="Stars: 143990"></a>
+<a href="https://github.com/Shubhamsaboo/awesome-llm-apps/stargazers"><img src="https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps?style=flat-square&labelColor=343b41" alt="Stars: 143992"></a>
 <a href="https://github.com/Shubhamsaboo/awesome-llm-apps/network/members"><img src="https://img.shields.io/github/forks/Shubhamsaboo/awesome-llm-apps?style=flat-square&labelColor=343b41" alt="Forks: 21189"></a>
 </span>
 </div><br/>
@@ -131,8 +131,8 @@
 <img src="https://avatars.githubusercontent.com/u/1680273?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/jaywcjlove/awesome-mac">jaywcjlove/awesome-mac</a> 🔥🔥🔥</strong> <br/><br/>
 <em> This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.</em><br/><small><code>Swift</code> &nbsp;•&nbsp; ⚖️ CC0-1.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>app</code> <code>apple</code> <code>application</code> <code>apps</code> <code>awesome</code> <code>awesome-list</code></small><br/><br/>
 <span>
-<a href="https://github.com/jaywcjlove/awesome-mac/stargazers"><img src="https://img.shields.io/github/stars/jaywcjlove/awesome-mac?style=flat-square&labelColor=343b41" alt="Stars: 117829"></a>
-<a href="https://github.com/jaywcjlove/awesome-mac/network/members"><img src="https://img.shields.io/github/forks/jaywcjlove/awesome-mac?style=flat-square&labelColor=343b41" alt="Forks: 10035"></a>
+<a href="https://github.com/jaywcjlove/awesome-mac/stargazers"><img src="https://img.shields.io/github/stars/jaywcjlove/awesome-mac?style=flat-square&labelColor=343b41" alt="Stars: 117833"></a>
+<a href="https://github.com/jaywcjlove/awesome-mac/network/members"><img src="https://img.shields.io/github/forks/jaywcjlove/awesome-mac?style=flat-square&labelColor=343b41" alt="Forks: 10037"></a>
 </span>
 </div><br/>
 
@@ -140,7 +140,7 @@
 <img src="https://avatars.githubusercontent.com/u/201282378?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/VoltAgent/awesome-openclaw-skills">VoltAgent/awesome-openclaw-skills</a> 🔥🔥🔥</strong> <br/><br/>
 <em>The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞</em><br/><small>⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-10-30</small><br/><small>🏷️ <code>agent-skills</code> <code>awesome</code> <code>awesome-list</code> <code>awesome-lists</code> <code>clawd</code> <code>clawdbot</code></small><br/><br/>
 <span>
-<a href="https://github.com/VoltAgent/awesome-openclaw-skills/stargazers"><img src="https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=flat-square&labelColor=343b41" alt="Stars: 53572"></a>
+<a href="https://github.com/VoltAgent/awesome-openclaw-skills/stargazers"><img src="https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=flat-square&labelColor=343b41" alt="Stars: 53574"></a>
 <a href="https://github.com/VoltAgent/awesome-openclaw-skills/network/members"><img src="https://img.shields.io/github/forks/VoltAgent/awesome-openclaw-skills?style=flat-square&labelColor=343b41" alt="Forks: 5070"></a>
 </span>
 </div><br/>
@@ -158,7 +158,7 @@
 <img src="https://avatars.githubusercontent.com/u/1016365?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/PatrickJS/awesome-cursorrules">PatrickJS/awesome-cursorrules</a> 🔥🔥🔥</strong> <br/><br/>
 <em>📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; ⚖️ CC0-1.0 &nbsp;•&nbsp; 🕒 Updated 2026-05-30</small><br/><small>🏷️ <code>awesome</code> <code>awesome-list</code> <code>cursor</code> <code>cursor-ai-editor</code> <code>cursorrules</code></small><br/><br/>
 <span>
-<a href="https://github.com/PatrickJS/awesome-cursorrules/stargazers"><img src="https://img.shields.io/github/stars/PatrickJS/awesome-cursorrules?style=flat-square&labelColor=343b41" alt="Stars: 41112"></a>
+<a href="https://github.com/PatrickJS/awesome-cursorrules/stargazers"><img src="https://img.shields.io/github/stars/PatrickJS/awesome-cursorrules?style=flat-square&labelColor=343b41" alt="Stars: 41111"></a>
 <a href="https://github.com/PatrickJS/awesome-cursorrules/network/members"><img src="https://img.shields.io/github/forks/PatrickJS/awesome-cursorrules?style=flat-square&labelColor=343b41" alt="Forks: 3548"></a>
 </span>
 </div><br/>
@@ -167,7 +167,7 @@
 <img src="https://avatars.githubusercontent.com/u/1356007?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/kilimchoi/engineering-blogs">kilimchoi/engineering-blogs</a> 🔥🔥🔥</strong> <br/><br/>
 <em>A curated list of engineering blogs</em><br/><small><code>Ruby</code> &nbsp;•&nbsp; 🕒 Updated 2024-08-21</small><br/><small>🏷️ <code>engineering-blogs</code> <code>lists</code> <code>programming-blogs</code> <code>software-development</code> <code>tech</code></small><br/><br/>
 <span>
-<a href="https://github.com/kilimchoi/engineering-blogs/stargazers"><img src="https://img.shields.io/github/stars/kilimchoi/engineering-blogs?style=flat-square&labelColor=343b41" alt="Stars: 38868"></a>
+<a href="https://github.com/kilimchoi/engineering-blogs/stargazers"><img src="https://img.shields.io/github/stars/kilimchoi/engineering-blogs?style=flat-square&labelColor=343b41" alt="Stars: 38869"></a>
 <a href="https://github.com/kilimchoi/engineering-blogs/network/members"><img src="https://img.shields.io/github/forks/kilimchoi/engineering-blogs?style=flat-square&labelColor=343b41" alt="Forks: 2062"></a>
 </span>
 </div><br/>
@@ -194,7 +194,7 @@
 <img src="https://avatars.githubusercontent.com/u/129434473?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/e2b-dev/awesome-ai-agents">e2b-dev/awesome-ai-agents</a> 🔥🔥🔥</strong> <br/><br/>
 <em>A list of AI autonomous agents</em><br/><small>🕒 Updated 2026-08-21</small><br/><small>🏷️ <code>agent</code> <code>ai</code> <code>artificial-intelligence</code> <code>autogpt</code> <code>autonomous-agents</code> <code>awesome</code></small><br/><br/>
 <span>
-<a href="https://github.com/e2b-dev/awesome-ai-agents/stargazers"><img src="https://img.shields.io/github/stars/e2b-dev/awesome-ai-agents?style=flat-square&labelColor=343b41" alt="Stars: 30812"></a>
+<a href="https://github.com/e2b-dev/awesome-ai-agents/stargazers"><img src="https://img.shields.io/github/stars/e2b-dev/awesome-ai-agents?style=flat-square&labelColor=343b41" alt="Stars: 30813"></a>
 <a href="https://github.com/e2b-dev/awesome-ai-agents/network/members"><img src="https://img.shields.io/github/forks/e2b-dev/awesome-ai-agents?style=flat-square&labelColor=343b41" alt="Forks: 3771"></a>
 </span>
 </div><br/>
@@ -212,7 +212,7 @@
 <img src="https://avatars.githubusercontent.com/u/7767579?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/ChristosChristofidis/awesome-deep-learning">ChristosChristofidis/awesome-deep-learning</a> 🔥🔥🔥</strong> <br/><br/>
 <em>A curated list of awesome Deep Learning tutorials, projects and communities.</em><br/><small>🕒 Updated 2025-05-26</small><br/><small>🏷️ <code>awesome</code> <code>awesome-list</code> <code>deep-learning</code> <code>deep-learning-tutorial</code> <code>deep-networks</code> <code>face-images</code></small><br/><br/>
 <span>
-<a href="https://github.com/ChristosChristofidis/awesome-deep-learning/stargazers"><img src="https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning?style=flat-square&labelColor=343b41" alt="Stars: 29146"></a>
+<a href="https://github.com/ChristosChristofidis/awesome-deep-learning/stargazers"><img src="https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning?style=flat-square&labelColor=343b41" alt="Stars: 29147"></a>
 <a href="https://github.com/ChristosChristofidis/awesome-deep-learning/network/members"><img src="https://img.shields.io/github/forks/ChristosChristofidis/awesome-deep-learning?style=flat-square&labelColor=343b41" alt="Forks: 6345"></a>
 </span>
 </div><br/>
@@ -221,7 +221,7 @@
 <img src="https://avatars.githubusercontent.com/u/8646889?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/ashishps1/awesome-low-level-design">ashishps1/awesome-low-level-design</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Learn Low Level Design (LLD) and prepare for interviews using free resources.</em><br/><small><code>Java</code> &nbsp;•&nbsp; ⚖️ GPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-08-19</small><br/><small>🏷️ <code>awesome</code> <code>design-patterns</code> <code>interview</code> <code>interview-practice</code> <code>interview-questions</code> <code>lld</code></small><br/><br/>
 <span>
-<a href="https://github.com/ashishps1/awesome-low-level-design/stargazers"><img src="https://img.shields.io/github/stars/ashishps1/awesome-low-level-design?style=flat-square&labelColor=343b41" alt="Stars: 27863"></a>
+<a href="https://github.com/ashishps1/awesome-low-level-design/stargazers"><img src="https://img.shields.io/github/stars/ashishps1/awesome-low-level-design?style=flat-square&labelColor=343b41" alt="Stars: 27865"></a>
 <a href="https://github.com/ashishps1/awesome-low-level-design/network/members"><img src="https://img.shields.io/github/forks/ashishps1/awesome-low-level-design?style=flat-square&labelColor=343b41" alt="Forks: 6673"></a>
 </span>
 </div><br/>

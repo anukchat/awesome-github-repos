@@ -34,8 +34,8 @@
 <img src="https://avatars.githubusercontent.com/u/192884433?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/TauricResearch/TradingAgents">TauricResearch/TradingAgents</a> 🔥🔥🔥</strong> <br/><br/>
 <em>TradingAgents: Multi-Agents LLM Financial Trading Framework</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-04</small><br/><small>🏷️ <code>agent</code> <code>finance</code> <code>llm</code> <code>multiagent</code> <code>trading</code></small><br/><br/>
 <span>
-<a href="https://github.com/TauricResearch/TradingAgents/stargazers"><img src="https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=flat-square&labelColor=343b41" alt="Stars: 120869"></a>
-<a href="https://github.com/TauricResearch/TradingAgents/network/members"><img src="https://img.shields.io/github/forks/TauricResearch/TradingAgents?style=flat-square&labelColor=343b41" alt="Forks: 23109"></a>
+<a href="https://github.com/TauricResearch/TradingAgents/stargazers"><img src="https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=flat-square&labelColor=343b41" alt="Stars: 120884"></a>
+<a href="https://github.com/TauricResearch/TradingAgents/network/members"><img src="https://img.shields.io/github/forks/TauricResearch/TradingAgents?style=flat-square&labelColor=343b41" alt="Forks: 23112"></a>
 </span>
 </div><br/>
 
@@ -43,8 +43,8 @@
 <img src="https://avatars.githubusercontent.com/u/328144346?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/openbq-org/OpenBB">openbq-org/OpenBB</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Open Data Platform for analysts, quants and AI agents.</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-02</small><br/><small>🏷️ <code>ai</code> <code>crypto</code> <code>derivatives</code> <code>economics</code> <code>equity</code> <code>finance</code></small><br/><br/>
 <span>
-<a href="https://github.com/openbq-org/OpenBB/stargazers"><img src="https://img.shields.io/github/stars/openbq-org/OpenBB?style=flat-square&labelColor=343b41" alt="Stars: 75125"></a>
-<a href="https://github.com/openbq-org/OpenBB/network/members"><img src="https://img.shields.io/github/forks/openbq-org/OpenBB?style=flat-square&labelColor=343b41" alt="Forks: 7852"></a>
+<a href="https://github.com/openbq-org/OpenBB/stargazers"><img src="https://img.shields.io/github/stars/openbq-org/OpenBB?style=flat-square&labelColor=343b41" alt="Stars: 75127"></a>
+<a href="https://github.com/openbq-org/OpenBB/network/members"><img src="https://img.shields.io/github/forks/openbq-org/OpenBB?style=flat-square&labelColor=343b41" alt="Forks: 7853"></a>
 </span>
 </div><br/>
 
@@ -52,7 +52,7 @@
 <img src="https://avatars.githubusercontent.com/u/901795?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/virattt/ai-hedge-fund">virattt/ai-hedge-fund</a> 🔥🔥🔥</strong> <br/><br/>
 <em>An AI Hedge Fund Team</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-03</small><br/><br/>
 <span>
-<a href="https://github.com/virattt/ai-hedge-fund/stargazers"><img src="https://img.shields.io/github/stars/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41" alt="Stars: 64511"></a>
+<a href="https://github.com/virattt/ai-hedge-fund/stargazers"><img src="https://img.shields.io/github/stars/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41" alt="Stars: 64514"></a>
 <a href="https://github.com/virattt/ai-hedge-fund/network/members"><img src="https://img.shields.io/github/forks/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41" alt="Forks: 11333"></a>
 </span>
 </div><br/>
@@ -61,8 +61,8 @@
 <img src="https://avatars.githubusercontent.com/u/119600397?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/twentyhq/twenty">twentyhq/twenty</a> 🔥🔥🔥</strong> <br/><br/>
 <em>The open alternative to Salesforce, designed for AI.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>crm</code> <code>crm-system</code> <code>customer</code> <code>good-first-issue</code> <code>graphql</code> <code>hacktoberfest</code></small><br/><br/>
 <span>
-<a href="https://github.com/twentyhq/twenty/stargazers"><img src="https://img.shields.io/github/stars/twentyhq/twenty?style=flat-square&labelColor=343b41" alt="Stars: 60525"></a>
-<a href="https://github.com/twentyhq/twenty/network/members"><img src="https://img.shields.io/github/forks/twentyhq/twenty?style=flat-square&labelColor=343b41" alt="Forks: 9978"></a>
+<a href="https://github.com/twentyhq/twenty/stargazers"><img src="https://img.shields.io/github/stars/twentyhq/twenty?style=flat-square&labelColor=343b41" alt="Stars: 60527"></a>
+<a href="https://github.com/twentyhq/twenty/network/members"><img src="https://img.shields.io/github/forks/twentyhq/twenty?style=flat-square&labelColor=343b41" alt="Forks: 9980"></a>
 </span>
 </div><br/>
 
@@ -70,7 +70,7 @@
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/microsoft/qlib">microsoft/qlib</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&amp;D process.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-04</small><br/><small>🏷️ <code>algorithmic-trading</code> <code>auto-quant</code> <code>deep-learning</code> <code>finance</code> <code>fintech</code> <code>investment</code></small><br/><br/>
 <span>
-<a href="https://github.com/microsoft/qlib/stargazers"><img src="https://img.shields.io/github/stars/microsoft/qlib?style=flat-square&labelColor=343b41" alt="Stars: 50042"></a>
+<a href="https://github.com/microsoft/qlib/stargazers"><img src="https://img.shields.io/github/stars/microsoft/qlib?style=flat-square&labelColor=343b41" alt="Stars: 50043"></a>
 <a href="https://github.com/microsoft/qlib/network/members"><img src="https://img.shields.io/github/forks/microsoft/qlib?style=flat-square&labelColor=343b41" alt="Forks: 7900"></a>
 </span>
 </div><br/>
@@ -80,7 +80,7 @@
 <em>An autonomous agent for deep financial research</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-09-23</small><br/><br/>
 <span>
 <a href="https://github.com/virattt/dexter/stargazers"><img src="https://img.shields.io/github/stars/virattt/dexter?style=flat-square&labelColor=343b41" alt="Stars: 27760"></a>
-<a href="https://github.com/virattt/dexter/network/members"><img src="https://img.shields.io/github/forks/virattt/dexter?style=flat-square&labelColor=343b41" alt="Forks: 3422"></a>
+<a href="https://github.com/virattt/dexter/network/members"><img src="https://img.shields.io/github/forks/virattt/dexter?style=flat-square&labelColor=343b41" alt="Forks: 3421"></a>
 </span>
 </div><br/>
 
@@ -97,8 +97,8 @@
 <img src="https://avatars.githubusercontent.com/u/1756674?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/opf/openproject">opf/openproject</a> 🔥🔥</strong> <br/><br/>
 <em>OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub</em><br/><small><code>Ruby</code> &nbsp;•&nbsp; ⚖️ GPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>agile-development</code> <code>angular</code> <code>bcf</code> <code>boards</code> <code>bug-tracker</code> <code>gantt</code></small><br/><br/>
 <span>
-<a href="https://github.com/opf/openproject/stargazers"><img src="https://img.shields.io/github/stars/opf/openproject?style=flat-square&labelColor=343b41" alt="Stars: 17033"></a>
-<a href="https://github.com/opf/openproject/network/members"><img src="https://img.shields.io/github/forks/opf/openproject?style=flat-square&labelColor=343b41" alt="Forks: 3698"></a>
+<a href="https://github.com/opf/openproject/stargazers"><img src="https://img.shields.io/github/stars/opf/openproject?style=flat-square&labelColor=343b41" alt="Stars: 17035"></a>
+<a href="https://github.com/opf/openproject/network/members"><img src="https://img.shields.io/github/forks/opf/openproject?style=flat-square&labelColor=343b41" alt="Forks: 3700"></a>
 </span>
 </div><br/>
 
@@ -115,7 +115,7 @@
 <img src="https://avatars.githubusercontent.com/u/145366395?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/midday-ai/midday">midday-ai/midday</a> 🔥🔥</strong> <br/><br/>
 <em>Invoicing, Time tracking, File reconciliation, Storage, Financial Overview &amp; your own Assistant made for Freelancers</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-06-13</small><br/><small>🏷️ <code>finance</code> <code>nextjs</code> <code>supabase</code> <code>tailwind</code> <code>typescript</code></small><br/><br/>
 <span>
-<a href="https://github.com/midday-ai/midday/stargazers"><img src="https://img.shields.io/github/stars/midday-ai/midday?style=flat-square&labelColor=343b41" alt="Stars: 15117"></a>
+<a href="https://github.com/midday-ai/midday/stargazers"><img src="https://img.shields.io/github/stars/midday-ai/midday?style=flat-square&labelColor=343b41" alt="Stars: 15118"></a>
 <a href="https://github.com/midday-ai/midday/network/members"><img src="https://img.shields.io/github/forks/midday-ai/midday?style=flat-square&labelColor=343b41" alt="Forks: 1895"></a>
 </span>
 </div><br/>

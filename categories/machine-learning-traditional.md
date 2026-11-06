@@ -14,7 +14,7 @@
 | [**eriklindernoren/ML-From-Scratch**](https://github.com/eriklindernoren/ML-From-Scratch) | ⭐ 33k | Python | 2023-10-15 | Machine Learning From Scratch. Bare bones NumPy implementations of machine learning m... |
 | [**keon/algorithms**](https://github.com/keon/algorithms) | ⭐ 26k | Python | 2026-09-25 | Minimal examples of data structures and algorithms in Python |
 | [**trekhleb/homemade-machine-learning**](https://github.com/trekhleb/homemade-machine-learning) | ⭐ 25k | Jupyter Notebook | 2025-11-23 | 🤖 Python examples of popular machine learning algorithms with interactive Jupyter de... |
-| [**google/magika**](https://github.com/google/magika) | ⭐ 19k | Rust | 2026-11-05 | Fast and accurate AI powered file content types detection |
+| [**google/magika**](https://github.com/google/magika) | ⭐ 19k | Rust | 2026-11-06 | Fast and accurate AI powered file content types detection |
 | [**karpathy/micrograd**](https://github.com/karpathy/micrograd) | ⭐ 19k | Jupyter Notebook | 2026-08-03 | A tiny scalar-valued autograd engine and a neural net library on top of it with PyTor... |
 | [**google-deepmind/deepmind-research**](https://github.com/google-deepmind/deepmind-research) | ⭐ 15k | Jupyter Notebook | 2026-06-17 | This repository contains implementations and illustrative code to accompany DeepMind... |
 | [**firmai/industry-machine-learning**](https://github.com/firmai/industry-machine-learning) | ⭐ 7.5k | Jupyter Notebook | 2024-10-04 | A curated list of applied machine learning and data science notebooks and libraries a... |
@@ -43,8 +43,8 @@
 <img src="https://avatars.githubusercontent.com/u/198047230?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/FoundationAgents/OpenManus">FoundationAgents/OpenManus</a> 🔥🔥🔥</strong> <br/><br/>
 <em>No fortress, purely open ground.  OpenManus is Coming.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-02</small><br/><br/>
 <span>
-<a href="https://github.com/FoundationAgents/OpenManus/stargazers"><img src="https://img.shields.io/github/stars/FoundationAgents/OpenManus?style=flat-square&labelColor=343b41" alt="Stars: 58890"></a>
-<a href="https://github.com/FoundationAgents/OpenManus/network/members"><img src="https://img.shields.io/github/forks/FoundationAgents/OpenManus?style=flat-square&labelColor=343b41" alt="Forks: 10234"></a>
+<a href="https://github.com/FoundationAgents/OpenManus/stargazers"><img src="https://img.shields.io/github/stars/FoundationAgents/OpenManus?style=flat-square&labelColor=343b41" alt="Stars: 58892"></a>
+<a href="https://github.com/FoundationAgents/OpenManus/network/members"><img src="https://img.shields.io/github/forks/FoundationAgents/OpenManus?style=flat-square&labelColor=343b41" alt="Forks: 10232"></a>
 </span>
 </div><br/>
 
@@ -52,7 +52,7 @@
 <img src="https://avatars.githubusercontent.com/u/130314967?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/xai-org/x-algorithm">xai-org/x-algorithm</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Algorithm powering the For You feed on X</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><br/>
 <span>
-<a href="https://github.com/xai-org/x-algorithm/stargazers"><img src="https://img.shields.io/github/stars/xai-org/x-algorithm?style=flat-square&labelColor=343b41" alt="Stars: 34106"></a>
+<a href="https://github.com/xai-org/x-algorithm/stargazers"><img src="https://img.shields.io/github/stars/xai-org/x-algorithm?style=flat-square&labelColor=343b41" alt="Stars: 34107"></a>
 <a href="https://github.com/xai-org/x-algorithm/network/members"><img src="https://img.shields.io/github/forks/xai-org/x-algorithm?style=flat-square&labelColor=343b41" alt="Forks: 5511"></a>
 </span>
 </div><br/>
@@ -61,7 +61,7 @@
 <img src="https://avatars.githubusercontent.com/u/7977505?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/eriklindernoren/ML-From-Scratch">eriklindernoren/ML-From-Scratch</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2023-10-15</small><br/><small>🏷️ <code>data-mining</code> <code>data-science</code> <code>deep-learning</code> <code>deep-reinforcement-learning</code> <code>genetic-algorithm</code> <code>machine-learning</code></small><br/><br/>
 <span>
-<a href="https://github.com/eriklindernoren/ML-From-Scratch/stargazers"><img src="https://img.shields.io/github/stars/eriklindernoren/ML-From-Scratch?style=flat-square&labelColor=343b41" alt="Stars: 33278"></a>
+<a href="https://github.com/eriklindernoren/ML-From-Scratch/stargazers"><img src="https://img.shields.io/github/stars/eriklindernoren/ML-From-Scratch?style=flat-square&labelColor=343b41" alt="Stars: 33279"></a>
 <a href="https://github.com/eriklindernoren/ML-From-Scratch/network/members"><img src="https://img.shields.io/github/forks/eriklindernoren/ML-From-Scratch?style=flat-square&labelColor=343b41" alt="Forks: 5537"></a>
 </span>
 </div><br/>
@@ -86,9 +86,9 @@
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/google/magika">google/magika</a> 🔥🔥</strong> <br/><br/>
-<em>Fast and accurate AI powered file content types detection</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>ai</code> <code>deep-learning</code> <code>filetype</code> <code>keras-classification-models</code> <code>keras-models</code> <code>mime-types</code></small><br/><br/>
+<em>Fast and accurate AI powered file content types detection</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>ai</code> <code>deep-learning</code> <code>filetype</code> <code>keras-classification-models</code> <code>keras-models</code> <code>mime-types</code></small><br/><br/>
 <span>
-<a href="https://github.com/google/magika/stargazers"><img src="https://img.shields.io/github/stars/google/magika?style=flat-square&labelColor=343b41" alt="Stars: 18770"></a>
+<a href="https://github.com/google/magika/stargazers"><img src="https://img.shields.io/github/stars/google/magika?style=flat-square&labelColor=343b41" alt="Stars: 18771"></a>
 <a href="https://github.com/google/magika/network/members"><img src="https://img.shields.io/github/forks/google/magika?style=flat-square&labelColor=343b41" alt="Forks: 1189"></a>
 </span>
 </div><br/>
@@ -97,7 +97,7 @@
 <img src="https://avatars.githubusercontent.com/u/241138?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/karpathy/micrograd">karpathy/micrograd</a> 🔥🔥</strong> <br/><br/>
 <em>A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-08-03</small><br/><br/>
 <span>
-<a href="https://github.com/karpathy/micrograd/stargazers"><img src="https://img.shields.io/github/stars/karpathy/micrograd?style=flat-square&labelColor=343b41" alt="Stars: 18708"></a>
+<a href="https://github.com/karpathy/micrograd/stargazers"><img src="https://img.shields.io/github/stars/karpathy/micrograd?style=flat-square&labelColor=343b41" alt="Stars: 18710"></a>
 <a href="https://github.com/karpathy/micrograd/network/members"><img src="https://img.shields.io/github/forks/karpathy/micrograd?style=flat-square&labelColor=343b41" alt="Forks: 2988"></a>
 </span>
 </div><br/>

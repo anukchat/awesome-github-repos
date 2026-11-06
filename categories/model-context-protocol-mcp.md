@@ -56,8 +56,8 @@
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/microsoft/markitdown">microsoft/markitdown</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Python tool for converting files and office documents to Markdown.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-10-28</small><br/><small>🏷️ <code>autogen</code> <code>autogen-extension</code> <code>langchain</code> <code>markdown</code> <code>microsoft-office</code> <code>openai</code></small><br/><br/>
 <span>
-<a href="https://github.com/microsoft/markitdown/stargazers"><img src="https://img.shields.io/github/stars/microsoft/markitdown?style=flat-square&labelColor=343b41" alt="Stars: 194096"></a>
-<a href="https://github.com/microsoft/markitdown/network/members"><img src="https://img.shields.io/github/forks/microsoft/markitdown?style=flat-square&labelColor=343b41" alt="Forks: 14592"></a>
+<a href="https://github.com/microsoft/markitdown/stargazers"><img src="https://img.shields.io/github/stars/microsoft/markitdown?style=flat-square&labelColor=343b41" alt="Stars: 194105"></a>
+<a href="https://github.com/microsoft/markitdown/network/members"><img src="https://img.shields.io/github/forks/microsoft/markitdown?style=flat-square&labelColor=343b41" alt="Forks: 14593"></a>
 </span>
 </div><br/>
 
@@ -65,8 +65,8 @@
 <img src="https://avatars.githubusercontent.com/u/108313943?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/punkpeye/awesome-mcp-servers">punkpeye/awesome-mcp-servers</a> 🔥🔥🔥</strong> <br/><br/>
 <em>A collection of MCP servers.</em><br/><small>⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-02</small><br/><small>🏷️ <code>ai</code> <code>mcp</code></small><br/><br/>
 <span>
-<a href="https://github.com/punkpeye/awesome-mcp-servers/stargazers"><img src="https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=flat-square&labelColor=343b41" alt="Stars: 97352"></a>
-<a href="https://github.com/punkpeye/awesome-mcp-servers/network/members"><img src="https://img.shields.io/github/forks/punkpeye/awesome-mcp-servers?style=flat-square&labelColor=343b41" alt="Forks: 19308"></a>
+<a href="https://github.com/punkpeye/awesome-mcp-servers/stargazers"><img src="https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=flat-square&labelColor=343b41" alt="Stars: 97355"></a>
+<a href="https://github.com/punkpeye/awesome-mcp-servers/network/members"><img src="https://img.shields.io/github/forks/punkpeye/awesome-mcp-servers?style=flat-square&labelColor=343b41" alt="Forks: 19313"></a>
 </span>
 </div><br/>
 
@@ -74,7 +74,7 @@
 <img src="https://avatars.githubusercontent.com/u/182288589?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/modelcontextprotocol/servers">modelcontextprotocol/servers</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Model Context Protocol Reference Servers</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><br/>
 <span>
-<a href="https://github.com/modelcontextprotocol/servers/stargazers"><img src="https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat-square&labelColor=343b41" alt="Stars: 91818"></a>
+<a href="https://github.com/modelcontextprotocol/servers/stargazers"><img src="https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat-square&labelColor=343b41" alt="Stars: 91819"></a>
 <a href="https://github.com/modelcontextprotocol/servers/network/members"><img src="https://img.shields.io/github/forks/modelcontextprotocol/servers?style=flat-square&labelColor=343b41" alt="Forks: 11916"></a>
 </span>
 </div><br/>
@@ -83,8 +83,8 @@
 <img src="https://avatars.githubusercontent.com/u/996596?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/koala73/worldmonitor">koala73/worldmonitor</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>agent</code> <code>ai</code> <code>dashboard</code> <code>geopolitics</code> <code>mcp</code> <code>mcp-server</code></small><br/><br/>
 <span>
-<a href="https://github.com/koala73/worldmonitor/stargazers"><img src="https://img.shields.io/github/stars/koala73/worldmonitor?style=flat-square&labelColor=343b41" alt="Stars: 90241"></a>
-<a href="https://github.com/koala73/worldmonitor/network/members"><img src="https://img.shields.io/github/forks/koala73/worldmonitor?style=flat-square&labelColor=343b41" alt="Forks: 13960"></a>
+<a href="https://github.com/koala73/worldmonitor/stargazers"><img src="https://img.shields.io/github/stars/koala73/worldmonitor?style=flat-square&labelColor=343b41" alt="Stars: 90245"></a>
+<a href="https://github.com/koala73/worldmonitor/network/members"><img src="https://img.shields.io/github/forks/koala73/worldmonitor?style=flat-square&labelColor=343b41" alt="Forks: 13961"></a>
 </span>
 </div><br/>
 
@@ -92,7 +92,7 @@
 <img src="https://avatars.githubusercontent.com/u/74989412?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/upstash/context7">upstash/context7</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Context7 Platform -- Up-to-date docs for AI agents</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>llm</code> <code>mcp</code> <code>mcp-server</code> <code>vibe-coding</code></small><br/><br/>
 <span>
-<a href="https://github.com/upstash/context7/stargazers"><img src="https://img.shields.io/github/stars/upstash/context7?style=flat-square&labelColor=343b41" alt="Stars: 64262"></a>
+<a href="https://github.com/upstash/context7/stargazers"><img src="https://img.shields.io/github/stars/upstash/context7?style=flat-square&labelColor=343b41" alt="Stars: 64265"></a>
 <a href="https://github.com/upstash/context7/network/members"><img src="https://img.shields.io/github/forks/upstash/context7?style=flat-square&labelColor=343b41" alt="Forks: 3213"></a>
 </span>
 </div><br/>
@@ -102,7 +102,7 @@
 <em>⭐AI-driven public opinion &amp; trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ GPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>ai</code> <code>bark</code> <code>data-analysis</code> <code>docker</code> <code>hot-news</code> <code>llm</code></small><br/><br/>
 <span>
 <a href="https://github.com/sansan0/TrendRadar/stargazers"><img src="https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat-square&labelColor=343b41" alt="Stars: 63476"></a>
-<a href="https://github.com/sansan0/TrendRadar/network/members"><img src="https://img.shields.io/github/forks/sansan0/TrendRadar?style=flat-square&labelColor=343b41" alt="Forks: 24914"></a>
+<a href="https://github.com/sansan0/TrendRadar/network/members"><img src="https://img.shields.io/github/forks/sansan0/TrendRadar?style=flat-square&labelColor=343b41" alt="Forks: 24915"></a>
 </span>
 </div><br/>
 
@@ -110,8 +110,8 @@
 <img src="https://avatars.githubusercontent.com/u/11260967?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp">ChromeDevTools/chrome-devtools-mcp</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Chrome DevTools for coding agents</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>browser</code> <code>chrome</code> <code>chrome-devtools</code> <code>debugging</code> <code>devtools</code> <code>mcp</code></small><br/><br/>
 <span>
-<a href="https://github.com/ChromeDevTools/chrome-devtools-mcp/stargazers"><img src="https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=flat-square&labelColor=343b41" alt="Stars: 54862"></a>
-<a href="https://github.com/ChromeDevTools/chrome-devtools-mcp/network/members"><img src="https://img.shields.io/github/forks/ChromeDevTools/chrome-devtools-mcp?style=flat-square&labelColor=343b41" alt="Forks: 5228"></a>
+<a href="https://github.com/ChromeDevTools/chrome-devtools-mcp/stargazers"><img src="https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=flat-square&labelColor=343b41" alt="Stars: 54865"></a>
+<a href="https://github.com/ChromeDevTools/chrome-devtools-mcp/network/members"><img src="https://img.shields.io/github/forks/ChromeDevTools/chrome-devtools-mcp?style=flat-square&labelColor=343b41" alt="Forks: 5227"></a>
 </span>
 </div><br/>
 
@@ -119,7 +119,7 @@
 <img src="https://avatars.githubusercontent.com/u/169401942?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/LibreChat-AI/LibreChat">LibreChat-AI/LibreChat</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>ai</code> <code>anthropic</code> <code>artifacts</code> <code>aws</code> <code>azure</code> <code>chatgpt</code></small><br/><br/>
 <span>
-<a href="https://github.com/LibreChat-AI/LibreChat/stargazers"><img src="https://img.shields.io/github/stars/LibreChat-AI/LibreChat?style=flat-square&labelColor=343b41" alt="Stars: 46793"></a>
+<a href="https://github.com/LibreChat-AI/LibreChat/stargazers"><img src="https://img.shields.io/github/stars/LibreChat-AI/LibreChat?style=flat-square&labelColor=343b41" alt="Stars: 46794"></a>
 <a href="https://github.com/LibreChat-AI/LibreChat/network/members"><img src="https://img.shields.io/github/forks/LibreChat-AI/LibreChat?style=flat-square&labelColor=343b41" alt="Forks: 9629"></a>
 </span>
 </div><br/>
@@ -128,7 +128,7 @@
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/microsoft/playwright-mcp">microsoft/playwright-mcp</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Playwright MCP server</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>mcp</code> <code>playwright</code></small><br/><br/>
 <span>
-<a href="https://github.com/microsoft/playwright-mcp/stargazers"><img src="https://img.shields.io/github/stars/microsoft/playwright-mcp?style=flat-square&labelColor=343b41" alt="Stars: 39248"></a>
+<a href="https://github.com/microsoft/playwright-mcp/stargazers"><img src="https://img.shields.io/github/stars/microsoft/playwright-mcp?style=flat-square&labelColor=343b41" alt="Stars: 39252"></a>
 <a href="https://github.com/microsoft/playwright-mcp/network/members"><img src="https://img.shields.io/github/forks/microsoft/playwright-mcp?style=flat-square&labelColor=343b41" alt="Forks: 3389"></a>
 </span>
 </div><br/>
@@ -137,7 +137,7 @@
 <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/github/github-mcp-server">github/github-mcp-server</a> 🔥🔥🔥</strong> <br/><br/>
 <em>GitHub's official MCP Server</em><br/><small><code>Go</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>github</code> <code>mcp</code> <code>mcp-server</code></small><br/><br/>
 <span>
-<a href="https://github.com/github/github-mcp-server/stargazers"><img src="https://img.shields.io/github/stars/github/github-mcp-server?style=flat-square&labelColor=343b41" alt="Stars: 34273"></a>
+<a href="https://github.com/github/github-mcp-server/stargazers"><img src="https://img.shields.io/github/stars/github/github-mcp-server?style=flat-square&labelColor=343b41" alt="Stars: 34275"></a>
 <a href="https://github.com/github/github-mcp-server/network/members"><img src="https://img.shields.io/github/forks/github/github-mcp-server?style=flat-square&labelColor=343b41" alt="Forks: 5293"></a>
 </span>
 </div><br/>
@@ -146,7 +146,7 @@
 <img src="https://avatars.githubusercontent.com/u/39270919?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/PrefectHQ/fastmcp">PrefectHQ/fastmcp</a> 🔥🔥🔥</strong> <br/><br/>
 <em>🚀 The fast, Pythonic way to build MCP servers and clients.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>agents</code> <code>fastmcp</code> <code>llms</code> <code>mcp</code> <code>mcp-clients</code> <code>mcp-servers</code></small><br/><br/>
 <span>
-<a href="https://github.com/PrefectHQ/fastmcp/stargazers"><img src="https://img.shields.io/github/stars/PrefectHQ/fastmcp?style=flat-square&labelColor=343b41" alt="Stars: 28324"></a>
+<a href="https://github.com/PrefectHQ/fastmcp/stargazers"><img src="https://img.shields.io/github/stars/PrefectHQ/fastmcp?style=flat-square&labelColor=343b41" alt="Stars: 28327"></a>
 <a href="https://github.com/PrefectHQ/fastmcp/network/members"><img src="https://img.shields.io/github/forks/PrefectHQ/fastmcp?style=flat-square&labelColor=343b41" alt="Forks: 2559"></a>
 </span>
 </div><br/>
@@ -155,7 +155,7 @@
 <img src="https://avatars.githubusercontent.com/u/217270365?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/a2aproject/A2A">a2aproject/A2A</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.</em><br/><small><code>Shell</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>a2a</code> <code>a2a-mcp</code> <code>a2a-protocol</code> <code>a2a-server</code> <code>agents</code> <code>generative-ai</code></small><br/><br/>
 <span>
-<a href="https://github.com/a2aproject/A2A/stargazers"><img src="https://img.shields.io/github/stars/a2aproject/A2A?style=flat-square&labelColor=343b41" alt="Stars: 26433"></a>
+<a href="https://github.com/a2aproject/A2A/stargazers"><img src="https://img.shields.io/github/stars/a2aproject/A2A?style=flat-square&labelColor=343b41" alt="Stars: 26434"></a>
 <a href="https://github.com/a2aproject/A2A/network/members"><img src="https://img.shields.io/github/forks/a2aproject/A2A?style=flat-square&labelColor=343b41" alt="Forks: 2691"></a>
 </span>
 </div><br/>
@@ -164,8 +164,8 @@
 <img src="https://avatars.githubusercontent.com/u/260840380?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/newsnext/newsnow">newsnext/newsnow</a> 🔥🔥</strong> <br/><br/>
 <em>Elegant reading of real-time and hottest news</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-10-13</small><br/><small>🏷️ <code>elegant</code> <code>news</code></small><br/><br/>
 <span>
-<a href="https://github.com/newsnext/newsnow/stargazers"><img src="https://img.shields.io/github/stars/newsnext/newsnow?style=flat-square&labelColor=343b41" alt="Stars: 22333"></a>
-<a href="https://github.com/newsnext/newsnow/network/members"><img src="https://img.shields.io/github/forks/newsnext/newsnow?style=flat-square&labelColor=343b41" alt="Forks: 6152"></a>
+<a href="https://github.com/newsnext/newsnow/stargazers"><img src="https://img.shields.io/github/stars/newsnext/newsnow?style=flat-square&labelColor=343b41" alt="Stars: 22334"></a>
+<a href="https://github.com/newsnext/newsnow/network/members"><img src="https://img.shields.io/github/forks/newsnext/newsnow?style=flat-square&labelColor=343b41" alt="Forks: 6153"></a>
 </span>
 </div><br/>
 
@@ -173,7 +173,7 @@
 <img src="https://avatars.githubusercontent.com/u/16785467?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/googleapis/mcp-toolbox">googleapis/mcp-toolbox</a> 🔥🔥</strong> <br/><br/>
 <em>MCP Toolbox for Databases is an open source MCP server for databases.</em><br/><small><code>Go</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>agent</code> <code>agents</code> <code>ai</code> <code>bigquery</code> <code>clickhouse</code> <code>cockroachdb</code></small><br/><br/>
 <span>
-<a href="https://github.com/googleapis/mcp-toolbox/stargazers"><img src="https://img.shields.io/github/stars/googleapis/mcp-toolbox?style=flat-square&labelColor=343b41" alt="Stars: 16815"></a>
+<a href="https://github.com/googleapis/mcp-toolbox/stargazers"><img src="https://img.shields.io/github/stars/googleapis/mcp-toolbox?style=flat-square&labelColor=343b41" alt="Stars: 16816"></a>
 <a href="https://github.com/googleapis/mcp-toolbox/network/members"><img src="https://img.shields.io/github/forks/googleapis/mcp-toolbox?style=flat-square&labelColor=343b41" alt="Forks: 1789"></a>
 </span>
 </div><br/>
@@ -182,7 +182,7 @@
 <img src="https://avatars.githubusercontent.com/u/306517056?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/liketrek/TREK">liketrek/TREK</a> 🔥🔥</strong> <br/><br/>
 <em>The most complete open-source travel planner: real-time collaboration, bookings, budgets, packing lists, journals, offline PWA, SSO and an AI-ready MCP server, with planet-wide place search and routing built in.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>budget-tracker</code> <code>collaborative</code> <code>docker</code> <code>itinerary</code> <code>mcp-server</code> <code>offline-first</code></small><br/><br/>
 <span>
-<a href="https://github.com/liketrek/TREK/stargazers"><img src="https://img.shields.io/github/stars/liketrek/TREK?style=flat-square&labelColor=343b41" alt="Stars: 15396"></a>
+<a href="https://github.com/liketrek/TREK/stargazers"><img src="https://img.shields.io/github/stars/liketrek/TREK?style=flat-square&labelColor=343b41" alt="Stars: 15398"></a>
 <a href="https://github.com/liketrek/TREK/network/members"><img src="https://img.shields.io/github/forks/liketrek/TREK?style=flat-square&labelColor=343b41" alt="Forks: 1322"></a>
 </span>
 </div><br/>

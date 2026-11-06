@@ -12,7 +12,7 @@
 | [**juliangarnier/anime**](https://github.com/juliangarnier/anime) | ⭐ 74k | JavaScript | 2026-11-02 | JavaScript animation engine |
 | [**hakimel/reveal.js**](https://github.com/hakimel/reveal.js) | ⭐ 73k | JavaScript | 2026-09-30 | The HTML Presentation Framework |
 | [**cathrynlavery/diagram-design**](https://github.com/cathrynlavery/diagram-design) | ⭐ 65k | HTML | 2026-11-03 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droi... |
-| [**penpot/penpot**](https://github.com/penpot/penpot) | ⭐ 62k | Clojure | 2026-11-05 | Penpot: The open-source design platform for Product teams that need scalable collabor... |
+| [**penpot/penpot**](https://github.com/penpot/penpot) | ⭐ 62k | Clojure | 2026-11-06 | Penpot: The open-source design platform for Product teams that need scalable collabor... |
 | [**chenglou/pretext**](https://github.com/chenglou/pretext) | ⭐ 51k | TypeScript | 2026-10-15 | Fast, accurate &amp; comprehensive text measurement &amp; layout |
 | [**glanceapp/glance**](https://github.com/glanceapp/glance) | ⭐ 38k | Go | 2026-11-05 | A self-hosted dashboard that puts all your feeds in one place |
 | [**continuedev/continue**](https://github.com/continuedev/continue) | ⭐ 36k | TypeScript | 2026-11-05 | open-source coding agent |
@@ -51,8 +51,8 @@
 <img src="https://avatars.githubusercontent.com/u/219127460?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Leonxlnx/taste-skill">Leonxlnx/taste-skill</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>agent-skills</code> <code>ai-agents</code> <code>anti-slop</code> <code>claude-code</code> <code>codex</code> <code>cursor</code></small><br/><br/>
 <span>
-<a href="https://github.com/Leonxlnx/taste-skill/stargazers"><img src="https://img.shields.io/github/stars/Leonxlnx/taste-skill?style=flat-square&labelColor=343b41" alt="Stars: 110868"></a>
-<a href="https://github.com/Leonxlnx/taste-skill/network/members"><img src="https://img.shields.io/github/forks/Leonxlnx/taste-skill?style=flat-square&labelColor=343b41" alt="Forks: 7443"></a>
+<a href="https://github.com/Leonxlnx/taste-skill/stargazers"><img src="https://img.shields.io/github/stars/Leonxlnx/taste-skill?style=flat-square&labelColor=343b41" alt="Stars: 110909"></a>
+<a href="https://github.com/Leonxlnx/taste-skill/network/members"><img src="https://img.shields.io/github/forks/Leonxlnx/taste-skill?style=flat-square&labelColor=343b41" alt="Forks: 7446"></a>
 </span>
 </div><br/>
 
@@ -60,7 +60,7 @@
 <img src="https://avatars.githubusercontent.com/u/1268691?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/juliangarnier/anime">juliangarnier/anime</a> 🔥🔥🔥</strong> <br/><br/>
 <em>JavaScript animation engine</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-02</small><br/><small>🏷️ <code>animation</code> <code>anime</code> <code>canvas</code> <code>css</code> <code>javascript</code> <code>javascript-library</code></small><br/><br/>
 <span>
-<a href="https://github.com/juliangarnier/anime/stargazers"><img src="https://img.shields.io/github/stars/juliangarnier/anime?style=flat-square&labelColor=343b41" alt="Stars: 74342"></a>
+<a href="https://github.com/juliangarnier/anime/stargazers"><img src="https://img.shields.io/github/stars/juliangarnier/anime?style=flat-square&labelColor=343b41" alt="Stars: 74344"></a>
 <a href="https://github.com/juliangarnier/anime/network/members"><img src="https://img.shields.io/github/forks/juliangarnier/anime?style=flat-square&labelColor=343b41" alt="Forks: 5059"></a>
 </span>
 </div><br/>
@@ -78,16 +78,16 @@
 <img src="https://avatars.githubusercontent.com/u/50469282?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/cathrynlavery/diagram-design">cathrynlavery/diagram-design</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.</em><br/><small><code>HTML</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-03</small><br/><small>🏷️ <code>agent-skills</code> <code>claude-code</code> <code>codex</code> <code>data-visualization</code> <code>diagrams</code> <code>drawio</code></small><br/><br/>
 <span>
-<a href="https://github.com/cathrynlavery/diagram-design/stargazers"><img src="https://img.shields.io/github/stars/cathrynlavery/diagram-design?style=flat-square&labelColor=343b41" alt="Stars: 65360"></a>
-<a href="https://github.com/cathrynlavery/diagram-design/network/members"><img src="https://img.shields.io/github/forks/cathrynlavery/diagram-design?style=flat-square&labelColor=343b41" alt="Forks: 4331"></a>
+<a href="https://github.com/cathrynlavery/diagram-design/stargazers"><img src="https://img.shields.io/github/stars/cathrynlavery/diagram-design?style=flat-square&labelColor=343b41" alt="Stars: 65379"></a>
+<a href="https://github.com/cathrynlavery/diagram-design/network/members"><img src="https://img.shields.io/github/forks/cathrynlavery/diagram-design?style=flat-square&labelColor=343b41" alt="Forks: 4333"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/30179644?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/penpot/penpot">penpot/penpot</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Penpot: The open-source design platform for Product teams that need scalable collaboration.</em><br/><small><code>Clojure</code> &nbsp;•&nbsp; ⚖️ MPL-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>clojure</code> <code>clojurescript</code> <code>design</code> <code>prototyping</code> <code>ui</code> <code>ux-design</code></small><br/><br/>
+<em>Penpot: The open-source design platform for Product teams that need scalable collaboration.</em><br/><small><code>Clojure</code> &nbsp;•&nbsp; ⚖️ MPL-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>clojure</code> <code>clojurescript</code> <code>design</code> <code>prototyping</code> <code>ui</code> <code>ux-design</code></small><br/><br/>
 <span>
-<a href="https://github.com/penpot/penpot/stargazers"><img src="https://img.shields.io/github/stars/penpot/penpot?style=flat-square&labelColor=343b41" alt="Stars: 62125"></a>
+<a href="https://github.com/penpot/penpot/stargazers"><img src="https://img.shields.io/github/stars/penpot/penpot?style=flat-square&labelColor=343b41" alt="Stars: 62129"></a>
 <a href="https://github.com/penpot/penpot/network/members"><img src="https://img.shields.io/github/forks/penpot/penpot?style=flat-square&labelColor=343b41" alt="Forks: 4382"></a>
 </span>
 </div><br/>
@@ -96,7 +96,7 @@
 <img src="https://avatars.githubusercontent.com/u/1909539?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/chenglou/pretext">chenglou/pretext</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Fast, accurate &amp; comprehensive text measurement &amp; layout</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-10-15</small><br/><br/>
 <span>
-<a href="https://github.com/chenglou/pretext/stargazers"><img src="https://img.shields.io/github/stars/chenglou/pretext?style=flat-square&labelColor=343b41" alt="Stars: 50995"></a>
+<a href="https://github.com/chenglou/pretext/stargazers"><img src="https://img.shields.io/github/stars/chenglou/pretext?style=flat-square&labelColor=343b41" alt="Stars: 50994"></a>
 <a href="https://github.com/chenglou/pretext/network/members"><img src="https://img.shields.io/github/forks/chenglou/pretext?style=flat-square&labelColor=343b41" alt="Forks: 2764"></a>
 </span>
 </div><br/>
@@ -106,7 +106,7 @@
 <em>A self-hosted dashboard that puts all your feeds in one place</em><br/><small><code>Go</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>aggregator</code> <code>dashboard</code> <code>docker</code> <code>feed-reader</code> <code>go</code> <code>homelab</code></small><br/><br/>
 <span>
 <a href="https://github.com/glanceapp/glance/stargazers"><img src="https://img.shields.io/github/stars/glanceapp/glance?style=flat-square&labelColor=343b41" alt="Stars: 38043"></a>
-<a href="https://github.com/glanceapp/glance/network/members"><img src="https://img.shields.io/github/forks/glanceapp/glance?style=flat-square&labelColor=343b41" alt="Forks: 1514"></a>
+<a href="https://github.com/glanceapp/glance/network/members"><img src="https://img.shields.io/github/forks/glanceapp/glance?style=flat-square&labelColor=343b41" alt="Forks: 1515"></a>
 </span>
 </div><br/>
 
@@ -114,7 +114,7 @@
 <img src="https://avatars.githubusercontent.com/u/127876214?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/continuedev/continue">continuedev/continue</a> 🔥🔥🔥</strong> <br/><br/>
 <em>open-source coding agent</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>agent</code> <code>ai</code> <code>cli</code> <code>developer-tools</code> <code>open-source</code></small><br/><br/>
 <span>
-<a href="https://github.com/continuedev/continue/stargazers"><img src="https://img.shields.io/github/stars/continuedev/continue?style=flat-square&labelColor=343b41" alt="Stars: 36415"></a>
+<a href="https://github.com/continuedev/continue/stargazers"><img src="https://img.shields.io/github/stars/continuedev/continue?style=flat-square&labelColor=343b41" alt="Stars: 36416"></a>
 <a href="https://github.com/continuedev/continue/network/members"><img src="https://img.shields.io/github/forks/continuedev/continue?style=flat-square&labelColor=343b41" alt="Forks: 5553"></a>
 </span>
 </div><br/>
@@ -123,7 +123,7 @@
 <img src="https://avatars.githubusercontent.com/u/54472864?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/srbhr/Resume-Matcher">srbhr/Resume-Matcher</a> 🔥🔥🔥</strong> <br/><br/>
 <em>The #1 AI Harness for Building Resumes, PDFs, Cover Letters &amp; more, locally with 100+ LLMs support.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-02</small><br/><small>🏷️ <code>applicant-tracking-system</code> <code>ats</code> <code>hacktoberfest</code> <code>machine-learning</code> <code>natural-language-processing</code> <code>nextjs</code></small><br/><br/>
 <span>
-<a href="https://github.com/srbhr/Resume-Matcher/stargazers"><img src="https://img.shields.io/github/stars/srbhr/Resume-Matcher?style=flat-square&labelColor=343b41" alt="Stars: 29157"></a>
+<a href="https://github.com/srbhr/Resume-Matcher/stargazers"><img src="https://img.shields.io/github/stars/srbhr/Resume-Matcher?style=flat-square&labelColor=343b41" alt="Stars: 29158"></a>
 <a href="https://github.com/srbhr/Resume-Matcher/network/members"><img src="https://img.shields.io/github/forks/srbhr/Resume-Matcher?style=flat-square&labelColor=343b41" alt="Forks: 5132"></a>
 </span>
 </div><br/>
@@ -195,7 +195,7 @@
 <img src="https://avatars.githubusercontent.com/u/16309564?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/remarkjs/react-markdown">remarkjs/react-markdown</a> 🔥🔥</strong> <br/><br/>
 <em>Markdown component for React</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-10-03</small><br/><small>🏷️ <code>commonmark</code> <code>gfm</code> <code>markdown</code> <code>react</code> <code>remark</code></small><br/><br/>
 <span>
-<a href="https://github.com/remarkjs/react-markdown/stargazers"><img src="https://img.shields.io/github/stars/remarkjs/react-markdown?style=flat-square&labelColor=343b41" alt="Stars: 15935"></a>
+<a href="https://github.com/remarkjs/react-markdown/stargazers"><img src="https://img.shields.io/github/stars/remarkjs/react-markdown?style=flat-square&labelColor=343b41" alt="Stars: 15936"></a>
 <a href="https://github.com/remarkjs/react-markdown/network/members"><img src="https://img.shields.io/github/forks/remarkjs/react-markdown?style=flat-square&labelColor=343b41" alt="Forks: 922"></a>
 </span>
 </div><br/>
@@ -204,8 +204,8 @@
 <img src="https://avatars.githubusercontent.com/u/189563271?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/assistant-ui/assistant-ui">assistant-ui/assistant-ui</a> 🔥🔥</strong> <br/><br/>
 <em>Typescript/React Library for AI Chat 💬🚀</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>ai-chatbot</code> <code>base-ui</code> <code>chatbot</code> <code>conversational-ai</code> <code>copilot</code> <code>radix-ui</code></small><br/><br/>
 <span>
-<a href="https://github.com/assistant-ui/assistant-ui/stargazers"><img src="https://img.shields.io/github/stars/assistant-ui/assistant-ui?style=flat-square&labelColor=343b41" alt="Stars: 12974"></a>
-<a href="https://github.com/assistant-ui/assistant-ui/network/members"><img src="https://img.shields.io/github/forks/assistant-ui/assistant-ui?style=flat-square&labelColor=343b41" alt="Forks: 1316"></a>
+<a href="https://github.com/assistant-ui/assistant-ui/stargazers"><img src="https://img.shields.io/github/stars/assistant-ui/assistant-ui?style=flat-square&labelColor=343b41" alt="Stars: 12976"></a>
+<a href="https://github.com/assistant-ui/assistant-ui/network/members"><img src="https://img.shields.io/github/forks/assistant-ui/assistant-ui?style=flat-square&labelColor=343b41" alt="Forks: 1315"></a>
 </span>
 </div><br/>
 
@@ -213,8 +213,8 @@
 <img src="https://avatars.githubusercontent.com/u/87530089?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/jakubkrehel/skills">jakubkrehel/skills</a> 🔥🔥</strong> <br/><br/>
 <em>A collection of agent skills that help you build great interfaces.</em><br/><small><code>Markdown</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-02</small><br/><br/>
 <span>
-<a href="https://github.com/jakubkrehel/skills/stargazers"><img src="https://img.shields.io/github/stars/jakubkrehel/skills?style=flat-square&labelColor=343b41" alt="Stars: 11106"></a>
-<a href="https://github.com/jakubkrehel/skills/network/members"><img src="https://img.shields.io/github/forks/jakubkrehel/skills?style=flat-square&labelColor=343b41" alt="Forks: 428"></a>
+<a href="https://github.com/jakubkrehel/skills/stargazers"><img src="https://img.shields.io/github/stars/jakubkrehel/skills?style=flat-square&labelColor=343b41" alt="Stars: 11123"></a>
+<a href="https://github.com/jakubkrehel/skills/network/members"><img src="https://img.shields.io/github/forks/jakubkrehel/skills?style=flat-square&labelColor=343b41" alt="Forks: 429"></a>
 </span>
 </div><br/>
 
@@ -222,7 +222,7 @@
 <img src="https://avatars.githubusercontent.com/u/131273140?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/CopilotKit/OpenBot">CopilotKit/OpenBot</a> 🔥🔥</strong> <br/><br/>
 <em>Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>ag-ui</code> <code>agent-governance</code> <code>ai-agents</code> <code>browser-automation</code> <code>copilotkit</code> <code>generative-ui</code></small><br/><br/>
 <span>
-<a href="https://github.com/CopilotKit/OpenBot/stargazers"><img src="https://img.shields.io/github/stars/CopilotKit/OpenBot?style=flat-square&labelColor=343b41" alt="Stars: 10286"></a>
+<a href="https://github.com/CopilotKit/OpenBot/stargazers"><img src="https://img.shields.io/github/stars/CopilotKit/OpenBot?style=flat-square&labelColor=343b41" alt="Stars: 10288"></a>
 <a href="https://github.com/CopilotKit/OpenBot/network/members"><img src="https://img.shields.io/github/forks/CopilotKit/OpenBot?style=flat-square&labelColor=343b41" alt="Forks: 1277"></a>
 </span>
 </div><br/>

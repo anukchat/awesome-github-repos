@@ -40,8 +40,8 @@
 <img src="https://avatars.githubusercontent.com/u/135057108?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/firecrawl/firecrawl">firecrawl/firecrawl</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>ai</code> <code>ai-agents</code> <code>ai-crawler</code> <code>ai-scraping</code> <code>ai-search</code> <code>crawler</code></small><br/><br/>
 <span>
-<a href="https://github.com/firecrawl/firecrawl/stargazers"><img src="https://img.shields.io/github/stars/firecrawl/firecrawl?style=flat-square&labelColor=343b41" alt="Stars: 199030"></a>
-<a href="https://github.com/firecrawl/firecrawl/network/members"><img src="https://img.shields.io/github/forks/firecrawl/firecrawl?style=flat-square&labelColor=343b41" alt="Forks: 10493"></a>
+<a href="https://github.com/firecrawl/firecrawl/stargazers"><img src="https://img.shields.io/github/stars/firecrawl/firecrawl?style=flat-square&labelColor=343b41" alt="Stars: 199040"></a>
+<a href="https://github.com/firecrawl/firecrawl/network/members"><img src="https://img.shields.io/github/forks/firecrawl/firecrawl?style=flat-square&labelColor=343b41" alt="Forks: 10494"></a>
 </span>
 </div><br/>
 
@@ -49,8 +49,8 @@
 <img src="https://avatars.githubusercontent.com/u/73925474?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Panniantong/Agent-Reach">Panniantong/Agent-Reach</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>agent-infrastructure</code> <code>ai-agent</code> <code>ai-search</code> <code>automation</code> <code>bilibili</code> <code>claude-code</code></small><br/><br/>
 <span>
-<a href="https://github.com/Panniantong/Agent-Reach/stargazers"><img src="https://img.shields.io/github/stars/Panniantong/Agent-Reach?style=flat-square&labelColor=343b41" alt="Stars: 109372"></a>
-<a href="https://github.com/Panniantong/Agent-Reach/network/members"><img src="https://img.shields.io/github/forks/Panniantong/Agent-Reach?style=flat-square&labelColor=343b41" alt="Forks: 9778"></a>
+<a href="https://github.com/Panniantong/Agent-Reach/stargazers"><img src="https://img.shields.io/github/stars/Panniantong/Agent-Reach?style=flat-square&labelColor=343b41" alt="Stars: 109412"></a>
+<a href="https://github.com/Panniantong/Agent-Reach/network/members"><img src="https://img.shields.io/github/forks/Panniantong/Agent-Reach?style=flat-square&labelColor=343b41" alt="Forks: 9780"></a>
 </span>
 </div><br/>
 
@@ -58,8 +58,8 @@
 <img src="https://avatars.githubusercontent.com/u/20604835?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/D4Vinci/Scrapling">D4Vinci/Scrapling</a> 🔥🔥🔥</strong> <br/><br/>
 <em>🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ BSD-3-Clause &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>ai</code> <code>ai-scraping</code> <code>automation</code> <code>crawler</code> <code>crawling</code> <code>crawling-python</code></small><br/><br/>
 <span>
-<a href="https://github.com/D4Vinci/Scrapling/stargazers"><img src="https://img.shields.io/github/stars/D4Vinci/Scrapling?style=flat-square&labelColor=343b41" alt="Stars: 98317"></a>
-<a href="https://github.com/D4Vinci/Scrapling/network/members"><img src="https://img.shields.io/github/forks/D4Vinci/Scrapling?style=flat-square&labelColor=343b41" alt="Forks: 10298"></a>
+<a href="https://github.com/D4Vinci/Scrapling/stargazers"><img src="https://img.shields.io/github/stars/D4Vinci/Scrapling?style=flat-square&labelColor=343b41" alt="Stars: 98387"></a>
+<a href="https://github.com/D4Vinci/Scrapling/network/members"><img src="https://img.shields.io/github/forks/D4Vinci/Scrapling?style=flat-square&labelColor=343b41" alt="Forks: 10305"></a>
 </span>
 </div><br/>
 
@@ -67,7 +67,7 @@
 <img src="https://avatars.githubusercontent.com/u/12494079?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/unclecode/crawl4ai">unclecode/crawl4ai</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powers it, and you can self-host it.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-04</small><br/><small>🏷️ <code>ai</code> <code>ai-agents</code> <code>crawl4ai-cloud</code> <code>crawler</code> <code>data-extraction</code> <code>llm</code></small><br/><br/>
 <span>
-<a href="https://github.com/unclecode/crawl4ai/stargazers"><img src="https://img.shields.io/github/stars/unclecode/crawl4ai?style=flat-square&labelColor=343b41" alt="Stars: 86964"></a>
+<a href="https://github.com/unclecode/crawl4ai/stargazers"><img src="https://img.shields.io/github/stars/unclecode/crawl4ai?style=flat-square&labelColor=343b41" alt="Stars: 86969"></a>
 <a href="https://github.com/unclecode/crawl4ai/network/members"><img src="https://img.shields.io/github/forks/unclecode/crawl4ai?style=flat-square&labelColor=343b41" alt="Forks: 9054"></a>
 </span>
 </div><br/>
@@ -85,8 +85,8 @@
 <img src="https://avatars.githubusercontent.com/u/108547162?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/vercel-labs/agent-browser">vercel-labs/agent-browser</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Browser automation CLI for AI agents</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><br/>
 <span>
-<a href="https://github.com/vercel-labs/agent-browser/stargazers"><img src="https://img.shields.io/github/stars/vercel-labs/agent-browser?style=flat-square&labelColor=343b41" alt="Stars: 46082"></a>
-<a href="https://github.com/vercel-labs/agent-browser/network/members"><img src="https://img.shields.io/github/forks/vercel-labs/agent-browser?style=flat-square&labelColor=343b41" alt="Forks: 3155"></a>
+<a href="https://github.com/vercel-labs/agent-browser/stargazers"><img src="https://img.shields.io/github/stars/vercel-labs/agent-browser?style=flat-square&labelColor=343b41" alt="Stars: 46127"></a>
+<a href="https://github.com/vercel-labs/agent-browser/network/members"><img src="https://img.shields.io/github/forks/vercel-labs/agent-browser?style=flat-square&labelColor=343b41" alt="Forks: 3157"></a>
 </span>
 </div><br/>
 
@@ -95,7 +95,7 @@
 <em>best way to save what you love</em><br/><small><code>Svelte</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-04-06</small><br/><small>🏷️ <code>collaboration</code> <code>downloader</code> <code>instagram</code> <code>javascript</code> <code>music</code> <code>reddit</code></small><br/><br/>
 <span>
 <a href="https://github.com/imputnet/cobalt/stargazers"><img src="https://img.shields.io/github/stars/imputnet/cobalt?style=flat-square&labelColor=343b41" alt="Stars: 45830"></a>
-<a href="https://github.com/imputnet/cobalt/network/members"><img src="https://img.shields.io/github/forks/imputnet/cobalt?style=flat-square&labelColor=343b41" alt="Forks: 4051"></a>
+<a href="https://github.com/imputnet/cobalt/network/members"><img src="https://img.shields.io/github/forks/imputnet/cobalt?style=flat-square&labelColor=343b41" alt="Forks: 4052"></a>
 </span>
 </div><br/>
 
@@ -103,7 +103,7 @@
 <img src="https://avatars.githubusercontent.com/u/145980012?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/lightpanda-io/browser">lightpanda-io/browser</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Lightpanda: the headless browser designed for AI and automation</em><br/><small><code>Zig</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>browser</code> <code>browser-automation</code> <code>cdp</code> <code>headless</code> <code>lightpanda</code> <code>playwright</code></small><br/><br/>
 <span>
-<a href="https://github.com/lightpanda-io/browser/stargazers"><img src="https://img.shields.io/github/stars/lightpanda-io/browser?style=flat-square&labelColor=343b41" alt="Stars: 41432"></a>
+<a href="https://github.com/lightpanda-io/browser/stargazers"><img src="https://img.shields.io/github/stars/lightpanda-io/browser?style=flat-square&labelColor=343b41" alt="Stars: 41438"></a>
 <a href="https://github.com/lightpanda-io/browser/network/members"><img src="https://img.shields.io/github/forks/lightpanda-io/browser?style=flat-square&labelColor=343b41" alt="Forks: 2044"></a>
 </span>
 </div><br/>
@@ -112,7 +112,7 @@
 <img src="https://avatars.githubusercontent.com/u/275001?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/dgtlmoon/changedetection.io">dgtlmoon/changedetection.io</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring— MCP included! all for free or enjoy our SaaS plan!</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>back-in-stock</code> <code>change-alert</code> <code>change-detection</code> <code>change-monitoring</code> <code>monitoring</code> <code>notifications</code></small><br/><br/>
 <span>
-<a href="https://github.com/dgtlmoon/changedetection.io/stargazers"><img src="https://img.shields.io/github/stars/dgtlmoon/changedetection.io?style=flat-square&labelColor=343b41" alt="Stars: 35575"></a>
+<a href="https://github.com/dgtlmoon/changedetection.io/stargazers"><img src="https://img.shields.io/github/stars/dgtlmoon/changedetection.io?style=flat-square&labelColor=343b41" alt="Stars: 35576"></a>
 <a href="https://github.com/dgtlmoon/changedetection.io/network/members"><img src="https://img.shields.io/github/forks/dgtlmoon/changedetection.io?style=flat-square&labelColor=343b41" alt="Forks: 2219"></a>
 </span>
 </div><br/>
@@ -121,7 +121,7 @@
 <img src="https://avatars.githubusercontent.com/u/263128610?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/CloakHQ/CloakBrowser">CloakHQ/CloakBrowser</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-03</small><br/><small>🏷️ <code>ai-agents</code> <code>anti-detect</code> <code>antidetect-browser</code> <code>bot-detection</code> <code>browser-automation</code> <code>captcha-bypass</code></small><br/><br/>
 <span>
-<a href="https://github.com/CloakHQ/CloakBrowser/stargazers"><img src="https://img.shields.io/github/stars/CloakHQ/CloakBrowser?style=flat-square&labelColor=343b41" alt="Stars: 32744"></a>
+<a href="https://github.com/CloakHQ/CloakBrowser/stargazers"><img src="https://img.shields.io/github/stars/CloakHQ/CloakBrowser?style=flat-square&labelColor=343b41" alt="Stars: 32747"></a>
 <a href="https://github.com/CloakHQ/CloakBrowser/network/members"><img src="https://img.shields.io/github/forks/CloakHQ/CloakBrowser?style=flat-square&labelColor=343b41" alt="Forks: 2721"></a>
 </span>
 </div><br/>
@@ -130,7 +130,7 @@
 <img src="https://avatars.githubusercontent.com/u/171017415?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/ScrapeGraphAI/Scrapegraph-ai">ScrapeGraphAI/Scrapegraph-ai</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Python scraper based on AI</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-10-06</small><br/><small>🏷️ <code>ai-crawler</code> <code>ai-scraping</code> <code>ai-search</code> <code>crawler</code> <code>data-extraction</code> <code>firecrawl-alternative</code></small><br/><br/>
 <span>
-<a href="https://github.com/ScrapeGraphAI/Scrapegraph-ai/stargazers"><img src="https://img.shields.io/github/stars/ScrapeGraphAI/Scrapegraph-ai?style=flat-square&labelColor=343b41" alt="Stars: 32555"></a>
+<a href="https://github.com/ScrapeGraphAI/Scrapegraph-ai/stargazers"><img src="https://img.shields.io/github/stars/ScrapeGraphAI/Scrapegraph-ai?style=flat-square&labelColor=343b41" alt="Stars: 32556"></a>
 <a href="https://github.com/ScrapeGraphAI/Scrapegraph-ai/network/members"><img src="https://img.shields.io/github/forks/ScrapeGraphAI/Scrapegraph-ai?style=flat-square&labelColor=343b41" alt="Forks: 3325"></a>
 </span>
 </div><br/>
@@ -140,7 +140,7 @@
 <em>JavaScript in-page GUI agent. Control web interfaces with natural language.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-04</small><br/><small>🏷️ <code>agent</code> <code>ai</code> <code>ai-agents</code> <code>browser-automation</code> <code>javascript</code> <code>mcp</code></small><br/><br/>
 <span>
 <a href="https://github.com/alibaba/page-agent/stargazers"><img src="https://img.shields.io/github/stars/alibaba/page-agent?style=flat-square&labelColor=343b41" alt="Stars: 29644"></a>
-<a href="https://github.com/alibaba/page-agent/network/members"><img src="https://img.shields.io/github/forks/alibaba/page-agent?style=flat-square&labelColor=343b41" alt="Forks: 2640"></a>
+<a href="https://github.com/alibaba/page-agent/network/members"><img src="https://img.shields.io/github/forks/alibaba/page-agent?style=flat-square&labelColor=343b41" alt="Forks: 2641"></a>
 </span>
 </div><br/>
 
@@ -157,7 +157,7 @@
 <img src="https://avatars.githubusercontent.com/u/24586296?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/apify/crawlee-python">apify/crawlee-python</a> 🔥🔥</strong> <br/><br/>
 <em>Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Parsel, BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>apify</code> <code>automation</code> <code>beautifulsoup</code> <code>crawler</code> <code>crawling</code> <code>headless</code></small><br/><br/>
 <span>
-<a href="https://github.com/apify/crawlee-python/stargazers"><img src="https://img.shields.io/github/stars/apify/crawlee-python?style=flat-square&labelColor=343b41" alt="Stars: 9652"></a>
+<a href="https://github.com/apify/crawlee-python/stargazers"><img src="https://img.shields.io/github/stars/apify/crawlee-python?style=flat-square&labelColor=343b41" alt="Stars: 9651"></a>
 <a href="https://github.com/apify/crawlee-python/network/members"><img src="https://img.shields.io/github/forks/apify/crawlee-python?style=flat-square&labelColor=343b41" alt="Forks: 823"></a>
 </span>
 </div><br/>
@@ -166,7 +166,7 @@
 <img src="https://avatars.githubusercontent.com/u/17881612?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/alirezamika/autoscraper">alirezamika/autoscraper</a> 🔥🔥</strong> <br/><br/>
 <em>A Smart, Automatic, Fast and Lightweight Web Scraper for Python</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-07-29</small><br/><small>🏷️ <code>ai</code> <code>artificial-intelligence</code> <code>automation</code> <code>crawler</code> <code>machine-learning</code> <code>python</code></small><br/><br/>
 <span>
-<a href="https://github.com/alirezamika/autoscraper/stargazers"><img src="https://img.shields.io/github/stars/alirezamika/autoscraper?style=flat-square&labelColor=343b41" alt="Stars: 8073"></a>
+<a href="https://github.com/alirezamika/autoscraper/stargazers"><img src="https://img.shields.io/github/stars/alirezamika/autoscraper?style=flat-square&labelColor=343b41" alt="Stars: 8074"></a>
 <a href="https://github.com/alirezamika/autoscraper/network/members"><img src="https://img.shields.io/github/forks/alirezamika/autoscraper?style=flat-square&labelColor=343b41" alt="Forks: 831"></a>
 </span>
 </div><br/>
