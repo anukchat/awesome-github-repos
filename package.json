@@ -1,7 +1,7 @@
 {
   "name": "awesome-github-repos",
-  "version": "1.0.0",
-  "description": "Auto-generate an awesome list of my starred GitHub repositories",
+  "version": "2.0.0",
+  "description": "Auto-generate an awesome list, categorized pages, and interactive web explorer of starred GitHub repositories",
   "main": "scripts/generate.js",
   "scripts": {
     "generate": "node scripts/generate.js"
@@ -13,7 +13,7 @@
     "node-fetch": "^3.3.2"
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=20"
   },
   "license": "MIT"
 }

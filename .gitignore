@@ -1,4 +1,6 @@
-# Ignore node_modules folder
+# Ignore node_modules and local cache
 node_modules/
 scripts/mapping.json
+.cache/
+starred-repos.json
 .env

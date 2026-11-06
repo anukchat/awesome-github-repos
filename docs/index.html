@@ -1,0 +1,975 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Awesome GitHub Repos — Curated AI, Agentic & Developer Directory</title>
+  <meta name="description" content="Explore 800+ curated & categorized AI, LLM, MCP, Agentic, and Developer open-source repositories by Anukool Chaturvedi." />
+  <link rel="icon" type="image/png" href="assets/awesome-logo.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg-page: #f8fafc;
+      --bg-surface: #ffffff;
+      --bg-subtle: #f1f5f9;
+      --bg-elevated: #ffffff;
+      --text-primary: #0f172a;
+      --text-secondary: #475569;
+      --text-muted: #64748b;
+      --border-color: #e2e8f0;
+      --border-hover: #cbd5e1;
+      --accent: #2563eb;
+      --accent-hover: #1d4ed8;
+      --accent-soft: #eff6ff;
+      --accent-text: #1e40af;
+      --badge-bg: #f1f5f9;
+      --badge-text: #334155;
+      --star-color: #d97706;
+      --star-bg: #fef3c7;
+      --shadow-sm: 0 1px 2px 0 rgba(15, 23, 42, 0.04);
+      --shadow-md: 0 4px 12px -2px rgba(15, 23, 42, 0.08);
+      --radius-sm: 6px;
+      --radius-md: 10px;
+      --radius-lg: 14px;
+    }
+
+    [data-theme="dark"] {
+      --bg-page: #0b0f19;
+      --bg-surface: #111827;
+      --bg-subtle: #1e293b;
+      --bg-elevated: #1f2937;
+      --text-primary: #f8fafc;
+      --text-secondary: #cbd5e1;
+      --text-muted: #94a3b8;
+      --border-color: #1e293b;
+      --border-hover: #334155;
+      --accent: #3b82f6;
+      --accent-hover: #60a5fa;
+      --accent-soft: rgba(59, 130, 246, 0.14);
+      --accent-text: #93c5fd;
+      --badge-bg: #1e293b;
+      --badge-text: #cbd5e1;
+      --star-color: #fbbf24;
+      --star-bg: rgba(245, 158, 11, 0.14);
+      --shadow-sm: 0 1px 3px 0 rgba(0, 0, 0, 0.3);
+      --shadow-md: 0 8px 20px -4px rgba(0, 0, 0, 0.45);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background-color: var(--bg-page);
+      color: var(--text-primary);
+      line-height: 1.5;
+      -webkit-font-smoothing: antialiased;
+      transition: background-color 0.2s ease, color 0.2s ease;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    /* Header */
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 40;
+      background: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      box-shadow: var(--shadow-sm);
+    }
+
+    .topbar-inner {
+      max-width: 1440px;
+      margin: 0 auto;
+      padding: 0.85rem 1.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .brand img {
+      width: 38px;
+      height: 38px;
+      border-radius: 8px;
+      object-fit: contain;
+    }
+
+    .brand-title {
+      font-size: 1.15rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      color: var(--text-primary);
+    }
+
+    .brand-subtitle {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+
+    .topbar-stats {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      flex-wrap: wrap;
+    }
+
+    .stat-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      padding: 0.35rem 0.7rem;
+      background: var(--bg-subtle);
+      border: 1px solid var(--border-color);
+      border-radius: 999px;
+      font-size: 0.78rem;
+      font-weight: 500;
+      color: var(--text-secondary);
+    }
+
+    .stat-chip strong {
+      color: var(--text-primary);
+      font-weight: 600;
+      font-family: 'JetBrains Mono', monospace;
+    }
+
+    .topbar-actions {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45rem;
+      padding: 0.48rem 0.85rem;
+      border-radius: var(--radius-sm);
+      font-size: 0.82rem;
+      font-weight: 500;
+      border: 1px solid var(--border-color);
+      background: var(--bg-surface);
+      color: var(--text-primary);
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+
+    .btn:hover {
+      border-color: var(--border-hover);
+      background: var(--bg-subtle);
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #ffffff;
+    }
+
+    .btn-primary:hover {
+      background: var(--accent-hover);
+      border-color: var(--accent-hover);
+      color: #ffffff;
+    }
+
+    /* Layout */
+    .layout {
+      max-width: 1440px;
+      margin: 0 auto;
+      padding: 1.5rem;
+      display: grid;
+      grid-template-columns: 290px 1fr;
+      gap: 1.75rem;
+      align-items: start;
+    }
+
+    @media (max-width: 980px) {
+      .layout {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    /* Sidebar Categories */
+    .sidebar {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-lg);
+      padding: 1rem;
+      position: sticky;
+      top: 4.75rem;
+      max-height: calc(100vh - 6rem);
+      overflow-y: auto;
+    }
+
+    @media (max-width: 980px) {
+      .sidebar {
+        position: static;
+        max-height: 280px;
+      }
+    }
+
+    .sidebar-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0.25rem 0.5rem 0.75rem;
+      border-bottom: 1px solid var(--border-color);
+      margin-bottom: 0.6rem;
+    }
+
+    .sidebar-title {
+      font-size: 0.78rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--text-muted);
+    }
+
+    .cat-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.2rem;
+    }
+
+    .cat-btn {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.5rem;
+      padding: 0.5rem 0.65rem;
+      border-radius: var(--radius-sm);
+      border: none;
+      background: transparent;
+      color: var(--text-secondary);
+      font-size: 0.83rem;
+      font-weight: 500;
+      text-align: left;
+      cursor: pointer;
+      transition: all 0.12s ease;
+      font-family: inherit;
+    }
+
+    .cat-btn:hover {
+      background: var(--bg-subtle);
+      color: var(--text-primary);
+    }
+
+    .cat-btn.active {
+      background: var(--accent-soft);
+      color: var(--accent-text);
+      font-weight: 600;
+    }
+
+    .cat-btn-label {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .cat-count {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.73rem;
+      padding: 0.12rem 0.45rem;
+      border-radius: 999px;
+      background: var(--badge-bg);
+      color: var(--badge-text);
+      flex-shrink: 0;
+    }
+
+    .cat-btn.active .cat-count {
+      background: var(--accent);
+      color: #ffffff;
+    }
+
+    /* Controls Bar */
+    .controls-panel {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-lg);
+      padding: 1rem 1.25rem;
+      margin-bottom: 1.25rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.9rem;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .controls-row {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+    }
+
+    .search-wrapper {
+      flex: 1 1 280px;
+      position: relative;
+    }
+
+    .search-input {
+      width: 100%;
+      padding: 0.62rem 2.5rem 0.62rem 2.35rem;
+      border-radius: var(--radius-md);
+      border: 1px solid var(--border-color);
+      background: var(--bg-page);
+      color: var(--text-primary);
+      font-size: 0.9rem;
+      font-family: inherit;
+      outline: none;
+      transition: border-color 0.15s ease;
+    }
+
+    .search-input:focus {
+      border-color: var(--accent);
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 0.8rem;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-muted);
+      font-size: 0.9rem;
+      pointer-events: none;
+    }
+
+    .search-shortcut {
+      position: absolute;
+      right: 0.7rem;
+      top: 50%;
+      transform: translateY(-50%);
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.72rem;
+      padding: 0.15rem 0.4rem;
+      border-radius: 4px;
+      border: 1px solid var(--border-color);
+      color: var(--text-muted);
+      background: var(--bg-surface);
+      pointer-events: none;
+    }
+
+    .select-input {
+      padding: 0.6rem 0.85rem;
+      border-radius: var(--radius-md);
+      border: 1px solid var(--border-color);
+      background: var(--bg-page);
+      color: var(--text-primary);
+      font-size: 0.85rem;
+      font-family: inherit;
+      cursor: pointer;
+      outline: none;
+    }
+
+    .select-input:focus {
+      border-color: var(--accent);
+    }
+
+    .results-summary {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      font-size: 0.84rem;
+      color: var(--text-secondary);
+    }
+
+    .active-cat-banner {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+    }
+
+    .active-cat-banner h1 {
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: var(--text-primary);
+    }
+
+    .active-cat-desc {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+    }
+
+    /* Repo Cards Grid */
+    .repo-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 1rem;
+    }
+
+    .repo-card {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-lg);
+      padding: 1.15rem 1.25rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      gap: 0.85rem;
+      transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+    }
+
+    .repo-card:hover {
+      transform: translateY(-2px);
+      border-color: var(--border-hover);
+      box-shadow: var(--shadow-md);
+    }
+
+    .repo-card-top {
+      display: flex;
+      flex-direction: column;
+      gap: 0.6rem;
+    }
+
+    .repo-header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 0.75rem;
+    }
+
+    .repo-identity {
+      display: flex;
+      align-items: center;
+      gap: 0.65rem;
+      min-width: 0;
+    }
+
+    .repo-avatar {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      border: 1px solid var(--border-color);
+      flex-shrink: 0;
+      background: var(--bg-subtle);
+    }
+
+    .repo-title-wrap {
+      min-width: 0;
+    }
+
+    .repo-title {
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: var(--accent);
+      display: block;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .repo-title:hover {
+      text-decoration: underline;
+    }
+
+    .repo-cat-pill {
+      display: inline-block;
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      cursor: pointer;
+    }
+
+    .repo-cat-pill:hover {
+      color: var(--accent);
+    }
+
+    .star-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3rem;
+      padding: 0.25rem 0.55rem;
+      border-radius: 999px;
+      background: var(--star-bg);
+      color: var(--star-color);
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.76rem;
+      font-weight: 600;
+      flex-shrink: 0;
+    }
+
+    .repo-desc {
+      font-size: 0.85rem;
+      color: var(--text-secondary);
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      line-height: 1.5;
+    }
+
+    .repo-topics {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+    }
+
+    .topic-tag {
+      font-size: 0.71rem;
+      padding: 0.15rem 0.5rem;
+      border-radius: var(--radius-sm);
+      background: var(--bg-subtle);
+      color: var(--text-secondary);
+      cursor: pointer;
+      border: 1px solid transparent;
+      transition: all 0.12s ease;
+    }
+
+    .topic-tag:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .repo-footer {
+      padding-top: 0.65rem;
+      border-top: 1px solid var(--border-color);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+
+    .repo-meta-left {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+    }
+
+    .lang-dot {
+      display: inline-block;
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--accent);
+      margin-right: 4px;
+    }
+
+    .new-pill {
+      background: #dcfce7;
+      color: #166534;
+      font-weight: 600;
+      padding: 0.1rem 0.45rem;
+      border-radius: 999px;
+      font-size: 0.68rem;
+    }
+
+    [data-theme="dark"] .new-pill {
+      background: rgba(34, 197, 94, 0.2);
+      color: #86efac;
+    }
+
+    .empty-state {
+      background: var(--bg-surface);
+      border: 1px dashed var(--border-color);
+      border-radius: var(--radius-lg);
+      padding: 3rem 1.5rem;
+      text-align: center;
+      color: var(--text-muted);
+    }
+
+    .load-more-wrap {
+      margin-top: 1.5rem;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a href="./" class="brand">
+        <img src="assets/awesome-logo.png" alt="Awesome GitHub Repos Logo" />
+        <div>
+          <div class="brand-title">Awesome GitHub Repos</div>
+          <div class="brand-subtitle">Curated AI, Agentic &amp; Developer Directory by @anukchat</div>
+        </div>
+      </a>
+
+      <div class="topbar-stats">
+        <span class="stat-chip">📦 Repos <strong id="stat-total-repos">0</strong></span>
+        <span class="stat-chip">🗂️ Categories <strong id="stat-total-cats">0</strong></span>
+        <span class="stat-chip">⭐ Total Stars <strong id="stat-total-stars">0</strong></span>
+        <span class="stat-chip">🕒 Synced <strong id="stat-synced-date">—</strong></span>
+      </div>
+
+      <div class="topbar-actions">
+        <button id="theme-toggle-btn" class="btn" type="button" title="Toggle Dark/Light Mode">
+          <span id="theme-icon">🌙</span> <span id="theme-label">Dark</span>
+        </button>
+        <a href="https://github.com/anukchat/awesome-github-repos" target="_blank" rel="noopener" class="btn btn-primary">
+          ⭐ Star on GitHub
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <main class="layout">
+    <aside class="sidebar" aria-label="Categories">
+      <div class="sidebar-header">
+        <span class="sidebar-title">Categories</span>
+        <button id="reset-filters-btn" class="btn" style="padding: 0.2rem 0.5rem; font-size: 0.72rem;" type="button">Reset</button>
+      </div>
+      <div id="category-list" class="cat-list"></div>
+    </aside>
+
+    <section>
+      <div class="controls-panel">
+        <div class="controls-row">
+          <div class="search-wrapper">
+            <span class="search-icon">🔍</span>
+            <input
+              id="search-input"
+              class="search-input"
+              type="search"
+              placeholder="Search 800+ repositories by name, description, topic, or owner..."
+              autocomplete="off"
+            />
+            <span class="search-shortcut">/</span>
+          </div>
+
+          <select id="language-select" class="select-input" aria-label="Filter by programming language">
+            <option value="">All Languages</option>
+          </select>
+
+          <select id="sort-select" class="select-input" aria-label="Sort repositories">
+            <option value="recent">🆕 Recently Starred</option>
+            <option value="stars">⭐ Most Stars</option>
+            <option value="forks">🍴 Most Forks</option>
+            <option value="updated">🕒 Recently Updated</option>
+            <option value="name">🔤 Name (A–Z)</option>
+          </select>
+        </div>
+
+        <div class="results-summary">
+          <div class="active-cat-banner">
+            <h1 id="active-category-title">All Curated Repositories</h1>
+            <span id="active-category-desc" class="active-cat-desc"></span>
+          </div>
+          <div id="showing-count-text">Showing 0 repositories</div>
+        </div>
+      </div>
+
+      <div id="repo-grid" class="repo-grid"></div>
+      <div id="load-more-container" class="load-more-wrap" style="display:none;">
+        <button id="load-more-btn" class="btn btn-primary" type="button">Show More Repositories</button>
+      </div>
+    </section>
+  </main>
+
+  <script src="repos-data.js"></script>
+  <script>
+    (function () {
+      const data = window.AWESOME_REPOS_DATA || { repos: [], categories: [], totalRepos: 0 };
+      const repos = data.repos || [];
+      const categories = data.categories || [];
+
+      const langColors = {
+        Python: '#3572A5',
+        TypeScript: '#3178c6',
+        JavaScript: '#f1e05a',
+        Rust: '#dea584',
+        Go: '#00ADD8',
+        'C++': '#f34b7d',
+        C: '#555555',
+        Java: '#b07219',
+        'Jupyter Notebook': '#DA5B0B',
+        HTML: '#e34c26',
+        CSS: '#563d7c',
+        Shell: '#89e051',
+        Dart: '#00B4AB',
+        Ruby: '#701516',
+        Swift: '#F05138',
+        Kotlin: '#A97BFF'
+      };
+
+      // State
+      const params = new URLSearchParams(window.location.search);
+      let activeCategory = params.get('category') || 'ALL';
+      let searchQuery = params.get('q') || '';
+      let activeLanguage = params.get('lang') || '';
+      let activeSort = params.get('sort') || 'recent';
+      let visibleLimit = 60;
+
+      // DOM elements
+      const statTotalRepos = document.getElementById('stat-total-repos');
+      const statTotalCats = document.getElementById('stat-total-cats');
+      const statTotalStars = document.getElementById('stat-total-stars');
+      const statSyncedDate = document.getElementById('stat-synced-date');
+      const categoryListEl = document.getElementById('category-list');
+      const searchInput = document.getElementById('search-input');
+      const languageSelect = document.getElementById('language-select');
+      const sortSelect = document.getElementById('sort-select');
+      const activeCategoryTitle = document.getElementById('active-category-title');
+      const activeCategoryDesc = document.getElementById('active-category-desc');
+      const showingCountText = document.getElementById('showing-count-text');
+      const repoGrid = document.getElementById('repo-grid');
+      const loadMoreContainer = document.getElementById('load-more-container');
+      const loadMoreBtn = document.getElementById('load-more-btn');
+      const resetFiltersBtn = document.getElementById('reset-filters-btn');
+      const themeToggleBtn = document.getElementById('theme-toggle-btn');
+      const themeIcon = document.getElementById('theme-icon');
+      const themeLabel = document.getElementById('theme-label');
+
+      // Theme setup
+      const savedTheme = localStorage.getItem('awesome-repos-theme') ||
+        (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+      setTheme(savedTheme);
+
+      function setTheme(theme) {
+        document.documentElement.setAttribute('data-theme', theme);
+        localStorage.setItem('awesome-repos-theme', theme);
+        if (theme === 'dark') {
+          themeIcon.textContent = '☀️';
+          themeLabel.textContent = 'Light';
+        } else {
+          themeIcon.textContent = '🌙';
+          themeLabel.textContent = 'Dark';
+        }
+      }
+
+      themeToggleBtn.addEventListener('click', () => {
+        const current = document.documentElement.getAttribute('data-theme');
+        setTheme(current === 'dark' ? 'light' : 'dark');
+      });
+
+      // Top stats
+      const totalStarsSum = repos.reduce((acc, r) => acc + (r.stars || 0), 0);
+      statTotalRepos.textContent = repos.length.toLocaleString();
+      statTotalCats.textContent = categories.filter(c => c.count > 0).length;
+      statTotalStars.textContent = (totalStarsSum / 1000000).toFixed(1) + 'M+';
+      statSyncedDate.textContent = (data.generatedAt || '').slice(0, 10) || 'Today';
+
+      // Populate languages dropdown
+      const langMap = {};
+      repos.forEach(r => {
+        if (r.language) langMap[r.language] = (langMap[r.language] || 0) + 1;
+      });
+      Object.entries(langMap)
+        .sort((a, b) => b[1] - a[1])
+        .forEach(([lang, count]) => {
+          const opt = document.createElement('option');
+          opt.value = lang;
+          opt.textContent = `${lang} (${count})`;
+          languageSelect.appendChild(opt);
+        });
+
+      searchInput.value = searchQuery;
+      languageSelect.value = activeLanguage;
+      sortSelect.value = activeSort;
+
+      function formatCompact(n) {
+        if (n >= 1000) return (n / 1000).toFixed(n >= 10000 ? 0 : 1).replace(/\.0$/, '') + 'k';
+        return String(n || 0);
+      }
+
+      function escapeHtml(str) {
+        return String(str || '')
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;');
+      }
+
+      function renderCategories() {
+        categoryListEl.innerHTML = '';
+        const allBtn = document.createElement('button');
+        allBtn.type = 'button';
+        allBtn.className = 'cat-btn' + (activeCategory === 'ALL' ? ' active' : '');
+        allBtn.innerHTML = `<span class="cat-btn-label">🚀 All Categories</span><span class="cat-count">${repos.length}</span>`;
+        allBtn.addEventListener('click', () => {
+          activeCategory = 'ALL';
+          visibleLimit = 60;
+          renderCategories();
+          renderRepos();
+        });
+        categoryListEl.appendChild(allBtn);
+
+        categories.forEach(cat => {
+          if (!cat.count) return;
+          const btn = document.createElement('button');
+          btn.type = 'button';
+          btn.className = 'cat-btn' + (activeCategory === cat.name ? ' active' : '');
+          btn.innerHTML = `<span class="cat-btn-label">${cat.icon || '📂'} ${escapeHtml(cat.name)}</span><span class="cat-count">${cat.count}</span>`;
+          btn.addEventListener('click', () => {
+            activeCategory = cat.name;
+            visibleLimit = 60;
+            renderCategories();
+            renderRepos();
+          });
+          categoryListEl.appendChild(btn);
+        });
+      }
+
+      function getFilteredRepos() {
+        const q = searchQuery.trim().toLowerCase();
+        return repos
+          .filter(r => {
+            if (activeCategory !== 'ALL' && r.category !== activeCategory) return false;
+            if (activeLanguage && r.language !== activeLanguage) return false;
+            if (!q) return true;
+            const hay = `${r.full_name} ${r.description} ${(r.topics || []).join(' ')} ${r.category} ${r.language || ''}`.toLowerCase();
+            return hay.includes(q);
+          })
+          .sort((a, b) => {
+            if (activeSort === 'stars') return (b.stars || 0) - (a.stars || 0);
+            if (activeSort === 'forks') return (b.forks || 0) - (a.forks || 0);
+            if (activeSort === 'updated') return String(b.pushed_at || '').localeCompare(String(a.pushed_at || ''));
+            if (activeSort === 'name') return a.full_name.localeCompare(b.full_name);
+            return a.rankOrder - b.rankOrder; // 'recent'
+          });
+      }
+
+      function renderRepos() {
+        const filtered = getFilteredRepos();
+        const catMeta = categories.find(c => c.name === activeCategory);
+
+        if (activeCategory === 'ALL') {
+          activeCategoryTitle.textContent = '🚀 All Curated Repositories';
+          activeCategoryDesc.textContent = 'Browse, search, and filter all starred open-source AI & developer projects.';
+        } else if (catMeta) {
+          activeCategoryTitle.textContent = `${catMeta.icon} ${catMeta.name}`;
+          activeCategoryDesc.textContent = catMeta.desc;
+        }
+
+        showingCountText.textContent = `Showing ${Math.min(filtered.length, visibleLimit)} of ${filtered.length} repositories`;
+
+        if (!filtered.length) {
+          repoGrid.innerHTML = `<div class="empty-state" style="grid-column: 1 / -1;">
+            <h3>No matching repositories found</h3>
+            <p style="margin-top:0.4rem;">Try clearing your search query or switching categories.</p>
+          </div>`;
+          loadMoreContainer.style.display = 'none';
+          return;
+        }
+
+        const slice = filtered.slice(0, visibleLimit);
+        repoGrid.innerHTML = slice.map(r => {
+          const isRecent = r.rankOrder < 25;
+          const langColor = langColors[r.language] || '#64748b';
+          const topicsHtml = (r.topics || []).slice(0, 5).map(t =>
+            `<button type="button" class="topic-tag" data-topic="${escapeHtml(t)}">#${escapeHtml(t)}</button>`
+          ).join('');
+
+          return `<article class="repo-card">
+            <div class="repo-card-top">
+              <div class="repo-header">
+                <div class="repo-identity">
+                  <img class="repo-avatar" src="${escapeHtml(r.avatar)}" alt="${escapeHtml(r.owner)}" loading="lazy" />
+                  <div class="repo-title-wrap">
+                    <a class="repo-title" href="${escapeHtml(r.url)}" target="_blank" rel="noopener" title="${escapeHtml(r.full_name)}">${escapeHtml(r.full_name)}</a>
+                    <span class="repo-cat-pill" data-cat="${escapeHtml(r.category)}">${escapeHtml(r.category)}</span>
+                  </div>
+                </div>
+                <a class="star-badge" href="${escapeHtml(r.url)}/stargazers" target="_blank" rel="noopener" title="${(r.stars || 0).toLocaleString()} stars">
+                  ⭐ ${formatCompact(r.stars)}
+                </a>
+              </div>
+              <p class="repo-desc">${escapeHtml(r.description || 'No description provided.')}</p>
+              ${topicsHtml ? `<div class="repo-topics">${topicsHtml}</div>` : ''}
+            </div>
+            <div class="repo-footer">
+              <div class="repo-meta-left">
+                ${r.language ? `<span><span class="lang-dot" style="background:${langColor}"></span>${escapeHtml(r.language)}</span>` : ''}
+                <span>🍴 ${formatCompact(r.forks)}</span>
+                ${r.license && r.license !== 'NOASSERTION' ? `<span>⚖️ ${escapeHtml(r.license)}</span>` : ''}
+              </div>
+              <div>
+                ${isRecent ? `<span class="new-pill">NEW</span>` : (r.pushed_at ? `<span>Updated ${escapeHtml(r.pushed_at)}</span>` : '')}
+              </div>
+            </div>
+          </article>`;
+        }).join('');
+
+        loadMoreContainer.style.display = filtered.length > visibleLimit ? 'block' : 'none';
+      }
+
+      // Event listeners
+      searchInput.addEventListener('input', e => {
+        searchQuery = e.target.value;
+        visibleLimit = 60;
+        renderRepos();
+      });
+
+      languageSelect.addEventListener('change', e => {
+        activeLanguage = e.target.value;
+        visibleLimit = 60;
+        renderRepos();
+      });
+
+      sortSelect.addEventListener('change', e => {
+        activeSort = e.target.value;
+        renderRepos();
+      });
+
+      loadMoreBtn.addEventListener('click', () => {
+        visibleLimit += 60;
+        renderRepos();
+      });
+
+      resetFiltersBtn.addEventListener('click', () => {
+        activeCategory = 'ALL';
+        searchQuery = '';
+        activeLanguage = '';
+        activeSort = 'recent';
+        visibleLimit = 60;
+        searchInput.value = '';
+        languageSelect.value = '';
+        sortSelect.value = 'recent';
+        renderCategories();
+        renderRepos();
+      });
+
+      repoGrid.addEventListener('click', e => {
+        const topicBtn = e.target.closest('[data-topic]');
+        if (topicBtn) {
+          searchQuery = topicBtn.getAttribute('data-topic');
+          searchInput.value = searchQuery;
+          visibleLimit = 60;
+          renderRepos();
+          return;
+        }
+        const catBtn = e.target.closest('[data-cat]');
+        if (catBtn) {
+          activeCategory = catBtn.getAttribute('data-cat');
+          visibleLimit = 60;
+          renderCategories();
+          renderRepos();
+        }
+      });
+
+      window.addEventListener('keydown', e => {
+        if (e.key === '/' && document.activeElement !== searchInput) {
+          e.preventDefault();
+          searchInput.focus();
+        }
+      });
+
+      renderCategories();
+      renderRepos();
+    })();
+  </script>
+</body>
+</html>

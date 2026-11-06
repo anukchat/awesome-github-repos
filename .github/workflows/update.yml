@@ -4,6 +4,10 @@ name: Update Awesome Repos
 on:
   push:
     branches: [ main ]
+    paths:
+      - 'scripts/**'
+      - 'package.json'
+      - '.github/workflows/update.yml'
   workflow_dispatch: {}
   schedule:
     - cron: '0 0 */3 * *'  # every 3 days at midnight UTC
@@ -11,33 +15,43 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-awesome-repos
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: '18'    # ← upgrade here :contentReference[oaicite:8]{index=8}
+          node-version: '22'
+          cache: 'npm'
 
       - name: Install Dependencies
-        run: npm install
+        run: npm ci || npm install
 
-      - name: Generate Repo Pages
+      - name: Generate Repo Pages & Web Explorer Data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          FORCE_REFRESH: 'true'
         run: node scripts/generate.js
-
 
       - name: Commit & Push Changes
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add README.md
-          # if you ever generate other files, add them here too:
-          # git add assets/ some/other/dir/
-          git commit -m "chore: update awesome repos" || echo "No changes to commit"
-          git push
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md categories/ repo-categories.json docs/
+          if git diff --cached --quiet; then
+            echo "✅ No changes to commit"
+          else
+            git commit -m "chore: update awesome repos [skip ci]"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
