@@ -23,8 +23,8 @@
 <img src="https://avatars.githubusercontent.com/u/80454229?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/searxng/searxng">searxng/searxng</a> 🔥🔥🔥</strong> <br/><br/>
 <em>SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>bing</code> <code>brave</code> <code>degoogle</code> <code>duckduckgo</code> <code>google</code> <code>metasearch</code></small><br/><br/>
 <span>
-<a href="https://github.com/searxng/searxng/stargazers"><img src="https://img.shields.io/github/stars/searxng/searxng?style=flat-square&labelColor=343b41" alt="Stars: 39271"></a>
-<a href="https://github.com/searxng/searxng/network/members"><img src="https://img.shields.io/github/forks/searxng/searxng?style=flat-square&labelColor=343b41" alt="Forks: 3583"></a>
+<a href="https://github.com/searxng/searxng/stargazers"><img src="https://img.shields.io/github/stars/searxng/searxng?style=flat-square&labelColor=343b41" alt="Stars: 39296"></a>
+<a href="https://github.com/searxng/searxng/network/members"><img src="https://img.shields.io/github/forks/searxng/searxng?style=flat-square&labelColor=343b41" alt="Forks: 3584"></a>
 </span>
 </div><br/>
 
@@ -32,7 +32,7 @@
 <img src="https://avatars.githubusercontent.com/u/95456295?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/RSSNext/Folo">RSSNext/Folo</a> 🔥🔥🔥</strong> <br/><br/>
 <em>🧡 Folo is the AI RSS Reader</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>ai</code> <code>reader</code> <code>rss</code> <code>rss-reader</code> <code>rsshub</code></small><br/><br/>
 <span>
-<a href="https://github.com/RSSNext/Folo/stargazers"><img src="https://img.shields.io/github/stars/RSSNext/Folo?style=flat-square&labelColor=343b41" alt="Stars: 39239"></a>
+<a href="https://github.com/RSSNext/Folo/stargazers"><img src="https://img.shields.io/github/stars/RSSNext/Folo?style=flat-square&labelColor=343b41" alt="Stars: 39241"></a>
 <a href="https://github.com/RSSNext/Folo/network/members"><img src="https://img.shields.io/github/forks/RSSNext/Folo?style=flat-square&labelColor=343b41" alt="Forks: 2154"></a>
 </span>
 </div><br/>
@@ -41,8 +41,8 @@
 <img src="https://avatars.githubusercontent.com/u/347?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/tobi/qmd">tobi/qmd</a> 🔥🔥🔥</strong> <br/><br/>
 <em>mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-10-15</small><br/><br/>
 <span>
-<a href="https://github.com/tobi/qmd/stargazers"><img src="https://img.shields.io/github/stars/tobi/qmd?style=flat-square&labelColor=343b41" alt="Stars: 30911"></a>
-<a href="https://github.com/tobi/qmd/network/members"><img src="https://img.shields.io/github/forks/tobi/qmd?style=flat-square&labelColor=343b41" alt="Forks: 1946"></a>
+<a href="https://github.com/tobi/qmd/stargazers"><img src="https://img.shields.io/github/stars/tobi/qmd?style=flat-square&labelColor=343b41" alt="Stars: 30934"></a>
+<a href="https://github.com/tobi/qmd/network/members"><img src="https://img.shields.io/github/forks/tobi/qmd?style=flat-square&labelColor=343b41" alt="Forks: 1945"></a>
 </span>
 </div><br/>
 
@@ -50,8 +50,8 @@
 <img src="https://avatars.githubusercontent.com/u/19822348?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/typesense/typesense">typesense/typesense</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences</em><br/><small><code>C++</code> &nbsp;•&nbsp; ⚖️ GPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>algolia</code> <code>datastore</code> <code>elasticsearch</code> <code>enterprise-search</code> <code>faceting</code> <code>full-text-search</code></small><br/><br/>
 <span>
-<a href="https://github.com/typesense/typesense/stargazers"><img src="https://img.shields.io/github/stars/typesense/typesense?style=flat-square&labelColor=343b41" alt="Stars: 27092"></a>
-<a href="https://github.com/typesense/typesense/network/members"><img src="https://img.shields.io/github/forks/typesense/typesense?style=flat-square&labelColor=343b41" alt="Forks: 1029"></a>
+<a href="https://github.com/typesense/typesense/stargazers"><img src="https://img.shields.io/github/stars/typesense/typesense?style=flat-square&labelColor=343b41" alt="Stars: 27099"></a>
+<a href="https://github.com/typesense/typesense/network/members"><img src="https://img.shields.io/github/forks/typesense/typesense?style=flat-square&labelColor=343b41" alt="Forks: 1031"></a>
 </span>
 </div><br/>
 
@@ -59,8 +59,8 @@
 <img src="https://avatars.githubusercontent.com/u/33362396?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/benbusby/whoogle-search">benbusby/whoogle-search</a> 🔥🔥</strong> <code>⚠️ Archived</code><br/><br/>
 <em>A self-hosted, ad-free, privacy-respecting metasearch engine</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-08-14</small><br/><small>🏷️ <code>adblock</code> <code>docker</code> <code>easy-deploy</code> <code>flask</code> <code>heroku</code> <code>metasearch</code></small><br/><br/>
 <span>
-<a href="https://github.com/benbusby/whoogle-search/stargazers"><img src="https://img.shields.io/github/stars/benbusby/whoogle-search?style=flat-square&labelColor=343b41" alt="Stars: 11559"></a>
-<a href="https://github.com/benbusby/whoogle-search/network/members"><img src="https://img.shields.io/github/forks/benbusby/whoogle-search?style=flat-square&labelColor=343b41" alt="Forks: 1049"></a>
+<a href="https://github.com/benbusby/whoogle-search/stargazers"><img src="https://img.shields.io/github/stars/benbusby/whoogle-search?style=flat-square&labelColor=343b41" alt="Stars: 11558"></a>
+<a href="https://github.com/benbusby/whoogle-search/network/members"><img src="https://img.shields.io/github/forks/benbusby/whoogle-search?style=flat-square&labelColor=343b41" alt="Forks: 1047"></a>
 </span>
 </div><br/>
 
