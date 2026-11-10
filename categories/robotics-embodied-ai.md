@@ -8,15 +8,15 @@
 
 | Repository | Stars | Language | Updated | Description |
 | :--- | ---: | :--- | :--- | :--- |
-| [**commaai/openpilot**](https://github.com/commaai/openpilot) | ⭐ 64k | Python | 2026-11-07 | openpilot is an operating system for robotics. Currently, it upgrades the driver assi... |
-| [**Genesis-Embodied-AI/genesis-world**](https://github.com/Genesis-Embodied-AI/genesis-world) | ⭐ 30k | Python | 2026-11-07 | Simulation platform for general-purpose robotics &amp; embodied AI learning. |
-| [**harvard-edge/cs249r_book**](https://github.com/harvard-edge/cs249r_book) | ⭐ 30k | Python | 2026-11-07 | Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–I... |
-| [**huggingface/lerobot**](https://github.com/huggingface/lerobot) | ⭐ 29k | Python | 2026-11-07 | 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning |
+| [**commaai/openpilot**](https://github.com/commaai/openpilot) | ⭐ 64k | Python | 2026-11-10 | openpilot is an operating system for robotics. Currently, it upgrades the driver assi... |
+| [**Genesis-Embodied-AI/genesis-world**](https://github.com/Genesis-Embodied-AI/genesis-world) | ⭐ 30k | Python | 2026-11-10 | Simulation platform for general-purpose robotics &amp; embodied AI learning. |
+| [**harvard-edge/cs249r_book**](https://github.com/harvard-edge/cs249r_book) | ⭐ 30k | Python | 2026-11-10 | Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–I... |
+| [**huggingface/lerobot**](https://github.com/huggingface/lerobot) | ⭐ 29k | Python | 2026-11-10 | 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning |
 | [**Physical-Intelligence/openpi**](https://github.com/Physical-Intelligence/openpi) | ⭐ 15k | Python | 2026-08-24 | Open-source foundation models and packages for robotics published by Physical Intelli... |
 | [**dusty-nv/jetson-inference**](https://github.com/dusty-nv/jetson-inference) | ⭐ 9k | C++ | 2025-10-16 | Hello AI World guide to deploying deep-learning inference networks and deep vision pr... |
-| [**isaac-sim/IsaacLab**](https://github.com/isaac-sim/IsaacLab) | ⭐ 8.6k | Python | 2026-11-07 | Unified framework for robot learning with multi-physics/renderer support |
-| [**TheRobotStudio/SO-ARM100**](https://github.com/TheRobotStudio/SO-ARM100) | ⭐ 8k | — | 2026-10-06 | Standard Open Arm 100 |
-| [**ros-navigation/navigation2**](https://github.com/ros-navigation/navigation2) | ⭐ 5k | C++ | 2026-11-06 | ROS 2 Navigation Framework and System |
+| [**isaac-sim/IsaacLab**](https://github.com/isaac-sim/IsaacLab) | ⭐ 8.6k | Python | 2026-11-10 | Unified framework for robot learning with multi-physics/renderer support |
+| [**TheRobotStudio/SO-ARM100**](https://github.com/TheRobotStudio/SO-ARM100) | ⭐ 8.1k | — | 2026-10-06 | Standard Open Arm 100 |
+| [**ros-navigation/navigation2**](https://github.com/ros-navigation/navigation2) | ⭐ 5k | C++ | 2026-11-10 | ROS 2 Navigation Framework and System |
 | [**philfung/awesome-reliable-robotics**](https://github.com/philfung/awesome-reliable-robotics) | ⭐ 167 | — | 2026-09-25 | Robotics research demonstrating reliability and robustness in the real world (continu... |
 | [**open-ai-robot/robot-101**](https://github.com/open-ai-robot/robot-101) | ⭐ 137 | — | 2019-09-19 | Tutorial, books, videos, resources to help us learn and DIY Open Sources Robot |
 | [**Improbable-AI/airobot**](https://github.com/Improbable-AI/airobot) | ⭐ 100 | Python | 2024-03-07 | A python library for robot learning - An extension to PyRobot |
@@ -29,37 +29,37 @@
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/16128714?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/commaai/openpilot">commaai/openpilot</a> 🔥🔥🔥</strong> <br/><br/>
-<em>openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-07</small><br/><small>🏷️ <code>advanced-driver-assistance-systems</code> <code>driver-assistance-systems</code> <code>robotics</code></small><br/><br/>
+<em>openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-10</small><br/><small>🏷️ <code>advanced-driver-assistance-systems</code> <code>driver-assistance-systems</code> <code>robotics</code></small><br/><br/>
 <span>
-<a href="https://github.com/commaai/openpilot/stargazers"><img src="https://img.shields.io/github/stars/commaai/openpilot?style=flat-square&labelColor=343b41" alt="Stars: 64077"></a>
-<a href="https://github.com/commaai/openpilot/network/members"><img src="https://img.shields.io/github/forks/commaai/openpilot?style=flat-square&labelColor=343b41" alt="Forks: 11386"></a>
+<a href="https://github.com/commaai/openpilot/stargazers"><img src="https://img.shields.io/github/stars/commaai/openpilot?style=flat-square&labelColor=343b41" alt="Stars: 64099"></a>
+<a href="https://github.com/commaai/openpilot/network/members"><img src="https://img.shields.io/github/forks/commaai/openpilot?style=flat-square&labelColor=343b41" alt="Forks: 11391"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/149333263?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Genesis-Embodied-AI/genesis-world">Genesis-Embodied-AI/genesis-world</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Simulation platform for general-purpose robotics &amp; embodied AI learning.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-07</small><br/><br/>
+<em>Simulation platform for general-purpose robotics &amp; embodied AI learning.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-10</small><br/><br/>
 <span>
-<a href="https://github.com/Genesis-Embodied-AI/genesis-world/stargazers"><img src="https://img.shields.io/github/stars/Genesis-Embodied-AI/genesis-world?style=flat-square&labelColor=343b41" alt="Stars: 30191"></a>
-<a href="https://github.com/Genesis-Embodied-AI/genesis-world/network/members"><img src="https://img.shields.io/github/forks/Genesis-Embodied-AI/genesis-world?style=flat-square&labelColor=343b41" alt="Forks: 2909"></a>
+<a href="https://github.com/Genesis-Embodied-AI/genesis-world/stargazers"><img src="https://img.shields.io/github/stars/Genesis-Embodied-AI/genesis-world?style=flat-square&labelColor=343b41" alt="Stars: 30200"></a>
+<a href="https://github.com/Genesis-Embodied-AI/genesis-world/network/members"><img src="https://img.shields.io/github/forks/Genesis-Embodied-AI/genesis-world?style=flat-square&labelColor=343b41" alt="Forks: 2911"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/47722602?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/harvard-edge/cs249r_book">harvard-edge/cs249r_book</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-07</small><br/><small>🏷️ <code>agentic-ai</code> <code>ai-agents</code> <code>artificial-intelligence</code> <code>cloud-ml</code> <code>computer-systems</code> <code>courseware</code></small><br/><br/>
+<em>Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-10</small><br/><small>🏷️ <code>agentic-ai</code> <code>ai-agents</code> <code>artificial-intelligence</code> <code>cloud-ml</code> <code>computer-systems</code> <code>courseware</code></small><br/><br/>
 <span>
-<a href="https://github.com/harvard-edge/cs249r_book/stargazers"><img src="https://img.shields.io/github/stars/harvard-edge/cs249r_book?style=flat-square&labelColor=343b41" alt="Stars: 29998"></a>
-<a href="https://github.com/harvard-edge/cs249r_book/network/members"><img src="https://img.shields.io/github/forks/harvard-edge/cs249r_book?style=flat-square&labelColor=343b41" alt="Forks: 3717"></a>
+<a href="https://github.com/harvard-edge/cs249r_book/stargazers"><img src="https://img.shields.io/github/stars/harvard-edge/cs249r_book?style=flat-square&labelColor=343b41" alt="Stars: 30105"></a>
+<a href="https://github.com/harvard-edge/cs249r_book/network/members"><img src="https://img.shields.io/github/forks/harvard-edge/cs249r_book?style=flat-square&labelColor=343b41" alt="Forks: 3735"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/25720743?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/huggingface/lerobot">huggingface/lerobot</a> 🔥🔥🔥</strong> <br/><br/>
-<em>🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-07</small><br/><br/>
+<em>🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-10</small><br/><br/>
 <span>
-<a href="https://github.com/huggingface/lerobot/stargazers"><img src="https://img.shields.io/github/stars/huggingface/lerobot?style=flat-square&labelColor=343b41" alt="Stars: 28724"></a>
-<a href="https://github.com/huggingface/lerobot/network/members"><img src="https://img.shields.io/github/forks/huggingface/lerobot?style=flat-square&labelColor=343b41" alt="Forks: 6029"></a>
+<a href="https://github.com/huggingface/lerobot/stargazers"><img src="https://img.shields.io/github/stars/huggingface/lerobot?style=flat-square&labelColor=343b41" alt="Stars: 28782"></a>
+<a href="https://github.com/huggingface/lerobot/network/members"><img src="https://img.shields.io/github/forks/huggingface/lerobot?style=flat-square&labelColor=343b41" alt="Forks: 6046"></a>
 </span>
 </div><br/>
 
@@ -67,8 +67,8 @@
 <img src="https://avatars.githubusercontent.com/u/162759805?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Physical-Intelligence/openpi">Physical-Intelligence/openpi</a> 🔥🔥</strong> <br/><br/>
 <em>Open-source foundation models and packages for robotics published by Physical Intelligence.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-08-24</small><br/><br/>
 <span>
-<a href="https://github.com/Physical-Intelligence/openpi/stargazers"><img src="https://img.shields.io/github/stars/Physical-Intelligence/openpi?style=flat-square&labelColor=343b41" alt="Stars: 14565"></a>
-<a href="https://github.com/Physical-Intelligence/openpi/network/members"><img src="https://img.shields.io/github/forks/Physical-Intelligence/openpi?style=flat-square&labelColor=343b41" alt="Forks: 2627"></a>
+<a href="https://github.com/Physical-Intelligence/openpi/stargazers"><img src="https://img.shields.io/github/stars/Physical-Intelligence/openpi?style=flat-square&labelColor=343b41" alt="Stars: 14600"></a>
+<a href="https://github.com/Physical-Intelligence/openpi/network/members"><img src="https://img.shields.io/github/forks/Physical-Intelligence/openpi?style=flat-square&labelColor=343b41" alt="Forks: 2631"></a>
 </span>
 </div><br/>
 
@@ -76,17 +76,17 @@
 <img src="https://avatars.githubusercontent.com/u/15352619?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/dusty-nv/jetson-inference">dusty-nv/jetson-inference</a> 🔥🔥</strong> <br/><br/>
 <em>Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.</em><br/><small><code>C++</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2025-10-16</small><br/><small>🏷️ <code>caffe</code> <code>computer-vision</code> <code>deep-learning</code> <code>digits</code> <code>embedded</code> <code>image-recognition</code></small><br/><br/>
 <span>
-<a href="https://github.com/dusty-nv/jetson-inference/stargazers"><img src="https://img.shields.io/github/stars/dusty-nv/jetson-inference?style=flat-square&labelColor=343b41" alt="Stars: 9034"></a>
-<a href="https://github.com/dusty-nv/jetson-inference/network/members"><img src="https://img.shields.io/github/forks/dusty-nv/jetson-inference?style=flat-square&labelColor=343b41" alt="Forks: 3117"></a>
+<a href="https://github.com/dusty-nv/jetson-inference/stargazers"><img src="https://img.shields.io/github/stars/dusty-nv/jetson-inference?style=flat-square&labelColor=343b41" alt="Stars: 9035"></a>
+<a href="https://github.com/dusty-nv/jetson-inference/network/members"><img src="https://img.shields.io/github/forks/dusty-nv/jetson-inference?style=flat-square&labelColor=343b41" alt="Forks: 3118"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/157846462?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/isaac-sim/IsaacLab">isaac-sim/IsaacLab</a> 🔥🔥</strong> <br/><br/>
-<em>Unified framework for robot learning with multi-physics/renderer support</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-07</small><br/><small>🏷️ <code>isaac-sim</code> <code>omniverse-kit-extension</code> <code>robot-learning</code> <code>robotics</code></small><br/><br/>
+<em>Unified framework for robot learning with multi-physics/renderer support</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-10</small><br/><small>🏷️ <code>isaac-sim</code> <code>omniverse-kit-extension</code> <code>robot-learning</code> <code>robotics</code></small><br/><br/>
 <span>
-<a href="https://github.com/isaac-sim/IsaacLab/stargazers"><img src="https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=flat-square&labelColor=343b41" alt="Stars: 8582"></a>
-<a href="https://github.com/isaac-sim/IsaacLab/network/members"><img src="https://img.shields.io/github/forks/isaac-sim/IsaacLab?style=flat-square&labelColor=343b41" alt="Forks: 4003"></a>
+<a href="https://github.com/isaac-sim/IsaacLab/stargazers"><img src="https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=flat-square&labelColor=343b41" alt="Stars: 8607"></a>
+<a href="https://github.com/isaac-sim/IsaacLab/network/members"><img src="https://img.shields.io/github/forks/isaac-sim/IsaacLab?style=flat-square&labelColor=343b41" alt="Forks: 4007"></a>
 </span>
 </div><br/>
 
@@ -94,17 +94,17 @@
 <img src="https://avatars.githubusercontent.com/u/5095811?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/TheRobotStudio/SO-ARM100">TheRobotStudio/SO-ARM100</a> 🔥🔥</strong> <br/><br/>
 <em>Standard Open Arm 100</em><br/><small>⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-10-06</small><br/><br/>
 <span>
-<a href="https://github.com/TheRobotStudio/SO-ARM100/stargazers"><img src="https://img.shields.io/github/stars/TheRobotStudio/SO-ARM100?style=flat-square&labelColor=343b41" alt="Stars: 8021"></a>
-<a href="https://github.com/TheRobotStudio/SO-ARM100/network/members"><img src="https://img.shields.io/github/forks/TheRobotStudio/SO-ARM100?style=flat-square&labelColor=343b41" alt="Forks: 749"></a>
+<a href="https://github.com/TheRobotStudio/SO-ARM100/stargazers"><img src="https://img.shields.io/github/stars/TheRobotStudio/SO-ARM100?style=flat-square&labelColor=343b41" alt="Stars: 8068"></a>
+<a href="https://github.com/TheRobotStudio/SO-ARM100/network/members"><img src="https://img.shields.io/github/forks/TheRobotStudio/SO-ARM100?style=flat-square&labelColor=343b41" alt="Forks: 755"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/150733807?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/ros-navigation/navigation2">ros-navigation/navigation2</a> 🔥🔥</strong> <br/><br/>
-<em>ROS 2 Navigation Framework and System</em><br/><small><code>C++</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>navigation</code> <code>robotics</code> <code>ros2</code></small><br/><br/>
+<em>ROS 2 Navigation Framework and System</em><br/><small><code>C++</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-10</small><br/><small>🏷️ <code>navigation</code> <code>robotics</code> <code>ros2</code></small><br/><br/>
 <span>
-<a href="https://github.com/ros-navigation/navigation2/stargazers"><img src="https://img.shields.io/github/stars/ros-navigation/navigation2?style=flat-square&labelColor=343b41" alt="Stars: 5013"></a>
-<a href="https://github.com/ros-navigation/navigation2/network/members"><img src="https://img.shields.io/github/forks/ros-navigation/navigation2?style=flat-square&labelColor=343b41" alt="Forks: 2015"></a>
+<a href="https://github.com/ros-navigation/navigation2/stargazers"><img src="https://img.shields.io/github/stars/ros-navigation/navigation2?style=flat-square&labelColor=343b41" alt="Stars: 5025"></a>
+<a href="https://github.com/ros-navigation/navigation2/network/members"><img src="https://img.shields.io/github/forks/ros-navigation/navigation2?style=flat-square&labelColor=343b41" alt="Forks: 2021"></a>
 </span>
 </div><br/>
 
