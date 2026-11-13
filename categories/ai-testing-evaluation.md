@@ -8,22 +8,22 @@
 
 | Repository | Stars | Language | Updated | Description |
 | :--- | ---: | :--- | :--- | :--- |
-| [**usestrix/strix**](https://github.com/usestrix/strix) | ⭐ 75k | Python | 2026-11-10 | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
+| [**usestrix/strix**](https://github.com/usestrix/strix) | ⭐ 75k | Python | 2026-11-12 | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
 | [**qeeqbox/social-analyzer**](https://github.com/qeeqbox/social-analyzer) | ⭐ 25k | JavaScript | 2026-11-08 | API, CLI, and Web App for analyzing and finding a person's profile in 1000 social med... |
 | [**openai/evals**](https://github.com/openai/evals) | ⭐ 20k | Python | 2026-04-14 | Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry... |
-| [**tester-army/e2e**](https://github.com/tester-army/e2e) | ⭐ 14k | TypeScript | 2026-11-10 | Next generation e2e testing framework for web and mobile apps. |
-| [**guardrails-ai/guardrails**](https://github.com/guardrails-ai/guardrails) | ⭐ 7.6k | Python | 2026-11-10 | Adding guardrails to large language models. |
+| [**e2e-inc/e2e**](https://github.com/e2e-inc/e2e) | ⭐ 14k | TypeScript | 2026-11-13 | Next generation e2e testing framework for web and mobile apps. |
+| [**guardrails-ai/guardrails**](https://github.com/guardrails-ai/guardrails) | ⭐ 7.6k | Python | 2026-11-11 | Adding guardrails to large language models. |
 | [**antiwork/shortest**](https://github.com/antiwork/shortest) | ⭐ 5.7k | TypeScript | 2026-08-06 | QA via natural language AI tests |
-| [**langwatch/langwatch**](https://github.com/langwatch/langwatch) | ⭐ 5k | TypeScript | 2026-11-10 | Open-Source Agent Observability &amp; Evals for AI Platform teams. Trace, test, route and... |
+| [**langwatch/langwatch**](https://github.com/langwatch/langwatch) | ⭐ 5k | TypeScript | 2026-11-13 | Open-Source Agent Observability &amp; Evals for AI Platform teams. Trace, test, route and... |
 | [**meta-llama/PurpleLlama**](https://github.com/meta-llama/PurpleLlama) | ⭐ 4.5k | Python | 2026-11-09 | Set of tools to assess and improve LLM security. |
 | [**verazuo/jailbreak_llms**](https://github.com/verazuo/jailbreak_llms) | ⭐ 3.9k | Jupyter Notebook | 2024-12-24 | [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites,... |
-| [**UKGovernmentBEIS/inspect_ai**](https://github.com/UKGovernmentBEIS/inspect_ai) | ⭐ 3.2k | Python | 2026-11-10 | Inspect: A framework for large language model evaluations |
+| [**UKGovernmentBEIS/inspect_ai**](https://github.com/UKGovernmentBEIS/inspect_ai) | ⭐ 3.2k | Python | 2026-11-13 | Inspect: A framework for large language model evaluations |
 | [**huggingface/evaluation-guidebook**](https://github.com/huggingface/evaluation-guidebook) | ⭐ 2.2k | Jupyter Notebook | 2025-12-03 | Sharing both practical insights and theoretical knowledge about LLM evaluation that w... |
 | [**wintests/pytestDemo**](https://github.com/wintests/pytestDemo) | ⭐ 1.1k | Python | 2021-03-25 | 使用 Python+Requests+Pytest+YAML+Allure 实现接口自动化 |
 | [**tjunlp-lab/Awesome-LLMs-Evaluation-Papers**](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) | ⭐ 812 | — | 2024-05-08 | The papers are organized according to our survey: Evaluating Large Language Models: A... |
 | [**openai/openai-testing-agent-demo**](https://github.com/openai/openai-testing-agent-demo) | ⭐ 770 | TypeScript | 2025-06-17 | Demo of a UI testing agent using the OpenAI CUA model and the Responses API. |
-| [**overmind-core/overmind**](https://github.com/overmind-core/overmind) | ⭐ 755 | Python | 2026-11-10 | The platform for continuously improving AI agents. |
-| [**microsoft/AutoSaddler**](https://github.com/microsoft/AutoSaddler) | ⭐ 250 | Python | 2026-11-04 | Automatic Harness Optimization with durable updates from agent execution traces. |
+| [**overmind-core/overmind**](https://github.com/overmind-core/overmind) | ⭐ 758 | Python | 2026-11-12 | The platform for continuously improving AI agents. |
+| [**microsoft/AutoSaddler**](https://github.com/microsoft/AutoSaddler) | ⭐ 251 | Python | 2026-11-04 | Automatic Harness Optimization with durable updates from agent execution traces. |
 | [**thiagodp/concordialang**](https://github.com/thiagodp/concordialang) | ⭐ 49 | TypeScript | 2022-02-13 | ✅ Generate functional tests automatically from your Agile specification |
 
 </details>
@@ -32,10 +32,10 @@
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/187630752?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/usestrix/strix">usestrix/strix</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-10</small><br/><small>🏷️ <code>agents</code> <code>ai-hacking</code> <code>ai-penetration-testing</code> <code>ai-pentesting</code> <code>ai-security</code> <code>artificial-intelligence</code></small><br/><br/>
+<em>Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-12</small><br/><small>🏷️ <code>agents</code> <code>ai-hacking</code> <code>ai-penetration-testing</code> <code>ai-pentesting</code> <code>ai-security</code> <code>artificial-intelligence</code></small><br/><br/>
 <span>
-<a href="https://github.com/usestrix/strix/stargazers"><img src="https://img.shields.io/github/stars/usestrix/strix?style=flat-square&labelColor=343b41" alt="Stars: 74732"></a>
-<a href="https://github.com/usestrix/strix/network/members"><img src="https://img.shields.io/github/forks/usestrix/strix?style=flat-square&labelColor=343b41" alt="Forks: 8456"></a>
+<a href="https://github.com/usestrix/strix/stargazers"><img src="https://img.shields.io/github/stars/usestrix/strix?style=flat-square&labelColor=343b41" alt="Stars: 75209"></a>
+<a href="https://github.com/usestrix/strix/network/members"><img src="https://img.shields.io/github/forks/usestrix/strix?style=flat-square&labelColor=343b41" alt="Forks: 8504"></a>
 </span>
 </div><br/>
 
@@ -43,8 +43,8 @@
 <img src="https://avatars.githubusercontent.com/u/54420737?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/qeeqbox/social-analyzer">qeeqbox/social-analyzer</a> 🔥🔥</strong> <br/><br/>
 <em>API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-08</small><br/><small>🏷️ <code>analysis</code> <code>analyzer</code> <code>cli</code> <code>information-gathering</code> <code>javascript</code> <code>nodejs</code></small><br/><br/>
 <span>
-<a href="https://github.com/qeeqbox/social-analyzer/stargazers"><img src="https://img.shields.io/github/stars/qeeqbox/social-analyzer?style=flat-square&labelColor=343b41" alt="Stars: 24515"></a>
-<a href="https://github.com/qeeqbox/social-analyzer/network/members"><img src="https://img.shields.io/github/forks/qeeqbox/social-analyzer?style=flat-square&labelColor=343b41" alt="Forks: 2371"></a>
+<a href="https://github.com/qeeqbox/social-analyzer/stargazers"><img src="https://img.shields.io/github/stars/qeeqbox/social-analyzer?style=flat-square&labelColor=343b41" alt="Stars: 24547"></a>
+<a href="https://github.com/qeeqbox/social-analyzer/network/members"><img src="https://img.shields.io/github/forks/qeeqbox/social-analyzer?style=flat-square&labelColor=343b41" alt="Forks: 2374"></a>
 </span>
 </div><br/>
 
@@ -52,26 +52,26 @@
 <img src="https://avatars.githubusercontent.com/u/14957082?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/openai/evals">openai/evals</a> 🔥🔥</strong> <br/><br/>
 <em>Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-04-14</small><br/><br/>
 <span>
-<a href="https://github.com/openai/evals/stargazers"><img src="https://img.shields.io/github/stars/openai/evals?style=flat-square&labelColor=343b41" alt="Stars: 19722"></a>
-<a href="https://github.com/openai/evals/network/members"><img src="https://img.shields.io/github/forks/openai/evals?style=flat-square&labelColor=343b41" alt="Forks: 3127"></a>
+<a href="https://github.com/openai/evals/stargazers"><img src="https://img.shields.io/github/stars/openai/evals?style=flat-square&labelColor=343b41" alt="Stars: 19734"></a>
+<a href="https://github.com/openai/evals/network/members"><img src="https://img.shields.io/github/forks/openai/evals?style=flat-square&labelColor=343b41" alt="Forks: 3130"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
-<img src="https://avatars.githubusercontent.com/u/252887899?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/tester-army/e2e">tester-army/e2e</a> 🔥🔥</strong> <br/><br/>
-<em>Next generation e2e testing framework for web and mobile apps.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-10</small><br/><small>🏷️ <code>agentic-testing</code> <code>ai-testing</code> <code>automation-testing</code> <code>e2e</code> <code>e2e-testing</code> <code>end-to-end-testing</code></small><br/><br/>
+<img src="https://avatars.githubusercontent.com/u/252887899?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/e2e-inc/e2e">e2e-inc/e2e</a> 🔥🔥</strong> <br/><br/>
+<em>Next generation e2e testing framework for web and mobile apps.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-13</small><br/><small>🏷️ <code>agentic-testing</code> <code>ai-testing</code> <code>automation-testing</code> <code>e2e</code> <code>e2e-testing</code> <code>end-to-end-testing</code></small><br/><br/>
 <span>
-<a href="https://github.com/tester-army/e2e/stargazers"><img src="https://img.shields.io/github/stars/tester-army/e2e?style=flat-square&labelColor=343b41" alt="Stars: 13560"></a>
-<a href="https://github.com/tester-army/e2e/network/members"><img src="https://img.shields.io/github/forks/tester-army/e2e?style=flat-square&labelColor=343b41" alt="Forks: 707"></a>
+<a href="https://github.com/e2e-inc/e2e/stargazers"><img src="https://img.shields.io/github/stars/e2e-inc/e2e?style=flat-square&labelColor=343b41" alt="Stars: 13790"></a>
+<a href="https://github.com/e2e-inc/e2e/network/members"><img src="https://img.shields.io/github/forks/e2e-inc/e2e?style=flat-square&labelColor=343b41" alt="Forks: 729"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/140440022?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/guardrails-ai/guardrails">guardrails-ai/guardrails</a> 🔥🔥</strong> <br/><br/>
-<em>Adding guardrails to large language models.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-10</small><br/><small>🏷️ <code>ai</code> <code>foundation-model</code> <code>gpt-3</code> <code>llm</code> <code>openai</code></small><br/><br/>
+<em>Adding guardrails to large language models.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-11</small><br/><small>🏷️ <code>ai</code> <code>foundation-model</code> <code>gpt-3</code> <code>llm</code> <code>openai</code></small><br/><br/>
 <span>
-<a href="https://github.com/guardrails-ai/guardrails/stargazers"><img src="https://img.shields.io/github/stars/guardrails-ai/guardrails?style=flat-square&labelColor=343b41" alt="Stars: 7594"></a>
-<a href="https://github.com/guardrails-ai/guardrails/network/members"><img src="https://img.shields.io/github/forks/guardrails-ai/guardrails?style=flat-square&labelColor=343b41" alt="Forks: 737"></a>
+<a href="https://github.com/guardrails-ai/guardrails/stargazers"><img src="https://img.shields.io/github/stars/guardrails-ai/guardrails?style=flat-square&labelColor=343b41" alt="Stars: 7606"></a>
+<a href="https://github.com/guardrails-ai/guardrails/network/members"><img src="https://img.shields.io/github/forks/guardrails-ai/guardrails?style=flat-square&labelColor=343b41" alt="Forks: 739"></a>
 </span>
 </div><br/>
 
@@ -86,10 +86,10 @@
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/146763322?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/langwatch/langwatch">langwatch/langwatch</a> 🔥🔥</strong> <br/><br/>
-<em>Open-Source Agent Observability &amp; Evals for AI Platform teams. Trace, test, route and govern every agent &amp; coding assistant in the company.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-10</small><br/><small>🏷️ <code>agent-testing</code> <code>ai</code> <code>analytics</code> <code>datasets</code> <code>dspy</code> <code>evaluation</code></small><br/><br/>
+<em>Open-Source Agent Observability &amp; Evals for AI Platform teams. Trace, test, route and govern every agent &amp; coding assistant in the company.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-13</small><br/><small>🏷️ <code>agent-testing</code> <code>ai</code> <code>analytics</code> <code>datasets</code> <code>dspy</code> <code>evaluation</code></small><br/><br/>
 <span>
-<a href="https://github.com/langwatch/langwatch/stargazers"><img src="https://img.shields.io/github/stars/langwatch/langwatch?style=flat-square&labelColor=343b41" alt="Stars: 5019"></a>
-<a href="https://github.com/langwatch/langwatch/network/members"><img src="https://img.shields.io/github/forks/langwatch/langwatch?style=flat-square&labelColor=343b41" alt="Forks: 428"></a>
+<a href="https://github.com/langwatch/langwatch/stargazers"><img src="https://img.shields.io/github/stars/langwatch/langwatch?style=flat-square&labelColor=343b41" alt="Stars: 5026"></a>
+<a href="https://github.com/langwatch/langwatch/network/members"><img src="https://img.shields.io/github/forks/langwatch/langwatch?style=flat-square&labelColor=343b41" alt="Forks: 431"></a>
 </span>
 </div><br/>
 
@@ -97,8 +97,8 @@
 <img src="https://avatars.githubusercontent.com/u/153379578?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/meta-llama/PurpleLlama">meta-llama/PurpleLlama</a> 🔥</strong> <br/><br/>
 <em>Set of tools to assess and improve LLM security.</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-09</small><br/><br/>
 <span>
-<a href="https://github.com/meta-llama/PurpleLlama/stargazers"><img src="https://img.shields.io/github/stars/meta-llama/PurpleLlama?style=flat-square&labelColor=343b41" alt="Stars: 4472"></a>
-<a href="https://github.com/meta-llama/PurpleLlama/network/members"><img src="https://img.shields.io/github/forks/meta-llama/PurpleLlama?style=flat-square&labelColor=343b41" alt="Forks: 785"></a>
+<a href="https://github.com/meta-llama/PurpleLlama/stargazers"><img src="https://img.shields.io/github/stars/meta-llama/PurpleLlama?style=flat-square&labelColor=343b41" alt="Stars: 4478"></a>
+<a href="https://github.com/meta-llama/PurpleLlama/network/members"><img src="https://img.shields.io/github/forks/meta-llama/PurpleLlama?style=flat-square&labelColor=343b41" alt="Forks: 787"></a>
 </span>
 </div><br/>
 
@@ -106,17 +106,17 @@
 <img src="https://avatars.githubusercontent.com/u/16172194?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/verazuo/jailbreak_llms">verazuo/jailbreak_llms</a> 🔥</strong> <br/><br/>
 <em>[CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2024-12-24</small><br/><small>🏷️ <code>chatgpt</code> <code>jailbreak</code> <code>jailbreaking</code> <code>large-language-model</code> <code>llm</code> <code>llm-security</code></small><br/><br/>
 <span>
-<a href="https://github.com/verazuo/jailbreak_llms/stargazers"><img src="https://img.shields.io/github/stars/verazuo/jailbreak_llms?style=flat-square&labelColor=343b41" alt="Stars: 3883"></a>
-<a href="https://github.com/verazuo/jailbreak_llms/network/members"><img src="https://img.shields.io/github/forks/verazuo/jailbreak_llms?style=flat-square&labelColor=343b41" alt="Forks: 342"></a>
+<a href="https://github.com/verazuo/jailbreak_llms/stargazers"><img src="https://img.shields.io/github/stars/verazuo/jailbreak_llms?style=flat-square&labelColor=343b41" alt="Stars: 3889"></a>
+<a href="https://github.com/verazuo/jailbreak_llms/network/members"><img src="https://img.shields.io/github/forks/verazuo/jailbreak_llms?style=flat-square&labelColor=343b41" alt="Forks: 343"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/19221939?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/UKGovernmentBEIS/inspect_ai">UKGovernmentBEIS/inspect_ai</a> 🔥</strong> <br/><br/>
-<em>Inspect: A framework for large language model evaluations</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-10</small><br/><br/>
+<em>Inspect: A framework for large language model evaluations</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-13</small><br/><br/>
 <span>
-<a href="https://github.com/UKGovernmentBEIS/inspect_ai/stargazers"><img src="https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=flat-square&labelColor=343b41" alt="Stars: 3212"></a>
-<a href="https://github.com/UKGovernmentBEIS/inspect_ai/network/members"><img src="https://img.shields.io/github/forks/UKGovernmentBEIS/inspect_ai?style=flat-square&labelColor=343b41" alt="Forks: 915"></a>
+<a href="https://github.com/UKGovernmentBEIS/inspect_ai/stargazers"><img src="https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=flat-square&labelColor=343b41" alt="Stars: 3238"></a>
+<a href="https://github.com/UKGovernmentBEIS/inspect_ai/network/members"><img src="https://img.shields.io/github/forks/UKGovernmentBEIS/inspect_ai?style=flat-square&labelColor=343b41" alt="Forks: 929"></a>
 </span>
 </div><br/>
 
@@ -133,7 +133,7 @@
 <img src="https://avatars.githubusercontent.com/u/34374069?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/wintests/pytestDemo">wintests/pytestDemo</a> 🔥</strong> <br/><br/>
 <em>使用 Python+Requests+Pytest+YAML+Allure 实现接口自动化</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2021-03-25</small><br/><br/>
 <span>
-<a href="https://github.com/wintests/pytestDemo/stargazers"><img src="https://img.shields.io/github/stars/wintests/pytestDemo?style=flat-square&labelColor=343b41" alt="Stars: 1086"></a>
+<a href="https://github.com/wintests/pytestDemo/stargazers"><img src="https://img.shields.io/github/stars/wintests/pytestDemo?style=flat-square&labelColor=343b41" alt="Stars: 1085"></a>
 <a href="https://github.com/wintests/pytestDemo/network/members"><img src="https://img.shields.io/github/forks/wintests/pytestDemo?style=flat-square&labelColor=343b41" alt="Forks: 430"></a>
 </span>
 </div><br/>
@@ -152,15 +152,15 @@
 <em>Demo of a UI testing agent using the OpenAI CUA model and the Responses API.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2025-06-17</small><br/><br/>
 <span>
 <a href="https://github.com/openai/openai-testing-agent-demo/stargazers"><img src="https://img.shields.io/github/stars/openai/openai-testing-agent-demo?style=flat-square&labelColor=343b41" alt="Stars: 770"></a>
-<a href="https://github.com/openai/openai-testing-agent-demo/network/members"><img src="https://img.shields.io/github/forks/openai/openai-testing-agent-demo?style=flat-square&labelColor=343b41" alt="Forks: 119"></a>
+<a href="https://github.com/openai/openai-testing-agent-demo/network/members"><img src="https://img.shields.io/github/forks/openai/openai-testing-agent-demo?style=flat-square&labelColor=343b41" alt="Forks: 118"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/208257599?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/overmind-core/overmind">overmind-core/overmind</a> </strong> <br/><br/>
-<em>The platform for continuously improving AI agents.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-10</small><br/><small>🏷️ <code>ai-agents</code> <code>evals</code> <code>fine-tuning</code> <code>llm</code> <code>llm-evaluation</code> <code>llmops</code></small><br/><br/>
+<em>The platform for continuously improving AI agents.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-12</small><br/><small>🏷️ <code>ai-agents</code> <code>evals</code> <code>fine-tuning</code> <code>llm</code> <code>llm-evaluation</code> <code>llmops</code></small><br/><br/>
 <span>
-<a href="https://github.com/overmind-core/overmind/stargazers"><img src="https://img.shields.io/github/stars/overmind-core/overmind?style=flat-square&labelColor=343b41" alt="Stars: 755"></a>
+<a href="https://github.com/overmind-core/overmind/stargazers"><img src="https://img.shields.io/github/stars/overmind-core/overmind?style=flat-square&labelColor=343b41" alt="Stars: 758"></a>
 <a href="https://github.com/overmind-core/overmind/network/members"><img src="https://img.shields.io/github/forks/overmind-core/overmind?style=flat-square&labelColor=343b41" alt="Forks: 76"></a>
 </span>
 </div><br/>
@@ -169,7 +169,7 @@
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/microsoft/AutoSaddler">microsoft/AutoSaddler</a> </strong> <br/><br/>
 <em>Automatic Harness Optimization with durable updates from agent execution traces.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-04</small><br/><br/>
 <span>
-<a href="https://github.com/microsoft/AutoSaddler/stargazers"><img src="https://img.shields.io/github/stars/microsoft/AutoSaddler?style=flat-square&labelColor=343b41" alt="Stars: 250"></a>
+<a href="https://github.com/microsoft/AutoSaddler/stargazers"><img src="https://img.shields.io/github/stars/microsoft/AutoSaddler?style=flat-square&labelColor=343b41" alt="Stars: 251"></a>
 <a href="https://github.com/microsoft/AutoSaddler/network/members"><img src="https://img.shields.io/github/forks/microsoft/AutoSaddler?style=flat-square&labelColor=343b41" alt="Forks: 21"></a>
 </span>
 </div><br/>

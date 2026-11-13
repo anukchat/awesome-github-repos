@@ -5,9 +5,9 @@
   <a href="https://github.com/anukchat/awesome-github-repos/stargazers"><img src="https://img.shields.io/github/stars/anukchat/awesome-github-repos?style=flat-square" alt="Stars"></a>
   <a href="https://github.com/anukchat/awesome-github-repos/network/members"><img src="https://img.shields.io/github/forks/anukchat/awesome-github-repos?style=flat-square" alt="Forks"></a>
   <a href="https://github.com/anukchat/awesome-github-repos/blob/main/LICENSE"><img src="https://img.shields.io/github/license/anukchat/awesome-github-repos?style=flat-square" alt="License"></a>
-  <img src="https://img.shields.io/badge/Curated_Repos-822-2563eb?style=flat-square" alt="Curated Repos: 822">
+  <img src="https://img.shields.io/badge/Curated_Repos-827-2563eb?style=flat-square" alt="Curated Repos: 827">
   <img src="https://img.shields.io/badge/Categories-31-059669?style=flat-square" alt="Categories: 31">
-  <img src="https://img.shields.io/badge/Last_Synced-2026-11-10-4f46e5?style=flat-square" alt="Last Synced: 2026-11-10">
+  <img src="https://img.shields.io/badge/Last_Synced-2026-11-13-4f46e5?style=flat-square" alt="Last Synced: 2026-11-13">
 </p>
 
 <p align="center">
@@ -16,12 +16,72 @@
   <strong>🔥 <a href="#-hall-of-fame-most-starred">Hall of Fame</a></strong>
 </p>
 
-> **📊 Snapshot:** **822** starred repositories across **31** categories. **Top Languages:** Python (348) • TypeScript (156) • Jupyter Notebook (69) • JavaScript (36) • Rust (29) • Go (20).
+> **📊 Snapshot:** **827** starred repositories across **31** categories. **Top Languages:** Python (349) • TypeScript (159) • Jupyter Notebook (69) • JavaScript (36) • Rust (29) • Go (20).
 
 <details open align="left">
 <summary><span style='font-size:1.35em; font-weight:600; vertical-align:middle;'>🆕 Recent Additions (Latest 12 Starred)</span> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="32" alt="new"/></summary>
 
 <table align="center"><tr><td width="50%" style="vertical-align:top; padding: 20px 28px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="36" alt="new"/></div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/128464815?v=4" width="32" style="border-radius:50%;"/><br/>
+  <strong><a href="https://github.com/ComposioHQ/awesome-claude-skills">ComposioHQ/awesome-claude-skills</a> 🔥🔥🔥</strong>
+  <br/><br/>
+  <em>A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-09-18 &nbsp;•&nbsp; 📂 <a href="categories/awesome-lists-aggregators.md">Awesome Lists &amp; Aggregators</a></small>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/ComposioHQ/awesome-claude-skills/stargazers"><img src="https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills?style=flat-square&labelColor=343b41" alt="Stars: 79369"></a>
+    <a href="https://github.com/ComposioHQ/awesome-claude-skills/network/members"><img src="https://img.shields.io/github/forks/ComposioHQ/awesome-claude-skills?style=flat-square&labelColor=343b41" alt="Forks: 9682"></a>
+  </span>
+</div>
+</td><td width="50%" style="vertical-align:top; padding: 20px 28px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="36" alt="new"/></div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/255718537?v=4" width="32" style="border-radius:50%;"/><br/>
+  <strong><a href="https://github.com/amosblomqvist/learnharness">amosblomqvist/learnharness</a> 🔥🔥</strong>
+  <br/><br/>
+  <em>Agent harness for learning difficult things.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-12 &nbsp;•&nbsp; 📂 <a href="categories/knowledge-management-graphs.md">Knowledge Management &amp; Graphs</a></small>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/amosblomqvist/learnharness/stargazers"><img src="https://img.shields.io/github/stars/amosblomqvist/learnharness?style=flat-square&labelColor=343b41" alt="Stars: 9080"></a>
+    <a href="https://github.com/amosblomqvist/learnharness/network/members"><img src="https://img.shields.io/github/forks/amosblomqvist/learnharness?style=flat-square&labelColor=343b41" alt="Forks: 1209"></a>
+  </span>
+</div>
+</td></tr><tr><td width="50%" style="vertical-align:top; padding: 20px 28px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="36" alt="new"/></div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/112489039?v=4" width="32" style="border-radius:50%;"/><br/>
+  <strong><a href="https://github.com/JDhruv14/line-art-animation">JDhruv14/line-art-animation</a> </strong>
+  <br/><br/>
+  <em>A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cy...</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-10 &nbsp;•&nbsp; 📂 <a href="categories/generative-ai.md">Generative AI</a></small>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/JDhruv14/line-art-animation/stargazers"><img src="https://img.shields.io/github/stars/JDhruv14/line-art-animation?style=flat-square&labelColor=343b41" alt="Stars: 601"></a>
+    <a href="https://github.com/JDhruv14/line-art-animation/network/members"><img src="https://img.shields.io/github/forks/JDhruv14/line-art-animation?style=flat-square&labelColor=343b41" alt="Forks: 96"></a>
+  </span>
+</div>
+</td><td width="50%" style="vertical-align:top; padding: 20px 28px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="36" alt="new"/></div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/152786899?v=4" width="32" style="border-radius:50%;"/><br/>
+  <strong><a href="https://github.com/cordiverse/cordis">cordiverse/cordis</a> 🔥🔥</strong>
+  <br/><br/>
+  <em>Meta-Framework of Spatiotemporal Composability</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-12 &nbsp;•&nbsp; 📂 <a href="categories/ai-frameworks-toolkits.md">AI Frameworks &amp; Toolkits</a></small>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/cordiverse/cordis/stargazers"><img src="https://img.shields.io/github/stars/cordiverse/cordis?style=flat-square&labelColor=343b41" alt="Stars: 9868"></a>
+    <a href="https://github.com/cordiverse/cordis/network/members"><img src="https://img.shields.io/github/forks/cordiverse/cordis?style=flat-square&labelColor=343b41" alt="Forks: 638"></a>
+  </span>
+</div>
+</td></tr><tr><td width="50%" style="vertical-align:top; padding: 20px 28px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="36" alt="new"/></div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/3384712?v=4" width="32" style="border-radius:50%;"/><br/>
+  <strong><a href="https://github.com/janestreet/agent_skills">janestreet/agent_skills</a> 🔥🔥</strong>
+  <br/><br/>
+  <em>Agent skills</em><br/><small>⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-03 &nbsp;•&nbsp; 📂 <a href="categories/ai-agents-multi-agent-systems.md">AI Agents &amp; Multi-Agent Systems</a></small>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/janestreet/agent_skills/stargazers"><img src="https://img.shields.io/github/stars/janestreet/agent_skills?style=flat-square&labelColor=343b41" alt="Stars: 7886"></a>
+    <a href="https://github.com/janestreet/agent_skills/network/members"><img src="https://img.shields.io/github/forks/janestreet/agent_skills?style=flat-square&labelColor=343b41" alt="Forks: 511"></a>
+  </span>
+</div>
+</td><td width="50%" style="vertical-align:top; padding: 20px 28px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="36" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/201282378?v=4" width="32" style="border-radius:50%;"/><br/>
   <strong><a href="https://github.com/VoltAgent/awesome-agent-skills">VoltAgent/awesome-agent-skills</a> 🔥🔥🔥</strong>
@@ -29,23 +89,23 @@
   <em>A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, C...</em><br/><small>⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-05 &nbsp;•&nbsp; 📂 <a href="categories/awesome-lists-aggregators.md">Awesome Lists &amp; Aggregators</a></small>
   <br/><br/>
   <span>
-    <a href="https://github.com/VoltAgent/awesome-agent-skills/stargazers"><img src="https://img.shields.io/github/stars/VoltAgent/awesome-agent-skills?style=flat-square&labelColor=343b41" alt="Stars: 37017"></a>
-    <a href="https://github.com/VoltAgent/awesome-agent-skills/network/members"><img src="https://img.shields.io/github/forks/VoltAgent/awesome-agent-skills?style=flat-square&labelColor=343b41" alt="Forks: 4101"></a>
+    <a href="https://github.com/VoltAgent/awesome-agent-skills/stargazers"><img src="https://img.shields.io/github/stars/VoltAgent/awesome-agent-skills?style=flat-square&labelColor=343b41" alt="Stars: 37133"></a>
+    <a href="https://github.com/VoltAgent/awesome-agent-skills/network/members"><img src="https://img.shields.io/github/forks/VoltAgent/awesome-agent-skills?style=flat-square&labelColor=343b41" alt="Forks: 4117"></a>
   </span>
 </div>
-</td><td width="50%" style="vertical-align:top; padding: 20px 28px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="36" alt="new"/></div>
+</td></tr><tr><td width="50%" style="vertical-align:top; padding: 20px 28px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="36" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/130748619?v=4" width="32" style="border-radius:50%;"/><br/>
   <strong><a href="https://github.com/danyuchn/asd-ste100-skill">danyuchn/asd-ste100-skill</a> 🔥🔥</strong>
   <br/><br/>
-  <em>ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-09 &nbsp;•&nbsp; 📂 <a href="categories/ai-agents-multi-agent-systems.md">AI Agents &amp; Multi-Agent Systems</a></small>
+  <em>ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-12 &nbsp;•&nbsp; 📂 <a href="categories/ai-agents-multi-agent-systems.md">AI Agents &amp; Multi-Agent Systems</a></small>
   <br/><br/>
   <span>
-    <a href="https://github.com/danyuchn/asd-ste100-skill/stargazers"><img src="https://img.shields.io/github/stars/danyuchn/asd-ste100-skill?style=flat-square&labelColor=343b41" alt="Stars: 6275"></a>
-    <a href="https://github.com/danyuchn/asd-ste100-skill/network/members"><img src="https://img.shields.io/github/forks/danyuchn/asd-ste100-skill?style=flat-square&labelColor=343b41" alt="Forks: 363"></a>
+    <a href="https://github.com/danyuchn/asd-ste100-skill/stargazers"><img src="https://img.shields.io/github/stars/danyuchn/asd-ste100-skill?style=flat-square&labelColor=343b41" alt="Stars: 6398"></a>
+    <a href="https://github.com/danyuchn/asd-ste100-skill/network/members"><img src="https://img.shields.io/github/forks/danyuchn/asd-ste100-skill?style=flat-square&labelColor=343b41" alt="Forks: 370"></a>
   </span>
 </div>
-</td></tr><tr><td width="50%" style="vertical-align:top; padding: 20px 28px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="36" alt="new"/></div>
+</td><td width="50%" style="vertical-align:top; padding: 20px 28px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="36" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/166046056?v=4" width="32" style="border-radius:50%;"/><br/>
   <strong><a href="https://github.com/SWE-agent/mini-swe-agent">SWE-agent/mini-swe-agent</a> 🔥🔥</strong>
@@ -53,35 +113,35 @@
   <em>The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo...</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-09 &nbsp;•&nbsp; 📂 <a href="categories/ai-agents-multi-agent-systems.md">AI Agents &amp; Multi-Agent Systems</a></small>
   <br/><br/>
   <span>
-    <a href="https://github.com/SWE-agent/mini-swe-agent/stargazers"><img src="https://img.shields.io/github/stars/SWE-agent/mini-swe-agent?style=flat-square&labelColor=343b41" alt="Stars: 9485"></a>
-    <a href="https://github.com/SWE-agent/mini-swe-agent/network/members"><img src="https://img.shields.io/github/forks/SWE-agent/mini-swe-agent?style=flat-square&labelColor=343b41" alt="Forks: 1306"></a>
-  </span>
-</div>
-</td><td width="50%" style="vertical-align:top; padding: 20px 28px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="36" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/22075636?v=4" width="32" style="border-radius:50%;"/><br/>
-  <strong><a href="https://github.com/Dongbumlee/ontosmith">Dongbumlee/ontosmith</a> </strong>
-  <br/><br/>
-  <em>A decision-model-based ontology &amp; knowledge-graph builder — builds governed knowledge graphs from your documents, every fact gated and...</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-10 &nbsp;•&nbsp; 📂 <a href="categories/knowledge-management-graphs.md">Knowledge Management &amp; Graphs</a></small>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/Dongbumlee/ontosmith/stargazers"><img src="https://img.shields.io/github/stars/Dongbumlee/ontosmith?style=flat-square&labelColor=343b41" alt="Stars: 262"></a>
-    <a href="https://github.com/Dongbumlee/ontosmith/network/members"><img src="https://img.shields.io/github/forks/Dongbumlee/ontosmith?style=flat-square&labelColor=343b41" alt="Forks: 26"></a>
+    <a href="https://github.com/SWE-agent/mini-swe-agent/stargazers"><img src="https://img.shields.io/github/stars/SWE-agent/mini-swe-agent?style=flat-square&labelColor=343b41" alt="Stars: 9576"></a>
+    <a href="https://github.com/SWE-agent/mini-swe-agent/network/members"><img src="https://img.shields.io/github/forks/SWE-agent/mini-swe-agent?style=flat-square&labelColor=343b41" alt="Forks: 1308"></a>
   </span>
 </div>
 </td></tr><tr><td width="50%" style="vertical-align:top; padding: 20px 28px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="36" alt="new"/></div>
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/1728152?v=4" width="32" style="border-radius:50%;"/><br/>
-  <strong><a href="https://github.com/NVIDIA/auto-ontology">NVIDIA/auto-ontology</a> 🔥🔥</strong>
+  <img src="https://avatars.githubusercontent.com/u/22075636?v=4" width="32" style="border-radius:50%;"/><br/>
+  <strong><a href="https://github.com/Dongbumlee/ontosmith">Dongbumlee/ontosmith</a> </strong>
   <br/><br/>
-  <em>Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query gener...</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-09 &nbsp;•&nbsp; 📂 <a href="categories/knowledge-management-graphs.md">Knowledge Management &amp; Graphs</a></small>
+  <em>A decision-model-based ontology &amp; knowledge-graph builder — builds governed knowledge graphs from your documents, every fact gated and...</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-12 &nbsp;•&nbsp; 📂 <a href="categories/knowledge-management-graphs.md">Knowledge Management &amp; Graphs</a></small>
   <br/><br/>
   <span>
-    <a href="https://github.com/NVIDIA/auto-ontology/stargazers"><img src="https://img.shields.io/github/stars/NVIDIA/auto-ontology?style=flat-square&labelColor=343b41" alt="Stars: 11139"></a>
-    <a href="https://github.com/NVIDIA/auto-ontology/network/members"><img src="https://img.shields.io/github/forks/NVIDIA/auto-ontology?style=flat-square&labelColor=343b41" alt="Forks: 907"></a>
+    <a href="https://github.com/Dongbumlee/ontosmith/stargazers"><img src="https://img.shields.io/github/stars/Dongbumlee/ontosmith?style=flat-square&labelColor=343b41" alt="Stars: 277"></a>
+    <a href="https://github.com/Dongbumlee/ontosmith/network/members"><img src="https://img.shields.io/github/forks/Dongbumlee/ontosmith?style=flat-square&labelColor=343b41" alt="Forks: 27"></a>
   </span>
 </div>
 </td><td width="50%" style="vertical-align:top; padding: 20px 28px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="36" alt="new"/></div>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/1728152?v=4" width="32" style="border-radius:50%;"/><br/>
+  <strong><a href="https://github.com/NVIDIA/auto-ontology">NVIDIA/auto-ontology</a> 🔥🔥</strong>
+  <br/><br/>
+  <em>Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query gener...</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-13 &nbsp;•&nbsp; 📂 <a href="categories/knowledge-management-graphs.md">Knowledge Management &amp; Graphs</a></small>
+  <br/><br/>
+  <span>
+    <a href="https://github.com/NVIDIA/auto-ontology/stargazers"><img src="https://img.shields.io/github/stars/NVIDIA/auto-ontology?style=flat-square&labelColor=343b41" alt="Stars: 12311"></a>
+    <a href="https://github.com/NVIDIA/auto-ontology/network/members"><img src="https://img.shields.io/github/forks/NVIDIA/auto-ontology?style=flat-square&labelColor=343b41" alt="Forks: 1013"></a>
+  </span>
+</div>
+</td></tr><tr><td width="50%" style="vertical-align:top; padding: 20px 28px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="36" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/332268629?v=4" width="32" style="border-radius:50%;"/><br/>
   <strong><a href="https://github.com/OpenMontageInc/OpenMontage">OpenMontageInc/OpenMontage</a> 🔥🔥🔥</strong>
@@ -89,80 +149,20 @@
   <em>World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowle...</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-09 &nbsp;•&nbsp; 📂 <a href="categories/generative-ai.md">Generative AI</a></small>
   <br/><br/>
   <span>
-    <a href="https://github.com/OpenMontageInc/OpenMontage/stargazers"><img src="https://img.shields.io/github/stars/OpenMontageInc/OpenMontage?style=flat-square&labelColor=343b41" alt="Stars: 79201"></a>
-    <a href="https://github.com/OpenMontageInc/OpenMontage/network/members"><img src="https://img.shields.io/github/forks/OpenMontageInc/OpenMontage?style=flat-square&labelColor=343b41" alt="Forks: 10576"></a>
+    <a href="https://github.com/OpenMontageInc/OpenMontage/stargazers"><img src="https://img.shields.io/github/stars/OpenMontageInc/OpenMontage?style=flat-square&labelColor=343b41" alt="Stars: 80073"></a>
+    <a href="https://github.com/OpenMontageInc/OpenMontage/network/members"><img src="https://img.shields.io/github/forks/OpenMontageInc/OpenMontage?style=flat-square&labelColor=343b41" alt="Forks: 10769"></a>
   </span>
 </div>
-</td></tr><tr><td width="50%" style="vertical-align:top; padding: 20px 28px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="36" alt="new"/></div>
+</td><td width="50%" style="vertical-align:top; padding: 20px 28px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="36" alt="new"/></div>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/43004?v=4" width="32" style="border-radius:50%;"/><br/>
   <strong><a href="https://github.com/pbakaus/impeccable">pbakaus/impeccable</a> 🔥🔥🔥</strong>
   <br/><br/>
-  <em>The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ship...</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-10 &nbsp;•&nbsp; 📂 <a href="categories/ai-agents-multi-agent-systems.md">AI Agents &amp; Multi-Agent Systems</a></small>
+  <em>The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ship...</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-13 &nbsp;•&nbsp; 📂 <a href="categories/ai-agents-multi-agent-systems.md">AI Agents &amp; Multi-Agent Systems</a></small>
   <br/><br/>
   <span>
-    <a href="https://github.com/pbakaus/impeccable/stargazers"><img src="https://img.shields.io/github/stars/pbakaus/impeccable?style=flat-square&labelColor=343b41" alt="Stars: 107043"></a>
-    <a href="https://github.com/pbakaus/impeccable/network/members"><img src="https://img.shields.io/github/forks/pbakaus/impeccable?style=flat-square&labelColor=343b41" alt="Forks: 6360"></a>
-  </span>
-</div>
-</td><td width="50%" style="vertical-align:top; padding: 20px 28px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="36" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/34802794?v=4" width="32" style="border-radius:50%;"/><br/>
-  <strong><a href="https://github.com/coreyhaines31/marketingskills">coreyhaines31/marketingskills</a> 🔥🔥🔥</strong>
-  <br/><br/>
-  <em>Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-10 &nbsp;•&nbsp; 📂 <a href="categories/ai-agents-multi-agent-systems.md">AI Agents &amp; Multi-Agent Systems</a></small>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/coreyhaines31/marketingskills/stargazers"><img src="https://img.shields.io/github/stars/coreyhaines31/marketingskills?style=flat-square&labelColor=343b41" alt="Stars: 59461"></a>
-    <a href="https://github.com/coreyhaines31/marketingskills/network/members"><img src="https://img.shields.io/github/forks/coreyhaines31/marketingskills?style=flat-square&labelColor=343b41" alt="Forks: 8683"></a>
-  </span>
-</div>
-</td></tr><tr><td width="50%" style="vertical-align:top; padding: 20px 28px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="36" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/1672?v=4" width="32" style="border-radius:50%;"/><br/>
-  <strong><a href="https://github.com/blader/humanizer">blader/humanizer</a> 🔥🔥🔥</strong>
-  <br/><br/>
-  <em>Agent skill that removes signs of AI-generated writing from text</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-10 &nbsp;•&nbsp; 📂 <a href="categories/ai-agents-multi-agent-systems.md">AI Agents &amp; Multi-Agent Systems</a></small>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/blader/humanizer/stargazers"><img src="https://img.shields.io/github/stars/blader/humanizer?style=flat-square&labelColor=343b41" alt="Stars: 67215"></a>
-    <a href="https://github.com/blader/humanizer/network/members"><img src="https://img.shields.io/github/forks/blader/humanizer?style=flat-square&labelColor=343b41" alt="Forks: 5285"></a>
-  </span>
-</div>
-</td><td width="50%" style="vertical-align:top; padding: 20px 28px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="36" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/87530089?v=4" width="32" style="border-radius:50%;"/><br/>
-  <strong><a href="https://github.com/jakubkrehel/skills">jakubkrehel/skills</a> 🔥🔥</strong>
-  <br/><br/>
-  <em>A collection of agent skills that help you build great interfaces.</em><br/><small><code>Markdown</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-10 &nbsp;•&nbsp; 📂 <a href="categories/ai-ux-ui-design-interaction.md">AI UX/UI Design &amp; Interaction</a></small>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/jakubkrehel/skills/stargazers"><img src="https://img.shields.io/github/stars/jakubkrehel/skills?style=flat-square&labelColor=343b41" alt="Stars: 11881"></a>
-    <a href="https://github.com/jakubkrehel/skills/network/members"><img src="https://img.shields.io/github/forks/jakubkrehel/skills?style=flat-square&labelColor=343b41" alt="Forks: 464"></a>
-  </span>
-</div>
-</td></tr><tr><td width="50%" style="vertical-align:top; padding: 20px 28px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="36" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/223140489?v=4" width="32" style="border-radius:50%;"/><br/>
-  <strong><a href="https://github.com/AgriciDaniel/claude-seo">AgriciDaniel/claude-seo</a> 🔥🔥🔥</strong>
-  <br/><br/>
-  <em>Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (L...</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-01 &nbsp;•&nbsp; 📂 <a href="categories/ai-agents-multi-agent-systems.md">AI Agents &amp; Multi-Agent Systems</a></small>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/AgriciDaniel/claude-seo/stargazers"><img src="https://img.shields.io/github/stars/AgriciDaniel/claude-seo?style=flat-square&labelColor=343b41" alt="Stars: 27768"></a>
-    <a href="https://github.com/AgriciDaniel/claude-seo/network/members"><img src="https://img.shields.io/github/forks/AgriciDaniel/claude-seo?style=flat-square&labelColor=343b41" alt="Forks: 3600"></a>
-  </span>
-</div>
-</td><td width="50%" style="vertical-align:top; padding: 20px 28px; text-align:center;"><div align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="36" alt="new"/></div>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/107882187?v=4" width="32" style="border-radius:50%;"/><br/>
-  <strong><a href="https://github.com/hyprwm/Hyprland">hyprwm/Hyprland</a> 🔥🔥🔥</strong>
-  <br/><br/>
-  <em>Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.</em><br/><small><code>C++</code> &nbsp;•&nbsp; ⚖️ BSD-3-Clause &nbsp;•&nbsp; 🕒 Updated 2026-11-09 &nbsp;•&nbsp; 📂 <a href="categories/productivity-developer-tools.md">Productivity &amp; Developer Tools</a></small>
-  <br/><br/>
-  <span>
-    <a href="https://github.com/hyprwm/Hyprland/stargazers"><img src="https://img.shields.io/github/stars/hyprwm/Hyprland?style=flat-square&labelColor=343b41" alt="Stars: 40593"></a>
-    <a href="https://github.com/hyprwm/Hyprland/network/members"><img src="https://img.shields.io/github/forks/hyprwm/Hyprland?style=flat-square&labelColor=343b41" alt="Forks: 2171"></a>
+    <a href="https://github.com/pbakaus/impeccable/stargazers"><img src="https://img.shields.io/github/stars/pbakaus/impeccable?style=flat-square&labelColor=343b41" alt="Stars: 109114"></a>
+    <a href="https://github.com/pbakaus/impeccable/network/members"><img src="https://img.shields.io/github/forks/pbakaus/impeccable?style=flat-square&labelColor=343b41" alt="Forks: 6504"></a>
   </span>
 </div>
 </td></tr></table>
@@ -174,16 +174,16 @@
 
 | Rank | Repository | Category | Language | Stars | Forks |
 | :--- | :--- | :--- | :--- | ---: | ---: |
-| #1 | [**codecrafters-io/build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) 🔥🔥🔥 | [AI in Education & Courses](categories/ai-in-education-courses.md) | Markdown | ⭐ 561,413 | 🍴 52,535 |
-| #2 | [**sindresorhus/awesome**](https://github.com/sindresorhus/awesome) 🔥🔥🔥 | [Awesome Lists & Aggregators](categories/awesome-lists-aggregators.md) | — | ⭐ 534,401 | 🍴 38,259 |
-| #3 | [**public-apis/public-apis**](https://github.com/public-apis/public-apis) 🔥🔥🔥 | [Awesome Lists & Aggregators](categories/awesome-lists-aggregators.md) | Python | ⭐ 497,700 | 🍴 55,653 |
-| #4 | [**morluto/rea**](https://github.com/morluto/rea) 🔥🔥🔥 | [AI Agents & Multi-Agent Systems](categories/ai-agents-multi-agent-systems.md) | TypeScript | ⭐ 447,669 | 🍴 110,382 |
-| #5 | [**openclaw/openclaw**](https://github.com/openclaw/openclaw) 🔥🔥🔥 | [AI Agents & Multi-Agent Systems](categories/ai-agents-multi-agent-systems.md) | TypeScript | ⭐ 394,269 | 🍴 82,853 |
-| #6 | [**donnemartin/system-design-primer**](https://github.com/donnemartin/system-design-primer) 🔥🔥🔥 | [System & Software Design](categories/system-software-design.md) | Python | ⭐ 377,484 | 🍴 59,253 |
-| #7 | [**nilbuild/developer-roadmap**](https://github.com/nilbuild/developer-roadmap) 🔥🔥🔥 | [AI in Education & Courses](categories/ai-in-education-courses.md) | TypeScript | ⭐ 371,689 | 🍴 45,686 |
-| #8 | [**jwasham/coding-interview-university**](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥 | [AI in Education & Courses](categories/ai-in-education-courses.md) | — | ⭐ 364,154 | 🍴 85,531 |
-| #9 | [**awesome-selfhosted/awesome-selfhosted**](https://github.com/awesome-selfhosted/awesome-selfhosted) 🔥🔥🔥 | [Awesome Lists & Aggregators](categories/awesome-lists-aggregators.md) | — | ⭐ 335,575 | 🍴 15,788 |
-| #10 | [**vinta/awesome-python**](https://github.com/vinta/awesome-python) 🔥🔥🔥 | [Awesome Lists & Aggregators](categories/awesome-lists-aggregators.md) | Python | ⭐ 333,660 | 🍴 29,068 |
+| #1 | [**codecrafters-io/build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) 🔥🔥🔥 | [AI in Education & Courses](categories/ai-in-education-courses.md) | Markdown | ⭐ 562,188 | 🍴 52,600 |
+| #2 | [**sindresorhus/awesome**](https://github.com/sindresorhus/awesome) 🔥🔥🔥 | [Awesome Lists & Aggregators](categories/awesome-lists-aggregators.md) | — | ⭐ 536,055 | 🍴 38,368 |
+| #3 | [**public-apis/public-apis**](https://github.com/public-apis/public-apis) 🔥🔥🔥 | [Awesome Lists & Aggregators](categories/awesome-lists-aggregators.md) | Python | ⭐ 498,580 | 🍴 55,822 |
+| #4 | [**morluto/rea**](https://github.com/morluto/rea) 🔥🔥🔥 | [AI Agents & Multi-Agent Systems](categories/ai-agents-multi-agent-systems.md) | TypeScript | ⭐ 455,754 | 🍴 111,923 |
+| #5 | [**openclaw/openclaw**](https://github.com/openclaw/openclaw) 🔥🔥🔥 | [AI Agents & Multi-Agent Systems](categories/ai-agents-multi-agent-systems.md) | TypeScript | ⭐ 394,416 | 🍴 82,882 |
+| #6 | [**donnemartin/system-design-primer**](https://github.com/donnemartin/system-design-primer) 🔥🔥🔥 | [System & Software Design](categories/system-software-design.md) | Python | ⭐ 377,730 | 🍴 59,271 |
+| #7 | [**nilbuild/developer-roadmap**](https://github.com/nilbuild/developer-roadmap) 🔥🔥🔥 | [AI in Education & Courses](categories/ai-in-education-courses.md) | TypeScript | ⭐ 371,927 | 🍴 46,141 |
+| #8 | [**jwasham/coding-interview-university**](https://github.com/jwasham/coding-interview-university) 🔥🔥🔥 | [AI in Education & Courses](categories/ai-in-education-courses.md) | — | ⭐ 364,314 | 🍴 85,765 |
+| #9 | [**awesome-selfhosted/awesome-selfhosted**](https://github.com/awesome-selfhosted/awesome-selfhosted) 🔥🔥🔥 | [Awesome Lists & Aggregators](categories/awesome-lists-aggregators.md) | — | ⭐ 336,532 | 🍴 15,821 |
+| #10 | [**vinta/awesome-python**](https://github.com/vinta/awesome-python) 🔥🔥🔥 | [Awesome Lists & Aggregators](categories/awesome-lists-aggregators.md) | Python | ⭐ 334,388 | 🍴 29,092 |
 
 </details>
 
@@ -191,36 +191,36 @@
 
 | Category | Repos | Description & Top Project |
 | :--- | :---: | :--- |
-| 🧠 **[Large Language Models (LLMs)](categories/large-language-models-llms.md)** | **41** | Pretrained/fine-tuned models, inference engines, model recipes, optimization.<br/><small>🏆 Top: <a href="https://github.com/ollama/ollama">ollama/ollama</a> (⭐ 186k)</small> |
+| 🧠 **[Large Language Models (LLMs)](categories/large-language-models-llms.md)** | **41** | Pretrained/fine-tuned models, inference engines, model recipes, optimization.<br/><small>🏆 Top: <a href="https://github.com/ollama/ollama">ollama/ollama</a> (⭐ 187k)</small> |
 | ⚙️ **[LLMOps & Deployment](categories/llmops-deployment.md)** | **27** | Infrastructure, orchestration, serving, routing, monitoring for LLMs.<br/><small>🏆 Top: <a href="https://github.com/vllm-project/vllm">vllm-project/vllm</a> (⭐ 97k)</small> |
-| 🤖 **[AI Agents & Multi-Agent Systems](categories/ai-agents-multi-agent-systems.md)** | **172** | Autonomous agents, agent orchestration, frameworks, agent education.<br/><small>🏆 Top: <a href="https://github.com/morluto/rea">morluto/rea</a> (⭐ 448k)</small> |
+| 🤖 **[AI Agents & Multi-Agent Systems](categories/ai-agents-multi-agent-systems.md)** | **173** | Autonomous agents, agent orchestration, frameworks, agent education.<br/><small>🏆 Top: <a href="https://github.com/morluto/rea">morluto/rea</a> (⭐ 456k)</small> |
 | ✍️ **[Prompt Engineering](categories/prompt-engineering.md)** | **13** | Prompt tuning, optimization, system prompts, evaluation guides.<br/><small>🏆 Top: <a href="https://github.com/dair-ai/Prompt-Engineering-Guide">dair-ai/Prompt-Engineering-Guide</a> (⭐ 80k)</small> |
-| 🔍 **[Retrieval-Augmented Generation (RAG)](categories/retrieval-augmented-generation-rag.md)** | **31** | RAG frameworks, pipelines, vector DB integration, hybrid search systems.<br/><small>🏆 Top: <a href="https://github.com/thedotmack/claude-mem">thedotmack/claude-mem</a> (⭐ 116k)</small> |
+| 🔍 **[Retrieval-Augmented Generation (RAG)](categories/retrieval-augmented-generation-rag.md)** | **31** | RAG frameworks, pipelines, vector DB integration, hybrid search systems.<br/><small>🏆 Top: <a href="https://github.com/thedotmack/claude-mem">thedotmack/claude-mem</a> (⭐ 117k)</small> |
 | 🔌 **[Model Context Protocol (MCP)](categories/model-context-protocol-mcp.md)** | **39** | Tools, clients, servers, and implementations for managing model context.<br/><small>🏆 Top: <a href="https://github.com/microsoft/markitdown">microsoft/markitdown</a> (⭐ 195k)</small> |
-| 🧰 **[AI Frameworks & Toolkits](categories/ai-frameworks-toolkits.md)** | **20** | Libraries, platforms, or SDKs for building, training, evaluating models.<br/><small>🏆 Top: <a href="https://github.com/langgenius/dify">langgenius/dify</a> (⭐ 161k)</small> |
+| 🧰 **[AI Frameworks & Toolkits](categories/ai-frameworks-toolkits.md)** | **21** | Libraries, platforms, or SDKs for building, training, evaluating models.<br/><small>🏆 Top: <a href="https://github.com/langgenius/dify">langgenius/dify</a> (⭐ 161k)</small> |
 | ⚡ **[AI Automation & Workflow Tools](categories/ai-automation-workflow-tools.md)** | **19** | Workflow engines, automation platforms, RPA systems powered by AI.<br/><small>🏆 Top: <a href="https://github.com/openai/codex">openai/codex</a> (⭐ 135k)</small> |
-| 💬 **[Conversational AI & Chatbots](categories/conversational-ai-chatbots.md)** | **15** | Frameworks or UIs for chat agents, voice-based interfaces, open chat UIs.<br/><small>🏆 Top: <a href="https://github.com/open-webui/open-webui">open-webui/open-webui</a> (⭐ 158k)</small> |
+| 💬 **[Conversational AI & Chatbots](categories/conversational-ai-chatbots.md)** | **15** | Frameworks or UIs for chat agents, voice-based interfaces, open chat UIs.<br/><small>🏆 Top: <a href="https://github.com/open-webui/open-webui">open-webui/open-webui</a> (⭐ 159k)</small> |
 | 👁️ **[Computer Vision & Image Generation](categories/computer-vision-image-generation.md)** | **24** | Vision models, image editing, Stable Diffusion tools, multimodal setups.<br/><small>🏆 Top: <a href="https://github.com/Stirling-Tools/Stirling-PDF">Stirling-Tools/Stirling-PDF</a> (⭐ 96k)</small> |
-| 🎙️ **[Speech & Audio (TTS, ASR, Music)](categories/speech-audio-tts-asr-music.md)** | **17** | Text-to-speech, speech-to-text, music generation, audio processing.<br/><small>🏆 Top: <a href="https://github.com/debpalash/VoiceStudio">debpalash/VoiceStudio</a> (⭐ 106k)</small> |
+| 🎙️ **[Speech & Audio (TTS, ASR, Music)](categories/speech-audio-tts-asr-music.md)** | **17** | Text-to-speech, speech-to-text, music generation, audio processing.<br/><small>🏆 Top: <a href="https://github.com/debpalash/VoiceStudio">debpalash/VoiceStudio</a> (⭐ 109k)</small> |
 | 🦾 **[Robotics & Embodied AI](categories/robotics-embodied-ai.md)** | **14** | Robotics platforms, AI for robotics, humanoid or autonomous systems.<br/><small>🏆 Top: <a href="https://github.com/commaai/openpilot">commaai/openpilot</a> (⭐ 64k)</small> |
 | 📈 **[Machine Learning (Traditional)](categories/machine-learning-traditional.md)** | **17** | Non-LLM ML projects, courses, guides, systems design.<br/><small>🏆 Top: <a href="https://github.com/twitter/the-algorithm">twitter/the-algorithm</a> (⭐ 74k)</small> |
 | 🏗️ **[MLOps & ML Infrastructure](categories/mlops-ml-infrastructure.md)** | **9** | Tools for ML pipelines, CI/CD, experimentation, cloud ML infra.<br/><small>🏆 Top: <a href="https://github.com/eugeneyan/applied-ml">eugeneyan/applied-ml</a> (⭐ 31k)</small> |
-| 🎓 **[AI in Education & Courses](categories/ai-in-education-courses.md)** | **78** | Bootcamps, lecture notes, LLM/ML tutorials, beginner guides.<br/><small>🏆 Top: <a href="https://github.com/codecrafters-io/build-your-own-x">codecrafters-io/build-your-own-x</a> (⭐ 561k)</small> |
+| 🎓 **[AI in Education & Courses](categories/ai-in-education-courses.md)** | **78** | Bootcamps, lecture notes, LLM/ML tutorials, beginner guides.<br/><small>🏆 Top: <a href="https://github.com/codecrafters-io/build-your-own-x">codecrafters-io/build-your-own-x</a> (⭐ 562k)</small> |
 | 🧪 **[AI Testing & Evaluation](categories/ai-testing-evaluation.md)** | **17** | Tools or frameworks for model testing, hallucination detection, safety.<br/><small>🏆 Top: <a href="https://github.com/usestrix/strix">usestrix/strix</a> (⭐ 75k)</small> |
 | 🗣️ **[Natural Language Processing (NLP)](categories/natural-language-processing-nlp.md)** | **10** | Language understanding, transformers, tokenizers, datasets.<br/><small>🏆 Top: <a href="https://github.com/huggingface/transformers">huggingface/transformers</a> (⭐ 169k)</small> |
-| 🎨 **[AI UX/UI Design & Interaction](categories/ai-ux-ui-design-interaction.md)** | **34** | Web/Desktop interfaces for AI tools, UI component generation, agent UI.<br/><small>🏆 Top: <a href="https://github.com/Leonxlnx/taste-skill">Leonxlnx/taste-skill</a> (⭐ 113k)</small> |
-| ✨ **[Generative AI](categories/generative-ai.md)** | **14** | Image, video, podcast, music generation using AI.<br/><small>🏆 Top: <a href="https://github.com/Comfy-Org/ComfyUI">Comfy-Org/ComfyUI</a> (⭐ 146k)</small> |
-| 🗄️ **[Data Engineering & Pipelines](categories/data-engineering-pipelines.md)** | **11** | ETL tools, doc parsers, enrichment tools, structured input generators.<br/><small>🏆 Top: <a href="https://github.com/docling-project/docling">docling-project/docling</a> (⭐ 70k)</small> |
-| 🕸️ **[Knowledge Management & Graphs](categories/knowledge-management-graphs.md)** | **25** | Semantic search, AI memory, graph systems, Q&A layers.<br/><small>🏆 Top: <a href="https://github.com/Graphify-Labs/graphify">Graphify-Labs/graphify</a> (⭐ 145k)</small> |
+| 🎨 **[AI UX/UI Design & Interaction](categories/ai-ux-ui-design-interaction.md)** | **34** | Web/Desktop interfaces for AI tools, UI component generation, agent UI.<br/><small>🏆 Top: <a href="https://github.com/Leonxlnx/taste-skill">Leonxlnx/taste-skill</a> (⭐ 114k)</small> |
+| ✨ **[Generative AI](categories/generative-ai.md)** | **15** | Image, video, podcast, music generation using AI.<br/><small>🏆 Top: <a href="https://github.com/Comfy-Org/ComfyUI">Comfy-Org/ComfyUI</a> (⭐ 147k)</small> |
+| 🗄️ **[Data Engineering & Pipelines](categories/data-engineering-pipelines.md)** | **11** | ETL tools, doc parsers, enrichment tools, structured input generators.<br/><small>🏆 Top: <a href="https://github.com/docling-project/docling">docling-project/docling</a> (⭐ 71k)</small> |
+| 🕸️ **[Knowledge Management & Graphs](categories/knowledge-management-graphs.md)** | **26** | Semantic search, AI memory, graph systems, Q&A layers.<br/><small>🏆 Top: <a href="https://github.com/Graphify-Labs/graphify">Graphify-Labs/graphify</a> (⭐ 147k)</small> |
 | 🧩 **[Low-Code / No-Code AI Tools](categories/low-code-no-code-ai-tools.md)** | **3** | Platforms for visual programming, app building with minimal code.<br/><small>🏆 Top: <a href="https://github.com/FlowiseAI/Flowise">FlowiseAI/Flowise</a> (⭐ 56k)</small> |
-| 🕷️ **[Web Scraping & Automation](categories/web-scraping-automation.md)** | **23** | Crawlers, browser automation, task schedulers, data collectors.<br/><small>🏆 Top: <a href="https://github.com/firecrawl/firecrawl">firecrawl/firecrawl</a> (⭐ 200k)</small> |
-| 🏛️ **[System & Software Design](categories/system-software-design.md)** | **16** | Resources and examples on low-level and high-level system design.<br/><small>🏆 Top: <a href="https://github.com/donnemartin/system-design-primer">donnemartin/system-design-primer</a> (⭐ 377k)</small> |
+| 🕷️ **[Web Scraping & Automation](categories/web-scraping-automation.md)** | **23** | Crawlers, browser automation, task schedulers, data collectors.<br/><small>🏆 Top: <a href="https://github.com/firecrawl/firecrawl">firecrawl/firecrawl</a> (⭐ 201k)</small> |
+| 🏛️ **[System & Software Design](categories/system-software-design.md)** | **16** | Resources and examples on low-level and high-level system design.<br/><small>🏆 Top: <a href="https://github.com/donnemartin/system-design-primer">donnemartin/system-design-primer</a> (⭐ 378k)</small> |
 | ☁️ **[DevOps & Cloud Infrastructure](categories/devops-cloud-infrastructure.md)** | **21** | Self-hosting, deployment frameworks, containerized AI setups.<br/><small>🏆 Top: <a href="https://github.com/immich-app/immich">immich-app/immich</a> (⭐ 119k)</small> |
 | 🛠️ **[Productivity & Developer Tools](categories/productivity-developer-tools.md)** | **26** | Resume builders, markdown tools, GitHub UIs, icon generators.<br/><small>🏆 Top: <a href="https://github.com/microsoft/vscode">microsoft/vscode</a> (⭐ 195k)</small> |
-| 🔎 **[Search & Indexing Tools](categories/search-indexing-tools.md)** | **6** | Local search, search engine clones, AI-enhanced discovery.<br/><small>🏆 Top: <a href="https://github.com/searxng/searxng">searxng/searxng</a> (⭐ 39k)</small> |
+| 🔎 **[Search & Indexing Tools](categories/search-indexing-tools.md)** | **6** | Local search, search engine clones, AI-enhanced discovery.<br/><small>🏆 Top: <a href="https://github.com/searxng/searxng">searxng/searxng</a> (⭐ 40k)</small> |
 | 💹 **[Finance & Quantitative Tools](categories/finance-quantitative-tools.md)** | **17** | Tools for trading, analysis, hedge funds, forecasting.<br/><small>🏆 Top: <a href="https://github.com/TauricResearch/TradingAgents">TauricResearch/TradingAgents</a> (⭐ 122k)</small> |
 | 📡 **[IoT & Edge AI](categories/iot-edge-ai.md)** | **8** | Projects combining AI with IoT, edge compute, ESP32-based systems.<br/><small>🏆 Top: <a href="https://github.com/ruvnet/RuView">ruvnet/RuView</a> (⭐ 104k)</small> |
-| 🌟 **[Awesome Lists & Aggregators](categories/awesome-lists-aggregators.md)** | **52** | Curated resources, educational repositories, prompt or tool collections.<br/><small>🏆 Top: <a href="https://github.com/sindresorhus/awesome">sindresorhus/awesome</a> (⭐ 534k)</small> |
+| 🌟 **[Awesome Lists & Aggregators](categories/awesome-lists-aggregators.md)** | **53** | Curated resources, educational repositories, prompt or tool collections.<br/><small>🏆 Top: <a href="https://github.com/sindresorhus/awesome">sindresorhus/awesome</a> (⭐ 536k)</small> |
 | 📦 **[Others](categories/others.md)** | **3** | General open-source platforms and miscellaneous projects.<br/><small>🏆 Top: <a href="https://github.com/odoo/odoo">odoo/odoo</a> (⭐ 56k)</small> |
 
 ---
@@ -229,11 +229,11 @@
 
 - 🧠 [Large Language Models (LLMs)](categories/large-language-models-llms.md) (**41**): Pretrained/fine-tuned models, inference engines, model recipes, optimization.
 - ⚙️ [LLMOps & Deployment](categories/llmops-deployment.md) (**27**): Infrastructure, orchestration, serving, routing, monitoring for LLMs.
-- 🤖 [AI Agents & Multi-Agent Systems](categories/ai-agents-multi-agent-systems.md) (**172**): Autonomous agents, agent orchestration, frameworks, agent education.
+- 🤖 [AI Agents & Multi-Agent Systems](categories/ai-agents-multi-agent-systems.md) (**173**): Autonomous agents, agent orchestration, frameworks, agent education.
 - ✍️ [Prompt Engineering](categories/prompt-engineering.md) (**13**): Prompt tuning, optimization, system prompts, evaluation guides.
 - 🔍 [Retrieval-Augmented Generation (RAG)](categories/retrieval-augmented-generation-rag.md) (**31**): RAG frameworks, pipelines, vector DB integration, hybrid search systems.
 - 🔌 [Model Context Protocol (MCP)](categories/model-context-protocol-mcp.md) (**39**): Tools, clients, servers, and implementations for managing model context.
-- 🧰 [AI Frameworks & Toolkits](categories/ai-frameworks-toolkits.md) (**20**): Libraries, platforms, or SDKs for building, training, evaluating models.
+- 🧰 [AI Frameworks & Toolkits](categories/ai-frameworks-toolkits.md) (**21**): Libraries, platforms, or SDKs for building, training, evaluating models.
 - ⚡ [AI Automation & Workflow Tools](categories/ai-automation-workflow-tools.md) (**19**): Workflow engines, automation platforms, RPA systems powered by AI.
 - 💬 [Conversational AI & Chatbots](categories/conversational-ai-chatbots.md) (**15**): Frameworks or UIs for chat agents, voice-based interfaces, open chat UIs.
 - 👁️ [Computer Vision & Image Generation](categories/computer-vision-image-generation.md) (**24**): Vision models, image editing, Stable Diffusion tools, multimodal setups.
@@ -245,9 +245,9 @@
 - 🧪 [AI Testing & Evaluation](categories/ai-testing-evaluation.md) (**17**): Tools or frameworks for model testing, hallucination detection, safety.
 - 🗣️ [Natural Language Processing (NLP)](categories/natural-language-processing-nlp.md) (**10**): Language understanding, transformers, tokenizers, datasets.
 - 🎨 [AI UX/UI Design & Interaction](categories/ai-ux-ui-design-interaction.md) (**34**): Web/Desktop interfaces for AI tools, UI component generation, agent UI.
-- ✨ [Generative AI](categories/generative-ai.md) (**14**): Image, video, podcast, music generation using AI.
+- ✨ [Generative AI](categories/generative-ai.md) (**15**): Image, video, podcast, music generation using AI.
 - 🗄️ [Data Engineering & Pipelines](categories/data-engineering-pipelines.md) (**11**): ETL tools, doc parsers, enrichment tools, structured input generators.
-- 🕸️ [Knowledge Management & Graphs](categories/knowledge-management-graphs.md) (**25**): Semantic search, AI memory, graph systems, Q&A layers.
+- 🕸️ [Knowledge Management & Graphs](categories/knowledge-management-graphs.md) (**26**): Semantic search, AI memory, graph systems, Q&A layers.
 - 🧩 [Low-Code / No-Code AI Tools](categories/low-code-no-code-ai-tools.md) (**3**): Platforms for visual programming, app building with minimal code.
 - 🕷️ [Web Scraping & Automation](categories/web-scraping-automation.md) (**23**): Crawlers, browser automation, task schedulers, data collectors.
 - 🏛️ [System & Software Design](categories/system-software-design.md) (**16**): Resources and examples on low-level and high-level system design.
@@ -256,7 +256,7 @@
 - 🔎 [Search & Indexing Tools](categories/search-indexing-tools.md) (**6**): Local search, search engine clones, AI-enhanced discovery.
 - 💹 [Finance & Quantitative Tools](categories/finance-quantitative-tools.md) (**17**): Tools for trading, analysis, hedge funds, forecasting.
 - 📡 [IoT & Edge AI](categories/iot-edge-ai.md) (**8**): Projects combining AI with IoT, edge compute, ESP32-based systems.
-- 🌟 [Awesome Lists & Aggregators](categories/awesome-lists-aggregators.md) (**52**): Curated resources, educational repositories, prompt or tool collections.
+- 🌟 [Awesome Lists & Aggregators](categories/awesome-lists-aggregators.md) (**53**): Curated resources, educational repositories, prompt or tool collections.
 - 📦 [Others](categories/others.md) (**3**): General open-source platforms and miscellaneous projects.
 
 ---
