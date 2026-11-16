@@ -8,8 +8,8 @@
 
 | Repository | Stars | Language | Updated | Description |
 | :--- | ---: | :--- | :--- | :--- |
-| [**huggingface/transformers**](https://github.com/huggingface/transformers) | ⭐ 169k | Python | 2026-11-13 | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning... |
-| [**hiyouga/LlamaFactory**](https://github.com/hiyouga/LlamaFactory) | ⭐ 76k | Python | 2026-11-12 | Unified Efficient Fine-Tuning of 100+ LLMs &amp; VLMs (ACL 2024) |
+| [**huggingface/transformers**](https://github.com/huggingface/transformers) | ⭐ 169k | Python | 2026-11-16 | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning... |
+| [**hiyouga/LlamaFactory**](https://github.com/hiyouga/LlamaFactory) | ⭐ 76k | Python | 2026-11-16 | Unified Efficient Fine-Tuning of 100+ LLMs &amp; VLMs (ACL 2024) |
 | [**karpathy/nanochat**](https://github.com/karpathy/nanochat) | ⭐ 61k | Python | 2026-09-07 | The best ChatGPT that $100 can buy. |
 | [**google-research/bert**](https://github.com/google-research/bert) | ⭐ 40k | Python | 2024-07-23 | TensorFlow code and pre-trained models for BERT |
 | [**google/langextract**](https://github.com/google/langextract) | ⭐ 39k | Python | 2026-11-10 | A Python library for extracting structured information from unstructured text using L... |
@@ -25,19 +25,19 @@
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/25720743?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/huggingface/transformers">huggingface/transformers</a> 🔥🔥🔥</strong> <br/><br/>
-<em>🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-13</small><br/><small>🏷️ <code>audio</code> <code>deep-learning</code> <code>deepseek</code> <code>gemma</code> <code>glm</code> <code>hacktoberfest</code></small><br/><br/>
+<em>🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-16</small><br/><small>🏷️ <code>audio</code> <code>deep-learning</code> <code>deepseek</code> <code>gemma</code> <code>glm</code> <code>hacktoberfest</code></small><br/><br/>
 <span>
-<a href="https://github.com/huggingface/transformers/stargazers"><img src="https://img.shields.io/github/stars/huggingface/transformers?style=flat-square&labelColor=343b41" alt="Stars: 168938"></a>
-<a href="https://github.com/huggingface/transformers/network/members"><img src="https://img.shields.io/github/forks/huggingface/transformers?style=flat-square&labelColor=343b41" alt="Forks: 35233"></a>
+<a href="https://github.com/huggingface/transformers/stargazers"><img src="https://img.shields.io/github/stars/huggingface/transformers?style=flat-square&labelColor=343b41" alt="Stars: 169032"></a>
+<a href="https://github.com/huggingface/transformers/network/members"><img src="https://img.shields.io/github/forks/huggingface/transformers?style=flat-square&labelColor=343b41" alt="Forks: 35214"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/16256802?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/hiyouga/LlamaFactory">hiyouga/LlamaFactory</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Unified Efficient Fine-Tuning of 100+ LLMs &amp; VLMs (ACL 2024)</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-12</small><br/><small>🏷️ <code>agent</code> <code>ai</code> <code>deepseek</code> <code>fine-tuning</code> <code>gemma</code> <code>gpt</code></small><br/><br/>
+<em>Unified Efficient Fine-Tuning of 100+ LLMs &amp; VLMs (ACL 2024)</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-16</small><br/><small>🏷️ <code>agent</code> <code>ai</code> <code>deepseek</code> <code>fine-tuning</code> <code>gemma</code> <code>gpt</code></small><br/><br/>
 <span>
-<a href="https://github.com/hiyouga/LlamaFactory/stargazers"><img src="https://img.shields.io/github/stars/hiyouga/LlamaFactory?style=flat-square&labelColor=343b41" alt="Stars: 76023"></a>
-<a href="https://github.com/hiyouga/LlamaFactory/network/members"><img src="https://img.shields.io/github/forks/hiyouga/LlamaFactory?style=flat-square&labelColor=343b41" alt="Forks: 9366"></a>
+<a href="https://github.com/hiyouga/LlamaFactory/stargazers"><img src="https://img.shields.io/github/stars/hiyouga/LlamaFactory?style=flat-square&labelColor=343b41" alt="Stars: 76056"></a>
+<a href="https://github.com/hiyouga/LlamaFactory/network/members"><img src="https://img.shields.io/github/forks/hiyouga/LlamaFactory?style=flat-square&labelColor=343b41" alt="Forks: 9375"></a>
 </span>
 </div><br/>
 
@@ -45,8 +45,8 @@
 <img src="https://avatars.githubusercontent.com/u/241138?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/karpathy/nanochat">karpathy/nanochat</a> 🔥🔥🔥</strong> <br/><br/>
 <em>The best ChatGPT that $100 can buy.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-09-07</small><br/><br/>
 <span>
-<a href="https://github.com/karpathy/nanochat/stargazers"><img src="https://img.shields.io/github/stars/karpathy/nanochat?style=flat-square&labelColor=343b41" alt="Stars: 60528"></a>
-<a href="https://github.com/karpathy/nanochat/network/members"><img src="https://img.shields.io/github/forks/karpathy/nanochat?style=flat-square&labelColor=343b41" alt="Forks: 8491"></a>
+<a href="https://github.com/karpathy/nanochat/stargazers"><img src="https://img.shields.io/github/stars/karpathy/nanochat?style=flat-square&labelColor=343b41" alt="Stars: 60585"></a>
+<a href="https://github.com/karpathy/nanochat/network/members"><img src="https://img.shields.io/github/forks/karpathy/nanochat?style=flat-square&labelColor=343b41" alt="Forks: 8503"></a>
 </span>
 </div><br/>
 
@@ -54,8 +54,8 @@
 <img src="https://avatars.githubusercontent.com/u/43830688?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/google-research/bert">google-research/bert</a> 🔥🔥🔥</strong> <code>⚠️ Archived</code><br/><br/>
 <em>TensorFlow code and pre-trained models for BERT</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2024-07-23</small><br/><small>🏷️ <code>google</code> <code>natural-language-processing</code> <code>natural-language-understanding</code> <code>nlp</code> <code>tensorflow</code></small><br/><br/>
 <span>
-<a href="https://github.com/google-research/bert/stargazers"><img src="https://img.shields.io/github/stars/google-research/bert?style=flat-square&labelColor=343b41" alt="Stars: 40030"></a>
-<a href="https://github.com/google-research/bert/network/members"><img src="https://img.shields.io/github/forks/google-research/bert?style=flat-square&labelColor=343b41" alt="Forks: 9655"></a>
+<a href="https://github.com/google-research/bert/stargazers"><img src="https://img.shields.io/github/stars/google-research/bert?style=flat-square&labelColor=343b41" alt="Stars: 40026"></a>
+<a href="https://github.com/google-research/bert/network/members"><img src="https://img.shields.io/github/forks/google-research/bert?style=flat-square&labelColor=343b41" alt="Forks: 9653"></a>
 </span>
 </div><br/>
 
@@ -63,8 +63,8 @@
 <img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/google/langextract">google/langextract</a> 🔥🔥🔥</strong> <br/><br/>
 <em>A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-10</small><br/><small>🏷️ <code>gemini</code> <code>gemini-ai</code> <code>gemini-api</code> <code>gemini-flash</code> <code>gemini-pro</code> <code>information-extration</code></small><br/><br/>
 <span>
-<a href="https://github.com/google/langextract/stargazers"><img src="https://img.shields.io/github/stars/google/langextract?style=flat-square&labelColor=343b41" alt="Stars: 39307"></a>
-<a href="https://github.com/google/langextract/network/members"><img src="https://img.shields.io/github/forks/google/langextract?style=flat-square&labelColor=343b41" alt="Forks: 2752"></a>
+<a href="https://github.com/google/langextract/stargazers"><img src="https://img.shields.io/github/stars/google/langextract?style=flat-square&labelColor=343b41" alt="Stars: 39319"></a>
+<a href="https://github.com/google/langextract/network/members"><img src="https://img.shields.io/github/forks/google/langextract?style=flat-square&labelColor=343b41" alt="Forks: 2754"></a>
 </span>
 </div><br/>
 
@@ -72,7 +72,7 @@
 <img src="https://avatars.githubusercontent.com/u/30384625?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/dair-ai/ml-visuals">dair-ai/ml-visuals</a> 🔥🔥</strong> <br/><br/>
 <em>🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.</em><br/><small>⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2023-02-13</small><br/><small>🏷️ <code>artificial-intelligence</code> <code>deep-learning</code> <code>design</code> <code>machine-learning</code> <code>natural-language-processing</code></small><br/><br/>
 <span>
-<a href="https://github.com/dair-ai/ml-visuals/stargazers"><img src="https://img.shields.io/github/stars/dair-ai/ml-visuals?style=flat-square&labelColor=343b41" alt="Stars: 17453"></a>
+<a href="https://github.com/dair-ai/ml-visuals/stargazers"><img src="https://img.shields.io/github/stars/dair-ai/ml-visuals?style=flat-square&labelColor=343b41" alt="Stars: 17455"></a>
 <a href="https://github.com/dair-ai/ml-visuals/network/members"><img src="https://img.shields.io/github/forks/dair-ai/ml-visuals?style=flat-square&labelColor=343b41" alt="Forks: 1548"></a>
 </span>
 </div><br/>
@@ -90,7 +90,7 @@
 <img src="https://avatars.githubusercontent.com/u/177965497?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/MinishLab/model2vec">MinishLab/model2vec</a> 🔥</strong> <br/><br/>
 <em>Fast State-of-the-Art Static Embeddings</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-11</small><br/><small>🏷️ <code>ai</code> <code>embeddings</code> <code>machine-learning</code> <code>model2vec</code> <code>nlp</code> <code>python</code></small><br/><br/>
 <span>
-<a href="https://github.com/MinishLab/model2vec/stargazers"><img src="https://img.shields.io/github/stars/MinishLab/model2vec?style=flat-square&labelColor=343b41" alt="Stars: 2279"></a>
+<a href="https://github.com/MinishLab/model2vec/stargazers"><img src="https://img.shields.io/github/stars/MinishLab/model2vec?style=flat-square&labelColor=343b41" alt="Stars: 2282"></a>
 <a href="https://github.com/MinishLab/model2vec/network/members"><img src="https://img.shields.io/github/forks/MinishLab/model2vec?style=flat-square&labelColor=343b41" alt="Forks: 128"></a>
 </span>
 </div><br/>
