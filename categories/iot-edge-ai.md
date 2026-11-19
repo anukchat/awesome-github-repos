@@ -8,13 +8,13 @@
 
 | Repository | Stars | Language | Updated | Description |
 | :--- | ---: | :--- | :--- | :--- |
-| [**ruvnet/RuView**](https://github.com/ruvnet/RuView) | ⭐ 104k | Rust | 2026-11-16 | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign... |
+| [**ruvnet/RuView**](https://github.com/ruvnet/RuView) | ⭐ 105k | Rust | 2026-11-19 | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign... |
 | [**microsoft/IoT-For-Beginners**](https://github.com/microsoft/IoT-For-Beginners) | ⭐ 17k | Jupyter Notebook | 2026-05-26 | 12 Weeks, 24 Lessons, IoT for All! |
 | [**openinterpreter/01**](https://github.com/openinterpreter/01) | ⭐ 5.2k | Python | 2024-11-01 | The #1 open-source voice interface for desktop, mobile, and ESP32 chips. |
 | [**adamcohenhillel/ADeus**](https://github.com/adamcohenhillel/ADeus) | ⭐ 3.4k | TypeScript | 2024-04-22 | An open source AI wearable device that captures what you say and hear in the real wor... |
 | [**cpaczek/skylight**](https://github.com/cpaczek/skylight) | ⭐ 3.4k | TypeScript | 2026-10-17 | Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR... |
-| [**DaveBben/esp32-llm**](https://github.com/DaveBben/esp32-llm) | ⭐ 665 | C | 2024-09-04 | Running a LLM on the ESP32 |
-| [**ai-hpc/ai-hardware-engineer-roadmap**](https://github.com/ai-hpc/ai-hardware-engineer-roadmap) | ⭐ 307 | Python | 2026-11-15 | Master AI inference, AI agent harness systems, and hardware engineering — then design... |
+| [**DaveBben/esp32-llm**](https://github.com/DaveBben/esp32-llm) | ⭐ 667 | C | 2024-09-04 | Running a LLM on the ESP32 |
+| [**ai-hpc/ai-hardware-engineer-roadmap**](https://github.com/ai-hpc/ai-hardware-engineer-roadmap) | ⭐ 308 | Python | 2026-11-18 | Master AI inference, AI agent harness systems, and hardware engineering — then design... |
 | [**anukchat/postbot**](https://github.com/anukchat/postbot) | ⭐ 1 | Python | 2026-01-02 | Agent based system for automatic blogs generation using twitter bookmarks and tweet r... |
 
 </details>
@@ -23,10 +23,10 @@
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/2934394?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/ruvnet/RuView">ruvnet/RuView</a> 🔥🔥🔥</strong> <br/><br/>
-<em>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-16</small><br/><small>🏷️ <code>claude</code> <code>claude-code</code> <code>esp32</code> <code>firmware</code> <code>home-assistant</code> <code>home-automation</code></small><br/><br/>
+<em>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-19</small><br/><small>🏷️ <code>claude</code> <code>claude-code</code> <code>esp32</code> <code>firmware</code> <code>home-assistant</code> <code>home-automation</code></small><br/><br/>
 <span>
-<a href="https://github.com/ruvnet/RuView/stargazers"><img src="https://img.shields.io/github/stars/ruvnet/RuView?style=flat-square&labelColor=343b41" alt="Stars: 104394"></a>
-<a href="https://github.com/ruvnet/RuView/network/members"><img src="https://img.shields.io/github/forks/ruvnet/RuView?style=flat-square&labelColor=343b41" alt="Forks: 13578"></a>
+<a href="https://github.com/ruvnet/RuView/stargazers"><img src="https://img.shields.io/github/stars/ruvnet/RuView?style=flat-square&labelColor=343b41" alt="Stars: 104599"></a>
+<a href="https://github.com/ruvnet/RuView/network/members"><img src="https://img.shields.io/github/forks/ruvnet/RuView?style=flat-square&labelColor=343b41" alt="Forks: 13592"></a>
 </span>
 </div><br/>
 
@@ -34,8 +34,8 @@
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/microsoft/IoT-For-Beginners">microsoft/IoT-For-Beginners</a> 🔥🔥</strong> <br/><br/>
 <em>12 Weeks, 24 Lessons, IoT for All!</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-05-26</small><br/><small>🏷️ <code>cpp</code> <code>hacktoberfest</code> <code>iot</code> <code>iot-device</code> <code>iot-edge</code> <code>microcontroller</code></small><br/><br/>
 <span>
-<a href="https://github.com/microsoft/IoT-For-Beginners/stargazers"><img src="https://img.shields.io/github/stars/microsoft/IoT-For-Beginners?style=flat-square&labelColor=343b41" alt="Stars: 17191"></a>
-<a href="https://github.com/microsoft/IoT-For-Beginners/network/members"><img src="https://img.shields.io/github/forks/microsoft/IoT-For-Beginners?style=flat-square&labelColor=343b41" alt="Forks: 2940"></a>
+<a href="https://github.com/microsoft/IoT-For-Beginners/stargazers"><img src="https://img.shields.io/github/stars/microsoft/IoT-For-Beginners?style=flat-square&labelColor=343b41" alt="Stars: 17196"></a>
+<a href="https://github.com/microsoft/IoT-For-Beginners/network/members"><img src="https://img.shields.io/github/forks/microsoft/IoT-For-Beginners?style=flat-square&labelColor=343b41" alt="Forks: 2941"></a>
 </span>
 </div><br/>
 
@@ -44,7 +44,7 @@
 <em>The #1 open-source voice interface for desktop, mobile, and ESP32 chips.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2024-11-01</small><br/><br/>
 <span>
 <a href="https://github.com/openinterpreter/01/stargazers"><img src="https://img.shields.io/github/stars/openinterpreter/01?style=flat-square&labelColor=343b41" alt="Stars: 5165"></a>
-<a href="https://github.com/openinterpreter/01/network/members"><img src="https://img.shields.io/github/forks/openinterpreter/01?style=flat-square&labelColor=343b41" alt="Forks: 529"></a>
+<a href="https://github.com/openinterpreter/01/network/members"><img src="https://img.shields.io/github/forks/openinterpreter/01?style=flat-square&labelColor=343b41" alt="Forks: 528"></a>
 </span>
 </div><br/>
 
@@ -61,8 +61,8 @@
 <img src="https://avatars.githubusercontent.com/u/25715982?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/cpaczek/skylight">cpaczek/skylight</a> 🔥</strong> <br/><br/>
 <em>Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-10-17</small><br/><small>🏷️ <code>ads-b</code> <code>aircraft</code> <code>art-installation</code> <code>flight-tracker</code> <code>projector</code> <code>raspberry-pi</code></small><br/><br/>
 <span>
-<a href="https://github.com/cpaczek/skylight/stargazers"><img src="https://img.shields.io/github/stars/cpaczek/skylight?style=flat-square&labelColor=343b41" alt="Stars: 3400"></a>
-<a href="https://github.com/cpaczek/skylight/network/members"><img src="https://img.shields.io/github/forks/cpaczek/skylight?style=flat-square&labelColor=343b41" alt="Forks: 415"></a>
+<a href="https://github.com/cpaczek/skylight/stargazers"><img src="https://img.shields.io/github/stars/cpaczek/skylight?style=flat-square&labelColor=343b41" alt="Stars: 3401"></a>
+<a href="https://github.com/cpaczek/skylight/network/members"><img src="https://img.shields.io/github/forks/cpaczek/skylight?style=flat-square&labelColor=343b41" alt="Forks: 414"></a>
 </span>
 </div><br/>
 
@@ -70,16 +70,16 @@
 <img src="https://avatars.githubusercontent.com/u/12903207?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/DaveBben/esp32-llm">DaveBben/esp32-llm</a> </strong> <br/><br/>
 <em>Running a LLM on the ESP32</em><br/><small><code>C</code> &nbsp;•&nbsp; 🕒 Updated 2024-09-04</small><br/><br/>
 <span>
-<a href="https://github.com/DaveBben/esp32-llm/stargazers"><img src="https://img.shields.io/github/stars/DaveBben/esp32-llm?style=flat-square&labelColor=343b41" alt="Stars: 665"></a>
+<a href="https://github.com/DaveBben/esp32-llm/stargazers"><img src="https://img.shields.io/github/stars/DaveBben/esp32-llm?style=flat-square&labelColor=343b41" alt="Stars: 667"></a>
 <a href="https://github.com/DaveBben/esp32-llm/network/members"><img src="https://img.shields.io/github/forks/DaveBben/esp32-llm?style=flat-square&labelColor=343b41" alt="Forks: 86"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/183861985?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/ai-hpc/ai-hardware-engineer-roadmap">ai-hpc/ai-hardware-engineer-roadmap</a> </strong> <br/><br/>
-<em>Master AI inference, AI agent harness systems, and hardware engineering — then design a physical AI chip. That is the goal.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-15</small><br/><small>🏷️ <code>ai-accelerators</code> <code>ai-agents</code> <code>ai-hardware</code> <code>autonomous-vehicles</code> <code>computer-architecture</code> <code>computer-vision</code></small><br/><br/>
+<em>Master AI inference, AI agent harness systems, and hardware engineering — then design a physical AI chip. That is the goal.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-18</small><br/><small>🏷️ <code>ai-accelerators</code> <code>ai-agents</code> <code>ai-hardware</code> <code>autonomous-vehicles</code> <code>computer-architecture</code> <code>computer-vision</code></small><br/><br/>
 <span>
-<a href="https://github.com/ai-hpc/ai-hardware-engineer-roadmap/stargazers"><img src="https://img.shields.io/github/stars/ai-hpc/ai-hardware-engineer-roadmap?style=flat-square&labelColor=343b41" alt="Stars: 307"></a>
+<a href="https://github.com/ai-hpc/ai-hardware-engineer-roadmap/stargazers"><img src="https://img.shields.io/github/stars/ai-hpc/ai-hardware-engineer-roadmap?style=flat-square&labelColor=343b41" alt="Stars: 308"></a>
 <a href="https://github.com/ai-hpc/ai-hardware-engineer-roadmap/network/members"><img src="https://img.shields.io/github/forks/ai-hpc/ai-hardware-engineer-roadmap?style=flat-square&labelColor=343b41" alt="Forks: 48"></a>
 </span>
 </div><br/>

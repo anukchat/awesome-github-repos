@@ -8,8 +8,8 @@
 
 | Repository | Stars | Language | Updated | Description |
 | :--- | ---: | :--- | :--- | :--- |
-| [**odoo/odoo**](https://github.com/odoo/odoo) | ⭐ 56k | Python | 2026-11-16 | Odoo. Open Source Apps To Grow Your Business. |
-| [**antiwork/gumroad**](https://github.com/antiwork/gumroad) | ⭐ 10k | Ruby | 2026-11-16 | See what sticks |
+| [**odoo/odoo**](https://github.com/odoo/odoo) | ⭐ 56k | Python | 2026-11-19 | Odoo. Open Source Apps To Grow Your Business. |
+| [**antiwork/gumroad**](https://github.com/antiwork/gumroad) | ⭐ 10k | Ruby | 2026-11-19 | See what sticks |
 | [**Darwin-Agent/HarnessX**](https://github.com/Darwin-Agent/HarnessX) | ⭐ 515 | Python | 2026-11-03 | HarnessX is a harness foundry: forge any number of agent harnesses from reusable proc... |
 
 </details>
@@ -18,19 +18,19 @@
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/6368483?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/odoo/odoo">odoo/odoo</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Odoo. Open Source Apps To Grow Your Business.</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-16</small><br/><small>🏷️ <code>apps</code> <code>business</code> <code>erp</code> <code>management</code> <code>odoo</code> <code>odoo-apps</code></small><br/><br/>
+<em>Odoo. Open Source Apps To Grow Your Business.</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-19</small><br/><small>🏷️ <code>apps</code> <code>business</code> <code>erp</code> <code>management</code> <code>odoo</code> <code>odoo-apps</code></small><br/><br/>
 <span>
-<a href="https://github.com/odoo/odoo/stargazers"><img src="https://img.shields.io/github/stars/odoo/odoo?style=flat-square&labelColor=343b41" alt="Stars: 55822"></a>
-<a href="https://github.com/odoo/odoo/network/members"><img src="https://img.shields.io/github/forks/odoo/odoo?style=flat-square&labelColor=343b41" alt="Forks: 34314"></a>
+<a href="https://github.com/odoo/odoo/stargazers"><img src="https://img.shields.io/github/stars/odoo/odoo?style=flat-square&labelColor=343b41" alt="Stars: 55916"></a>
+<a href="https://github.com/odoo/odoo/network/members"><img src="https://img.shields.io/github/forks/odoo/odoo?style=flat-square&labelColor=343b41" alt="Forks: 34358"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/1178890?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/antiwork/gumroad">antiwork/gumroad</a> 🔥🔥</strong> <br/><br/>
-<em>See what sticks</em><br/><small><code>Ruby</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-16</small><br/><br/>
+<em>See what sticks</em><br/><small><code>Ruby</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-19</small><br/><br/>
 <span>
-<a href="https://github.com/antiwork/gumroad/stargazers"><img src="https://img.shields.io/github/stars/antiwork/gumroad?style=flat-square&labelColor=343b41" alt="Stars: 10163"></a>
-<a href="https://github.com/antiwork/gumroad/network/members"><img src="https://img.shields.io/github/forks/antiwork/gumroad?style=flat-square&labelColor=343b41" alt="Forks: 2119"></a>
+<a href="https://github.com/antiwork/gumroad/stargazers"><img src="https://img.shields.io/github/stars/antiwork/gumroad?style=flat-square&labelColor=343b41" alt="Stars: 10179"></a>
+<a href="https://github.com/antiwork/gumroad/network/members"><img src="https://img.shields.io/github/forks/antiwork/gumroad?style=flat-square&labelColor=343b41" alt="Forks: 2126"></a>
 </span>
 </div><br/>
 
