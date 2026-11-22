@@ -10,17 +10,17 @@
 | :--- | ---: | :--- | :--- | :--- |
 | [**TauricResearch/TradingAgents**](https://github.com/TauricResearch/TradingAgents) | ⭐ 123k | Python | 2026-11-17 | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 | [**openbq-org/OpenBB**](https://github.com/openbq-org/OpenBB) | ⭐ 76k | Python | 2026-11-18 | Open Data Platform for analysts, quants and AI agents. |
-| [**ZhuLinsen/daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | ⭐ 73k | Python | 2026-11-18 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock ana... |
+| [**ZhuLinsen/daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | ⭐ 74k | Python | 2026-11-22 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock ana... |
 | [**virattt/ai-hedge-fund**](https://github.com/virattt/ai-hedge-fund) | ⭐ 65k | Python | 2026-11-09 | An AI Hedge Fund Team |
-| [**twentyhq/twenty**](https://github.com/twentyhq/twenty) | ⭐ 61k | TypeScript | 2026-11-19 | The open alternative to Salesforce, designed for AI. |
+| [**twentyhq/twenty**](https://github.com/twentyhq/twenty) | ⭐ 61k | TypeScript | 2026-11-22 | The open alternative to Salesforce, designed for AI. |
 | [**microsoft/qlib**](https://github.com/microsoft/qlib) | ⭐ 50k | Python | 2026-11-04 | Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower... |
 | [**virattt/dexter**](https://github.com/virattt/dexter) | ⭐ 28k | TypeScript | 2026-09-23 | An autonomous agent for deep financial research |
-| [**dailydotdev/daily**](https://github.com/dailydotdev/daily) | ⭐ 20k | JavaScript | 2026-11-18 | daily.dev is the personalized developer news feed and community. Get the best tech co... |
-| [**opf/openproject**](https://github.com/opf/openproject) | ⭐ 18k | Ruby | 2026-11-19 | OpenProject is the leading open source project management software for product, proje... |
+| [**dailydotdev/daily**](https://github.com/dailydotdev/daily) | ⭐ 20k | JavaScript | 2026-11-21 | daily.dev is the personalized developer news feed and community. Get the best tech co... |
+| [**opf/openproject**](https://github.com/opf/openproject) | ⭐ 18k | Ruby | 2026-11-22 | OpenProject is the leading open source project management software for product, proje... |
 | [**Billionmail/BillionMail**](https://github.com/Billionmail/BillionMail) | ⭐ 16k | Go | 2026-06-11 | BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully se... |
 | [**midday-ai/midday**](https://github.com/midday-ai/midday) | ⭐ 15k | TypeScript | 2026-06-13 | Invoicing, Time tracking, File reconciliation, Storage, Financial Overview &amp; your own... |
 | [**StartBootstrap/startbootstrap-freelancer**](https://github.com/StartBootstrap/startbootstrap-freelancer) | ⭐ 2.6k | Pug | 2024-03-17 | A flat design, one page, MIT licensed Bootstrap portfolio theme created by Start Boot... |
-| [**hugo-themes/toha**](https://github.com/hugo-themes/toha) | ⭐ 1.3k | HTML | 2026-11-18 | A Hugo theme for personal portfolio |
+| [**hugo-themes/toha**](https://github.com/hugo-themes/toha) | ⭐ 1.3k | HTML | 2026-11-21 | A Hugo theme for personal portfolio |
 | [**yousinix/portfolYOU**](https://github.com/yousinix/portfolYOU) | ⭐ 1.2k | HTML | 2024-08-14 | A beautiful portfolio Jekyll theme that works with GitHub Pages. |
 | [**chrisbobbe/jekyll-theme-prologue**](https://github.com/chrisbobbe/jekyll-theme-prologue) | ⭐ 451 | SCSS | 2024-02-03 | A Jekyll version of the &quot;Prologue&quot; theme by HTML5 UP |
 | [**bloominstituteoftechnology/portfolio-website**](https://github.com/bloominstituteoftechnology/portfolio-website) | ⭐ 365 | — | 2024-08-20 | A project to get you up and running with a portfolio site |
@@ -35,8 +35,8 @@
 <img src="https://avatars.githubusercontent.com/u/192884433?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/TauricResearch/TradingAgents">TauricResearch/TradingAgents</a> 🔥🔥🔥</strong> <br/><br/>
 <em>TradingAgents: Multi-Agents LLM Financial Trading Framework</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-17</small><br/><small>🏷️ <code>agent</code> <code>finance</code> <code>llm</code> <code>multiagent</code> <code>trading</code></small><br/><br/>
 <span>
-<a href="https://github.com/TauricResearch/TradingAgents/stargazers"><img src="https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=flat-square&labelColor=343b41" alt="Stars: 123100"></a>
-<a href="https://github.com/TauricResearch/TradingAgents/network/members"><img src="https://img.shields.io/github/forks/TauricResearch/TradingAgents?style=flat-square&labelColor=343b41" alt="Forks: 23603"></a>
+<a href="https://github.com/TauricResearch/TradingAgents/stargazers"><img src="https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=flat-square&labelColor=343b41" alt="Stars: 123403"></a>
+<a href="https://github.com/TauricResearch/TradingAgents/network/members"><img src="https://img.shields.io/github/forks/TauricResearch/TradingAgents?style=flat-square&labelColor=343b41" alt="Forks: 23639"></a>
 </span>
 </div><br/>
 
@@ -44,17 +44,17 @@
 <img src="https://avatars.githubusercontent.com/u/328144346?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/openbq-org/OpenBB">openbq-org/OpenBB</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Open Data Platform for analysts, quants and AI agents.</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-18</small><br/><small>🏷️ <code>ai</code> <code>crypto</code> <code>derivatives</code> <code>economics</code> <code>equity</code> <code>finance</code></small><br/><br/>
 <span>
-<a href="https://github.com/openbq-org/OpenBB/stargazers"><img src="https://img.shields.io/github/stars/openbq-org/OpenBB?style=flat-square&labelColor=343b41" alt="Stars: 75540"></a>
-<a href="https://github.com/openbq-org/OpenBB/network/members"><img src="https://img.shields.io/github/forks/openbq-org/OpenBB?style=flat-square&labelColor=343b41" alt="Forks: 7905"></a>
+<a href="https://github.com/openbq-org/OpenBB/stargazers"><img src="https://img.shields.io/github/stars/openbq-org/OpenBB?style=flat-square&labelColor=343b41" alt="Stars: 75628"></a>
+<a href="https://github.com/openbq-org/OpenBB/network/members"><img src="https://img.shields.io/github/forks/openbq-org/OpenBB?style=flat-square&labelColor=343b41" alt="Forks: 7891"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/42829555?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/ZhuLinsen/daily_stock_analysis">ZhuLinsen/daily_stock_analysis</a> 🔥🔥🔥</strong> <br/><br/>
-<em>LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-18</small><br/><small>🏷️ <code>a-stock</code> <code>ai-agent</code> <code>aigc</code> <code>llm</code> <code>quant</code> <code>quantitative-finance</code></small><br/><br/>
+<em>LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>a-stock</code> <code>ai-agent</code> <code>aigc</code> <code>llm</code> <code>quant</code> <code>quantitative-finance</code></small><br/><br/>
 <span>
-<a href="https://github.com/ZhuLinsen/daily_stock_analysis/stargazers"><img src="https://img.shields.io/github/stars/ZhuLinsen/daily_stock_analysis?style=flat-square&labelColor=343b41" alt="Stars: 73403"></a>
-<a href="https://github.com/ZhuLinsen/daily_stock_analysis/network/members"><img src="https://img.shields.io/github/forks/ZhuLinsen/daily_stock_analysis?style=flat-square&labelColor=343b41" alt="Forks: 57915"></a>
+<a href="https://github.com/ZhuLinsen/daily_stock_analysis/stargazers"><img src="https://img.shields.io/github/stars/ZhuLinsen/daily_stock_analysis?style=flat-square&labelColor=343b41" alt="Stars: 73648"></a>
+<a href="https://github.com/ZhuLinsen/daily_stock_analysis/network/members"><img src="https://img.shields.io/github/forks/ZhuLinsen/daily_stock_analysis?style=flat-square&labelColor=343b41" alt="Forks: 58032"></a>
 </span>
 </div><br/>
 
@@ -62,17 +62,17 @@
 <img src="https://avatars.githubusercontent.com/u/901795?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/virattt/ai-hedge-fund">virattt/ai-hedge-fund</a> 🔥🔥🔥</strong> <br/><br/>
 <em>An AI Hedge Fund Team</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-09</small><br/><br/>
 <span>
-<a href="https://github.com/virattt/ai-hedge-fund/stargazers"><img src="https://img.shields.io/github/stars/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41" alt="Stars: 64752"></a>
-<a href="https://github.com/virattt/ai-hedge-fund/network/members"><img src="https://img.shields.io/github/forks/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41" alt="Forks: 11389"></a>
+<a href="https://github.com/virattt/ai-hedge-fund/stargazers"><img src="https://img.shields.io/github/stars/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41" alt="Stars: 64799"></a>
+<a href="https://github.com/virattt/ai-hedge-fund/network/members"><img src="https://img.shields.io/github/forks/virattt/ai-hedge-fund?style=flat-square&labelColor=343b41" alt="Forks: 11377"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/119600397?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/twentyhq/twenty">twentyhq/twenty</a> 🔥🔥🔥</strong> <br/><br/>
-<em>The open alternative to Salesforce, designed for AI.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-19</small><br/><small>🏷️ <code>crm</code> <code>crm-system</code> <code>customer</code> <code>good-first-issue</code> <code>graphql</code> <code>hacktoberfest</code></small><br/><br/>
+<em>The open alternative to Salesforce, designed for AI.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>crm</code> <code>crm-system</code> <code>customer</code> <code>good-first-issue</code> <code>graphql</code> <code>hacktoberfest</code></small><br/><br/>
 <span>
-<a href="https://github.com/twentyhq/twenty/stargazers"><img src="https://img.shields.io/github/stars/twentyhq/twenty?style=flat-square&labelColor=343b41" alt="Stars: 61184"></a>
-<a href="https://github.com/twentyhq/twenty/network/members"><img src="https://img.shields.io/github/forks/twentyhq/twenty?style=flat-square&labelColor=343b41" alt="Forks: 10140"></a>
+<a href="https://github.com/twentyhq/twenty/stargazers"><img src="https://img.shields.io/github/stars/twentyhq/twenty?style=flat-square&labelColor=343b41" alt="Stars: 61305"></a>
+<a href="https://github.com/twentyhq/twenty/network/members"><img src="https://img.shields.io/github/forks/twentyhq/twenty?style=flat-square&labelColor=343b41" alt="Forks: 10146"></a>
 </span>
 </div><br/>
 
@@ -80,8 +80,8 @@
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/microsoft/qlib">microsoft/qlib</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&amp;D process.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-04</small><br/><small>🏷️ <code>algorithmic-trading</code> <code>auto-quant</code> <code>deep-learning</code> <code>finance</code> <code>fintech</code> <code>investment</code></small><br/><br/>
 <span>
-<a href="https://github.com/microsoft/qlib/stargazers"><img src="https://img.shields.io/github/stars/microsoft/qlib?style=flat-square&labelColor=343b41" alt="Stars: 50402"></a>
-<a href="https://github.com/microsoft/qlib/network/members"><img src="https://img.shields.io/github/forks/microsoft/qlib?style=flat-square&labelColor=343b41" alt="Forks: 7955"></a>
+<a href="https://github.com/microsoft/qlib/stargazers"><img src="https://img.shields.io/github/stars/microsoft/qlib?style=flat-square&labelColor=343b41" alt="Stars: 50485"></a>
+<a href="https://github.com/microsoft/qlib/network/members"><img src="https://img.shields.io/github/forks/microsoft/qlib?style=flat-square&labelColor=343b41" alt="Forks: 7959"></a>
 </span>
 </div><br/>
 
@@ -89,26 +89,26 @@
 <img src="https://avatars.githubusercontent.com/u/901795?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/virattt/dexter">virattt/dexter</a> 🔥🔥🔥</strong> <br/><br/>
 <em>An autonomous agent for deep financial research</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-09-23</small><br/><br/>
 <span>
-<a href="https://github.com/virattt/dexter/stargazers"><img src="https://img.shields.io/github/stars/virattt/dexter?style=flat-square&labelColor=343b41" alt="Stars: 27881"></a>
-<a href="https://github.com/virattt/dexter/network/members"><img src="https://img.shields.io/github/forks/virattt/dexter?style=flat-square&labelColor=343b41" alt="Forks: 3437"></a>
+<a href="https://github.com/virattt/dexter/stargazers"><img src="https://img.shields.io/github/stars/virattt/dexter?style=flat-square&labelColor=343b41" alt="Stars: 27988"></a>
+<a href="https://github.com/virattt/dexter/network/members"><img src="https://img.shields.io/github/forks/virattt/dexter?style=flat-square&labelColor=343b41" alt="Forks: 3456"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/41463883?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/dailydotdev/daily">dailydotdev/daily</a> 🔥🔥</strong> <br/><br/>
-<em>daily.dev is the personalized developer news feed and community. Get the best tech content from all over the web in your browser new tab or on mobile. Free and open source.</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-18</small><br/><small>🏷️ <code>ai</code> <code>ai-news</code> <code>browser-extension</code> <code>chrome-extension</code> <code>community</code> <code>developer-marketing</code></small><br/><br/>
+<em>daily.dev is the personalized developer news feed and community. Get the best tech content from all over the web in your browser new tab or on mobile. Free and open source.</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>ai</code> <code>ai-news</code> <code>browser-extension</code> <code>chrome-extension</code> <code>community</code> <code>developer-marketing</code></small><br/><br/>
 <span>
-<a href="https://github.com/dailydotdev/daily/stargazers"><img src="https://img.shields.io/github/stars/dailydotdev/daily?style=flat-square&labelColor=343b41" alt="Stars: 20152"></a>
-<a href="https://github.com/dailydotdev/daily/network/members"><img src="https://img.shields.io/github/forks/dailydotdev/daily?style=flat-square&labelColor=343b41" alt="Forks: 575"></a>
+<a href="https://github.com/dailydotdev/daily/stargazers"><img src="https://img.shields.io/github/stars/dailydotdev/daily?style=flat-square&labelColor=343b41" alt="Stars: 20157"></a>
+<a href="https://github.com/dailydotdev/daily/network/members"><img src="https://img.shields.io/github/forks/dailydotdev/daily?style=flat-square&labelColor=343b41" alt="Forks: 577"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/1756674?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/opf/openproject">opf/openproject</a> 🔥🔥</strong> <br/><br/>
-<em>OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub</em><br/><small><code>Ruby</code> &nbsp;•&nbsp; ⚖️ GPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-19</small><br/><small>🏷️ <code>agile-development</code> <code>angular</code> <code>bcf</code> <code>boards</code> <code>bug-tracker</code> <code>gantt</code></small><br/><br/>
+<em>OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub</em><br/><small><code>Ruby</code> &nbsp;•&nbsp; ⚖️ GPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>agile-development</code> <code>angular</code> <code>bcf</code> <code>boards</code> <code>bug-tracker</code> <code>gantt</code></small><br/><br/>
 <span>
-<a href="https://github.com/opf/openproject/stargazers"><img src="https://img.shields.io/github/stars/opf/openproject?style=flat-square&labelColor=343b41" alt="Stars: 17532"></a>
-<a href="https://github.com/opf/openproject/network/members"><img src="https://img.shields.io/github/forks/opf/openproject?style=flat-square&labelColor=343b41" alt="Forks: 3787"></a>
+<a href="https://github.com/opf/openproject/stargazers"><img src="https://img.shields.io/github/stars/opf/openproject?style=flat-square&labelColor=343b41" alt="Stars: 17624"></a>
+<a href="https://github.com/opf/openproject/network/members"><img src="https://img.shields.io/github/forks/opf/openproject?style=flat-square&labelColor=343b41" alt="Forks: 3805"></a>
 </span>
 </div><br/>
 
@@ -116,8 +116,8 @@
 <img src="https://avatars.githubusercontent.com/u/216815005?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Billionmail/BillionMail">Billionmail/BillionMail</a> 🔥🔥</strong> <br/><br/>
 <em>BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr</em><br/><small><code>Go</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-06-11</small><br/><small>🏷️ <code>dovecot</code> <code>email</code> <code>email-marketing</code> <code>mail</code> <code>mailserver</code> <code>newsletter</code></small><br/><br/>
 <span>
-<a href="https://github.com/Billionmail/BillionMail/stargazers"><img src="https://img.shields.io/github/stars/Billionmail/BillionMail?style=flat-square&labelColor=343b41" alt="Stars: 16420"></a>
-<a href="https://github.com/Billionmail/BillionMail/network/members"><img src="https://img.shields.io/github/forks/Billionmail/BillionMail?style=flat-square&labelColor=343b41" alt="Forks: 1833"></a>
+<a href="https://github.com/Billionmail/BillionMail/stargazers"><img src="https://img.shields.io/github/stars/Billionmail/BillionMail?style=flat-square&labelColor=343b41" alt="Stars: 16447"></a>
+<a href="https://github.com/Billionmail/BillionMail/network/members"><img src="https://img.shields.io/github/forks/Billionmail/BillionMail?style=flat-square&labelColor=343b41" alt="Forks: 1834"></a>
 </span>
 </div><br/>
 
@@ -125,8 +125,8 @@
 <img src="https://avatars.githubusercontent.com/u/145366395?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/midday-ai/midday">midday-ai/midday</a> 🔥🔥</strong> <br/><br/>
 <em>Invoicing, Time tracking, File reconciliation, Storage, Financial Overview &amp; your own Assistant made for Freelancers</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-06-13</small><br/><small>🏷️ <code>finance</code> <code>nextjs</code> <code>supabase</code> <code>tailwind</code> <code>typescript</code></small><br/><br/>
 <span>
-<a href="https://github.com/midday-ai/midday/stargazers"><img src="https://img.shields.io/github/stars/midday-ai/midday?style=flat-square&labelColor=343b41" alt="Stars: 15126"></a>
-<a href="https://github.com/midday-ai/midday/network/members"><img src="https://img.shields.io/github/forks/midday-ai/midday?style=flat-square&labelColor=343b41" alt="Forks: 1886"></a>
+<a href="https://github.com/midday-ai/midday/stargazers"><img src="https://img.shields.io/github/stars/midday-ai/midday?style=flat-square&labelColor=343b41" alt="Stars: 15132"></a>
+<a href="https://github.com/midday-ai/midday/network/members"><img src="https://img.shields.io/github/forks/midday-ai/midday?style=flat-square&labelColor=343b41" alt="Forks: 1884"></a>
 </span>
 </div><br/>
 
@@ -134,17 +134,17 @@
 <img src="https://avatars.githubusercontent.com/u/58701512?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/StartBootstrap/startbootstrap-freelancer">StartBootstrap/startbootstrap-freelancer</a> 🔥</strong> <br/><br/>
 <em>A flat design, one page, MIT licensed Bootstrap portfolio theme created by Start Bootstrap</em><br/><small><code>Pug</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2024-03-17</small><br/><small>🏷️ <code>bootstrap</code> <code>bootstrap-4</code> <code>bootstrap-5</code> <code>bootstrap-5-template</code> <code>bootstrap-template</code> <code>bootstrap-theme</code></small><br/><br/>
 <span>
-<a href="https://github.com/StartBootstrap/startbootstrap-freelancer/stargazers"><img src="https://img.shields.io/github/stars/StartBootstrap/startbootstrap-freelancer?style=flat-square&labelColor=343b41" alt="Stars: 2608"></a>
-<a href="https://github.com/StartBootstrap/startbootstrap-freelancer/network/members"><img src="https://img.shields.io/github/forks/StartBootstrap/startbootstrap-freelancer?style=flat-square&labelColor=343b41" alt="Forks: 3426"></a>
+<a href="https://github.com/StartBootstrap/startbootstrap-freelancer/stargazers"><img src="https://img.shields.io/github/stars/StartBootstrap/startbootstrap-freelancer?style=flat-square&labelColor=343b41" alt="Stars: 2606"></a>
+<a href="https://github.com/StartBootstrap/startbootstrap-freelancer/network/members"><img src="https://img.shields.io/github/forks/StartBootstrap/startbootstrap-freelancer?style=flat-square&labelColor=343b41" alt="Forks: 3425"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/73735083?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/hugo-themes/toha">hugo-themes/toha</a> 🔥</strong> <br/><br/>
-<em>A Hugo theme for personal portfolio</em><br/><small><code>HTML</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-18</small><br/><small>🏷️ <code>blog</code> <code>hacktoberfest</code> <code>hacktoberfest-accepted</code> <code>hugo</code> <code>hugo-site</code> <code>personal-site</code></small><br/><br/>
+<em>A Hugo theme for personal portfolio</em><br/><small><code>HTML</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>blog</code> <code>hacktoberfest</code> <code>hacktoberfest-accepted</code> <code>hugo</code> <code>hugo-site</code> <code>personal-site</code></small><br/><br/>
 <span>
-<a href="https://github.com/hugo-themes/toha/stargazers"><img src="https://img.shields.io/github/stars/hugo-themes/toha?style=flat-square&labelColor=343b41" alt="Stars: 1252"></a>
-<a href="https://github.com/hugo-themes/toha/network/members"><img src="https://img.shields.io/github/forks/hugo-themes/toha?style=flat-square&labelColor=343b41" alt="Forks: 718"></a>
+<a href="https://github.com/hugo-themes/toha/stargazers"><img src="https://img.shields.io/github/stars/hugo-themes/toha?style=flat-square&labelColor=343b41" alt="Stars: 1251"></a>
+<a href="https://github.com/hugo-themes/toha/network/members"><img src="https://img.shields.io/github/forks/hugo-themes/toha?style=flat-square&labelColor=343b41" alt="Forks: 719"></a>
 </span>
 </div><br/>
 

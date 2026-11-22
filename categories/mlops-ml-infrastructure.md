@@ -17,7 +17,7 @@
 | [**patchy631/time-to-first-token**](https://github.com/patchy631/time-to-first-token) | ⭐ 1.2k | HTML | 2026-08-14 | A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM,... |
 | [**Paulescu/kubernetes-for-ml-engineers**](https://github.com/Paulescu/kubernetes-for-ml-engineers) | ⭐ 578 | Makefile | 2025-03-28 | Just enough Kubernetes for you to fly |
 | [**rkinas/triton-resources**](https://github.com/rkinas/triton-resources) | ⭐ 504 | Python | 2025-03-10 | A curated list of resources for learning and exploring Triton, OpenAI's programming l... |
-| [**Maharshi-Pandya/cudacodes**](https://github.com/Maharshi-Pandya/cudacodes) | ⭐ 435 | Cuda | 2025-06-29 | Learnings and programs related to CUDA |
+| [**Maharshi-Pandya/cudacodes**](https://github.com/Maharshi-Pandya/cudacodes) | ⭐ 434 | Cuda | 2025-06-29 | Learnings and programs related to CUDA |
 
 </details>
 
@@ -27,7 +27,7 @@
 <img src="https://avatars.githubusercontent.com/u/6831355?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/eugeneyan/applied-ml">eugeneyan/applied-ml</a> 🔥🔥🔥</strong> <br/><br/>
 <em>📚 Papers &amp; tech blogs by companies sharing their work on data science &amp; machine learning in production.</em><br/><small>⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2024-07-18</small><br/><small>🏷️ <code>applied-data-science</code> <code>applied-machine-learning</code> <code>computer-vision</code> <code>data-discovery</code> <code>data-engineering</code> <code>data-quality</code></small><br/><br/>
 <span>
-<a href="https://github.com/eugeneyan/applied-ml/stargazers"><img src="https://img.shields.io/github/stars/eugeneyan/applied-ml?style=flat-square&labelColor=343b41" alt="Stars: 30947"></a>
+<a href="https://github.com/eugeneyan/applied-ml/stargazers"><img src="https://img.shields.io/github/stars/eugeneyan/applied-ml?style=flat-square&labelColor=343b41" alt="Stars: 30948"></a>
 <a href="https://github.com/eugeneyan/applied-ml/network/members"><img src="https://img.shields.io/github/forks/eugeneyan/applied-ml?style=flat-square&labelColor=343b41" alt="Forks: 4066"></a>
 </span>
 </div><br/>
@@ -36,8 +36,8 @@
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/microsoft/agent-lightning">microsoft/agent-lightning</a> 🔥🔥</strong> <br/><br/>
 <em>The absolute trainer to light up AI agents.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-12</small><br/><small>🏷️ <code>agent</code> <code>agentic-ai</code> <code>llm</code> <code>mlops</code> <code>reinforcement-learning</code></small><br/><br/>
 <span>
-<a href="https://github.com/microsoft/agent-lightning/stargazers"><img src="https://img.shields.io/github/stars/microsoft/agent-lightning?style=flat-square&labelColor=343b41" alt="Stars: 18980"></a>
-<a href="https://github.com/microsoft/agent-lightning/network/members"><img src="https://img.shields.io/github/forks/microsoft/agent-lightning?style=flat-square&labelColor=343b41" alt="Forks: 1724"></a>
+<a href="https://github.com/microsoft/agent-lightning/stargazers"><img src="https://img.shields.io/github/stars/microsoft/agent-lightning?style=flat-square&labelColor=343b41" alt="Stars: 18992"></a>
+<a href="https://github.com/microsoft/agent-lightning/network/members"><img src="https://img.shields.io/github/forks/microsoft/agent-lightning?style=flat-square&labelColor=343b41" alt="Forks: 1725"></a>
 </span>
 </div><br/>
 
@@ -45,7 +45,7 @@
 <img src="https://avatars.githubusercontent.com/u/2014749?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/visenger/awesome-mlops">visenger/awesome-mlops</a> 🔥🔥</strong> <br/><br/>
 <em>A curated list of references for MLOps</em><br/><small>🕒 Updated 2024-11-21</small><br/><small>🏷️ <code>ai</code> <code>data-science</code> <code>devops</code> <code>engineering</code> <code>federated-learning</code> <code>machine-learning</code></small><br/><br/>
 <span>
-<a href="https://github.com/visenger/awesome-mlops/stargazers"><img src="https://img.shields.io/github/stars/visenger/awesome-mlops?style=flat-square&labelColor=343b41" alt="Stars: 14303"></a>
+<a href="https://github.com/visenger/awesome-mlops/stargazers"><img src="https://img.shields.io/github/stars/visenger/awesome-mlops?style=flat-square&labelColor=343b41" alt="Stars: 14307"></a>
 <a href="https://github.com/visenger/awesome-mlops/network/members"><img src="https://img.shields.io/github/forks/visenger/awesome-mlops?style=flat-square&labelColor=343b41" alt="Forks: 2138"></a>
 </span>
 </div><br/>
@@ -54,8 +54,8 @@
 <img src="https://avatars.githubusercontent.com/u/11997567?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/chiphuyen/machine-learning-systems-design">chiphuyen/machine-learning-systems-design</a> 🔥🔥</strong> <br/><br/>
 <em>A booklet on machine learning systems design with exercises. NOT the repo for the book &quot;Designing Machine Learning Systems&quot;, which is `dmls-book`</em><br/><small><code>HTML</code> &nbsp;•&nbsp; 🕒 Updated 2023-04-15</small><br/><small>🏷️ <code>data-science</code> <code>machine-learning-production</code> <code>mlops</code></small><br/><br/>
 <span>
-<a href="https://github.com/chiphuyen/machine-learning-systems-design/stargazers"><img src="https://img.shields.io/github/stars/chiphuyen/machine-learning-systems-design?style=flat-square&labelColor=343b41" alt="Stars: 10738"></a>
-<a href="https://github.com/chiphuyen/machine-learning-systems-design/network/members"><img src="https://img.shields.io/github/forks/chiphuyen/machine-learning-systems-design?style=flat-square&labelColor=343b41" alt="Forks: 1648"></a>
+<a href="https://github.com/chiphuyen/machine-learning-systems-design/stargazers"><img src="https://img.shields.io/github/stars/chiphuyen/machine-learning-systems-design?style=flat-square&labelColor=343b41" alt="Stars: 10742"></a>
+<a href="https://github.com/chiphuyen/machine-learning-systems-design/network/members"><img src="https://img.shields.io/github/forks/chiphuyen/machine-learning-systems-design?style=flat-square&labelColor=343b41" alt="Forks: 1649"></a>
 </span>
 </div><br/>
 
@@ -72,8 +72,8 @@
 <img src="https://avatars.githubusercontent.com/u/238384292?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/ai-infra-curriculum/ai-infra-engineer-learning">ai-infra-curriculum/ai-infra-engineer-learning</a> 🔥</strong> <br/><br/>
 <em>AI Infrastructure Engineer Learning Track - Production ML infrastructure curriculum (2-4 years experience)</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-03</small><br/><small>🏷️ <code>ai</code> <code>ai-infrastructure</code> <code>career-development</code> <code>curriculum</code> <code>devops</code> <code>education</code></small><br/><br/>
 <span>
-<a href="https://github.com/ai-infra-curriculum/ai-infra-engineer-learning/stargazers"><img src="https://img.shields.io/github/stars/ai-infra-curriculum/ai-infra-engineer-learning?style=flat-square&labelColor=343b41" alt="Stars: 1902"></a>
-<a href="https://github.com/ai-infra-curriculum/ai-infra-engineer-learning/network/members"><img src="https://img.shields.io/github/forks/ai-infra-curriculum/ai-infra-engineer-learning?style=flat-square&labelColor=343b41" alt="Forks: 326"></a>
+<a href="https://github.com/ai-infra-curriculum/ai-infra-engineer-learning/stargazers"><img src="https://img.shields.io/github/stars/ai-infra-curriculum/ai-infra-engineer-learning?style=flat-square&labelColor=343b41" alt="Stars: 1908"></a>
+<a href="https://github.com/ai-infra-curriculum/ai-infra-engineer-learning/network/members"><img src="https://img.shields.io/github/forks/ai-infra-curriculum/ai-infra-engineer-learning?style=flat-square&labelColor=343b41" alt="Forks: 327"></a>
 </span>
 </div><br/>
 
@@ -81,7 +81,7 @@
 <img src="https://avatars.githubusercontent.com/u/38653995?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/patchy631/time-to-first-token">patchy631/time-to-first-token</a> 🔥</strong> <br/><br/>
 <em>A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.</em><br/><small><code>HTML</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-08-14</small><br/><small>🏷️ <code>learning-resources</code> <code>llm</code> <code>llm-inference</code> <code>mlops</code> <code>roadmap</code> <code>sglang</code></small><br/><br/>
 <span>
-<a href="https://github.com/patchy631/time-to-first-token/stargazers"><img src="https://img.shields.io/github/stars/patchy631/time-to-first-token?style=flat-square&labelColor=343b41" alt="Stars: 1243"></a>
+<a href="https://github.com/patchy631/time-to-first-token/stargazers"><img src="https://img.shields.io/github/stars/patchy631/time-to-first-token?style=flat-square&labelColor=343b41" alt="Stars: 1247"></a>
 <a href="https://github.com/patchy631/time-to-first-token/network/members"><img src="https://img.shields.io/github/forks/patchy631/time-to-first-token?style=flat-square&labelColor=343b41" alt="Forks: 145"></a>
 </span>
 </div><br/>
@@ -91,7 +91,7 @@
 <em>Just enough Kubernetes for you to fly</em><br/><small><code>Makefile</code> &nbsp;•&nbsp; 🕒 Updated 2025-03-28</small><br/><small>🏷️ <code>docker</code> <code>fastapi</code> <code>kubernetes</code> <code>ml</code> <code>mlops</code></small><br/><br/>
 <span>
 <a href="https://github.com/Paulescu/kubernetes-for-ml-engineers/stargazers"><img src="https://img.shields.io/github/stars/Paulescu/kubernetes-for-ml-engineers?style=flat-square&labelColor=343b41" alt="Stars: 578"></a>
-<a href="https://github.com/Paulescu/kubernetes-for-ml-engineers/network/members"><img src="https://img.shields.io/github/forks/Paulescu/kubernetes-for-ml-engineers?style=flat-square&labelColor=343b41" alt="Forks: 111"></a>
+<a href="https://github.com/Paulescu/kubernetes-for-ml-engineers/network/members"><img src="https://img.shields.io/github/forks/Paulescu/kubernetes-for-ml-engineers?style=flat-square&labelColor=343b41" alt="Forks: 110"></a>
 </span>
 </div><br/>
 
@@ -108,7 +108,7 @@
 <img src="https://avatars.githubusercontent.com/u/53078775?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Maharshi-Pandya/cudacodes">Maharshi-Pandya/cudacodes</a> </strong> <br/><br/>
 <em>Learnings and programs related to CUDA</em><br/><small><code>Cuda</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2025-06-29</small><br/><br/>
 <span>
-<a href="https://github.com/Maharshi-Pandya/cudacodes/stargazers"><img src="https://img.shields.io/github/stars/Maharshi-Pandya/cudacodes?style=flat-square&labelColor=343b41" alt="Stars: 435"></a>
+<a href="https://github.com/Maharshi-Pandya/cudacodes/stargazers"><img src="https://img.shields.io/github/stars/Maharshi-Pandya/cudacodes?style=flat-square&labelColor=343b41" alt="Stars: 434"></a>
 <a href="https://github.com/Maharshi-Pandya/cudacodes/network/members"><img src="https://img.shields.io/github/forks/Maharshi-Pandya/cudacodes?style=flat-square&labelColor=343b41" alt="Forks: 20"></a>
 </span>
 </div><br/>
