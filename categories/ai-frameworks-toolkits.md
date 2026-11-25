@@ -8,25 +8,25 @@
 
 | Repository | Stars | Language | Updated | Description |
 | :--- | ---: | :--- | :--- | :--- |
-| [**langgenius/dify**](https://github.com/langgenius/dify) | ⭐ 162k | Python | 2026-11-22 | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one co... |
-| [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) | ⭐ 150k | Python | 2026-11-21 | The agent engineering platform. |
-| [**fastapi/fastapi**](https://github.com/fastapi/fastapi) | ⭐ 105k | Python | 2026-11-18 | FastAPI framework, high performance, easy to learn, fast to code, ready for productio... |
+| [**langgenius/dify**](https://github.com/langgenius/dify) | ⭐ 162k | Python | 2026-11-25 | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one co... |
+| [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) | ⭐ 150k | Python | 2026-11-25 | The agent engineering platform. |
+| [**fastapi/fastapi**](https://github.com/fastapi/fastapi) | ⭐ 105k | Python | 2026-11-24 | FastAPI framework, high performance, easy to learn, fast to code, ready for productio... |
 | [**3b1b/manim**](https://github.com/3b1b/manim) | ⭐ 97k | Python | 2026-09-09 | Animation engine for explanatory math videos |
 | [**GokuMohandas/Made-With-ML**](https://github.com/GokuMohandas/Made-With-ML) | ⭐ 50k | Jupyter Notebook | 2026-03-04 | Learn how to develop, deploy and iterate on production-grade ML applications. |
-| [**deepspeedai/DeepSpeed**](https://github.com/deepspeedai/DeepSpeed) | ⭐ 43k | Python | 2026-11-22 | DeepSpeed is a deep learning optimization library that makes distributed training and... |
-| [**stanfordnlp/dspy**](https://github.com/stanfordnlp/dspy) | ⭐ 39k | Python | 2026-11-21 | DSPy: The framework for programming—not prompting—language models |
-| [**lutzroeder/netron**](https://github.com/lutzroeder/netron) | ⭐ 34k | JavaScript | 2026-11-22 | Visualizer for neural network, deep learning and machine learning models |
-| [**pydantic/pydantic**](https://github.com/pydantic/pydantic) | ⭐ 30k | Python | 2026-11-21 | Data validation using Python type hints |
-| [**microsoft/semantic-kernel**](https://github.com/microsoft/semantic-kernel) | ⭐ 29k | C# | 2026-11-20 | Integrate cutting-edge LLM technology quickly and easily into your apps |
+| [**deepspeedai/DeepSpeed**](https://github.com/deepspeedai/DeepSpeed) | ⭐ 43k | Python | 2026-11-25 | DeepSpeed is a deep learning optimization library that makes distributed training and... |
+| [**stanfordnlp/dspy**](https://github.com/stanfordnlp/dspy) | ⭐ 39k | Python | 2026-11-24 | DSPy: The framework for programming—not prompting—language models |
+| [**lutzroeder/netron**](https://github.com/lutzroeder/netron) | ⭐ 34k | JavaScript | 2026-11-25 | Visualizer for neural network, deep learning and machine learning models |
+| [**pydantic/pydantic**](https://github.com/pydantic/pydantic) | ⭐ 30k | Python | 2026-11-24 | Data validation using Python type hints |
+| [**microsoft/semantic-kernel**](https://github.com/microsoft/semantic-kernel) | ⭐ 29k | C# | 2026-11-23 | Integrate cutting-edge LLM technology quickly and easily into your apps |
 | [**doccano/doccano**](https://github.com/doccano/doccano) | ⭐ 11k | Python | 2026-04-14 | Open source annotation tool for machine learning practitioners. |
-| [**cordiverse/cordis**](https://github.com/cordiverse/cordis) | ⭐ 10k | TypeScript | 2026-11-20 | Meta-Framework of Spatiotemporal Composability |
+| [**cordiverse/cordis**](https://github.com/cordiverse/cordis) | ⭐ 10k | TypeScript | 2026-11-24 | Meta-Framework of Spatiotemporal Composability |
 | [**ml-explore/mlx-examples**](https://github.com/ml-explore/mlx-examples) | ⭐ 9.1k | Python | 2026-04-06 | Examples in the MLX framework |
-| [**Azure/azure-sdk-for-python**](https://github.com/Azure/azure-sdk-for-python) | ⭐ 5.6k | Python | 2026-11-22 | This repository is for active development of the Azure SDK for Python. For consumers... |
-| [**NVIDIA/cuda-python**](https://github.com/NVIDIA/cuda-python) | ⭐ 3.4k | Cython | 2026-11-22 | CUDA Python: Performance meets Productivity |
+| [**Azure/azure-sdk-for-python**](https://github.com/Azure/azure-sdk-for-python) | ⭐ 5.6k | Python | 2026-11-25 | This repository is for active development of the Azure SDK for Python. For consumers... |
+| [**NVIDIA/cuda-python**](https://github.com/NVIDIA/cuda-python) | ⭐ 3.4k | Cython | 2026-11-25 | CUDA Python: Performance meets Productivity |
 | [**abhishekkrthakur/tez**](https://github.com/abhishekkrthakur/tez) | ⭐ 1.2k | Python | 2023-01-29 | Tez is a super-simple and lightweight Trainer for PyTorch. It also comes with many ut... |
 | [**SeungyounShin/Llama2-Code-Interpreter**](https://github.com/SeungyounShin/Llama2-Code-Interpreter) | ⭐ 679 | Python | 2023-09-21 | Make Llama2 use Code Execution, Debug, Save Code, Reuse it, Access to Internet |
 | [**finic-ai/doctran**](https://github.com/finic-ai/doctran) | ⭐ 505 | Jupyter Notebook | 2026-10-12 | Declarative document transformation and enrichment library powered by LLMs. |
-| [**temporalio/samples-python**](https://github.com/temporalio/samples-python) | ⭐ 382 | Python | 2026-11-21 | Samples for working with the Temporal Python SDK |
+| [**temporalio/samples-python**](https://github.com/temporalio/samples-python) | ⭐ 382 | Python | 2026-11-25 | Samples for working with the Temporal Python SDK |
 | [**ml-jku/EVA**](https://github.com/ml-jku/EVA) | ⭐ 51 | Python | 2025-10-20 | One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation |
 | [**jabertuhin/image-classification-api**](https://github.com/jabertuhin/image-classification-api) | ⭐ 41 | Python | 2025-02-25 | Serving model through api. FastApi + PytorchLightning |
 
@@ -36,28 +36,28 @@
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/127165244?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/langgenius/dify">langgenius/dify</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>agent</code> <code>agentic-ai</code> <code>agentic-framework</code> <code>agentic-workflow</code> <code>ai</code> <code>automation</code></small><br/><br/>
+<em>Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agent</code> <code>agentic-ai</code> <code>agentic-framework</code> <code>agentic-workflow</code> <code>ai</code> <code>automation</code></small><br/><br/>
 <span>
-<a href="https://github.com/langgenius/dify/stargazers"><img src="https://img.shields.io/github/stars/langgenius/dify?style=flat-square&labelColor=343b41" alt="Stars: 161639"></a>
-<a href="https://github.com/langgenius/dify/network/members"><img src="https://img.shields.io/github/forks/langgenius/dify?style=flat-square&labelColor=343b41" alt="Forks: 25533"></a>
+<a href="https://github.com/langgenius/dify/stargazers"><img src="https://img.shields.io/github/stars/langgenius/dify?style=flat-square&labelColor=343b41" alt="Stars: 161862"></a>
+<a href="https://github.com/langgenius/dify/network/members"><img src="https://img.shields.io/github/forks/langgenius/dify?style=flat-square&labelColor=343b41" alt="Forks: 25552"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/langchain-ai/langchain">langchain-ai/langchain</a> 🔥🔥🔥</strong> <br/><br/>
-<em>The agent engineering platform.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>agents</code> <code>ai</code> <code>ai-agents</code> <code>anthropic</code> <code>chatgpt</code> <code>deepagents</code></small><br/><br/>
+<em>The agent engineering platform.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agents</code> <code>ai</code> <code>ai-agents</code> <code>anthropic</code> <code>chatgpt</code> <code>deepagents</code></small><br/><br/>
 <span>
-<a href="https://github.com/langchain-ai/langchain/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=flat-square&labelColor=343b41" alt="Stars: 149963"></a>
-<a href="https://github.com/langchain-ai/langchain/network/members"><img src="https://img.shields.io/github/forks/langchain-ai/langchain?style=flat-square&labelColor=343b41" alt="Forks: 25154"></a>
+<a href="https://github.com/langchain-ai/langchain/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=flat-square&labelColor=343b41" alt="Stars: 149964"></a>
+<a href="https://github.com/langchain-ai/langchain/network/members"><img src="https://img.shields.io/github/forks/langchain-ai/langchain?style=flat-square&labelColor=343b41" alt="Forks: 25164"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/156354296?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/fastapi/fastapi">fastapi/fastapi</a> 🔥🔥🔥</strong> <br/><br/>
-<em>FastAPI framework, high performance, easy to learn, fast to code, ready for production</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-18</small><br/><small>🏷️ <code>api</code> <code>async</code> <code>fastapi</code> <code>framework</code> <code>json</code> <code>json-schema</code></small><br/><br/>
+<em>FastAPI framework, high performance, easy to learn, fast to code, ready for production</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>api</code> <code>async</code> <code>fastapi</code> <code>framework</code> <code>json</code> <code>json-schema</code></small><br/><br/>
 <span>
-<a href="https://github.com/fastapi/fastapi/stargazers"><img src="https://img.shields.io/github/stars/fastapi/fastapi?style=flat-square&labelColor=343b41" alt="Stars: 104960"></a>
-<a href="https://github.com/fastapi/fastapi/network/members"><img src="https://img.shields.io/github/forks/fastapi/fastapi?style=flat-square&labelColor=343b41" alt="Forks: 10364"></a>
+<a href="https://github.com/fastapi/fastapi/stargazers"><img src="https://img.shields.io/github/stars/fastapi/fastapi?style=flat-square&labelColor=343b41" alt="Stars: 104989"></a>
+<a href="https://github.com/fastapi/fastapi/network/members"><img src="https://img.shields.io/github/forks/fastapi/fastapi?style=flat-square&labelColor=343b41" alt="Forks: 10359"></a>
 </span>
 </div><br/>
 
@@ -65,8 +65,8 @@
 <img src="https://avatars.githubusercontent.com/u/11601040?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/3b1b/manim">3b1b/manim</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Animation engine for explanatory math videos</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-09-09</small><br/><small>🏷️ <code>3b1b-videos</code> <code>animation</code> <code>explanatory-math-videos</code> <code>python</code></small><br/><br/>
 <span>
-<a href="https://github.com/3b1b/manim/stargazers"><img src="https://img.shields.io/github/stars/3b1b/manim?style=flat-square&labelColor=343b41" alt="Stars: 96782"></a>
-<a href="https://github.com/3b1b/manim/network/members"><img src="https://img.shields.io/github/forks/3b1b/manim?style=flat-square&labelColor=343b41" alt="Forks: 7931"></a>
+<a href="https://github.com/3b1b/manim/stargazers"><img src="https://img.shields.io/github/stars/3b1b/manim?style=flat-square&labelColor=343b41" alt="Stars: 96930"></a>
+<a href="https://github.com/3b1b/manim/network/members"><img src="https://img.shields.io/github/forks/3b1b/manim?style=flat-square&labelColor=343b41" alt="Forks: 7940"></a>
 </span>
 </div><br/>
 
@@ -74,53 +74,53 @@
 <img src="https://avatars.githubusercontent.com/u/8000987?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/GokuMohandas/Made-With-ML">GokuMohandas/Made-With-ML</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Learn how to develop, deploy and iterate on production-grade ML applications.</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-03-04</small><br/><small>🏷️ <code>data-engineering</code> <code>data-quality</code> <code>data-science</code> <code>deep-learning</code> <code>distributed-ml</code> <code>distributed-training</code></small><br/><br/>
 <span>
-<a href="https://github.com/GokuMohandas/Made-With-ML/stargazers"><img src="https://img.shields.io/github/stars/GokuMohandas/Made-With-ML?style=flat-square&labelColor=343b41" alt="Stars: 50121"></a>
-<a href="https://github.com/GokuMohandas/Made-With-ML/network/members"><img src="https://img.shields.io/github/forks/GokuMohandas/Made-With-ML?style=flat-square&labelColor=343b41" alt="Forks: 7826"></a>
+<a href="https://github.com/GokuMohandas/Made-With-ML/stargazers"><img src="https://img.shields.io/github/stars/GokuMohandas/Made-With-ML?style=flat-square&labelColor=343b41" alt="Stars: 50167"></a>
+<a href="https://github.com/GokuMohandas/Made-With-ML/network/members"><img src="https://img.shields.io/github/forks/GokuMohandas/Made-With-ML?style=flat-square&labelColor=343b41" alt="Forks: 7832"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/74068820?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/deepspeedai/DeepSpeed">deepspeedai/DeepSpeed</a> 🔥🔥🔥</strong> <br/><br/>
-<em>DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>billion-parameters</code> <code>compression</code> <code>data-parallelism</code> <code>deep-learning</code> <code>gpu</code> <code>inference</code></small><br/><br/>
+<em>DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>billion-parameters</code> <code>compression</code> <code>data-parallelism</code> <code>deep-learning</code> <code>gpu</code> <code>inference</code></small><br/><br/>
 <span>
-<a href="https://github.com/deepspeedai/DeepSpeed/stargazers"><img src="https://img.shields.io/github/stars/deepspeedai/DeepSpeed?style=flat-square&labelColor=343b41" alt="Stars: 43347"></a>
-<a href="https://github.com/deepspeedai/DeepSpeed/network/members"><img src="https://img.shields.io/github/forks/deepspeedai/DeepSpeed?style=flat-square&labelColor=343b41" alt="Forks: 5090"></a>
+<a href="https://github.com/deepspeedai/DeepSpeed/stargazers"><img src="https://img.shields.io/github/stars/deepspeedai/DeepSpeed?style=flat-square&labelColor=343b41" alt="Stars: 43360"></a>
+<a href="https://github.com/deepspeedai/DeepSpeed/network/members"><img src="https://img.shields.io/github/forks/deepspeedai/DeepSpeed?style=flat-square&labelColor=343b41" alt="Forks: 5089"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/3046006?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/stanfordnlp/dspy">stanfordnlp/dspy</a> 🔥🔥🔥</strong> <br/><br/>
-<em>DSPy: The framework for programming—not prompting—language models</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><br/>
+<em>DSPy: The framework for programming—not prompting—language models</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><br/>
 <span>
-<a href="https://github.com/stanfordnlp/dspy/stargazers"><img src="https://img.shields.io/github/stars/stanfordnlp/dspy?style=flat-square&labelColor=343b41" alt="Stars: 39171"></a>
-<a href="https://github.com/stanfordnlp/dspy/network/members"><img src="https://img.shields.io/github/forks/stanfordnlp/dspy?style=flat-square&labelColor=343b41" alt="Forks: 3536"></a>
+<a href="https://github.com/stanfordnlp/dspy/stargazers"><img src="https://img.shields.io/github/stars/stanfordnlp/dspy?style=flat-square&labelColor=343b41" alt="Stars: 39218"></a>
+<a href="https://github.com/stanfordnlp/dspy/network/members"><img src="https://img.shields.io/github/forks/stanfordnlp/dspy?style=flat-square&labelColor=343b41" alt="Forks: 3551"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/438516?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/lutzroeder/netron">lutzroeder/netron</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Visualizer for neural network, deep learning and machine learning models</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>ai</code> <code>coreml</code> <code>deep-learning</code> <code>deeplearning</code> <code>keras</code> <code>machine-learning</code></small><br/><br/>
+<em>Visualizer for neural network, deep learning and machine learning models</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>ai</code> <code>coreml</code> <code>deep-learning</code> <code>deeplearning</code> <code>keras</code> <code>machine-learning</code></small><br/><br/>
 <span>
-<a href="https://github.com/lutzroeder/netron/stargazers"><img src="https://img.shields.io/github/stars/lutzroeder/netron?style=flat-square&labelColor=343b41" alt="Stars: 33715"></a>
+<a href="https://github.com/lutzroeder/netron/stargazers"><img src="https://img.shields.io/github/stars/lutzroeder/netron?style=flat-square&labelColor=343b41" alt="Stars: 33726"></a>
 <a href="https://github.com/lutzroeder/netron/network/members"><img src="https://img.shields.io/github/forks/lutzroeder/netron?style=flat-square&labelColor=343b41" alt="Forks: 3201"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/110818415?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/pydantic/pydantic">pydantic/pydantic</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Data validation using Python type hints</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>hints</code> <code>json-schema</code> <code>parsing</code> <code>pydantic</code> <code>python</code> <code>python310</code></small><br/><br/>
+<em>Data validation using Python type hints</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>hints</code> <code>json-schema</code> <code>parsing</code> <code>pydantic</code> <code>python</code> <code>python310</code></small><br/><br/>
 <span>
-<a href="https://github.com/pydantic/pydantic/stargazers"><img src="https://img.shields.io/github/stars/pydantic/pydantic?style=flat-square&labelColor=343b41" alt="Stars: 29613"></a>
-<a href="https://github.com/pydantic/pydantic/network/members"><img src="https://img.shields.io/github/forks/pydantic/pydantic?style=flat-square&labelColor=343b41" alt="Forks: 3241"></a>
+<a href="https://github.com/pydantic/pydantic/stargazers"><img src="https://img.shields.io/github/stars/pydantic/pydantic?style=flat-square&labelColor=343b41" alt="Stars: 29646"></a>
+<a href="https://github.com/pydantic/pydantic/network/members"><img src="https://img.shields.io/github/forks/pydantic/pydantic?style=flat-square&labelColor=343b41" alt="Forks: 3270"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/microsoft/semantic-kernel">microsoft/semantic-kernel</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Integrate cutting-edge LLM technology quickly and easily into your apps</em><br/><small><code>C#</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-20</small><br/><small>🏷️ <code>ai</code> <code>artificial-intelligence</code> <code>llm</code> <code>openai</code> <code>sdk</code></small><br/><br/>
+<em>Integrate cutting-edge LLM technology quickly and easily into your apps</em><br/><small><code>C#</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-23</small><br/><small>🏷️ <code>ai</code> <code>artificial-intelligence</code> <code>llm</code> <code>openai</code> <code>sdk</code></small><br/><br/>
 <span>
-<a href="https://github.com/microsoft/semantic-kernel/stargazers"><img src="https://img.shields.io/github/stars/microsoft/semantic-kernel?style=flat-square&labelColor=343b41" alt="Stars: 28791"></a>
-<a href="https://github.com/microsoft/semantic-kernel/network/members"><img src="https://img.shields.io/github/forks/microsoft/semantic-kernel?style=flat-square&labelColor=343b41" alt="Forks: 4866"></a>
+<a href="https://github.com/microsoft/semantic-kernel/stargazers"><img src="https://img.shields.io/github/stars/microsoft/semantic-kernel?style=flat-square&labelColor=343b41" alt="Stars: 28804"></a>
+<a href="https://github.com/microsoft/semantic-kernel/network/members"><img src="https://img.shields.io/github/forks/microsoft/semantic-kernel?style=flat-square&labelColor=343b41" alt="Forks: 4868"></a>
 </span>
 </div><br/>
 
@@ -128,17 +128,17 @@
 <img src="https://avatars.githubusercontent.com/u/58067660?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/doccano/doccano">doccano/doccano</a> 🔥🔥</strong> <br/><br/>
 <em>Open source annotation tool for machine learning practitioners.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-04-14</small><br/><small>🏷️ <code>annotation-tool</code> <code>data-labeling</code> <code>dataset</code> <code>datasets</code> <code>machine-learning</code> <code>natural-language-processing</code></small><br/><br/>
 <span>
-<a href="https://github.com/doccano/doccano/stargazers"><img src="https://img.shields.io/github/stars/doccano/doccano?style=flat-square&labelColor=343b41" alt="Stars: 10811"></a>
+<a href="https://github.com/doccano/doccano/stargazers"><img src="https://img.shields.io/github/stars/doccano/doccano?style=flat-square&labelColor=343b41" alt="Stars: 10815"></a>
 <a href="https://github.com/doccano/doccano/network/members"><img src="https://img.shields.io/github/forks/doccano/doccano?style=flat-square&labelColor=343b41" alt="Forks: 1821"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/152786899?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/cordiverse/cordis">cordiverse/cordis</a> 🔥🔥</strong> <br/><br/>
-<em>Meta-Framework of Spatiotemporal Composability</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-20</small><br/><small>🏷️ <code>effect</code> <code>framework</code> <code>nodejs</code> <code>plugin</code></small><br/><br/>
+<em>Meta-Framework of Spatiotemporal Composability</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>effect</code> <code>framework</code> <code>nodejs</code> <code>plugin</code></small><br/><br/>
 <span>
-<a href="https://github.com/cordiverse/cordis/stargazers"><img src="https://img.shields.io/github/stars/cordiverse/cordis?style=flat-square&labelColor=343b41" alt="Stars: 10006"></a>
-<a href="https://github.com/cordiverse/cordis/network/members"><img src="https://img.shields.io/github/forks/cordiverse/cordis?style=flat-square&labelColor=343b41" alt="Forks: 642"></a>
+<a href="https://github.com/cordiverse/cordis/stargazers"><img src="https://img.shields.io/github/stars/cordiverse/cordis?style=flat-square&labelColor=343b41" alt="Stars: 10041"></a>
+<a href="https://github.com/cordiverse/cordis/network/members"><img src="https://img.shields.io/github/forks/cordiverse/cordis?style=flat-square&labelColor=343b41" alt="Forks: 644"></a>
 </span>
 </div><br/>
 
@@ -146,26 +146,26 @@
 <img src="https://avatars.githubusercontent.com/u/102832242?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/ml-explore/mlx-examples">ml-explore/mlx-examples</a> 🔥🔥</strong> <br/><br/>
 <em>Examples in the MLX framework</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-04-06</small><br/><small>🏷️ <code>mlx</code></small><br/><br/>
 <span>
-<a href="https://github.com/ml-explore/mlx-examples/stargazers"><img src="https://img.shields.io/github/stars/ml-explore/mlx-examples?style=flat-square&labelColor=343b41" alt="Stars: 9077"></a>
+<a href="https://github.com/ml-explore/mlx-examples/stargazers"><img src="https://img.shields.io/github/stars/ml-explore/mlx-examples?style=flat-square&labelColor=343b41" alt="Stars: 9080"></a>
 <a href="https://github.com/ml-explore/mlx-examples/network/members"><img src="https://img.shields.io/github/forks/ml-explore/mlx-examples?style=flat-square&labelColor=343b41" alt="Forks: 1230"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/6844498?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Azure/azure-sdk-for-python">Azure/azure-sdk-for-python</a> 🔥🔥</strong> <br/><br/>
-<em>This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>azure</code> <code>azure-sdk</code> <code>hacktoberfest</code> <code>python</code></small><br/><br/>
+<em>This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>azure</code> <code>azure-sdk</code> <code>hacktoberfest</code> <code>python</code></small><br/><br/>
 <span>
-<a href="https://github.com/Azure/azure-sdk-for-python/stargazers"><img src="https://img.shields.io/github/stars/Azure/azure-sdk-for-python?style=flat-square&labelColor=343b41" alt="Stars: 5626"></a>
+<a href="https://github.com/Azure/azure-sdk-for-python/stargazers"><img src="https://img.shields.io/github/stars/Azure/azure-sdk-for-python?style=flat-square&labelColor=343b41" alt="Stars: 5623"></a>
 <a href="https://github.com/Azure/azure-sdk-for-python/network/members"><img src="https://img.shields.io/github/forks/Azure/azure-sdk-for-python?style=flat-square&labelColor=343b41" alt="Forks: 3426"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/1728152?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/NVIDIA/cuda-python">NVIDIA/cuda-python</a> 🔥</strong> <br/><br/>
-<em>CUDA Python: Performance meets Productivity</em><br/><small><code>Cython</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><br/>
+<em>CUDA Python: Performance meets Productivity</em><br/><small><code>Cython</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><br/>
 <span>
-<a href="https://github.com/NVIDIA/cuda-python/stargazers"><img src="https://img.shields.io/github/stars/NVIDIA/cuda-python?style=flat-square&labelColor=343b41" alt="Stars: 3417"></a>
-<a href="https://github.com/NVIDIA/cuda-python/network/members"><img src="https://img.shields.io/github/forks/NVIDIA/cuda-python?style=flat-square&labelColor=343b41" alt="Forks: 354"></a>
+<a href="https://github.com/NVIDIA/cuda-python/stargazers"><img src="https://img.shields.io/github/stars/NVIDIA/cuda-python?style=flat-square&labelColor=343b41" alt="Stars: 3420"></a>
+<a href="https://github.com/NVIDIA/cuda-python/network/members"><img src="https://img.shields.io/github/forks/NVIDIA/cuda-python?style=flat-square&labelColor=343b41" alt="Forks: 355"></a>
 </span>
 </div><br/>
 
@@ -198,10 +198,10 @@
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/56493103?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/temporalio/samples-python">temporalio/samples-python</a> </strong> <br/><br/>
-<em>Samples for working with the Temporal Python SDK</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>durable-execution</code></small><br/><br/>
+<em>Samples for working with the Temporal Python SDK</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>durable-execution</code></small><br/><br/>
 <span>
 <a href="https://github.com/temporalio/samples-python/stargazers"><img src="https://img.shields.io/github/stars/temporalio/samples-python?style=flat-square&labelColor=343b41" alt="Stars: 382"></a>
-<a href="https://github.com/temporalio/samples-python/network/members"><img src="https://img.shields.io/github/forks/temporalio/samples-python?style=flat-square&labelColor=343b41" alt="Forks: 125"></a>
+<a href="https://github.com/temporalio/samples-python/network/members"><img src="https://img.shields.io/github/forks/temporalio/samples-python?style=flat-square&labelColor=343b41" alt="Forks: 127"></a>
 </span>
 </div><br/>
 

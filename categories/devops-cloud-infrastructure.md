@@ -8,26 +8,26 @@
 
 | Repository | Stars | Language | Updated | Description |
 | :--- | ---: | :--- | :--- | :--- |
-| [**immich-app/immich**](https://github.com/immich-app/immich) | ⭐ 120k | TypeScript | 2026-11-21 | High performance self-hosted photo and video management solution. |
+| [**immich-app/immich**](https://github.com/immich-app/immich) | ⭐ 120k | TypeScript | 2026-11-25 | High performance self-hosted photo and video management solution. |
 | [**bregman-arie/devops-exercises**](https://github.com/bregman-arie/devops-exercises) | ⭐ 87k | Python | 2025-12-27 | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terra... |
-| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | ⭐ 66k | PHP | 2026-11-21 | An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets... |
+| [**coollabsio/coolify**](https://github.com/coollabsio/coolify) | ⭐ 66k | PHP | 2026-11-24 | An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets... |
 | [**localstack/localstack**](https://github.com/localstack/localstack) | ⭐ 65k | Python | 2026-03-23 | 💻 A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless... |
 | [**exo-explore/exo**](https://github.com/exo-explore/exo) | ⭐ 49k | Python | 2026-11-06 | Run frontier AI locally. |
 | [**reactive-resume/reactive-resume**](https://github.com/reactive-resume/reactive-resume) | ⭐ 46k | TypeScript | 2026-11-20 | A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, cu... |
-| [**chatwoot/chatwoot**](https://github.com/chatwoot/chatwoot) | ⭐ 40k | Ruby | 2026-11-20 | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom,... |
-| [**nextcloud/server**](https://github.com/nextcloud/server) | ⭐ 38k | PHP | 2026-11-22 | ☁️ Nextcloud server, a safe home for all your data |
-| [**pear-devs/pear-desktop**](https://github.com/pear-devs/pear-desktop) | ⭐ 34k | TypeScript | 2026-11-21 | Pear 🍐 is extension for music player |
-| [**meta/astryx**](https://github.com/meta/astryx) | ⭐ 32k | TypeScript | 2026-11-22 | An open source design system that's fully customizable and agent ready |
-| [**karakeep-app/karakeep**](https://github.com/karakeep-app/karakeep) | ⭐ 31k | TypeScript | 2026-11-20 | A self-hostable bookmark-everything app (links, notes and images) with AI-based autom... |
-| [**milind-soni/OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | ⭐ 27k | TypeScript | 2026-11-22 | Open-source Grok Bot alternative with a virtual machine that bots can use |
-| [**xpipe-io/xpipe**](https://github.com/xpipe-io/xpipe) | ⭐ 15k | Java | 2026-11-22 | Access your entire server infrastructure from your local desktop |
-| [**runtipi/runtipi**](https://github.com/runtipi/runtipi) | ⭐ 9.7k | TypeScript | 2026-11-22 | Runtipi is a homeserver for everyone! One command setup, one click installs for your... |
-| [**mattpocock/sandcastle**](https://github.com/mattpocock/sandcastle) | ⭐ 9.2k | TypeScript | 2026-11-18 | Orchestrate sandboxed coding agents in TypeScript with sandcastle.run() |
-| [**yusing/godoxy**](https://github.com/yusing/godoxy) | ⭐ 4.2k | Go | 2026-11-20 | High-performance reverse proxy and container orchestrator for self-hosters |
+| [**chatwoot/chatwoot**](https://github.com/chatwoot/chatwoot) | ⭐ 41k | Ruby | 2026-11-25 | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom,... |
+| [**nextcloud/server**](https://github.com/nextcloud/server) | ⭐ 38k | PHP | 2026-11-25 | ☁️ Nextcloud server, a safe home for all your data |
+| [**pear-devs/pear-desktop**](https://github.com/pear-devs/pear-desktop) | ⭐ 34k | TypeScript | 2026-11-25 | Pear 🍐 is extension for music player |
+| [**meta/astryx**](https://github.com/meta/astryx) | ⭐ 33k | TypeScript | 2026-11-25 | An open source design system that's fully customizable and agent ready |
+| [**karakeep-app/karakeep**](https://github.com/karakeep-app/karakeep) | ⭐ 31k | TypeScript | 2026-11-24 | A self-hostable bookmark-everything app (links, notes and images) with AI-based autom... |
+| [**milind-soni/OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | ⭐ 28k | TypeScript | 2026-11-25 | Open-source Grok Bot alternative with a virtual machine that bots can use |
+| [**xpipe-io/xpipe**](https://github.com/xpipe-io/xpipe) | ⭐ 15k | Java | 2026-11-23 | Access your entire server infrastructure from your local desktop |
+| [**runtipi/runtipi**](https://github.com/runtipi/runtipi) | ⭐ 9.8k | TypeScript | 2026-11-24 | Runtipi is a homeserver for everyone! One command setup, one click installs for your... |
+| [**mattpocock/sandcastle**](https://github.com/mattpocock/sandcastle) | ⭐ 9.3k | TypeScript | 2026-11-18 | Orchestrate sandboxed coding agents in TypeScript with sandcastle.run() |
+| [**yusing/godoxy**](https://github.com/yusing/godoxy) | ⭐ 4.2k | Go | 2026-11-24 | High-performance reverse proxy and container orchestrator for self-hosters |
 | [**docker-library/python**](https://github.com/docker-library/python) | ⭐ 2.8k | Dockerfile | 2026-11-10 | Docker Official Image packaging for Python |
 | [**tobi/walgit**](https://github.com/tobi/walgit) | ⭐ 2.7k | Rust | 2026-09-13 | A lightweight single-binary git server backed directly by an object store with no dat... |
-| [**stanford-mast/blast**](https://github.com/stanford-mast/blast) | ⭐ 808 | Rust | 2026-08-30 | Open-source VMs-as-a-service |
-| [**postmill-ai/postmill-app**](https://github.com/postmill-ai/postmill-app) | ⭐ 348 | TypeScript | 2026-11-22 | Open-source social media management platform with an integrated Creative Suite. Desig... |
+| [**stanford-mast/blast**](https://github.com/stanford-mast/blast) | ⭐ 809 | Rust | 2026-11-24 | Open-source VMs-as-a-service |
+| [**postmill-ai/postmill-app**](https://github.com/postmill-ai/postmill-app) | ⭐ 350 | TypeScript | 2026-11-22 | Open-source social media management platform with an integrated Creative Suite. Desig... |
 | [**containers/ai-lab-recipes**](https://github.com/containers/ai-lab-recipes) | ⭐ 207 | Python | 2026-02-13 | Examples for building and running LLM services and applications locally with Podman |
 | [**agungTuanany/docker-kubernetes**](https://github.com/agungTuanany/docker-kubernetes) | ⭐ 73 | JavaScript | 2026-10-18 | COMPLETE GUIDE DOCKER &amp; KUBERNETES from [STEPHEN GRIDER] |
 | [**manoss96/fluke**](https://github.com/manoss96/fluke) | ⭐ 61 | Python | 2024-06-08 | Cloud-agnostic Python API |
@@ -38,10 +38,10 @@
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/109746326?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/immich-app/immich">immich-app/immich</a> 🔥🔥🔥</strong> <br/><br/>
-<em>High performance self-hosted photo and video management solution.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>backup-tool</code> <code>flutter</code> <code>google-photos</code> <code>google-photos-alternative</code> <code>javascript</code> <code>mobile-app</code></small><br/><br/>
+<em>High performance self-hosted photo and video management solution.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>backup-tool</code> <code>flutter</code> <code>google-photos</code> <code>google-photos-alternative</code> <code>javascript</code> <code>mobile-app</code></small><br/><br/>
 <span>
-<a href="https://github.com/immich-app/immich/stargazers"><img src="https://img.shields.io/github/stars/immich-app/immich?style=flat-square&labelColor=343b41" alt="Stars: 119815"></a>
-<a href="https://github.com/immich-app/immich/network/members"><img src="https://img.shields.io/github/forks/immich-app/immich?style=flat-square&labelColor=343b41" alt="Forks: 7670"></a>
+<a href="https://github.com/immich-app/immich/stargazers"><img src="https://img.shields.io/github/stars/immich-app/immich?style=flat-square&labelColor=343b41" alt="Stars: 120054"></a>
+<a href="https://github.com/immich-app/immich/network/members"><img src="https://img.shields.io/github/forks/immich-app/immich?style=flat-square&labelColor=343b41" alt="Forks: 7699"></a>
 </span>
 </div><br/>
 
@@ -49,17 +49,17 @@
 <img src="https://avatars.githubusercontent.com/u/10349437?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/bregman-arie/devops-exercises">bregman-arie/devops-exercises</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2025-12-27</small><br/><small>🏷️ <code>ansible</code> <code>aws</code> <code>azure</code> <code>coding</code> <code>containers</code> <code>devops</code></small><br/><br/>
 <span>
-<a href="https://github.com/bregman-arie/devops-exercises/stargazers"><img src="https://img.shields.io/github/stars/bregman-arie/devops-exercises?style=flat-square&labelColor=343b41" alt="Stars: 86909"></a>
-<a href="https://github.com/bregman-arie/devops-exercises/network/members"><img src="https://img.shields.io/github/forks/bregman-arie/devops-exercises?style=flat-square&labelColor=343b41" alt="Forks: 20657"></a>
+<a href="https://github.com/bregman-arie/devops-exercises/stargazers"><img src="https://img.shields.io/github/stars/bregman-arie/devops-exercises?style=flat-square&labelColor=343b41" alt="Stars: 86933"></a>
+<a href="https://github.com/bregman-arie/devops-exercises/network/members"><img src="https://img.shields.io/github/forks/bregman-arie/devops-exercises?style=flat-square&labelColor=343b41" alt="Forks: 20660"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/60715044?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/coollabsio/coolify">coollabsio/coolify</a> 🔥🔥🔥</strong> <br/><br/>
-<em>An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.</em><br/><small><code>PHP</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>coolify</code> <code>databases</code> <code>deployment</code> <code>docker</code> <code>docker-compose</code> <code>inertiajs</code></small><br/><br/>
+<em>An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.</em><br/><small><code>PHP</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>coolify</code> <code>databases</code> <code>deployment</code> <code>docker</code> <code>docker-compose</code> <code>inertiajs</code></small><br/><br/>
 <span>
-<a href="https://github.com/coollabsio/coolify/stargazers"><img src="https://img.shields.io/github/stars/coollabsio/coolify?style=flat-square&labelColor=343b41" alt="Stars: 66338"></a>
-<a href="https://github.com/coollabsio/coolify/network/members"><img src="https://img.shields.io/github/forks/coollabsio/coolify?style=flat-square&labelColor=343b41" alt="Forks: 6007"></a>
+<a href="https://github.com/coollabsio/coolify/stargazers"><img src="https://img.shields.io/github/stars/coollabsio/coolify?style=flat-square&labelColor=343b41" alt="Stars: 66449"></a>
+<a href="https://github.com/coollabsio/coolify/network/members"><img src="https://img.shields.io/github/forks/coollabsio/coolify?style=flat-square&labelColor=343b41" alt="Forks: 6019"></a>
 </span>
 </div><br/>
 
@@ -67,8 +67,8 @@
 <img src="https://avatars.githubusercontent.com/u/28732122?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/localstack/localstack">localstack/localstack</a> 🔥🔥🔥</strong> <code>⚠️ Archived</code><br/><br/>
 <em>💻 A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-03-23</small><br/><small>🏷️ <code>aws</code> <code>cloud</code> <code>continuous-integration</code> <code>developer-tools</code> <code>localstack</code> <code>python</code></small><br/><br/>
 <span>
-<a href="https://github.com/localstack/localstack/stargazers"><img src="https://img.shields.io/github/stars/localstack/localstack?style=flat-square&labelColor=343b41" alt="Stars: 65107"></a>
-<a href="https://github.com/localstack/localstack/network/members"><img src="https://img.shields.io/github/forks/localstack/localstack?style=flat-square&labelColor=343b41" alt="Forks: 4827"></a>
+<a href="https://github.com/localstack/localstack/stargazers"><img src="https://img.shields.io/github/stars/localstack/localstack?style=flat-square&labelColor=343b41" alt="Stars: 65106"></a>
+<a href="https://github.com/localstack/localstack/network/members"><img src="https://img.shields.io/github/forks/localstack/localstack?style=flat-square&labelColor=343b41" alt="Forks: 4832"></a>
 </span>
 </div><br/>
 
@@ -76,7 +76,7 @@
 <img src="https://avatars.githubusercontent.com/u/162823259?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/exo-explore/exo">exo-explore/exo</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Run frontier AI locally.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><br/>
 <span>
-<a href="https://github.com/exo-explore/exo/stargazers"><img src="https://img.shields.io/github/stars/exo-explore/exo?style=flat-square&labelColor=343b41" alt="Stars: 48532"></a>
+<a href="https://github.com/exo-explore/exo/stargazers"><img src="https://img.shields.io/github/stars/exo-explore/exo?style=flat-square&labelColor=343b41" alt="Stars: 48596"></a>
 <a href="https://github.com/exo-explore/exo/network/members"><img src="https://img.shields.io/github/forks/exo-explore/exo?style=flat-square&labelColor=343b41" alt="Forks: 3632"></a>
 </span>
 </div><br/>
@@ -85,79 +85,79 @@
 <img src="https://avatars.githubusercontent.com/u/245328954?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/reactive-resume/reactive-resume">reactive-resume/reactive-resume</a> 🔥🔥🔥</strong> <br/><br/>
 <em>A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-20</small><br/><small>🏷️ <code>agent-skills</code> <code>ai</code> <code>dsh-plugin</code> <code>hacktoberfest</code> <code>javascript</code> <code>mcp-server</code></small><br/><br/>
 <span>
-<a href="https://github.com/reactive-resume/reactive-resume/stargazers"><img src="https://img.shields.io/github/stars/reactive-resume/reactive-resume?style=flat-square&labelColor=343b41" alt="Stars: 45971"></a>
-<a href="https://github.com/reactive-resume/reactive-resume/network/members"><img src="https://img.shields.io/github/forks/reactive-resume/reactive-resume?style=flat-square&labelColor=343b41" alt="Forks: 4964"></a>
+<a href="https://github.com/reactive-resume/reactive-resume/stargazers"><img src="https://img.shields.io/github/stars/reactive-resume/reactive-resume?style=flat-square&labelColor=343b41" alt="Stars: 46082"></a>
+<a href="https://github.com/reactive-resume/reactive-resume/network/members"><img src="https://img.shields.io/github/forks/reactive-resume/reactive-resume?style=flat-square&labelColor=343b41" alt="Forks: 4969"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/23416667?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/chatwoot/chatwoot">chatwoot/chatwoot</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬</em><br/><small><code>Ruby</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-20</small><br/><small>🏷️ <code>actioncable</code> <code>chat-widget</code> <code>conversation</code> <code>customer-support</code> <code>dashboard</code> <code>design</code></small><br/><br/>
+<em>Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬</em><br/><small><code>Ruby</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>actioncable</code> <code>chat-widget</code> <code>conversation</code> <code>customer-support</code> <code>dashboard</code> <code>design</code></small><br/><br/>
 <span>
-<a href="https://github.com/chatwoot/chatwoot/stargazers"><img src="https://img.shields.io/github/stars/chatwoot/chatwoot?style=flat-square&labelColor=343b41" alt="Stars: 40308"></a>
-<a href="https://github.com/chatwoot/chatwoot/network/members"><img src="https://img.shields.io/github/forks/chatwoot/chatwoot?style=flat-square&labelColor=343b41" alt="Forks: 9817"></a>
+<a href="https://github.com/chatwoot/chatwoot/stargazers"><img src="https://img.shields.io/github/stars/chatwoot/chatwoot?style=flat-square&labelColor=343b41" alt="Stars: 40521"></a>
+<a href="https://github.com/chatwoot/chatwoot/network/members"><img src="https://img.shields.io/github/forks/chatwoot/chatwoot?style=flat-square&labelColor=343b41" alt="Forks: 9875"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/19211038?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/nextcloud/server">nextcloud/server</a> 🔥🔥🔥</strong> <br/><br/>
-<em>☁️ Nextcloud server, a safe home for all your data</em><br/><small><code>PHP</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>cloud</code> <code>collaboration</code> <code>decentralized</code> <code>design</code> <code>distributed</code> <code>enterprise</code></small><br/><br/>
+<em>☁️ Nextcloud server, a safe home for all your data</em><br/><small><code>PHP</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>cloud</code> <code>collaboration</code> <code>decentralized</code> <code>design</code> <code>distributed</code> <code>enterprise</code></small><br/><br/>
 <span>
-<a href="https://github.com/nextcloud/server/stargazers"><img src="https://img.shields.io/github/stars/nextcloud/server?style=flat-square&labelColor=343b41" alt="Stars: 37599"></a>
-<a href="https://github.com/nextcloud/server/network/members"><img src="https://img.shields.io/github/forks/nextcloud/server?style=flat-square&labelColor=343b41" alt="Forks: 5378"></a>
+<a href="https://github.com/nextcloud/server/stargazers"><img src="https://img.shields.io/github/stars/nextcloud/server?style=flat-square&labelColor=343b41" alt="Stars: 37628"></a>
+<a href="https://github.com/nextcloud/server/network/members"><img src="https://img.shields.io/github/forks/nextcloud/server?style=flat-square&labelColor=343b41" alt="Forks: 5384"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/232770603?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/pear-devs/pear-desktop">pear-devs/pear-desktop</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Pear 🍐 is extension for music player</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>desktop-app</code> <code>electron</code> <code>linux</code> <code>mac</code> <code>macosx</code> <code>music</code></small><br/><br/>
+<em>Pear 🍐 is extension for music player</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>desktop-app</code> <code>electron</code> <code>linux</code> <code>mac</code> <code>macosx</code> <code>music</code></small><br/><br/>
 <span>
-<a href="https://github.com/pear-devs/pear-desktop/stargazers"><img src="https://img.shields.io/github/stars/pear-devs/pear-desktop?style=flat-square&labelColor=343b41" alt="Stars: 34107"></a>
-<a href="https://github.com/pear-devs/pear-desktop/network/members"><img src="https://img.shields.io/github/forks/pear-devs/pear-desktop?style=flat-square&labelColor=343b41" alt="Forks: 2054"></a>
+<a href="https://github.com/pear-devs/pear-desktop/stargazers"><img src="https://img.shields.io/github/stars/pear-devs/pear-desktop?style=flat-square&labelColor=343b41" alt="Stars: 34133"></a>
+<a href="https://github.com/pear-devs/pear-desktop/network/members"><img src="https://img.shields.io/github/forks/pear-devs/pear-desktop?style=flat-square&labelColor=343b41" alt="Forks: 2061"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/69631?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/meta/astryx">meta/astryx</a> 🔥🔥🔥</strong> <br/><br/>
-<em>An open source design system that's fully customizable and agent ready</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><br/>
+<em>An open source design system that's fully customizable and agent ready</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><br/>
 <span>
-<a href="https://github.com/meta/astryx/stargazers"><img src="https://img.shields.io/github/stars/meta/astryx?style=flat-square&labelColor=343b41" alt="Stars: 31895"></a>
-<a href="https://github.com/meta/astryx/network/members"><img src="https://img.shields.io/github/forks/meta/astryx?style=flat-square&labelColor=343b41" alt="Forks: 2503"></a>
+<a href="https://github.com/meta/astryx/stargazers"><img src="https://img.shields.io/github/stars/meta/astryx?style=flat-square&labelColor=343b41" alt="Stars: 32938"></a>
+<a href="https://github.com/meta/astryx/network/members"><img src="https://img.shields.io/github/forks/meta/astryx?style=flat-square&labelColor=343b41" alt="Forks: 2582"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/202258986?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/karakeep-app/karakeep">karakeep-app/karakeep</a> 🔥🔥🔥</strong> <br/><br/>
-<em>A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-20</small><br/><small>🏷️ <code>bookmark-manager</code> <code>bookmarks</code> <code>bookmarks-manager</code> <code>nextjs</code> <code>react-native</code> <code>read-it-later</code></small><br/><br/>
+<em>A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>bookmark-manager</code> <code>bookmarks</code> <code>bookmarks-manager</code> <code>nextjs</code> <code>react-native</code> <code>read-it-later</code></small><br/><br/>
 <span>
-<a href="https://github.com/karakeep-app/karakeep/stargazers"><img src="https://img.shields.io/github/stars/karakeep-app/karakeep?style=flat-square&labelColor=343b41" alt="Stars: 30755"></a>
-<a href="https://github.com/karakeep-app/karakeep/network/members"><img src="https://img.shields.io/github/forks/karakeep-app/karakeep?style=flat-square&labelColor=343b41" alt="Forks: 1670"></a>
+<a href="https://github.com/karakeep-app/karakeep/stargazers"><img src="https://img.shields.io/github/stars/karakeep-app/karakeep?style=flat-square&labelColor=343b41" alt="Stars: 30833"></a>
+<a href="https://github.com/karakeep-app/karakeep/network/members"><img src="https://img.shields.io/github/forks/karakeep-app/karakeep?style=flat-square&labelColor=343b41" alt="Forks: 1676"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/46266943?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/milind-soni/OpenMausBot">milind-soni/OpenMausBot</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Open-source Grok Bot alternative with a virtual machine that bots can use</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>ai-agents</code> <code>claude-code</code> <code>codex</code> <code>computer-use</code> <code>docker</code> <code>electron</code></small><br/><br/>
+<em>Open-source Grok Bot alternative with a virtual machine that bots can use</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>ai-agents</code> <code>claude-code</code> <code>codex</code> <code>computer-use</code> <code>docker</code> <code>electron</code></small><br/><br/>
 <span>
-<a href="https://github.com/milind-soni/OpenMausBot/stargazers"><img src="https://img.shields.io/github/stars/milind-soni/OpenMausBot?style=flat-square&labelColor=343b41" alt="Stars: 26576"></a>
-<a href="https://github.com/milind-soni/OpenMausBot/network/members"><img src="https://img.shields.io/github/forks/milind-soni/OpenMausBot?style=flat-square&labelColor=343b41" alt="Forks: 3789"></a>
+<a href="https://github.com/milind-soni/OpenMausBot/stargazers"><img src="https://img.shields.io/github/stars/milind-soni/OpenMausBot?style=flat-square&labelColor=343b41" alt="Stars: 27630"></a>
+<a href="https://github.com/milind-soni/OpenMausBot/network/members"><img src="https://img.shields.io/github/forks/milind-soni/OpenMausBot?style=flat-square&labelColor=343b41" alt="Forks: 3950"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/93734037?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/xpipe-io/xpipe">xpipe-io/xpipe</a> 🔥🔥</strong> <br/><br/>
-<em>Access your entire server infrastructure from your local desktop</em><br/><small><code>Java</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>bash</code> <code>docker</code> <code>filemanager</code> <code>files</code> <code>incus</code> <code>java</code></small><br/><br/>
+<em>Access your entire server infrastructure from your local desktop</em><br/><small><code>Java</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-23</small><br/><small>🏷️ <code>bash</code> <code>docker</code> <code>filemanager</code> <code>files</code> <code>incus</code> <code>java</code></small><br/><br/>
 <span>
-<a href="https://github.com/xpipe-io/xpipe/stargazers"><img src="https://img.shields.io/github/stars/xpipe-io/xpipe?style=flat-square&labelColor=343b41" alt="Stars: 14666"></a>
-<a href="https://github.com/xpipe-io/xpipe/network/members"><img src="https://img.shields.io/github/forks/xpipe-io/xpipe?style=flat-square&labelColor=343b41" alt="Forks: 573"></a>
+<a href="https://github.com/xpipe-io/xpipe/stargazers"><img src="https://img.shields.io/github/stars/xpipe-io/xpipe?style=flat-square&labelColor=343b41" alt="Stars: 14669"></a>
+<a href="https://github.com/xpipe-io/xpipe/network/members"><img src="https://img.shields.io/github/forks/xpipe-io/xpipe?style=flat-square&labelColor=343b41" alt="Forks: 575"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/147710665?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/runtipi/runtipi">runtipi/runtipi</a> 🔥🔥</strong> <br/><br/>
-<em>Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ GPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>homeserver</code> <code>linux</code> <code>self-hosted</code></small><br/><br/>
+<em>Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ GPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>homeserver</code> <code>linux</code> <code>self-hosted</code></small><br/><br/>
 <span>
-<a href="https://github.com/runtipi/runtipi/stargazers"><img src="https://img.shields.io/github/stars/runtipi/runtipi?style=flat-square&labelColor=343b41" alt="Stars: 9748"></a>
+<a href="https://github.com/runtipi/runtipi/stargazers"><img src="https://img.shields.io/github/stars/runtipi/runtipi?style=flat-square&labelColor=343b41" alt="Stars: 9751"></a>
 <a href="https://github.com/runtipi/runtipi/network/members"><img src="https://img.shields.io/github/forks/runtipi/runtipi?style=flat-square&labelColor=343b41" alt="Forks: 375"></a>
 </span>
 </div><br/>
@@ -166,17 +166,17 @@
 <img src="https://avatars.githubusercontent.com/u/28293365?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/mattpocock/sandcastle">mattpocock/sandcastle</a> 🔥🔥</strong> <br/><br/>
 <em>Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-18</small><br/><br/>
 <span>
-<a href="https://github.com/mattpocock/sandcastle/stargazers"><img src="https://img.shields.io/github/stars/mattpocock/sandcastle?style=flat-square&labelColor=343b41" alt="Stars: 9218"></a>
-<a href="https://github.com/mattpocock/sandcastle/network/members"><img src="https://img.shields.io/github/forks/mattpocock/sandcastle?style=flat-square&labelColor=343b41" alt="Forks: 994"></a>
+<a href="https://github.com/mattpocock/sandcastle/stargazers"><img src="https://img.shields.io/github/stars/mattpocock/sandcastle?style=flat-square&labelColor=343b41" alt="Stars: 9272"></a>
+<a href="https://github.com/mattpocock/sandcastle/network/members"><img src="https://img.shields.io/github/forks/mattpocock/sandcastle?style=flat-square&labelColor=343b41" alt="Forks: 996"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/23052124?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/yusing/godoxy">yusing/godoxy</a> 🔥</strong> <br/><br/>
-<em>High-performance reverse proxy and container orchestrator for self-hosters</em><br/><small><code>Go</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-20</small><br/><small>🏷️ <code>docker</code> <code>go</code> <code>golang</code> <code>homepage</code> <code>letsencrypt</code> <code>microservice</code></small><br/><br/>
+<em>High-performance reverse proxy and container orchestrator for self-hosters</em><br/><small><code>Go</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>docker</code> <code>go</code> <code>golang</code> <code>homepage</code> <code>letsencrypt</code> <code>microservice</code></small><br/><br/>
 <span>
 <a href="https://github.com/yusing/godoxy/stargazers"><img src="https://img.shields.io/github/stars/yusing/godoxy?style=flat-square&labelColor=343b41" alt="Stars: 4193"></a>
-<a href="https://github.com/yusing/godoxy/network/members"><img src="https://img.shields.io/github/forks/yusing/godoxy?style=flat-square&labelColor=343b41" alt="Forks: 192"></a>
+<a href="https://github.com/yusing/godoxy/network/members"><img src="https://img.shields.io/github/forks/yusing/godoxy?style=flat-square&labelColor=343b41" alt="Forks: 190"></a>
 </span>
 </div><br/>
 
@@ -184,7 +184,7 @@
 <img src="https://avatars.githubusercontent.com/u/7739233?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/docker-library/python">docker-library/python</a> 🔥</strong> <br/><br/>
 <em>Docker Official Image packaging for Python</em><br/><small><code>Dockerfile</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-10</small><br/><br/>
 <span>
-<a href="https://github.com/docker-library/python/stargazers"><img src="https://img.shields.io/github/stars/docker-library/python?style=flat-square&labelColor=343b41" alt="Stars: 2798"></a>
+<a href="https://github.com/docker-library/python/stargazers"><img src="https://img.shields.io/github/stars/docker-library/python?style=flat-square&labelColor=343b41" alt="Stars: 2800"></a>
 <a href="https://github.com/docker-library/python/network/members"><img src="https://img.shields.io/github/forks/docker-library/python?style=flat-square&labelColor=343b41" alt="Forks: 1114"></a>
 </span>
 </div><br/>
@@ -193,16 +193,16 @@
 <img src="https://avatars.githubusercontent.com/u/347?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/tobi/walgit">tobi/walgit</a> 🔥</strong> <br/><br/>
 <em>A lightweight single-binary git server backed directly by an object store with no database.</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-09-13</small><br/><br/>
 <span>
-<a href="https://github.com/tobi/walgit/stargazers"><img src="https://img.shields.io/github/stars/tobi/walgit?style=flat-square&labelColor=343b41" alt="Stars: 2724"></a>
-<a href="https://github.com/tobi/walgit/network/members"><img src="https://img.shields.io/github/forks/tobi/walgit?style=flat-square&labelColor=343b41" alt="Forks: 182"></a>
+<a href="https://github.com/tobi/walgit/stargazers"><img src="https://img.shields.io/github/stars/tobi/walgit?style=flat-square&labelColor=343b41" alt="Stars: 2730"></a>
+<a href="https://github.com/tobi/walgit/network/members"><img src="https://img.shields.io/github/forks/tobi/walgit?style=flat-square&labelColor=343b41" alt="Forks: 183"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/11812353?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/stanford-mast/blast">stanford-mast/blast</a> </strong> <br/><br/>
-<em>Open-source VMs-as-a-service</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-08-30</small><br/><small>🏷️ <code>sandbox</code> <code>service</code> <code>virtual-machine</code></small><br/><br/>
+<em>Open-source VMs-as-a-service</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>sandbox</code> <code>service</code> <code>virtual-machine</code></small><br/><br/>
 <span>
-<a href="https://github.com/stanford-mast/blast/stargazers"><img src="https://img.shields.io/github/stars/stanford-mast/blast?style=flat-square&labelColor=343b41" alt="Stars: 808"></a>
+<a href="https://github.com/stanford-mast/blast/stargazers"><img src="https://img.shields.io/github/stars/stanford-mast/blast?style=flat-square&labelColor=343b41" alt="Stars: 809"></a>
 <a href="https://github.com/stanford-mast/blast/network/members"><img src="https://img.shields.io/github/forks/stanford-mast/blast?style=flat-square&labelColor=343b41" alt="Forks: 55"></a>
 </span>
 </div><br/>
@@ -211,8 +211,8 @@
 <img src="https://avatars.githubusercontent.com/u/297530775?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/postmill-ai/postmill-app">postmill-ai/postmill-app</a> </strong> <br/><br/>
 <em>Open-source social media management platform with an integrated Creative Suite. Design, publish, schedule, and engage across 45+ channels with AI-powered tools. Self-host or use Postmill Cloud.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>ai</code> <code>ai-agents</code> <code>content-creation</code> <code>generative-ai</code> <code>image-editor</code> <code>marketing-automation</code></small><br/><br/>
 <span>
-<a href="https://github.com/postmill-ai/postmill-app/stargazers"><img src="https://img.shields.io/github/stars/postmill-ai/postmill-app?style=flat-square&labelColor=343b41" alt="Stars: 348"></a>
-<a href="https://github.com/postmill-ai/postmill-app/network/members"><img src="https://img.shields.io/github/forks/postmill-ai/postmill-app?style=flat-square&labelColor=343b41" alt="Forks: 48"></a>
+<a href="https://github.com/postmill-ai/postmill-app/stargazers"><img src="https://img.shields.io/github/stars/postmill-ai/postmill-app?style=flat-square&labelColor=343b41" alt="Stars: 350"></a>
+<a href="https://github.com/postmill-ai/postmill-app/network/members"><img src="https://img.shields.io/github/forks/postmill-ai/postmill-app?style=flat-square&labelColor=343b41" alt="Forks: 51"></a>
 </span>
 </div><br/>
 
@@ -221,7 +221,7 @@
 <em>Examples for building and running LLM services and applications locally with Podman</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-02-13</small><br/><br/>
 <span>
 <a href="https://github.com/containers/ai-lab-recipes/stargazers"><img src="https://img.shields.io/github/stars/containers/ai-lab-recipes?style=flat-square&labelColor=343b41" alt="Stars: 207"></a>
-<a href="https://github.com/containers/ai-lab-recipes/network/members"><img src="https://img.shields.io/github/forks/containers/ai-lab-recipes?style=flat-square&labelColor=343b41" alt="Forks: 148"></a>
+<a href="https://github.com/containers/ai-lab-recipes/network/members"><img src="https://img.shields.io/github/forks/containers/ai-lab-recipes?style=flat-square&labelColor=343b41" alt="Forks: 147"></a>
 </span>
 </div><br/>
 

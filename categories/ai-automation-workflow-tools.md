@@ -8,23 +8,23 @@
 
 | Repository | Stars | Language | Updated | Description |
 | :--- | ---: | :--- | :--- | :--- |
-| [**openai/codex**](https://github.com/openai/codex) | ⭐ 136k | Rust | 2026-11-22 | Lightweight coding agent that runs in your terminal |
+| [**openai/codex**](https://github.com/openai/codex) | ⭐ 136k | Rust | 2026-11-25 | Lightweight coding agent that runs in your terminal |
 | [**Zie619/n8n-workflows**](https://github.com/Zie619/n8n-workflows) | ⭐ 57k | Python | 2026-06-24 | all of the workflows of n8n i could find (also from the site itself) |
 | [**Aider-AI/aider**](https://github.com/Aider-AI/aider) | ⭐ 50k | Python | 2026-05-22 | aider is AI pair programming in your terminal |
-| [**gitroomhq/postiz-app**](https://github.com/gitroomhq/postiz-app) | ⭐ 42k | TypeScript | 2026-11-20 | 📨 The ultimate agentic social media scheduling tool 🤖 |
+| [**gitroomhq/postiz-app**](https://github.com/gitroomhq/postiz-app) | ⭐ 42k | TypeScript | 2026-11-24 | 📨 The ultimate agentic social media scheduling tool 🤖 |
 | [**Pythagora-io/gpt-pilot**](https://github.com/Pythagora-io/gpt-pilot) | ⭐ 34k | Python | 2026-06-18 | The first real AI developer |
-| [**kestra-io/kestra**](https://github.com/kestra-io/kestra) | ⭐ 30k | Java | 2026-11-20 | Orchestrate everything, everywhere. The open-source control plane for workflows acros... |
-| [**activepieces/activepieces**](https://github.com/activepieces/activepieces) | ⭐ 26k | TypeScript | 2026-11-22 | AI Agents &amp; MCPs &amp; AI Workflow Automation • (~400 MCP servers for AI agents) • AI Aut... |
-| [**Skyvern-AI/skyvern**](https://github.com/Skyvern-AI/skyvern) | ⭐ 23k | Python | 2026-11-21 | Automate browser based workflows with AI |
-| [**getmaxun/maxun**](https://github.com/getmaxun/maxun) | ⭐ 19k | TypeScript | 2026-11-20 | Turn any website into a structured API. Extract, automate, search and monitor the web... |
+| [**kestra-io/kestra**](https://github.com/kestra-io/kestra) | ⭐ 30k | Java | 2026-11-25 | Orchestrate everything, everywhere. The open-source control plane for workflows acros... |
+| [**activepieces/activepieces**](https://github.com/activepieces/activepieces) | ⭐ 26k | TypeScript | 2026-11-25 | AI Agents &amp; MCPs &amp; AI Workflow Automation • (~400 MCP servers for AI agents) • AI Aut... |
+| [**Skyvern-AI/skyvern**](https://github.com/Skyvern-AI/skyvern) | ⭐ 24k | Python | 2026-11-25 | Automate browser based workflows with AI |
+| [**getmaxun/maxun**](https://github.com/getmaxun/maxun) | ⭐ 19k | TypeScript | 2026-11-24 | Turn any website into a structured API. Extract, automate, search and monitor the web... |
 | [**automatisch/automatisch**](https://github.com/automatisch/automatisch) | ⭐ 14k | JavaScript | 2026-02-11 | The open source Zapier alternative. Build workflow automation without spending time a... |
 | [**RayVentura/ShortGPT**](https://github.com/RayVentura/ShortGPT) | ⭐ 8.2k | Python | 2025-02-10 | 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automat... |
 | [**going-doer/Paper2Code**](https://github.com/going-doer/Paper2Code) | ⭐ 5k | Python | 2026-03-25 | Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning |
-| [**browser-use/workflow-use**](https://github.com/browser-use/workflow-use) | ⭐ 4.3k | Python | 2026-11-20 | ⚙️ Create and run workflows (RPA 2.0) |
+| [**browser-use/workflow-use**](https://github.com/browser-use/workflow-use) | ⭐ 4.3k | Python | 2026-11-24 | ⚙️ Create and run workflows (RPA 2.0) |
 | [**magnitudedev/browser-agent**](https://github.com/magnitudedev/browser-agent) | ⭐ 4.1k | TypeScript | 2026-02-08 | Open-source, vision-first browser agent |
 | [**shepherd-agents/shepherd**](https://github.com/shepherd-agents/shepherd) | ⭐ 2.7k | Python | 2026-09-09 | A runtime substrate that turns an agent's execution into a reversible, Git-like trace... |
-| [**test-zeus-ai/testzeus-hercules**](https://github.com/test-zeus-ai/testzeus-hercules) | ⭐ 1.2k | Python | 2026-11-21 | Hercules is the world’s first open-source testing agent, enabling UI, API, Security,... |
-| [**alumnium-hq/alumnium**](https://github.com/alumnium-hq/alumnium) | ⭐ 1k | TypeScript | 2026-11-18 | End-to-End Testing Harness |
+| [**test-zeus-ai/testzeus-hercules**](https://github.com/test-zeus-ai/testzeus-hercules) | ⭐ 1.2k | Python | 2026-11-23 | Hercules is the world’s first open-source testing agent, enabling UI, API, Security,... |
+| [**alumnium-hq/alumnium**](https://github.com/alumnium-hq/alumnium) | ⭐ 1k | TypeScript | 2026-11-24 | End-to-End Testing Harness |
 | [**kristianfreeman/aiwriter**](https://github.com/kristianfreeman/aiwriter) | ⭐ 297 | JavaScript | 2024-12-22 | Generate high-quality articles for your blog using a SERP workflow and AI |
 | [**langchain-ai/robo-blogger**](https://github.com/langchain-ai/robo-blogger) | ⭐ 145 | Python | 2025-01-27 | Assistant for voice-to-blog writing |
 
@@ -34,10 +34,10 @@
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/14957082?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/openai/codex">openai/codex</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Lightweight coding agent that runs in your terminal</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><br/>
+<em>Lightweight coding agent that runs in your terminal</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><br/>
 <span>
-<a href="https://github.com/openai/codex/stargazers"><img src="https://img.shields.io/github/stars/openai/codex?style=flat-square&labelColor=343b41" alt="Stars: 136077"></a>
-<a href="https://github.com/openai/codex/network/members"><img src="https://img.shields.io/github/forks/openai/codex?style=flat-square&labelColor=343b41" alt="Forks: 21583"></a>
+<a href="https://github.com/openai/codex/stargazers"><img src="https://img.shields.io/github/stars/openai/codex?style=flat-square&labelColor=343b41" alt="Stars: 136370"></a>
+<a href="https://github.com/openai/codex/network/members"><img src="https://img.shields.io/github/forks/openai/codex?style=flat-square&labelColor=343b41" alt="Forks: 21633"></a>
 </span>
 </div><br/>
 
@@ -45,8 +45,8 @@
 <img src="https://avatars.githubusercontent.com/u/54673680?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Zie619/n8n-workflows">Zie619/n8n-workflows</a> 🔥🔥🔥</strong> <br/><br/>
 <em>all of the workflows of n8n i could find (also from the site itself)</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-06-24</small><br/><br/>
 <span>
-<a href="https://github.com/Zie619/n8n-workflows/stargazers"><img src="https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41" alt="Stars: 57297"></a>
-<a href="https://github.com/Zie619/n8n-workflows/network/members"><img src="https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41" alt="Forks: 7707"></a>
+<a href="https://github.com/Zie619/n8n-workflows/stargazers"><img src="https://img.shields.io/github/stars/Zie619/n8n-workflows?style=flat-square&labelColor=343b41" alt="Stars: 57314"></a>
+<a href="https://github.com/Zie619/n8n-workflows/network/members"><img src="https://img.shields.io/github/forks/Zie619/n8n-workflows?style=flat-square&labelColor=343b41" alt="Forks: 7708"></a>
 </span>
 </div><br/>
 
@@ -54,17 +54,17 @@
 <img src="https://avatars.githubusercontent.com/u/172139148?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Aider-AI/aider">Aider-AI/aider</a> 🔥🔥🔥</strong> <br/><br/>
 <em>aider is AI pair programming in your terminal</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-05-22</small><br/><small>🏷️ <code>anthropic</code> <code>chatgpt</code> <code>claude-3</code> <code>cli</code> <code>command-line</code> <code>gemini</code></small><br/><br/>
 <span>
-<a href="https://github.com/Aider-AI/aider/stargazers"><img src="https://img.shields.io/github/stars/Aider-AI/aider?style=flat-square&labelColor=343b41" alt="Stars: 50213"></a>
-<a href="https://github.com/Aider-AI/aider/network/members"><img src="https://img.shields.io/github/forks/Aider-AI/aider?style=flat-square&labelColor=343b41" alt="Forks: 5180"></a>
+<a href="https://github.com/Aider-AI/aider/stargazers"><img src="https://img.shields.io/github/stars/Aider-AI/aider?style=flat-square&labelColor=343b41" alt="Stars: 50249"></a>
+<a href="https://github.com/Aider-AI/aider/network/members"><img src="https://img.shields.io/github/forks/Aider-AI/aider?style=flat-square&labelColor=343b41" alt="Forks: 5188"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/128401275?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/gitroomhq/postiz-app">gitroomhq/postiz-app</a> 🔥🔥🔥</strong> <br/><br/>
-<em>📨 The ultimate agentic social media scheduling tool 🤖</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-20</small><br/><small>🏷️ <code>nextjs</code> <code>open-source</code> <code>open-source-social-media-scheduling-tool</code> <code>oss</code> <code>postiz-cloud</code> <code>postiz-hosted</code></small><br/><br/>
+<em>📨 The ultimate agentic social media scheduling tool 🤖</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>nextjs</code> <code>open-source</code> <code>open-source-social-media-scheduling-tool</code> <code>oss</code> <code>postiz-cloud</code> <code>postiz-hosted</code></small><br/><br/>
 <span>
-<a href="https://github.com/gitroomhq/postiz-app/stargazers"><img src="https://img.shields.io/github/stars/gitroomhq/postiz-app?style=flat-square&labelColor=343b41" alt="Stars: 42126"></a>
-<a href="https://github.com/gitroomhq/postiz-app/network/members"><img src="https://img.shields.io/github/forks/gitroomhq/postiz-app?style=flat-square&labelColor=343b41" alt="Forks: 8052"></a>
+<a href="https://github.com/gitroomhq/postiz-app/stargazers"><img src="https://img.shields.io/github/stars/gitroomhq/postiz-app?style=flat-square&labelColor=343b41" alt="Stars: 42365"></a>
+<a href="https://github.com/gitroomhq/postiz-app/network/members"><img src="https://img.shields.io/github/forks/gitroomhq/postiz-app?style=flat-square&labelColor=343b41" alt="Forks: 8103"></a>
 </span>
 </div><br/>
 
@@ -72,44 +72,44 @@
 <img src="https://avatars.githubusercontent.com/u/123263103?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Pythagora-io/gpt-pilot">Pythagora-io/gpt-pilot</a> 🔥🔥🔥</strong> <br/><br/>
 <em>The first real AI developer</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-06-18</small><br/><small>🏷️ <code>ai</code> <code>codegen</code> <code>coding-assistant</code> <code>developer-tools</code> <code>gpt-4</code> <code>research-project</code></small><br/><br/>
 <span>
-<a href="https://github.com/Pythagora-io/gpt-pilot/stargazers"><img src="https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=flat-square&labelColor=343b41" alt="Stars: 33640"></a>
-<a href="https://github.com/Pythagora-io/gpt-pilot/network/members"><img src="https://img.shields.io/github/forks/Pythagora-io/gpt-pilot?style=flat-square&labelColor=343b41" alt="Forks: 3449"></a>
+<a href="https://github.com/Pythagora-io/gpt-pilot/stargazers"><img src="https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=flat-square&labelColor=343b41" alt="Stars: 33639"></a>
+<a href="https://github.com/Pythagora-io/gpt-pilot/network/members"><img src="https://img.shields.io/github/forks/Pythagora-io/gpt-pilot?style=flat-square&labelColor=343b41" alt="Forks: 3445"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/59033362?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/kestra-io/kestra">kestra-io/kestra</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions.</em><br/><small><code>Java</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-20</small><br/><small>🏷️ <code>ai-agents</code> <code>automation</code> <code>control-plane</code> <code>data-engineering</code> <code>data-orchestration</code> <code>data-orchestrator</code></small><br/><br/>
+<em>Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions.</em><br/><small><code>Java</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>ai-agents</code> <code>automation</code> <code>control-plane</code> <code>data-engineering</code> <code>data-orchestration</code> <code>data-orchestrator</code></small><br/><br/>
 <span>
-<a href="https://github.com/kestra-io/kestra/stargazers"><img src="https://img.shields.io/github/stars/kestra-io/kestra?style=flat-square&labelColor=343b41" alt="Stars: 30306"></a>
-<a href="https://github.com/kestra-io/kestra/network/members"><img src="https://img.shields.io/github/forks/kestra-io/kestra?style=flat-square&labelColor=343b41" alt="Forks: 3548"></a>
+<a href="https://github.com/kestra-io/kestra/stargazers"><img src="https://img.shields.io/github/stars/kestra-io/kestra?style=flat-square&labelColor=343b41" alt="Stars: 30338"></a>
+<a href="https://github.com/kestra-io/kestra/network/members"><img src="https://img.shields.io/github/forks/kestra-io/kestra?style=flat-square&labelColor=343b41" alt="Forks: 3556"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/99494700?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/activepieces/activepieces">activepieces/activepieces</a> 🔥🔥🔥</strong> <br/><br/>
-<em>AI Agents &amp; MCPs &amp; AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows &amp; AI Agents • MCPs for AI Agents</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>ai-agent</code> <code>ai-agent-tools</code> <code>ai-agents</code> <code>ai-agents-framework</code> <code>mcp</code> <code>mcp-server</code></small><br/><br/>
+<em>AI Agents &amp; MCPs &amp; AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows &amp; AI Agents • MCPs for AI Agents</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>ai-agent</code> <code>ai-agent-tools</code> <code>ai-agents</code> <code>ai-agents-framework</code> <code>mcp</code> <code>mcp-server</code></small><br/><br/>
 <span>
-<a href="https://github.com/activepieces/activepieces/stargazers"><img src="https://img.shields.io/github/stars/activepieces/activepieces?style=flat-square&labelColor=343b41" alt="Stars: 25670"></a>
-<a href="https://github.com/activepieces/activepieces/network/members"><img src="https://img.shields.io/github/forks/activepieces/activepieces?style=flat-square&labelColor=343b41" alt="Forks: 4492"></a>
+<a href="https://github.com/activepieces/activepieces/stargazers"><img src="https://img.shields.io/github/stars/activepieces/activepieces?style=flat-square&labelColor=343b41" alt="Stars: 25714"></a>
+<a href="https://github.com/activepieces/activepieces/network/members"><img src="https://img.shields.io/github/forks/activepieces/activepieces?style=flat-square&labelColor=343b41" alt="Forks: 4508"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/141457985?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Skyvern-AI/skyvern">Skyvern-AI/skyvern</a> 🔥🔥</strong> <br/><br/>
-<em>Automate browser based workflows with AI</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>ai</code> <code>api</code> <code>automation</code> <code>browser</code> <code>browser-automation</code> <code>computer</code></small><br/><br/>
+<em>Automate browser based workflows with AI</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>ai</code> <code>api</code> <code>automation</code> <code>browser</code> <code>browser-automation</code> <code>computer</code></small><br/><br/>
 <span>
-<a href="https://github.com/Skyvern-AI/skyvern/stargazers"><img src="https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=flat-square&labelColor=343b41" alt="Stars: 23488"></a>
-<a href="https://github.com/Skyvern-AI/skyvern/network/members"><img src="https://img.shields.io/github/forks/Skyvern-AI/skyvern?style=flat-square&labelColor=343b41" alt="Forks: 2255"></a>
+<a href="https://github.com/Skyvern-AI/skyvern/stargazers"><img src="https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=flat-square&labelColor=343b41" alt="Stars: 23521"></a>
+<a href="https://github.com/Skyvern-AI/skyvern/network/members"><img src="https://img.shields.io/github/forks/Skyvern-AI/skyvern?style=flat-square&labelColor=343b41" alt="Forks: 2260"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/139582646?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/getmaxun/maxun">getmaxun/maxun</a> 🔥🔥</strong> <br/><br/>
-<em>Turn any website into a structured API. Extract, automate, search and monitor the web.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-20</small><br/><small>🏷️ <code>agents</code> <code>api</code> <code>automation</code> <code>browser-automation</code> <code>crawler</code> <code>crawling</code></small><br/><br/>
+<em>Turn any website into a structured API. Extract, automate, search and monitor the web.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>agents</code> <code>api</code> <code>automation</code> <code>browser-automation</code> <code>crawler</code> <code>crawling</code></small><br/><br/>
 <span>
-<a href="https://github.com/getmaxun/maxun/stargazers"><img src="https://img.shields.io/github/stars/getmaxun/maxun?style=flat-square&labelColor=343b41" alt="Stars: 18543"></a>
-<a href="https://github.com/getmaxun/maxun/network/members"><img src="https://img.shields.io/github/forks/getmaxun/maxun?style=flat-square&labelColor=343b41" alt="Forks: 1598"></a>
+<a href="https://github.com/getmaxun/maxun/stargazers"><img src="https://img.shields.io/github/stars/getmaxun/maxun?style=flat-square&labelColor=343b41" alt="Stars: 18559"></a>
+<a href="https://github.com/getmaxun/maxun/network/members"><img src="https://img.shields.io/github/forks/getmaxun/maxun?style=flat-square&labelColor=343b41" alt="Forks: 1597"></a>
 </span>
 </div><br/>
 
@@ -117,8 +117,8 @@
 <img src="https://avatars.githubusercontent.com/u/91699546?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/automatisch/automatisch">automatisch/automatisch</a> 🔥🔥</strong> <br/><br/>
 <em>The open source Zapier alternative. Build workflow automation without spending time and money.</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-02-11</small><br/><small>🏷️ <code>automation</code> <code>automatisch</code> <code>low-code</code> <code>no-code</code> <code>open-source</code> <code>self-hosted</code></small><br/><br/>
 <span>
-<a href="https://github.com/automatisch/automatisch/stargazers"><img src="https://img.shields.io/github/stars/automatisch/automatisch?style=flat-square&labelColor=343b41" alt="Stars: 14027"></a>
-<a href="https://github.com/automatisch/automatisch/network/members"><img src="https://img.shields.io/github/forks/automatisch/automatisch?style=flat-square&labelColor=343b41" alt="Forks: 1066"></a>
+<a href="https://github.com/automatisch/automatisch/stargazers"><img src="https://img.shields.io/github/stars/automatisch/automatisch?style=flat-square&labelColor=343b41" alt="Stars: 14029"></a>
+<a href="https://github.com/automatisch/automatisch/network/members"><img src="https://img.shields.io/github/forks/automatisch/automatisch?style=flat-square&labelColor=343b41" alt="Forks: 1067"></a>
 </span>
 </div><br/>
 
@@ -126,8 +126,8 @@
 <img src="https://avatars.githubusercontent.com/u/121462835?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/RayVentura/ShortGPT">RayVentura/ShortGPT</a> 🔥🔥</strong> <br/><br/>
 <em>🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2025-02-10</small><br/><small>🏷️ <code>ai</code> <code>artificial-intelligence</code> <code>automation</code> <code>autonomous-agents</code> <code>content</code> <code>gpt-4</code></small><br/><br/>
 <span>
-<a href="https://github.com/RayVentura/ShortGPT/stargazers"><img src="https://img.shields.io/github/stars/RayVentura/ShortGPT?style=flat-square&labelColor=343b41" alt="Stars: 8190"></a>
-<a href="https://github.com/RayVentura/ShortGPT/network/members"><img src="https://img.shields.io/github/forks/RayVentura/ShortGPT?style=flat-square&labelColor=343b41" alt="Forks: 1189"></a>
+<a href="https://github.com/RayVentura/ShortGPT/stargazers"><img src="https://img.shields.io/github/stars/RayVentura/ShortGPT?style=flat-square&labelColor=343b41" alt="Stars: 8206"></a>
+<a href="https://github.com/RayVentura/ShortGPT/network/members"><img src="https://img.shields.io/github/forks/RayVentura/ShortGPT?style=flat-square&labelColor=343b41" alt="Forks: 1191"></a>
 </span>
 </div><br/>
 
@@ -135,17 +135,17 @@
 <img src="https://avatars.githubusercontent.com/u/48055421?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/going-doer/Paper2Code">going-doer/Paper2Code</a> 🔥🔥</strong> <br/><br/>
 <em>Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-03-25</small><br/><br/>
 <span>
-<a href="https://github.com/going-doer/Paper2Code/stargazers"><img src="https://img.shields.io/github/stars/going-doer/Paper2Code?style=flat-square&labelColor=343b41" alt="Stars: 5043"></a>
+<a href="https://github.com/going-doer/Paper2Code/stargazers"><img src="https://img.shields.io/github/stars/going-doer/Paper2Code?style=flat-square&labelColor=343b41" alt="Stars: 5045"></a>
 <a href="https://github.com/going-doer/Paper2Code/network/members"><img src="https://img.shields.io/github/forks/going-doer/Paper2Code?style=flat-square&labelColor=343b41" alt="Forks: 695"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/192012301?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/browser-use/workflow-use">browser-use/workflow-use</a> 🔥</strong> <br/><br/>
-<em>⚙️ Create and run workflows (RPA 2.0)</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-20</small><br/><small>🏷️ <code>browser-automation</code> <code>browser-use-box</code> <code>rpa</code> <code>telegram-automation</code></small><br/><br/>
+<em>⚙️ Create and run workflows (RPA 2.0)</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>browser-automation</code> <code>browser-use-box</code> <code>rpa</code> <code>telegram-automation</code></small><br/><br/>
 <span>
-<a href="https://github.com/browser-use/workflow-use/stargazers"><img src="https://img.shields.io/github/stars/browser-use/workflow-use?style=flat-square&labelColor=343b41" alt="Stars: 4262"></a>
-<a href="https://github.com/browser-use/workflow-use/network/members"><img src="https://img.shields.io/github/forks/browser-use/workflow-use?style=flat-square&labelColor=343b41" alt="Forks: 354"></a>
+<a href="https://github.com/browser-use/workflow-use/stargazers"><img src="https://img.shields.io/github/stars/browser-use/workflow-use?style=flat-square&labelColor=343b41" alt="Stars: 4263"></a>
+<a href="https://github.com/browser-use/workflow-use/network/members"><img src="https://img.shields.io/github/forks/browser-use/workflow-use?style=flat-square&labelColor=343b41" alt="Forks: 353"></a>
 </span>
 </div><br/>
 
@@ -153,8 +153,8 @@
 <img src="https://avatars.githubusercontent.com/u/199500616?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/magnitudedev/browser-agent">magnitudedev/browser-agent</a> 🔥</strong> <br/><br/>
 <em>Open-source, vision-first browser agent</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-02-08</small><br/><small>🏷️ <code>ai</code> <code>automation</code> <code>browser</code> <code>framework</code> <code>javascipt</code> <code>playwright</code></small><br/><br/>
 <span>
-<a href="https://github.com/magnitudedev/browser-agent/stargazers"><img src="https://img.shields.io/github/stars/magnitudedev/browser-agent?style=flat-square&labelColor=343b41" alt="Stars: 4142"></a>
-<a href="https://github.com/magnitudedev/browser-agent/network/members"><img src="https://img.shields.io/github/forks/magnitudedev/browser-agent?style=flat-square&labelColor=343b41" alt="Forks: 248"></a>
+<a href="https://github.com/magnitudedev/browser-agent/stargazers"><img src="https://img.shields.io/github/stars/magnitudedev/browser-agent?style=flat-square&labelColor=343b41" alt="Stars: 4146"></a>
+<a href="https://github.com/magnitudedev/browser-agent/network/members"><img src="https://img.shields.io/github/forks/magnitudedev/browser-agent?style=flat-square&labelColor=343b41" alt="Forks: 249"></a>
 </span>
 </div><br/>
 
@@ -162,25 +162,25 @@
 <img src="https://avatars.githubusercontent.com/u/296595227?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/shepherd-agents/shepherd">shepherd-agents/shepherd</a> 🔥</strong> <br/><br/>
 <em>A runtime substrate that turns an agent's execution into a reversible, Git-like trace, so meta-agents can observe, fork, replay, and revert any run. Couples agent and environments in a copy-on-write fork ~5x faster than docker commit, with ~95% KV-cache reuse on replay. Framework built for meta-agents to supervise, optimize, and train other agents</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-09-09</small><br/><small>🏷️ <code>mcts-rl</code> <code>meta-agents</code> <code>meta-optimization</code> <code>runtime-supervision</code> <code>tree-rl</code> <code>workflow-automation</code></small><br/><br/>
 <span>
-<a href="https://github.com/shepherd-agents/shepherd/stargazers"><img src="https://img.shields.io/github/stars/shepherd-agents/shepherd?style=flat-square&labelColor=343b41" alt="Stars: 2658"></a>
-<a href="https://github.com/shepherd-agents/shepherd/network/members"><img src="https://img.shields.io/github/forks/shepherd-agents/shepherd?style=flat-square&labelColor=343b41" alt="Forks: 231"></a>
+<a href="https://github.com/shepherd-agents/shepherd/stargazers"><img src="https://img.shields.io/github/stars/shepherd-agents/shepherd?style=flat-square&labelColor=343b41" alt="Stars: 2673"></a>
+<a href="https://github.com/shepherd-agents/shepherd/network/members"><img src="https://img.shields.io/github/forks/shepherd-agents/shepherd?style=flat-square&labelColor=343b41" alt="Forks: 232"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/178647201?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/test-zeus-ai/testzeus-hercules">test-zeus-ai/testzeus-hercules</a> 🔥</strong> <br/><br/>
-<em>Hercules is the world’s first open-source testing agent, enabling UI, API, Security, Accessibility, and Visual validations – all without code or maintenance. Automate testing effortlessly and let Hercules handle the heavy lifting! ⚡</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>agent</code> <code>agentic-ai</code> <code>agents</code> <code>ai</code> <code>autogen</code> <code>automation</code></small><br/><br/>
+<em>Hercules is the world’s first open-source testing agent, enabling UI, API, Security, Accessibility, and Visual validations – all without code or maintenance. Automate testing effortlessly and let Hercules handle the heavy lifting! ⚡</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-23</small><br/><small>🏷️ <code>agent</code> <code>agentic-ai</code> <code>agents</code> <code>ai</code> <code>autogen</code> <code>automation</code></small><br/><br/>
 <span>
-<a href="https://github.com/test-zeus-ai/testzeus-hercules/stargazers"><img src="https://img.shields.io/github/stars/test-zeus-ai/testzeus-hercules?style=flat-square&labelColor=343b41" alt="Stars: 1229"></a>
-<a href="https://github.com/test-zeus-ai/testzeus-hercules/network/members"><img src="https://img.shields.io/github/forks/test-zeus-ai/testzeus-hercules?style=flat-square&labelColor=343b41" alt="Forks: 205"></a>
+<a href="https://github.com/test-zeus-ai/testzeus-hercules/stargazers"><img src="https://img.shields.io/github/stars/test-zeus-ai/testzeus-hercules?style=flat-square&labelColor=343b41" alt="Stars: 1240"></a>
+<a href="https://github.com/test-zeus-ai/testzeus-hercules/network/members"><img src="https://img.shields.io/github/forks/test-zeus-ai/testzeus-hercules?style=flat-square&labelColor=343b41" alt="Forks: 206"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/186601182?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/alumnium-hq/alumnium">alumnium-hq/alumnium</a> 🔥</strong> <br/><br/>
-<em>End-to-End Testing Harness</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-18</small><br/><small>🏷️ <code>ai</code> <code>appium</code> <code>claude-code</code> <code>codex</code> <code>harness</code> <code>java</code></small><br/><br/>
+<em>End-to-End Testing Harness</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>ai</code> <code>appium</code> <code>claude-code</code> <code>codex</code> <code>harness</code> <code>java</code></small><br/><br/>
 <span>
-<a href="https://github.com/alumnium-hq/alumnium/stargazers"><img src="https://img.shields.io/github/stars/alumnium-hq/alumnium?style=flat-square&labelColor=343b41" alt="Stars: 1025"></a>
+<a href="https://github.com/alumnium-hq/alumnium/stargazers"><img src="https://img.shields.io/github/stars/alumnium-hq/alumnium?style=flat-square&labelColor=343b41" alt="Stars: 1026"></a>
 <a href="https://github.com/alumnium-hq/alumnium/network/members"><img src="https://img.shields.io/github/forks/alumnium-hq/alumnium?style=flat-square&labelColor=343b41" alt="Forks: 105"></a>
 </span>
 </div><br/>

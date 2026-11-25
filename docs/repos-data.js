@@ -1,6 +1,6 @@
 window.AWESOME_REPOS_DATA = {
-  "generatedAt": "2026-11-22T05:24:53.849Z",
-  "totalRepos": 843,
+  "generatedAt": "2026-11-25T07:15:16.117Z",
+  "totalRepos": 842,
   "categories": [
     {
       "name": "Large Language Models (LLMs)",
@@ -14,7 +14,7 @@ window.AWESOME_REPOS_DATA = {
       "icon": "⚙️",
       "slug": "llmops-deployment",
       "desc": "Infrastructure, orchestration, serving, routing, monitoring for LLMs.",
-      "count": 27
+      "count": 26
     },
     {
       "name": "AI Agents & Multi-Agent Systems",
@@ -28,7 +28,7 @@ window.AWESOME_REPOS_DATA = {
       "icon": "✍️",
       "slug": "prompt-engineering",
       "desc": "Prompt tuning, optimization, system prompts, evaluation guides.",
-      "count": 13
+      "count": 14
     },
     {
       "name": "Retrieval-Augmented Generation (RAG)",
@@ -42,7 +42,7 @@ window.AWESOME_REPOS_DATA = {
       "icon": "🔌",
       "slug": "model-context-protocol-mcp",
       "desc": "Tools, clients, servers, and implementations for managing model context.",
-      "count": 40
+      "count": 39
     },
     {
       "name": "AI Frameworks & Toolkits",
@@ -230,8 +230,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Jakeschincariol/instagram-agent-skill",
       "description": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 8030,
-      "forks": 1478,
+      "stars": 9076,
+      "forks": 1593,
       "language": "Python",
       "license": "MIT",
       "topics": [],
@@ -249,8 +249,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 59138,
-      "forks": 3232,
+      "stars": 60723,
+      "forks": 3319,
       "language": "CSS",
       "license": "MIT",
       "topics": [],
@@ -268,13 +268,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "description": "Keep your coding agent up to date with the latest web best practices",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 9952,
-      "forks": 796,
+      "stars": 10895,
+      "forks": 826,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-11-21",
       "homepage": "https://goo.gle/modern-web-guidance"
     },
@@ -287,8 +287,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/openvinotoolkit/openvino",
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "category": "Computer Vision & Image Generation",
-      "stars": 11968,
-      "forks": 3652,
+      "stars": 12526,
+      "forks": 3696,
       "language": "C++",
       "license": "Apache-2.0",
       "topics": [
@@ -302,7 +302,7 @@ window.AWESOME_REPOS_DATA = {
         "inference"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-11-21",
       "homepage": "https://docs.openvino.ai"
     },
@@ -315,8 +315,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/jingyaogong/minimind",
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "category": "AI in Education & Courses",
-      "stars": 68239,
-      "forks": 8922,
+      "stars": 70510,
+      "forks": 9168,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -324,7 +324,7 @@ window.AWESOME_REPOS_DATA = {
         "large-language-model"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-23",
       "starred_at": "2026-11-21",
       "homepage": "https://jingyaogong.github.io/minimind"
     },
@@ -337,8 +337,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 323844,
-      "forks": 28724,
+      "stars": 326032,
+      "forks": 28930,
       "language": "Shell",
       "license": "MIT",
       "topics": [
@@ -352,7 +352,7 @@ window.AWESOME_REPOS_DATA = {
         "superpowers"
       ],
       "archived": false,
-      "pushed_at": "2026-11-03",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-11-21",
       "homepage": null
     },
@@ -365,8 +365,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/storybookjs/storybook",
       "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
       "category": "AI Testing & Evaluation",
-      "stars": 91675,
-      "forks": 10582,
+      "stars": 91715,
+      "forks": 10590,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -380,7 +380,7 @@ window.AWESOME_REPOS_DATA = {
         "react-native"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-11-17",
       "homepage": "https://storybook.js.org"
     },
@@ -393,7 +393,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/patchy631/time-to-first-token",
       "description": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
       "category": "MLOps & ML Infrastructure",
-      "stars": 1247,
+      "stars": 1246,
       "forks": 145,
       "language": "HTML",
       "license": "Apache-2.0",
@@ -420,8 +420,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/postmill-ai/postmill-app",
       "description": "Open-source social media management platform with an integrated Creative Suite. Design, publish, schedule, and engage across 45+ channels with AI-powered tools. Self-host or use Postmill Cloud.",
       "category": "DevOps & Cloud Infrastructure",
-      "stars": 348,
-      "forks": 48,
+      "stars": 350,
+      "forks": 51,
       "language": "TypeScript",
       "license": "AGPL-3.0",
       "topics": [
@@ -448,9 +448,9 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/hydra-db/selfgraph",
       "description": "Build and query versioned knowledge graphs for AI agents, with any graph database.",
       "category": "Knowledge Management & Graphs",
-      "stars": 211,
-      "forks": 66,
-      "language": "TypeScript",
+      "stars": 233,
+      "forks": 76,
+      "language": "Python",
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -461,7 +461,7 @@ window.AWESOME_REPOS_DATA = {
         "ontology"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-11-15",
       "homepage": "https://github.com/hydra-db/selfgraph"
     },
@@ -474,8 +474,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "category": "Finance & Quantitative Tools",
-      "stars": 73648,
-      "forks": 58032,
+      "stars": 74440,
+      "forks": 58511,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -488,7 +488,7 @@ window.AWESOME_REPOS_DATA = {
         "quantitative-trading"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-11-14",
       "homepage": "https://dsa.zhulinsen.tech"
     },
@@ -501,8 +501,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/milind-soni/OpenMausBot",
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "category": "DevOps & Cloud Infrastructure",
-      "stars": 26576,
-      "forks": 3789,
+      "stars": 27630,
+      "forks": 3950,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [
@@ -516,7 +516,7 @@ window.AWESOME_REPOS_DATA = {
         "grok-bot"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-11-14",
       "homepage": "https://www.mausbot.com/"
     },
@@ -529,14 +529,14 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ClickHouse/loom",
       "description": "Shared long-term memory, document search and a code index for AI agents, linked to your code. Memories point at the files and symbols they're about and surface when an agent edits them. MCP server, Claude Code and Codex plugins, SDKs. Self-hosted on ClickHouse.",
       "category": "Model Context Protocol (MCP)",
-      "stars": 185,
-      "forks": 29,
+      "stars": 218,
+      "forks": 35,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
         "agent-memory",
+        "agentic-memory",
         "ai-agents",
-        "ai-memory",
         "claude-code",
         "claude-code-plugin",
         "clickhouse",
@@ -544,9 +544,9 @@ window.AWESOME_REPOS_DATA = {
         "code-search"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-11-14",
-      "homepage": "https://clickhouse.github.io/loom/"
+      "homepage": "https://loom.clickhouse.com/docs"
     },
     {
       "rankOrder": 13,
@@ -557,13 +557,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/MengTo/Skills",
       "description": "Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents",
       "category": "Awesome Lists & Aggregators",
-      "stars": 7996,
-      "forks": 911,
+      "stars": 8288,
+      "forks": 944,
       "language": "HTML",
       "license": "MIT",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-11-14",
       "homepage": null
     },
@@ -576,8 +576,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/achimala/dream-loop",
       "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 2482,
-      "forks": 237,
+      "stars": 2546,
+      "forks": 239,
       "language": "JavaScript",
       "license": "MIT",
       "topics": [],
@@ -593,10 +593,10 @@ window.AWESOME_REPOS_DATA = {
       "owner": "vercel-labs",
       "avatar": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "url": "https://github.com/vercel-labs/ui",
-      "description": "A library of behaviors for agents to build the next generation of user interfaces.",
+      "description": "A library of behaviors for agents to build and drive the next generation of user interfaces.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 6472,
-      "forks": 229,
+      "stars": 7321,
+      "forks": 255,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [
@@ -610,7 +610,7 @@ window.AWESOME_REPOS_DATA = {
         "component-library"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-11-13",
       "homepage": "https://ui-sdk.dev"
     },
@@ -623,8 +623,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "category": "Awesome Lists & Aggregators",
-      "stars": 80022,
-      "forks": 9811,
+      "stars": 80264,
+      "forks": 9868,
       "language": "Python",
       "license": null,
       "topics": [
@@ -651,8 +651,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/amosblomqvist/learnharness",
       "description": "Agent harness for learning difficult things.",
       "category": "Knowledge Management & Graphs",
-      "stars": 10986,
-      "forks": 1434,
+      "stars": 12193,
+      "forks": 1554,
       "language": "TypeScript",
       "license": "AGPL-3.0",
       "topics": [],
@@ -670,8 +670,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/JDhruv14/line-art-animation",
       "description": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
       "category": "Generative AI",
-      "stars": 1135,
-      "forks": 168,
+      "stars": 1236,
+      "forks": 177,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -694,8 +694,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/cordiverse/cordis",
       "description": "Meta-Framework of Spatiotemporal Composability",
       "category": "AI Frameworks & Toolkits",
-      "stars": 10006,
-      "forks": 642,
+      "stars": 10041,
+      "forks": 644,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -705,7 +705,7 @@ window.AWESOME_REPOS_DATA = {
         "plugin"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-11-10",
       "homepage": "https://deepseek-harness.github.io/deepseek-harness/reference/cordis-primer"
     },
@@ -718,8 +718,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/janestreet/agent_skills",
       "description": "Agent skills",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 10582,
-      "forks": 733,
+      "stars": 11672,
+      "forks": 798,
       "language": null,
       "license": "MIT",
       "topics": [],
@@ -737,8 +737,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/VoltAgent/awesome-agent-skills",
       "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
       "category": "Awesome Lists & Aggregators",
-      "stars": 37425,
-      "forks": 4196,
+      "stars": 37529,
+      "forks": 4221,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -765,13 +765,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/danyuchn/asd-ste100-skill",
       "description": "ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 6802,
-      "forks": 391,
+      "stars": 6887,
+      "forks": 396,
       "language": "Python",
       "license": "MIT",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-11-07",
       "homepage": null
     },
@@ -784,8 +784,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/SWE-agent/mini-swe-agent",
       "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 9944,
-      "forks": 1363,
+      "stars": 10058,
+      "forks": 1366,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -797,7 +797,7 @@ window.AWESOME_REPOS_DATA = {
         "textual"
       ],
       "archived": false,
-      "pushed_at": "2026-11-16",
+      "pushed_at": "2026-11-23",
       "starred_at": "2026-11-07",
       "homepage": "https://mini-swe-agent.com"
     },
@@ -810,7 +810,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Dongbumlee/ontosmith",
       "description": "A decision-model-based ontology & knowledge-graph builder — builds governed knowledge graphs from your documents, every fact gated and traceable to its evidence.",
       "category": "Knowledge Management & Graphs",
-      "stars": 298,
+      "stars": 300,
       "forks": 31,
       "language": "Python",
       "license": "MIT",
@@ -837,13 +837,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/NVIDIA/auto-ontology",
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "category": "Knowledge Management & Graphs",
-      "stars": 14199,
-      "forks": 1255,
+      "stars": 14842,
+      "forks": 1343,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-11-06",
       "homepage": null
     },
@@ -856,8 +856,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/OpenMontageInc/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "category": "Generative AI",
-      "stars": 82179,
-      "forks": 11193,
+      "stars": 83138,
+      "forks": 11333,
       "language": "Python",
       "license": "AGPL-3.0",
       "topics": [
@@ -884,8 +884,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 114612,
-      "forks": 6823,
+      "stars": 116458,
+      "forks": 6959,
       "language": "Rust",
       "license": "Apache-2.0",
       "topics": [
@@ -896,7 +896,7 @@ window.AWESOME_REPOS_DATA = {
         "slop"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-11-05",
       "homepage": "https://impeccable.style"
     },
@@ -909,8 +909,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 61915,
-      "forks": 9037,
+      "stars": 62505,
+      "forks": 9125,
       "language": "JavaScript",
       "license": "MIT",
       "topics": [
@@ -924,7 +924,7 @@ window.AWESOME_REPOS_DATA = {
         "codex"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-11-05",
       "homepage": "https://marketing-skills.com"
     },
@@ -937,8 +937,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/blader/humanizer",
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 72045,
-      "forks": 5640,
+      "stars": 73319,
+      "forks": 5749,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -965,8 +965,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/jakubkrehel/skills",
       "description": "A collection of agent skills that help you build great interfaces.",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 12556,
-      "forks": 490,
+      "stars": 12666,
+      "forks": 494,
       "language": "Markdown",
       "license": "MIT",
       "topics": [],
@@ -984,8 +984,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/AgriciDaniel/claude-seo",
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 31440,
-      "forks": 3882,
+      "stars": 32241,
+      "forks": 3941,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -1011,8 +1011,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/hyprwm/Hyprland",
       "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
       "category": "Productivity & Developer Tools",
-      "stars": 40734,
-      "forks": 2204,
+      "stars": 40775,
+      "forks": 2205,
       "language": "C++",
       "license": "BSD-3-Clause",
       "topics": [
@@ -1022,7 +1022,7 @@ window.AWESOME_REPOS_DATA = {
         "wayland-compositor"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-11-04",
       "homepage": "https://hypr.land"
     },
@@ -1035,8 +1035,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "description": "Towards a More Autonomous Agent System",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 24176,
-      "forks": 3007,
+      "stars": 24524,
+      "forks": 3071,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [],
@@ -1054,8 +1054,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/JetBrains/thinkrail",
       "description": "ThinkRail is the agentic IDE that gets better every time you use it",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 8390,
-      "forks": 533,
+      "stars": 8435,
+      "forks": 539,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [
@@ -1069,7 +1069,7 @@ window.AWESOME_REPOS_DATA = {
         "pi-agent-extension"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-11-03",
       "homepage": "https://thinkrail.ai/"
     },
@@ -1082,7 +1082,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/undefined-ui/second-brain-os",
       "description": "Guides and resources for AI engineers: an agents course, five handbooks, a hands-on second-brain project and a vetted reading list.",
       "category": "Knowledge Management & Graphs",
-      "stars": 1595,
+      "stars": 1604,
       "forks": 273,
       "language": "HTML",
       "license": "MIT",
@@ -1110,8 +1110,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/AgriciDaniel/claude-blog",
       "description": "Free, open source blog writer for Claude Code. Researches current sources, writes answer-first posts for Google and AI answers, has an independent reviewer score each one out of 100 and ships only after five delivery gates. 32 skills, 30 /blog commands, 5 agents. Active development at AI-Marketing-Hub/claude-blog; public releases ship here.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 2835,
-      "forks": 482,
+      "stars": 2858,
+      "forks": 489,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -1138,8 +1138,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 47920,
-      "forks": 4976,
+      "stars": 48145,
+      "forks": 5031,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -1148,7 +1148,7 @@ window.AWESOME_REPOS_DATA = {
         "skills"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-10-29",
       "homepage": "https://code.claude.com/docs/en/plugins"
     },
@@ -1161,7 +1161,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/blazickjp/arxiv-mcp-server",
       "description": "A local MCP server for agent literature work. Original-LaTeX section reads, BibTeX from arXiv metadata, and topic watches. Papers stay on disk. Search is optional.",
       "category": "Model Context Protocol (MCP)",
-      "stars": 3293,
+      "stars": 3299,
       "forks": 265,
       "language": "Python",
       "license": "Apache-2.0",
@@ -1189,8 +1189,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/dailydotdev/daily",
       "description": "daily.dev is the personalized developer news feed and community. Get the best tech content from all over the web in your browser new tab or on mobile. Free and open source.",
       "category": "Finance & Quantitative Tools",
-      "stars": 20157,
-      "forks": 577,
+      "stars": 20159,
+      "forks": 578,
       "language": "JavaScript",
       "license": "AGPL-3.0",
       "topics": [
@@ -1217,13 +1217,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Infini-AI-Lab/hermit",
       "description": "A framework for continual learning and recursive self-improvement through harness adapter evolution.",
       "category": "AI in Education & Courses",
-      "stars": 539,
+      "stars": 542,
       "forks": 49,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-10-27",
       "homepage": "https://infini-ai-lab.github.io/hermit/"
     },
@@ -1236,8 +1236,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 6428,
-      "forks": 609,
+      "stars": 6474,
+      "forks": 605,
       "language": "Rust",
       "license": "AGPL-3.0",
       "topics": [
@@ -1251,7 +1251,7 @@ window.AWESOME_REPOS_DATA = {
         "linear"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-10-27",
       "homepage": "https://macro.com"
     },
@@ -1262,10 +1262,10 @@ window.AWESOME_REPOS_DATA = {
       "owner": "microsoft",
       "avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "url": "https://github.com/microsoft/Agensh",
-      "description": "A Decentralized, Scalable Multiagent Harness",
+      "description": "Multiagent Intelligence at Scale",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 936,
-      "forks": 110,
+      "stars": 968,
+      "forks": 117,
       "language": "Python",
       "license": "MIT",
       "topics": [],
@@ -1283,8 +1283,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/anthropics/sandbox-runtime",
       "description": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.",
       "category": "LLMOps & Deployment",
-      "stars": 7215,
-      "forks": 658,
+      "stars": 7261,
+      "forks": 661,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [],
@@ -1302,13 +1302,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ai-openshell/openshell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "category": "LLMOps & Deployment",
-      "stars": 21853,
-      "forks": 2152,
+      "stars": 21929,
+      "forks": 2153,
       "language": "Rust",
       "license": "Apache-2.0",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-10-24",
       "homepage": "https://docs.nvidia.com/openshell/latest/"
     },
@@ -1321,8 +1321,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/career-ops-hq/career-ops",
       "description": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an application tracker. It helps you fill in each application; you press Submit. Runs locally in Codex, OpenCode and other AI CLIs, or as a Claude Code plugin.",
       "category": "AI in Education & Courses",
-      "stars": 84080,
-      "forks": 15391,
+      "stars": 84694,
+      "forks": 15492,
       "language": "JavaScript",
       "license": "MIT",
       "topics": [
@@ -1336,7 +1336,7 @@ window.AWESOME_REPOS_DATA = {
         "claude-code-plugin"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-10-23",
       "homepage": "https://career-ops.org"
     },
@@ -1349,8 +1349,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/stablyai/orca",
       "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 132149,
-      "forks": 8424,
+      "stars": 136689,
+      "forks": 8745,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -1364,7 +1364,7 @@ window.AWESOME_REPOS_DATA = {
         "grok-bot"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-10-23",
       "homepage": "https://orca.dev"
     },
@@ -1377,8 +1377,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/google/elephant-goldfish-model",
       "description": "Open-source plugin for designing and reviewing software with agents",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 21952,
-      "forks": 1616,
+      "stars": 22818,
+      "forks": 1684,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -1392,7 +1392,7 @@ window.AWESOME_REPOS_DATA = {
         "codex-plugin"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-10-22",
       "homepage": "https://egm.dev"
     },
@@ -1405,8 +1405,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/alexgaoth/awesome-reverse-engineered",
       "description": "Don't reverse engineer it twice. 17,000+ open-source tools built by reverse engineering closed apps, APIs, devices, protocols, file formats, games and AI tools. Search site + agent skill + MCP server, refreshed nightly.",
       "category": "Awesome Lists & Aggregators",
-      "stars": 1513,
-      "forks": 259,
+      "stars": 1558,
+      "forks": 263,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -1420,7 +1420,7 @@ window.AWESOME_REPOS_DATA = {
         "game-decompilation"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-10-22",
       "homepage": "https://awesome.alexgaoth.com"
     },
@@ -1433,8 +1433,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "category": "Large Language Models (LLMs)",
-      "stars": 48062,
-      "forks": 7954,
+      "stars": 48161,
+      "forks": 7978,
       "language": "Python",
       "license": "MIT",
       "topics": [],
@@ -1452,8 +1452,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/withmarbleapp/os-taxonomy",
       "description": "An open, structured skill taxonomy of primary/elementary education decomposed into fine-grained learning goals.",
       "category": "AI in Education & Courses",
-      "stars": 7793,
-      "forks": 1266,
+      "stars": 7801,
+      "forks": 1265,
       "language": "HTML",
       "license": "ODbL-1.0",
       "topics": [],
@@ -1471,8 +1471,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 82236,
-      "forks": 9694,
+      "stars": 82393,
+      "forks": 9706,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -1486,7 +1486,7 @@ window.AWESOME_REPOS_DATA = {
         "claude-code"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-10-20",
       "homepage": "https://cognitum.one/ruPro"
     },
@@ -1499,8 +1499,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/google-research/harness2",
       "description": "Recursive Agent Harnessing for an Open World — research and tooling for agent harnesses.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 24700,
-      "forks": 2472,
+      "stars": 25118,
+      "forks": 2516,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [],
@@ -1518,8 +1518,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "category": "Generative AI",
-      "stars": 41914,
-      "forks": 6467,
+      "stars": 42265,
+      "forks": 6494,
       "language": "Rust",
       "license": "Apache-2.0",
       "topics": [
@@ -1530,7 +1530,7 @@ window.AWESOME_REPOS_DATA = {
         "imagegeneration"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-10-17",
       "homepage": "https://getartcraft.com"
     },
@@ -1541,10 +1541,10 @@ window.AWESOME_REPOS_DATA = {
       "owner": "cathrynlavery",
       "avatar": "https://avatars.githubusercontent.com/u/50469282?v=4",
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 69891,
-      "forks": 4689,
+      "stars": 72357,
+      "forks": 4819,
       "language": "HTML",
       "license": "MIT",
       "topics": [
@@ -1558,7 +1558,7 @@ window.AWESOME_REPOS_DATA = {
         "svg"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-10-16",
       "homepage": "https://diagramdesign.dev"
     },
@@ -1571,8 +1571,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/typesense/typesense",
       "description": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences",
       "category": "Search & Indexing Tools",
-      "stars": 27165,
-      "forks": 1036,
+      "stars": 27168,
+      "forks": 1035,
       "language": "C++",
       "license": "GPL-3.0",
       "topics": [
@@ -1586,7 +1586,7 @@ window.AWESOME_REPOS_DATA = {
         "geosearch"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-10-16",
       "homepage": "https://typesense.org"
     },
@@ -1599,8 +1599,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Nutlope/gloss",
       "description": "A reader that writes answers in the margin. Select any line, ask, and an open model on Together AI answers beside it.",
       "category": "Large Language Models (LLMs)",
-      "stars": 334,
-      "forks": 67,
+      "stars": 335,
+      "forks": 68,
       "language": "TypeScript",
       "license": null,
       "topics": [],
@@ -1618,8 +1618,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "category": "System & Software Design",
-      "stars": 100912,
-      "forks": 11466,
+      "stars": 101262,
+      "forks": 11515,
       "language": "Java",
       "license": "Apache-2.0",
       "topics": [
@@ -1628,7 +1628,7 @@ window.AWESOME_REPOS_DATA = {
         "software-analysis"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-10-14",
       "homepage": null
     },
@@ -1642,7 +1642,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "The coding agent that answers to you, your model, your machine, your rules.",
       "category": "AI Agents & Multi-Agent Systems",
       "stars": 1782,
-      "forks": 211,
+      "forks": 212,
       "language": "Go",
       "license": "MIT",
       "topics": [
@@ -1656,7 +1656,7 @@ window.AWESOME_REPOS_DATA = {
         "gemini"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-10-14",
       "homepage": "https://zero.twigpine.com"
     },
@@ -1669,8 +1669,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/trymirai/uzu",
       "description": "A high-performance inference engine for AI models",
       "category": "Speech & Audio (TTS, ASR, Music)",
-      "stars": 3379,
-      "forks": 241,
+      "stars": 3380,
+      "forks": 242,
       "language": "Rust",
       "license": "MIT",
       "topics": [
@@ -1683,7 +1683,7 @@ window.AWESOME_REPOS_DATA = {
         "tts"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-10-10",
       "homepage": "https://trymirai.com"
     },
@@ -1696,8 +1696,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/nashsu/llm_wiki",
       "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
       "category": "Knowledge Management & Graphs",
-      "stars": 21808,
-      "forks": 2465,
+      "stars": 21877,
+      "forks": 2466,
       "language": "TypeScript",
       "license": "NOASSERTION",
       "topics": [],
@@ -1715,13 +1715,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 329874,
-      "forks": 27726,
+      "stars": 332401,
+      "forks": 27947,
       "language": "Shell",
       "license": "MIT",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-19",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-10-09",
       "homepage": "https://aihero.dev/skills"
     },
@@ -1734,8 +1734,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/superdesigndev/treg",
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 8717,
-      "forks": 859,
+      "stars": 8877,
+      "forks": 884,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -1749,7 +1749,7 @@ window.AWESOME_REPOS_DATA = {
         "proxy"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-10-09",
       "homepage": "https://treg.to"
     },
@@ -1790,8 +1790,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/huginn/huginn",
       "description": "Create agents that monitor and act on your behalf.  Your agents are standing by!",
       "category": "Web Scraping & Automation",
-      "stars": 50606,
-      "forks": 4362,
+      "stars": 50631,
+      "forks": 4366,
       "language": "Ruby",
       "license": "MIT",
       "topics": [
@@ -1805,7 +1805,7 @@ window.AWESOME_REPOS_DATA = {
         "rss"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-10-07",
       "homepage": null
     },
@@ -1818,8 +1818,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 473012,
-      "forks": 115436,
+      "stars": 477536,
+      "forks": 116214,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -1833,7 +1833,7 @@ window.AWESOME_REPOS_DATA = {
         "html"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-10-07",
       "homepage": "https://rea.tools"
     },
@@ -1846,8 +1846,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/overmind-core/overmind",
       "description": "The platform for continuously improving AI agents.",
       "category": "AI Testing & Evaluation",
-      "stars": 775,
-      "forks": 76,
+      "stars": 788,
+      "forks": 77,
       "language": "Python",
       "license": "AGPL-3.0",
       "topics": [
@@ -1861,7 +1861,7 @@ window.AWESOME_REPOS_DATA = {
         "mcp"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-10-06",
       "homepage": "https://overmindlab.ai"
     },
@@ -1874,8 +1874,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 42798,
-      "forks": 4229,
+      "stars": 42844,
+      "forks": 4232,
       "language": "Rust",
       "license": "GPL-3.0",
       "topics": [
@@ -1889,7 +1889,7 @@ window.AWESOME_REPOS_DATA = {
         "personal-ai"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-10-06",
       "homepage": "https://tinyhumans.ai/openhuman"
     },
@@ -1902,8 +1902,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 119621,
-      "forks": 12437,
+      "stars": 120270,
+      "forks": 12503,
       "language": "JavaScript",
       "license": "MIT",
       "topics": [
@@ -1915,7 +1915,7 @@ window.AWESOME_REPOS_DATA = {
         "skills"
       ],
       "archived": false,
-      "pushed_at": "2026-11-18",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-10-05",
       "homepage": "https://skills.addy.ie"
     },
@@ -1928,8 +1928,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/e2e-inc/e2e",
       "description": "Next generation e2e testing framework for web and mobile apps.",
       "category": "AI Testing & Evaluation",
-      "stars": 14111,
-      "forks": 788,
+      "stars": 14219,
+      "forks": 796,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [
@@ -1943,7 +1943,7 @@ window.AWESOME_REPOS_DATA = {
         "mobile-testing"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-10-05",
       "homepage": "https://e2e.com"
     },
@@ -1956,8 +1956,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 11482,
-      "forks": 1933,
+      "stars": 11540,
+      "forks": 1941,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -1971,7 +1971,7 @@ window.AWESOME_REPOS_DATA = {
         "claude-code"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-10-05",
       "homepage": "https://omnigent.ai"
     },
@@ -1984,8 +1984,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/whirlchat/whirl",
       "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
       "category": "Conversational AI & Chatbots",
-      "stars": 514,
-      "forks": 50,
+      "stars": 515,
+      "forks": 49,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -2012,8 +2012,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/datalab-to/lift",
       "description": "Extract structured data from documents quickly and accurately.",
       "category": "Computer Vision & Image Generation",
-      "stars": 1288,
-      "forks": 125,
+      "stars": 1298,
+      "forks": 126,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -2037,8 +2037,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/extend-hq/jevbox",
       "description": "A full-stack, permission-aware document library with document tree inspection and parsed output sharing.",
       "category": "Knowledge Management & Graphs",
-      "stars": 768,
-      "forks": 86,
+      "stars": 769,
+      "forks": 85,
       "language": "TypeScript",
       "license": "NOASSERTION",
       "topics": [],
@@ -2056,8 +2056,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 8930,
-      "forks": 775,
+      "stars": 8974,
+      "forks": 781,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [
@@ -2071,7 +2071,7 @@ window.AWESOME_REPOS_DATA = {
         "multi-agent"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-10-02",
       "homepage": "https://openrig.dev"
     },
@@ -2084,8 +2084,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 196468,
-      "forks": 11073,
+      "stars": 198256,
+      "forks": 11232,
       "language": "JavaScript",
       "license": "MIT",
       "topics": [
@@ -2110,24 +2110,24 @@ window.AWESOME_REPOS_DATA = {
       "owner": "heygen-com",
       "avatar": "https://avatars.githubusercontent.com/u/65394575?v=4",
       "url": "https://github.com/heygen-com/hyperframes",
-      "description": "AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.",
+      "description": "Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.",
       "category": "Generative AI",
-      "stars": 87916,
-      "forks": 8179,
+      "stars": 89739,
+      "forks": 8366,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [
+        "agent-skills",
         "ai",
         "ai-agents",
+        "ai-video",
+        "ai-video-editor",
         "animation",
         "claude-code",
-        "ffmpeg",
-        "framework",
-        "gsap",
-        "html"
+        "ffmpeg"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-10-01",
       "homepage": "https://hyperframes.heygen.com"
     },
@@ -2140,8 +2140,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/composio-community/open-dot",
       "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
       "category": "Large Language Models (LLMs)",
-      "stars": 732,
-      "forks": 121,
+      "stars": 737,
+      "forks": 123,
       "language": "TypeScript",
       "license": null,
       "topics": [],
@@ -2159,8 +2159,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/mksglu/context-mode",
       "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 34370,
-      "forks": 2363,
+      "stars": 34460,
+      "forks": 2374,
       "language": "JavaScript",
       "license": "NOASSERTION",
       "topics": [
@@ -2174,7 +2174,7 @@ window.AWESOME_REPOS_DATA = {
         "codex-cli"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-09-30",
       "homepage": "https://contextmode.ai"
     },
@@ -2187,8 +2187,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "category": "Speech & Audio (TTS, ASR, Music)",
-      "stars": 116055,
-      "forks": 12915,
+      "stars": 117961,
+      "forks": 13164,
       "language": "Python",
       "license": "AGPL-3.0",
       "topics": [
@@ -2202,7 +2202,7 @@ window.AWESOME_REPOS_DATA = {
         "mlx"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-09-30",
       "homepage": "https://voicestudio.sh"
     },
@@ -2215,7 +2215,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/AnotiaWang/awesome-decision-models",
       "description": "A curated list of decision models (System One / typed decision models): hosted APIs, open-weight models, runtimes, SDKs, applications, benchmarks, and papers.",
       "category": "Awesome Lists & Aggregators",
-      "stars": 725,
+      "stars": 729,
       "forks": 147,
       "language": "Python",
       "license": "CC0-1.0",
@@ -2230,7 +2230,7 @@ window.AWESOME_REPOS_DATA = {
         "typed-decisions"
       ],
       "archived": false,
-      "pushed_at": "2026-11-13",
+      "pushed_at": "2026-11-23",
       "starred_at": "2026-09-25",
       "homepage": "https://anotiawang.github.io/awesome-decision-models/"
     },
@@ -2243,7 +2243,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/taeold/djev-run",
       "description": "Serve the experimental DiffusionGemma-Jev diffusion model on Cloud Run GPUs (vLLM, RTX PRO 6000), with demo apps and published benchmarks.",
       "category": "Generative AI",
-      "stars": 588,
+      "stars": 589,
       "forks": 39,
       "language": "HTML",
       "license": "Apache-2.0",
@@ -2262,13 +2262,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/block/buzz",
       "description": "A hive mind communication platform",
       "category": "Conversational AI & Chatbots",
-      "stars": 37649,
-      "forks": 4962,
+      "stars": 37749,
+      "forks": 4967,
       "language": "Rust",
       "license": "Apache-2.0",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-09-23",
       "homepage": null
     },
@@ -2281,8 +2281,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/HarnessRouter/harnessrouter",
       "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, streaming, files, cancellation, and failure handling. Implements the Unified Harness Protocol (UHP), an open standard. Your keys, your infrastructure.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 4403,
-      "forks": 493,
+      "stars": 4510,
+      "forks": 501,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -2296,7 +2296,7 @@ window.AWESOME_REPOS_DATA = {
         "deepseek-harness"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-09-21",
       "homepage": "https://harnessrouter.ai/"
     },
@@ -2309,8 +2309,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/browser-use/jev-ultrafast",
       "description": "Fastest and cheapest web agent",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 24703,
-      "forks": 1897,
+      "stars": 24731,
+      "forks": 1901,
       "language": "Python",
       "license": "MIT",
       "topics": [],
@@ -2328,8 +2328,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Tencent/BrowserSkill",
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 10640,
-      "forks": 775,
+      "stars": 10706,
+      "forks": 785,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -2338,7 +2338,7 @@ window.AWESOME_REPOS_DATA = {
         "dsh-plugin"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-09-18",
       "homepage": null
     },
@@ -2351,8 +2351,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/coder/coder",
       "description": "Secure environments for developers and their agents",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 17454,
-      "forks": 1683,
+      "stars": 17465,
+      "forks": 1685,
       "language": "Go",
       "license": "AGPL-3.0",
       "topics": [
@@ -2366,7 +2366,7 @@ window.AWESOME_REPOS_DATA = {
         "remote-development"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-09-18",
       "homepage": "https://coder.com"
     },
@@ -2379,8 +2379,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/microsoft/graphrag",
       "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
       "category": "Knowledge Management & Graphs",
-      "stars": 36717,
-      "forks": 3886,
+      "stars": 36748,
+      "forks": 3890,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -2393,7 +2393,7 @@ window.AWESOME_REPOS_DATA = {
         "rag"
       ],
       "archived": false,
-      "pushed_at": "2026-11-19",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-09-06",
       "homepage": "https://microsoft.github.io/graphrag/"
     },
@@ -2406,7 +2406,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/rahulnyk/knowledge_graph",
       "description": "Convert any text to a graph of knowledge. This can be used for Graph Augmented Generation or Knowledge Graph based QnA",
       "category": "Knowledge Management & Graphs",
-      "stars": 4181,
+      "stars": 4182,
       "forks": 642,
       "language": "Jupyter Notebook",
       "license": "MIT",
@@ -2425,8 +2425,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/yifanfeng97/Hyper-Extract",
       "description": "Hypergraph is more powerful. Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
       "category": "Retrieval-Augmented Generation (RAG)",
-      "stars": 4257,
-      "forks": 493,
+      "stars": 4265,
+      "forks": 492,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -2453,7 +2453,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/microsoft/AutoSaddler",
       "description": "Automatic Harness Optimization with durable updates from agent execution traces.",
       "category": "AI Testing & Evaluation",
-      "stars": 254,
+      "stars": 258,
       "forks": 21,
       "language": "Python",
       "license": "MIT",
@@ -2491,8 +2491,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/tobi/walgit",
       "description": "A lightweight single-binary git server backed directly by an object store with no database.",
       "category": "DevOps & Cloud Infrastructure",
-      "stars": 2724,
-      "forks": 182,
+      "stars": 2730,
+      "forks": 183,
       "language": "Rust",
       "license": "MIT",
       "topics": [],
@@ -2529,8 +2529,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/CopilotKit/OpenBot",
       "description": "The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool.",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 13149,
-      "forks": 1645,
+      "stars": 13455,
+      "forks": 1677,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -2543,7 +2543,7 @@ window.AWESOME_REPOS_DATA = {
         "mcp"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-08-20",
       "homepage": "https://open.bot"
     },
@@ -2556,8 +2556,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/walkinglabs/learn-harness-engineering",
       "description": "Harness engineering beginner tutorial, from 0 to 1",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 25807,
-      "forks": 2968,
+      "stars": 26065,
+      "forks": 3007,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -2571,7 +2571,7 @@ window.AWESOME_REPOS_DATA = {
         "dsh-plugin"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-08-19",
       "homepage": "https://walkinglabs.github.io/learn-harness-engineering/"
     },
@@ -2584,13 +2584,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/NVIDIA-NeMo/Switchyard",
       "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
       "category": "LLMOps & Deployment",
-      "stars": 3666,
-      "forks": 381,
+      "stars": 3680,
+      "forks": 382,
       "language": "Rust",
       "license": "Apache-2.0",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-08-16",
       "homepage": null
     },
@@ -2603,8 +2603,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/0xMassi/webclaw",
       "description": "Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.",
       "category": "Model Context Protocol (MCP)",
-      "stars": 2442,
-      "forks": 245,
+      "stars": 2445,
+      "forks": 244,
       "language": "Rust",
       "license": "AGPL-3.0",
       "topics": [
@@ -2618,7 +2618,7 @@ window.AWESOME_REPOS_DATA = {
         "jina-alternative"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-23",
       "starred_at": "2026-08-16",
       "homepage": "https://webclaw.io"
     },
@@ -2631,8 +2631,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "category": "Knowledge Management & Graphs",
-      "stars": 151668,
-      "forks": 14573,
+      "stars": 153087,
+      "forks": 14719,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -2646,9 +2646,9 @@ window.AWESOME_REPOS_DATA = {
         "cursor"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-08-16",
-      "homepage": "https://www.graphify.com"
+      "homepage": "graphify.com"
     },
     {
       "rankOrder": 99,
@@ -2659,8 +2659,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/cosmicstack-labs/mercury-agent",
       "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI, Telegram or More.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 4056,
-      "forks": 415,
+      "stars": 4070,
+      "forks": 420,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -2669,7 +2669,7 @@ window.AWESOME_REPOS_DATA = {
         "llm"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-08-16",
       "homepage": "https://mercuryagent.sh/"
     },
@@ -2682,8 +2682,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 285173,
-      "forks": 35449,
+      "stars": 286715,
+      "forks": 35737,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -2734,13 +2734,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/itechmeat/open-second-brain",
       "description": "Local-first 🧠 memory for Hermes Agent that lives in your Obsidian vault and remembers project context. Nightly 😴 dream passes turn repeat corrections into confirmed preferences with measurable confidence. Adapters ship for Claude Code, Codex, and OpenClaw, with an MCP server for anything else.",
       "category": "Model Context Protocol (MCP)",
-      "stars": 612,
-      "forks": 84,
+      "stars": 618,
+      "forks": 85,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-08-13",
       "homepage": "https://dark-factory.techmeat.dev"
     },
@@ -2753,8 +2753,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/semantica-agi/semantica",
       "description": "Graph-Native Semantic Layer for Trustworthy Enterprise AI",
       "category": "Knowledge Management & Graphs",
-      "stars": 14712,
-      "forks": 1747,
+      "stars": 14793,
+      "forks": 1760,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -2768,7 +2768,7 @@ window.AWESOME_REPOS_DATA = {
         "data-engineering"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-23",
       "starred_at": "2026-08-13",
       "homepage": "https://getsemantica.ai"
     },
@@ -2800,7 +2800,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/loopx-project/loopx",
       "description": "The control plane for 24/7 always-on agents. Turn long-horizon goals into verifiable results across Codex, Claude Code, and custom runtimes—from local SQLite to team scale.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 6740,
+      "stars": 6761,
       "forks": 639,
       "language": "Python",
       "license": "Apache-2.0",
@@ -2815,7 +2815,7 @@ window.AWESOME_REPOS_DATA = {
         "claude-code"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-08-11",
       "homepage": "https://loopx-project.github.io/loopx/"
     },
@@ -2828,8 +2828,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 39614,
-      "forks": 4575,
+      "stars": 39836,
+      "forks": 4608,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -2843,7 +2843,7 @@ window.AWESOME_REPOS_DATA = {
         "llm"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-08-10",
       "homepage": "https://omp.sh"
     },
@@ -2856,8 +2856,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/firecrawl/pdf-inspector",
       "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
       "category": "Computer Vision & Image Generation",
-      "stars": 20081,
-      "forks": 1376,
+      "stars": 20106,
+      "forks": 1380,
       "language": "Rust",
       "license": "MIT",
       "topics": [
@@ -2871,7 +2871,7 @@ window.AWESOME_REPOS_DATA = {
         "python"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-08-08",
       "homepage": "https://firecrawl.github.io/pdf-inspector/"
     },
@@ -2882,11 +2882,11 @@ window.AWESOME_REPOS_DATA = {
       "owner": "TauricResearch",
       "avatar": "https://avatars.githubusercontent.com/u/192884433?v=4",
       "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "description": "TradingAgents: Towards Agentic Finance Research",
       "category": "Finance & Quantitative Tools",
-      "stars": 123403,
-      "forks": 23639,
-      "language": "Python",
+      "stars": 123724,
+      "forks": 23698,
+      "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -2896,7 +2896,7 @@ window.AWESOME_REPOS_DATA = {
         "trading"
       ],
       "archived": false,
-      "pushed_at": "2026-11-17",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-08-05",
       "homepage": "https://tauric.ai"
     },
@@ -2909,8 +2909,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/mattpocock/sandcastle",
       "description": "Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()",
       "category": "DevOps & Cloud Infrastructure",
-      "stars": 9218,
-      "forks": 994,
+      "stars": 9272,
+      "forks": 996,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [],
@@ -2928,8 +2928,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/withastro/flue",
       "description": "The sandbox agent framework.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 8685,
-      "forks": 531,
+      "stars": 8702,
+      "forks": 529,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [],
@@ -2947,8 +2947,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 24528,
-      "forks": 2038,
+      "stars": 24635,
+      "forks": 2050,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -2957,7 +2957,7 @@ window.AWESOME_REPOS_DATA = {
         "skills"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-08-04",
       "homepage": null
     },
@@ -2970,8 +2970,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/langchain-ai/agentevals",
       "description": "Readymade evaluators for agent trajectories",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 762,
-      "forks": 68,
+      "stars": 765,
+      "forks": 70,
       "language": "Python",
       "license": "MIT",
       "topics": [],
@@ -2989,8 +2989,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/microsoft/skill-recorder",
       "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot SDK to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Autopilots like Scout, Microsoft Copilot Cowork, or Copilot Studio.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 5888,
-      "forks": 663,
+      "stars": 5913,
+      "forks": 666,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -3004,7 +3004,7 @@ window.AWESOME_REPOS_DATA = {
         "electron"
       ],
       "archived": false,
-      "pushed_at": "2026-11-19",
+      "pushed_at": "2026-11-23",
       "starred_at": "2026-08-03",
       "homepage": null
     },
@@ -3017,8 +3017,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/yc-software/qm",
       "description": "Multiplayer agent harness for teams",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 15759,
-      "forks": 1963,
+      "stars": 15787,
+      "forks": 1959,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -3028,7 +3028,7 @@ window.AWESOME_REPOS_DATA = {
         "qm"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-08-01",
       "homepage": "https://labs.ycombinator.com/qm"
     },
@@ -3041,8 +3041,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/QoderAI/better-harness",
       "description": "An open-source Harness Engineering platform for coding agents—define harnesses as code, run controlled experiments, inspect evidence, and compare outcomes. Turn task evidence into actionable team and organization insights.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 2476,
-      "forks": 209,
+      "stars": 2478,
+      "forks": 210,
       "language": "JavaScript",
       "license": "MIT",
       "topics": [
@@ -3069,7 +3069,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/nvk/llm-wiki",
       "description": "LLM-compiled knowledge bases for any AI agent. Parallel multi-agent research, thesis-driven investigation, source ingestion, wiki compilation, querying, and artifact generation.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 1564,
+      "stars": 1570,
       "forks": 145,
       "language": "Python",
       "license": "MIT",
@@ -3097,8 +3097,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/opengeos/GeoLibre",
       "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
       "category": "Data Engineering & Pipelines",
-      "stars": 8768,
-      "forks": 985,
+      "stars": 8800,
+      "forks": 993,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -3112,7 +3112,7 @@ window.AWESOME_REPOS_DATA = {
         "maplibre"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-07-28",
       "homepage": "https://geolibre.app"
     },
@@ -3144,13 +3144,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/andrewyng/openworker",
       "description": "Open-source autonomous digital worker and agent execution environment.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 19530,
-      "forks": 2799,
+      "stars": 19586,
+      "forks": 2807,
       "language": "Python",
       "license": "MIT",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-07-24",
       "homepage": "http://openworker.com"
     },
@@ -3163,13 +3163,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/cloudflare/nimbus",
       "description": "Docs for humans and agents, built on Astro",
       "category": "Productivity & Developer Tools",
-      "stars": 1776,
-      "forks": 62,
+      "stars": 1779,
+      "forks": 64,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-07-23",
       "homepage": null
     },
@@ -3182,8 +3182,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/microsoft/Mage",
       "description": "",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 1795,
-      "forks": 180,
+      "stars": 1799,
+      "forks": 183,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -3210,7 +3210,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/dottxt-ai/outlines",
       "description": "Structured Outputs",
       "category": "Prompt Engineering",
-      "stars": 16016,
+      "stars": 16020,
       "forks": 918,
       "language": "Python",
       "license": "Apache-2.0",
@@ -3261,13 +3261,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/earendil-works/pi",
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 123219,
-      "forks": 15894,
+      "stars": 123764,
+      "forks": 15987,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-07-18",
       "homepage": null
     },
@@ -3280,8 +3280,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Darwin-Agent/HarnessX",
       "description": "HarnessX is a harness foundry: forge any number of agent harnesses from reusable processors and bundles, pair each with any model, and evolve them through training.",
       "category": "Others",
-      "stars": 515,
-      "forks": 60,
+      "stars": 516,
+      "forks": 59,
       "language": "Python",
       "license": "MIT",
       "topics": [],
@@ -3327,8 +3327,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "category": "Web Scraping & Automation",
-      "stars": 113803,
-      "forks": 10214,
+      "stars": 114584,
+      "forks": 10288,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -3342,7 +3342,7 @@ window.AWESOME_REPOS_DATA = {
         "cursor"
       ],
       "archived": false,
-      "pushed_at": "2026-11-08",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-07-14",
       "homepage": null
     },
@@ -3355,13 +3355,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/meta/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
       "category": "DevOps & Cloud Infrastructure",
-      "stars": 31895,
-      "forks": 2503,
+      "stars": 32938,
+      "forks": 2582,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-07-13",
       "homepage": "http://astryx.atmeta.com"
     },
@@ -3374,13 +3374,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/kunchenguid/no-mistakes",
       "description": "git push no-mistakes",
       "category": "LLMOps & Deployment",
-      "stars": 9265,
-      "forks": 958,
+      "stars": 9293,
+      "forks": 954,
       "language": "Go",
       "license": "MIT",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-23",
       "starred_at": "2026-07-11",
       "homepage": "https://kunchenguid.github.io/no-mistakes/"
     },
@@ -3393,8 +3393,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "category": "Web Scraping & Automation",
-      "stars": 29734,
-      "forks": 2655,
+      "stars": 29752,
+      "forks": 2657,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -3408,7 +3408,7 @@ window.AWESOME_REPOS_DATA = {
         "web"
       ],
       "archived": false,
-      "pushed_at": "2026-11-18",
+      "pushed_at": "2026-11-23",
       "starred_at": "2026-07-11",
       "homepage": "https://alibaba.github.io/page-agent/"
     },
@@ -3421,8 +3421,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/microsoft/ResearchStudio",
       "description": "ResearchStudio: Our AI co-author, from research problem to final publication.",
       "category": "Generative AI",
-      "stars": 3748,
-      "forks": 218,
+      "stars": 3796,
+      "forks": 225,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -3448,8 +3448,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/shepherd-agents/shepherd",
       "description": "A runtime substrate that turns an agent's execution into a reversible, Git-like trace, so meta-agents can observe, fork, replay, and revert any run. Couples agent and environments in a copy-on-write fork ~5x faster than docker commit, with ~95% KV-cache reuse on replay. Framework built for meta-agents to supervise, optimize, and train other agents",
       "category": "AI Automation & Workflow Tools",
-      "stars": 2658,
-      "forks": 231,
+      "stars": 2673,
+      "forks": 232,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -3475,7 +3475,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "Meta Harness Implementation",
       "category": "AI Agents & Multi-Agent Systems",
       "stars": 180,
-      "forks": 20,
+      "forks": 21,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -3497,8 +3497,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/liketrek/TREK",
       "description": "The most complete open-source travel planner: real-time collaboration, bookings, budgets, packing lists, journals, offline PWA, SSO and an AI-ready MCP server, with planet-wide place search and routing built in.",
       "category": "Model Context Protocol (MCP)",
-      "stars": 15864,
-      "forks": 1359,
+      "stars": 15928,
+      "forks": 1370,
       "language": "TypeScript",
       "license": "AGPL-3.0",
       "topics": [
@@ -3512,7 +3512,7 @@ window.AWESOME_REPOS_DATA = {
         "openstreetmap"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-07-04",
       "homepage": "https://demo.liketrek.com"
     },
@@ -3525,8 +3525,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/lucasastorian/llmwiki",
       "description": "Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !",
       "category": "Knowledge Management & Graphs",
-      "stars": 1785,
-      "forks": 249,
+      "stars": 1794,
+      "forks": 250,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -3553,8 +3553,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/benchflow-ai/awesome-evals",
       "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
       "category": "Awesome Lists & Aggregators",
-      "stars": 1049,
-      "forks": 159,
+      "stars": 1051,
+      "forks": 160,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -3581,8 +3581,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/baidu/Unlimited-OCR",
       "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "category": "Computer Vision & Image Generation",
-      "stars": 31524,
-      "forks": 3382,
+      "stars": 32743,
+      "forks": 3526,
       "language": "Python",
       "license": "MIT",
       "topics": [],
@@ -3600,8 +3600,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 62621,
-      "forks": 4438,
+      "stars": 62722,
+      "forks": 4458,
       "language": "Clojure",
       "license": "MPL-2.0",
       "topics": [
@@ -3614,7 +3614,7 @@ window.AWESOME_REPOS_DATA = {
         "ux-experience"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-06-21",
       "homepage": "https://penpot.app"
     },
@@ -3627,8 +3627,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/chatwoot/chatwoot",
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "category": "DevOps & Cloud Infrastructure",
-      "stars": 40308,
-      "forks": 9817,
+      "stars": 40521,
+      "forks": 9875,
       "language": "Ruby",
       "license": "NOASSERTION",
       "topics": [
@@ -3642,7 +3642,7 @@ window.AWESOME_REPOS_DATA = {
         "docker-image"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-06-20",
       "homepage": "https://www.chatwoot.com/help-center"
     },
@@ -3655,13 +3655,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/GoogleCloudPlatform/knowledge-catalog",
       "description": "Google Cloud Knowledge Catalog Tools and Samples",
       "category": "Knowledge Management & Graphs",
-      "stars": 9708,
-      "forks": 815,
+      "stars": 9747,
+      "forks": 817,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-06-19",
       "homepage": "https://cloud.google.com/products/knowledge-catalog?e=48754805"
     },
@@ -3674,8 +3674,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/headroomlabs-ai/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
       "category": "Retrieval-Augmented Generation (RAG)",
-      "stars": 80267,
-      "forks": 6285,
+      "stars": 80803,
+      "forks": 6338,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -3689,7 +3689,7 @@ window.AWESOME_REPOS_DATA = {
         "cursor"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-06-19",
       "homepage": "https://docs.headroomlabs.ai/docs"
     },
@@ -3702,8 +3702,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "category": "AI in Education & Courses",
-      "stars": 79783,
-      "forks": 14259,
+      "stars": 80075,
+      "forks": 14310,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -3730,22 +3730,22 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 72134,
-      "forks": 6387,
+      "stars": 74526,
+      "forks": 6568,
       "language": "Python",
       "license": "MIT",
       "topics": [
-        "ai-prompts",
-        "ai-skill",
-        "bluesky",
-        "claude",
-        "claude-code",
-        "clawhub",
-        "deep-research",
-        "hackernews"
+        "agent-skills",
+        "artificial-intelligence",
+        "automation",
+        "bot",
+        "command-line",
+        "data-science",
+        "dsh",
+        "dsh-plugin"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-06-19",
       "homepage": null
     },
@@ -3758,8 +3758,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Egonex-AI/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "category": "Knowledge Management & Graphs",
-      "stars": 93573,
-      "forks": 7960,
+      "stars": 94213,
+      "forks": 8009,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -3773,7 +3773,7 @@ window.AWESOME_REPOS_DATA = {
         "developer-tools-ai-agent"
       ],
       "archived": false,
-      "pushed_at": "2026-11-18",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-06-19",
       "homepage": "https://understand-anything.com/"
     },
@@ -3786,8 +3786,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 119802,
-      "forks": 8025,
+      "stars": 121245,
+      "forks": 8141,
       "language": "JavaScript",
       "license": "MIT",
       "topics": [
@@ -3801,7 +3801,7 @@ window.AWESOME_REPOS_DATA = {
         "frontend"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-06-18",
       "homepage": "https://tasteskill.dev"
     },
@@ -3814,8 +3814,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/cpaczek/skylight",
       "description": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
       "category": "IoT & Edge AI",
-      "stars": 3404,
-      "forks": 414,
+      "stars": 3413,
+      "forks": 413,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -3842,8 +3842,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/systemdesign42/system-design-academy",
       "description": "If you want to become good at AI engineering & system design, join this newsletter 👇",
       "category": "AI in Education & Courses",
-      "stars": 29813,
-      "forks": 3905,
+      "stars": 29863,
+      "forks": 3909,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -3857,7 +3857,7 @@ window.AWESOME_REPOS_DATA = {
         "software-engineering"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-06-06",
       "homepage": "https://newsletter.systemdesign.one/join"
     },
@@ -3870,8 +3870,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/nesquena/hermes-webui",
       "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 19605,
-      "forks": 2855,
+      "stars": 19628,
+      "forks": 2863,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -3882,7 +3882,7 @@ window.AWESOME_REPOS_DATA = {
         "nous-research"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-05-31",
       "homepage": "https://get-hermes.ai/setup"
     },
@@ -3895,8 +3895,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 8104,
-      "forks": 890,
+      "stars": 8308,
+      "forks": 918,
       "language": "Go",
       "license": "Apache-2.0",
       "topics": [
@@ -3905,7 +3905,7 @@ window.AWESOME_REPOS_DATA = {
         "sandboxing"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-05-28",
       "homepage": "https://ate.dev/"
     },
@@ -3918,13 +3918,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/google/ax",
       "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 14838,
-      "forks": 803,
+      "stars": 14885,
+      "forks": 807,
       "language": "Go",
       "license": "Apache-2.0",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-05-28",
       "homepage": "https://agentexecutor.io"
     },
@@ -3937,8 +3937,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/CloakHQ/CloakBrowser",
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed.",
       "category": "Web Scraping & Automation",
-      "stars": 33013,
-      "forks": 2743,
+      "stars": 33063,
+      "forks": 2748,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -3952,7 +3952,7 @@ window.AWESOME_REPOS_DATA = {
         "cloudflare"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-22",
       "starred_at": "2026-05-28",
       "homepage": "https://cloakbrowser.dev/"
     },
@@ -3965,7 +3965,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ai-infra-curriculum/ai-infra-engineer-learning",
       "description": "AI Infrastructure Engineer Learning Track - Production ML infrastructure curriculum (2-4 years experience)",
       "category": "MLOps & ML Infrastructure",
-      "stars": 1908,
+      "stars": 1914,
       "forks": 327,
       "language": "Python",
       "license": "MIT",
@@ -3993,8 +3993,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/microsoft/CUAWright",
       "description": "A simple SWE-style browser+desktop agent framework that achieves SOTA results on long-horizon CUA tasks",
       "category": "Web Scraping & Automation",
-      "stars": 6097,
-      "forks": 391,
+      "stars": 6100,
+      "forks": 390,
       "language": "Python",
       "license": "MIT",
       "topics": [],
@@ -4012,13 +4012,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "category": "Web Scraping & Automation",
-      "stars": 53256,
-      "forks": 3729,
+      "stars": 53852,
+      "forks": 3769,
       "language": "Rust",
       "license": "Apache-2.0",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-05-20",
       "homepage": "https://agent-browser.dev"
     },
@@ -4031,13 +4031,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/xai-org/x-algorithm",
       "description": "Algorithm powering the For You feed on X",
       "category": "Machine Learning (Traditional)",
-      "stars": 34367,
-      "forks": 5533,
+      "stars": 34414,
+      "forks": 5543,
       "language": "Rust",
       "license": "Apache-2.0",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-05-16",
       "homepage": null
     },
@@ -4050,7 +4050,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/google/magika",
       "description": "Fast and accurate AI powered file content types detection",
       "category": "Machine Learning (Traditional)",
-      "stars": 18853,
+      "stars": 18860,
       "forks": 1191,
       "language": "Rust",
       "license": "Apache-2.0",
@@ -4064,7 +4064,7 @@ window.AWESOME_REPOS_DATA = {
         "onnx"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-04-16",
       "homepage": "https://securityresearch.google/magika/"
     },
@@ -4077,8 +4077,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/techinz/browsers-benchmark",
       "description": "Browser automation engine benchmark - Test bypass rates, performance & stealth against Cloudflare, DataDome, reCAPTCHA, Kasada, Imperva, Akamai, PerimeterX  and other bot detection systems. Find the best browser for scraping.",
       "category": "Web Scraping & Automation",
-      "stars": 428,
-      "forks": 18,
+      "stars": 440,
+      "forks": 19,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -4092,7 +4092,7 @@ window.AWESOME_REPOS_DATA = {
         "puppeteer"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-04-14",
       "homepage": null
     },
@@ -4106,7 +4106,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "🔥 A collection of the Claude Code open source",
       "category": "AI Agents & Multi-Agent Systems",
       "stars": 2883,
-      "forks": 2448,
+      "forks": 2449,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [],
@@ -4124,7 +4124,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/soongenwong/claudecode",
       "description": "Open Source ClaudeCode Leaked. Same functionalities as Claude Code by Anthropic. Written in Rust, Ready to use immediately for free.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 1224,
+      "stars": 1223,
       "forks": 420,
       "language": "Rust",
       "license": null,
@@ -4152,8 +4152,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/chenglou/pretext",
       "description": "Fast, accurate & comprehensive text measurement & layout",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 51086,
-      "forks": 2760,
+      "stars": 51103,
+      "forks": 2761,
       "language": "TypeScript",
       "license": "NOASSERTION",
       "topics": [
@@ -4167,7 +4167,7 @@ window.AWESOME_REPOS_DATA = {
         "typography"
       ],
       "archived": false,
-      "pushed_at": "2026-11-19",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-04-01",
       "homepage": "https://chenglou.me/pretext/"
     },
@@ -4180,7 +4180,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Leanmcp/gateway-skills",
       "description": "See your claude code logs in clear details in your dashboard",
       "category": "LLMOps & Deployment",
-      "stars": 2127,
+      "stars": 2129,
       "forks": 2076,
       "language": "Python",
       "license": "MIT",
@@ -4199,8 +4199,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/nirholas/fresh-start",
       "description": "Record of the former nirholas/claude-code mirror: the DMCA, the leak timeline and the x402 correction. No Anthropic code",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 6225,
-      "forks": 18,
+      "stars": 6226,
+      "forks": 19,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -4225,7 +4225,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/slavingia/skills",
       "description": "Based on The Minimalist Entrepreneur by Sahil Lavingia",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 11198,
+      "stars": 11203,
       "forks": 1126,
       "language": null,
       "license": null,
@@ -4244,8 +4244,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 85587,
-      "forks": 12072,
+      "stars": 85776,
+      "forks": 12105,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -4259,7 +4259,7 @@ window.AWESOME_REPOS_DATA = {
         "harness"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-03-30",
       "homepage": "https://deerflow.tech"
     },
@@ -4272,13 +4272,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Crosstalk-Solutions/project-nomad",
       "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
       "category": "System & Software Design",
-      "stars": 44234,
-      "forks": 4565,
+      "stars": 44371,
+      "forks": 4574,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-18",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-03-30",
       "homepage": "https://www.projectnomad.us"
     },
@@ -4291,8 +4291,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 265236,
-      "forks": 59957,
+      "stars": 265963,
+      "forks": 60271,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -4306,7 +4306,7 @@ window.AWESOME_REPOS_DATA = {
         "codex"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-03-30",
       "homepage": "https://hermes-agent.nousresearch.com"
     },
@@ -4319,8 +4319,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/andrewyng/context-hub",
       "description": "Curated, versioned documentation and context hub to prevent coding agents from hallucinating APIs.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 13993,
-      "forks": 1204,
+      "stars": 13997,
+      "forks": 1201,
       "language": "JavaScript",
       "license": "MIT",
       "topics": [],
@@ -4353,7 +4353,7 @@ window.AWESOME_REPOS_DATA = {
         "shell"
       ],
       "archived": false,
-      "pushed_at": "2026-11-13",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-03-17",
       "homepage": "https://leolabs.me"
     },
@@ -4366,8 +4366,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
       "description": "from vibe coding to agentic engineering - practice makes claude perfect",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 69293,
-      "forks": 6883,
+      "stars": 69390,
+      "forks": 6884,
       "language": "HTML",
       "license": "MIT",
       "topics": [
@@ -4381,7 +4381,7 @@ window.AWESOME_REPOS_DATA = {
         "best-practices"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-03-13",
       "homepage": "https://linkedin.com/in/shanraisshan"
     },
@@ -4394,8 +4394,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/MicrosoftDocs/Agent-Skills",
       "description": "Curated Agent Skills for Microsoft & Azure – giving AI coding assistants structured, real-time expertise from Microsoft Learn docs.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 818,
-      "forks": 135,
+      "stars": 820,
+      "forks": 134,
       "language": null,
       "license": "CC-BY-4.0",
       "topics": [
@@ -4422,8 +4422,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 169691,
-      "forks": 27569,
+      "stars": 170148,
+      "forks": 27646,
       "language": "Shell",
       "license": "MIT",
       "topics": [],
@@ -4441,8 +4441,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 115712,
-      "forks": 19207,
+      "stars": 116849,
+      "forks": 19392,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -4456,7 +4456,7 @@ window.AWESOME_REPOS_DATA = {
         "ai-tools"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-03-05",
       "homepage": "https://paperclip.ing"
     },
@@ -4469,8 +4469,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "category": "Model Context Protocol (MCP)",
-      "stars": 91025,
-      "forks": 14132,
+      "stars": 91155,
+      "forks": 14153,
       "language": "TypeScript",
       "license": "AGPL-3.0",
       "topics": [
@@ -4484,7 +4484,7 @@ window.AWESOME_REPOS_DATA = {
         "monitoring"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-03-03",
       "homepage": "https://worldmonitor.app"
     },
@@ -4497,8 +4497,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
       "description": "A community collection of OpenClaw use cases for making life easier.",
       "category": "Awesome Lists & Aggregators",
-      "stars": 31635,
-      "forks": 2709,
+      "stars": 31637,
+      "forks": 2707,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -4525,8 +4525,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/AgentWorkforce/relay",
       "description": "Infrastructure for coding agents",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 1144,
-      "forks": 105,
+      "stars": 1152,
+      "forks": 108,
       "language": "Rust",
       "license": "Apache-2.0",
       "topics": [
@@ -4540,7 +4540,7 @@ window.AWESOME_REPOS_DATA = {
         "orchestration"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-03-02",
       "homepage": "https://agentrelay.com"
     },
@@ -4553,8 +4553,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "category": "IoT & Edge AI",
-      "stars": 104755,
-      "forks": 13580,
+      "stars": 105098,
+      "forks": 13629,
       "language": "Rust",
       "license": "MIT",
       "topics": [
@@ -4568,7 +4568,7 @@ window.AWESOME_REPOS_DATA = {
         "mcp"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-03-01",
       "homepage": "https://cognitum.one"
     },
@@ -4581,13 +4581,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/huggingface/skills",
       "description": "Give your agents the power of the Hugging Face ecosystem",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 11381,
-      "forks": 801,
+      "stars": 11397,
+      "forks": 802,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-23",
       "starred_at": "2026-02-27",
       "homepage": "https://huggingface.co"
     },
@@ -4600,8 +4600,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/nanocoai/nanoclaw",
       "description": "Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to it from Slack, WhatsApp, Telegram, Discord and more.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 31137,
-      "forks": 12639,
+      "stars": 31157,
+      "forks": 12624,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -4615,7 +4615,7 @@ window.AWESOME_REPOS_DATA = {
         "openclaw"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-02-15",
       "homepage": "https://nanoclaw.dev"
     },
@@ -4628,8 +4628,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/openclaw/clawhub",
       "description": "Skill + Plugin Registry for OpenClaw",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 9557,
-      "forks": 1491,
+      "stars": 9564,
+      "forks": 1493,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -4637,7 +4637,7 @@ window.AWESOME_REPOS_DATA = {
         "skill"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-02-15",
       "homepage": "https://clawhub.ai"
     },
@@ -4650,7 +4650,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/TinyAGI/tinyagi",
       "description": "TinyAGI is the agent teams orchestrator for One Person Company. (fka TinyClaw)",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 3635,
+      "stars": 3638,
       "forks": 507,
       "language": "TypeScript",
       "license": "MIT",
@@ -4669,8 +4669,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/sipeed/picoclaw",
       "description": "Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity",
       "category": "AI in Education & Courses",
-      "stars": 30147,
-      "forks": 4403,
+      "stars": 30159,
+      "forks": 4396,
       "language": "Go",
       "license": "MIT",
       "topics": [],
@@ -4681,22 +4681,29 @@ window.AWESOME_REPOS_DATA = {
     },
     {
       "rankOrder": 182,
-      "full_name": "HKUDS/FastCode",
-      "name": "FastCode",
+      "full_name": "HKUDS/TokenWise",
+      "name": "TokenWise",
       "owner": "HKUDS",
       "avatar": "https://avatars.githubusercontent.com/u/118165258?v=4",
-      "url": "https://github.com/HKUDS/FastCode",
-      "description": "\"FastCode: Accelerating and Streamlining Your Code Understanding\"",
-      "category": "Model Context Protocol (MCP)",
-      "stars": 2289,
+      "url": "https://github.com/HKUDS/TokenWise",
+      "description": "TokenWise: Self-Evolving Context with Up to 50% Token Savings",
+      "category": "Prompt Engineering",
+      "stars": 2291,
       "forks": 273,
-      "language": "Python",
-      "license": null,
-      "topics": [],
+      "language": "TypeScript",
+      "license": "MIT",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "context-engineering",
+        "llm",
+        "token-optimization"
+      ],
       "archived": false,
-      "pushed_at": "2026-07-06",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-02-14",
-      "homepage": "https://arxiv.org/abs/2603.01012"
+      "homepage": null
     },
     {
       "rankOrder": 183,
@@ -4707,7 +4714,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/llmgenai/LLMInterviewQuestions",
       "description": "This repository contains LLM (Large language model) interview question asked in top companies like Google, Nvidia , Meta , Microsoft & fortune 500 companies.",
       "category": "AI in Education & Courses",
-      "stars": 1959,
+      "stars": 1962,
       "forks": 402,
       "language": null,
       "license": null,
@@ -4726,8 +4733,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/tobi/qmd",
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "category": "Search & Indexing Tools",
-      "stars": 31326,
-      "forks": 1976,
+      "stars": 31579,
+      "forks": 1991,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [],
@@ -4745,8 +4752,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/iOfficeAI/AionUi",
       "description": "Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!",
       "category": "Conversational AI & Chatbots",
-      "stars": 34429,
-      "forks": 3599,
+      "stars": 34491,
+      "forks": 3608,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [
@@ -4773,8 +4780,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/am-will/codex-skills",
       "description": "Curated skills and command workflows for OpenAI Codex and coding agents.",
       "category": "Web Scraping & Automation",
-      "stars": 1043,
-      "forks": 60,
+      "stars": 1044,
+      "forks": 59,
       "language": "Shell",
       "license": null,
       "topics": [],
@@ -4792,8 +4799,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
       "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞",
       "category": "Awesome Lists & Aggregators",
-      "stars": 53916,
-      "forks": 5071,
+      "stars": 53978,
+      "forks": 5074,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -4820,13 +4827,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/different-ai/openwork",
       "description": "The open-source alternative to Claude Cowork (powered by opencode)",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 24580,
-      "forks": 2491,
+      "stars": 24589,
+      "forks": 2493,
       "language": "TypeScript",
       "license": "NOASSERTION",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-02-04",
       "homepage": "https://openworklabs.com"
     },
@@ -4862,8 +4869,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/VectifyAI/PageIndex",
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "category": "Retrieval-Augmented Generation (RAG)",
-      "stars": 40698,
-      "forks": 3494,
+      "stars": 40776,
+      "forks": 3498,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -4877,7 +4884,7 @@ window.AWESOME_REPOS_DATA = {
         "rag"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-02-02",
       "homepage": "https://pageindex.ai"
     },
@@ -4890,8 +4897,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/cloudflare/moltworker",
       "description": "Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 9948,
-      "forks": 1696,
+      "stars": 9946,
+      "forks": 1695,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [
@@ -4940,8 +4947,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/gsd-build/get-shit-done",
       "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
       "category": "Prompt Engineering",
-      "stars": 64116,
-      "forks": 5438,
+      "stars": 64111,
+      "forks": 5441,
       "language": "JavaScript",
       "license": "MIT",
       "topics": [
@@ -4964,8 +4971,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/lotus-data/lotus",
       "description": "Optimized Agentic and LLM Bulk Processing Over Your Data",
       "category": "Retrieval-Augmented Generation (RAG)",
-      "stars": 1737,
-      "forks": 158,
+      "stars": 1741,
+      "forks": 159,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -4992,8 +4999,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/openclaw/openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 395003,
-      "forks": 82950,
+      "stars": 395168,
+      "forks": 82966,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -5006,7 +5013,7 @@ window.AWESOME_REPOS_DATA = {
         "personal"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-01-26",
       "homepage": "https://openclaw.ai"
     },
@@ -5019,8 +5026,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/composio-community/open-claude-cowork",
       "description": "Open Source version of Claude Cowork with 500+ SaaS app integrations",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 4321,
-      "forks": 703,
+      "stars": 4323,
+      "forks": 700,
       "language": "JavaScript",
       "license": "MIT",
       "topics": [
@@ -5047,8 +5054,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/microsoft/playwright-mcp",
       "description": "Playwright MCP server",
       "category": "Model Context Protocol (MCP)",
-      "stars": 39982,
-      "forks": 3477,
+      "stars": 40118,
+      "forks": 3495,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [
@@ -5069,7 +5076,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/dstark5/Openlib",
       "description": "An Open source app to download and read books from shadow library (Anna’s Archive)",
       "category": "AI in Education & Courses",
-      "stars": 2523,
+      "stars": 2526,
       "forks": 138,
       "language": "Dart",
       "license": "GPL-3.0",
@@ -5097,7 +5104,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/accomplish-ai/coworker",
       "description": "Open-source autonomous coworker agent project.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 10790,
+      "stars": 10785,
       "forks": 1265,
       "language": null,
       "license": null,
@@ -5116,7 +5123,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/1rgs/nanocode",
       "description": "Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 2820,
+      "stars": 2831,
       "forks": 282,
       "language": "Python",
       "license": null,
@@ -5135,13 +5142,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Universal-Commerce-Protocol/ucp",
       "description": "Specification and documentation for the Universal Commerce Protocol (UCP)",
       "category": "System & Software Design",
-      "stars": 3516,
-      "forks": 507,
+      "stars": 3521,
+      "forks": 506,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-01-12",
       "homepage": "https://ucp.dev"
     },
@@ -5154,8 +5161,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/virattt/dexter",
       "description": "An autonomous agent for deep financial research",
       "category": "Finance & Quantitative Tools",
-      "stars": 27988,
-      "forks": 3456,
+      "stars": 28032,
+      "forks": 3461,
       "language": "TypeScript",
       "license": null,
       "topics": [],
@@ -5173,8 +5180,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/snarktank/ralph",
       "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 22316,
-      "forks": 2120,
+      "stars": 22342,
+      "forks": 2122,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [],
@@ -5236,8 +5243,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/harvard-edge/cs249r_book",
       "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
       "category": "Robotics & Embodied AI",
-      "stars": 30284,
-      "forks": 3747,
+      "stars": 30306,
+      "forks": 3737,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -5251,7 +5258,7 @@ window.AWESOME_REPOS_DATA = {
         "edge-machine-learning"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2026-01-05",
       "homepage": "https://mlsysbook.ai"
     },
@@ -5264,8 +5271,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/HKUDS/DeepCode",
       "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 16857,
-      "forks": 2197,
+      "stars": 16867,
+      "forks": 2196,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -5274,7 +5281,7 @@ window.AWESOME_REPOS_DATA = {
         "llm-agent"
       ],
       "archived": false,
-      "pushed_at": "2026-11-17",
+      "pushed_at": "2026-11-23",
       "starred_at": "2026-01-05",
       "homepage": "http://arxiv.org/abs/2512.07921"
     },
@@ -5306,8 +5313,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "category": "Retrieval-Augmented Generation (RAG)",
-      "stars": 61398,
-      "forks": 7414,
+      "stars": 62481,
+      "forks": 7523,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -5321,7 +5328,7 @@ window.AWESOME_REPOS_DATA = {
         "multi-agent-systems"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-01-04",
       "homepage": "http://arxiv.org/abs/2604.26962"
     },
@@ -5334,8 +5341,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/danielmiessler/LifeOS",
       "description": "⛰️ LifeOS — The AI-powered Life Operating System that helps you hill climb to wherever you're going.",
       "category": "Productivity & Developer Tools",
-      "stars": 19960,
-      "forks": 2534,
+      "stars": 19988,
+      "forks": 2542,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -5362,7 +5369,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/antvis/Infographic",
       "description": "🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!",
       "category": "Large Language Models (LLMs)",
-      "stars": 7138,
+      "stars": 7161,
       "forks": 572,
       "language": "TypeScript",
       "license": "MIT",
@@ -5387,8 +5394,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/heilcheng/awesome-agent-skills",
       "description": "Tutorials, Guides and Agent Skills Directories",
       "category": "Awesome Lists & Aggregators",
-      "stars": 6419,
-      "forks": 862,
+      "stars": 6436,
+      "forks": 872,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -5402,7 +5409,7 @@ window.AWESOME_REPOS_DATA = {
         "claude"
       ],
       "archived": false,
-      "pushed_at": "2026-11-19",
+      "pushed_at": "2026-11-24",
       "starred_at": "2026-01-01",
       "homepage": "http://agent-skill.co"
     },
@@ -5415,8 +5422,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/FoundationAgents/OpenManus",
       "description": "No fortress, purely open ground.  OpenManus is Coming.",
       "category": "Machine Learning (Traditional)",
-      "stars": 59006,
-      "forks": 10227,
+      "stars": 59032,
+      "forks": 10232,
       "language": "Python",
       "license": "MIT",
       "topics": [],
@@ -5460,8 +5467,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/anthropics/claude-quickstarts",
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "category": "AI in Education & Courses",
-      "stars": 21130,
-      "forks": 3505,
+      "stars": 21180,
+      "forks": 3520,
       "language": "Python",
       "license": "MIT",
       "topics": [],
@@ -5479,8 +5486,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ulab-uiuc/LLMRouter",
       "description": "LLMRouter: An Open-Source Library for LLM Routing",
       "category": "LLMOps & Deployment",
-      "stars": 3087,
-      "forks": 318,
+      "stars": 3094,
+      "forks": 319,
       "language": "Python",
       "license": "MIT",
       "topics": [],
@@ -5498,8 +5505,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 198584,
-      "forks": 23240,
+      "stars": 200122,
+      "forks": 23407,
       "language": "Python",
       "license": null,
       "topics": [
@@ -5519,8 +5526,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ZJU-LLMs/Foundations-of-LLMs",
       "description": "A book for Learning the Foundations of LLMs",
       "category": "AI in Education & Courses",
-      "stars": 18632,
-      "forks": 1762,
+      "stars": 18642,
+      "forks": 1763,
       "language": null,
       "license": "NOASSERTION",
       "topics": [],
@@ -5538,8 +5545,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "category": "Retrieval-Augmented Generation (RAG)",
-      "stars": 118878,
-      "forks": 10336,
+      "stars": 119614,
+      "forks": 10397,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [
@@ -5553,7 +5560,7 @@ window.AWESOME_REPOS_DATA = {
         "claude-agent-sdk"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-12-22",
       "homepage": "https://claude-mem.ai"
     },
@@ -5566,8 +5573,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/facebookresearch/sam3",
       "description": "The repository provides code for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
       "category": "Computer Vision & Image Generation",
-      "stars": 12370,
-      "forks": 1882,
+      "stars": 12401,
+      "forks": 1892,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [],
@@ -5585,8 +5592,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "category": "Knowledge Management & Graphs",
-      "stars": 37965,
-      "forks": 5298,
+      "stars": 38176,
+      "forks": 5352,
       "language": "Go",
       "license": "NOASSERTION",
       "topics": [
@@ -5600,7 +5607,7 @@ window.AWESOME_REPOS_DATA = {
         "generative-ai"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-12-22",
       "homepage": "https://weknora.weixin.qq.com"
     },
@@ -5613,8 +5620,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/sansan0/TrendRadar",
       "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, web search, MCP & smart alerts.🎯 告别信息过载，你的 AI     舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅 + 定时联网搜索，支持关键词与 AI 智能筛选。AI 翻译 + AI 分析简报直推手机，支持接入 MCP     架构，赋能 AI 自然语言对话分析、实时检索、情感洞察与趋势预测。支持 Docker，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/Bark/Slack     等渠道智能推送。",
       "category": "Model Context Protocol (MCP)",
-      "stars": 63786,
-      "forks": 24934,
+      "stars": 63861,
+      "forks": 24945,
       "language": "Python",
       "license": "GPL-3.0",
       "topics": [
@@ -5641,7 +5648,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
       "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
       "category": "Prompt Engineering",
-      "stars": 18394,
+      "stars": 18418,
       "forks": 1520,
       "language": "Python",
       "license": "MIT",
@@ -5660,8 +5667,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/dabeaz-course/python-mastery",
       "description": "Advanced Python Mastery (course by @dabeaz)",
       "category": "AI in Education & Courses",
-      "stars": 13349,
-      "forks": 2317,
+      "stars": 13350,
+      "forks": 2316,
       "language": "Python",
       "license": "CC-BY-SA-4.0",
       "topics": [
@@ -5702,8 +5709,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/CaviraOSS/PageLM",
       "description": "PageLM is a community driven version of NotebookLM & a education platform that transforms study materials into interactive resources like quizzes, flashcards, notes, and podcasts.",
       "category": "Retrieval-Augmented Generation (RAG)",
-      "stars": 2071,
-      "forks": 290,
+      "stars": 2073,
+      "forks": 291,
       "language": "TypeScript",
       "license": "NOASSERTION",
       "topics": [
@@ -5736,7 +5743,7 @@ window.AWESOME_REPOS_DATA = {
       "license": "Apache-2.0",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-11-16",
       "homepage": "https://alibaba.github.io/ROCK/"
     },
@@ -5749,8 +5756,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/microsoft/agent-lightning",
       "description": "The absolute trainer to light up AI agents.",
       "category": "MLOps & ML Infrastructure",
-      "stars": 18992,
-      "forks": 1725,
+      "stars": 18997,
+      "forks": 1729,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -5761,7 +5768,7 @@ window.AWESOME_REPOS_DATA = {
         "reinforcement-learning"
       ],
       "archived": false,
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-11-15",
       "homepage": "https://microsoft.github.io/agent-lightning/"
     },
@@ -5774,8 +5781,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "category": "AI Testing & Evaluation",
-      "stars": 76944,
-      "forks": 8761,
+      "stars": 77484,
+      "forks": 8827,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -5789,7 +5796,7 @@ window.AWESOME_REPOS_DATA = {
         "code-quality"
       ],
       "archived": false,
-      "pushed_at": "2026-11-19",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-11-15",
       "homepage": "https://strix.ai"
     },
@@ -5802,8 +5809,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/anomalyco/opentui",
       "description": "OpenTUI is a library to build terminal user interfaces (TUI)",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 13883,
-      "forks": 825,
+      "stars": 13914,
+      "forks": 828,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -5812,7 +5819,7 @@ window.AWESOME_REPOS_DATA = {
         "tui"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-11-12",
       "homepage": "https://opentui.com/"
     },
@@ -5825,8 +5832,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ComposioHQ/composio",
       "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
       "category": "LLMOps & Deployment",
-      "stars": 31227,
-      "forks": 4969,
+      "stars": 31290,
+      "forks": 4980,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -5840,7 +5847,7 @@ window.AWESOME_REPOS_DATA = {
         "gpt-4"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-11-12",
       "homepage": "https://docs.composio.dev"
     },
@@ -5853,13 +5860,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/kvcache-ai/ktransformers",
       "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
       "category": "Large Language Models (LLMs)",
-      "stars": 19691,
-      "forks": 1604,
+      "stars": 19697,
+      "forks": 1607,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-13",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-11-12",
       "homepage": "https://kvcache-ai.github.io/ktransformers/"
     },
@@ -5894,8 +5901,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/gepa-ai/gepa",
       "description": "Optimize prompts, code, and more with AI-powered Reflective Optimization",
       "category": "Prompt Engineering",
-      "stars": 7528,
-      "forks": 631,
+      "stars": 7571,
+      "forks": 634,
       "language": "Jupyter Notebook",
       "license": "MIT",
       "topics": [
@@ -5969,8 +5976,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/mudler/LocalAI",
       "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
       "category": "Speech & Audio (TTS, ASR, Music)",
-      "stars": 50497,
-      "forks": 4634,
+      "stars": 50530,
+      "forks": 4649,
       "language": "Go",
       "license": "MIT",
       "topics": [
@@ -5984,7 +5991,7 @@ window.AWESOME_REPOS_DATA = {
         "libp2p"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-11-07",
       "homepage": "https://localai.io"
     },
@@ -5997,8 +6004,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/qeeqbox/social-analyzer",
       "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
       "category": "AI Testing & Evaluation",
-      "stars": 24600,
-      "forks": 2373,
+      "stars": 24612,
+      "forks": 2374,
       "language": "JavaScript",
       "license": "AGPL-3.0",
       "topics": [
@@ -6025,8 +6032,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/pytorch/tutorials",
       "description": "PyTorch tutorials.",
       "category": "AI in Education & Courses",
-      "stars": 9448,
-      "forks": 4464,
+      "stars": 9453,
+      "forks": 4465,
       "language": "Python",
       "license": "BSD-3-Clause",
       "topics": [],
@@ -6044,7 +6051,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/datalab-to/chandra",
       "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
       "category": "Computer Vision & Image Generation",
-      "stars": 12744,
+      "stars": 12772,
       "forks": 1272,
       "language": "Python",
       "license": "Apache-2.0",
@@ -6072,8 +6079,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/karpathy/micrograd",
       "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
       "category": "Machine Learning (Traditional)",
-      "stars": 19043,
-      "forks": 3030,
+      "stars": 19106,
+      "forks": 3033,
       "language": "Jupyter Notebook",
       "license": "MIT",
       "topics": [],
@@ -6119,8 +6126,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/shcherbak-ai/contextgem",
       "description": "Extract structured data and insights from documents using LLMs and decision models",
       "category": "Data Engineering & Pipelines",
-      "stars": 2096,
-      "forks": 189,
+      "stars": 2097,
+      "forks": 188,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -6147,8 +6154,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/vespa-engine/vespa",
       "description": "The AI search platform",
       "category": "Retrieval-Augmented Generation (RAG)",
-      "stars": 7194,
-      "forks": 752,
+      "stars": 7199,
+      "forks": 753,
       "language": "Java",
       "license": "Apache-2.0",
       "topics": [
@@ -6162,7 +6169,7 @@ window.AWESOME_REPOS_DATA = {
         "server"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-10-15",
       "homepage": "https://vespa.ai"
     },
@@ -6175,8 +6182,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/karpathy/nanochat",
       "description": "The best ChatGPT that $100 can buy.",
       "category": "Natural Language Processing (NLP)",
-      "stars": 60758,
-      "forks": 8528,
+      "stars": 60852,
+      "forks": 8538,
       "language": "Python",
       "license": "MIT",
       "topics": [],
@@ -6194,8 +6201,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/wesammustafa/Claude-Code-Quest",
       "description": "Claude Code guide in three levels, Beginner to Advanced: hands-on lessons with checked exercises, every volatile fact cited to its source. Independent community guide.",
       "category": "AI in Education & Courses",
-      "stars": 3720,
-      "forks": 417,
+      "stars": 3727,
+      "forks": 419,
       "language": "TypeScript",
       "license": "NOASSERTION",
       "topics": [
@@ -6209,7 +6216,7 @@ window.AWESOME_REPOS_DATA = {
         "claude-ai"
       ],
       "archived": false,
-      "pushed_at": "2026-11-15",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-10-13",
       "homepage": "https://github.com/wesammustafa/Claude-Code-Quest/blob/main/docs/beginner/README.md"
     },
@@ -6222,7 +6229,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/stanford-mast/blast",
       "description": "Open-source VMs-as-a-service",
       "category": "DevOps & Cloud Infrastructure",
-      "stars": 808,
+      "stars": 809,
       "forks": 55,
       "language": "Rust",
       "license": "MIT",
@@ -6232,7 +6239,7 @@ window.AWESOME_REPOS_DATA = {
         "virtual-machine"
       ],
       "archived": false,
-      "pushed_at": "2026-08-30",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-10-12",
       "homepage": "http://blastproject.org/"
     },
@@ -6245,8 +6252,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/simonw/claude-skills",
       "description": "The contents of /mnt/skills in Claude's code interpreter environment",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 932,
-      "forks": 133,
+      "stars": 931,
+      "forks": 134,
       "language": null,
       "license": null,
       "topics": [],
@@ -6264,8 +6271,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/landing-ai/ade-python",
       "description": "Python library for Agentic Document Extraction (ADE).",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 1042,
-      "forks": 168,
+      "stars": 1045,
+      "forks": 167,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [],
@@ -6283,8 +6290,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/niri-wm/niri",
       "description": "A scrollable-tiling Wayland compositor.",
       "category": "Productivity & Developer Tools",
-      "stars": 29187,
-      "forks": 1304,
+      "stars": 29255,
+      "forks": 1316,
       "language": "Rust",
       "license": "GPL-3.0",
       "topics": [
@@ -6295,7 +6302,7 @@ window.AWESOME_REPOS_DATA = {
         "wayland-compositor"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-10-05",
       "homepage": "https://niri-wm.github.io/niri/"
     },
@@ -6308,8 +6315,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "category": "Model Context Protocol (MCP)",
-      "stars": 58721,
-      "forks": 4905,
+      "stars": 59261,
+      "forks": 4885,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [
@@ -6323,7 +6330,7 @@ window.AWESOME_REPOS_DATA = {
         "puppeteer"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-09-28",
       "homepage": "https://developer.chrome.com/docs/devtools/agents"
     },
@@ -6336,8 +6343,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Eventual-Inc/Daft",
       "description": "High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale",
       "category": "Data Engineering & Pipelines",
-      "stars": 5858,
-      "forks": 591,
+      "stars": 5862,
+      "forks": 594,
       "language": "Rust",
       "license": "Apache-2.0",
       "topics": [
@@ -6364,8 +6371,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/emcie-co/parlant",
       "description": "Parlant lets you build and operate reliable CX and support agents from your own AI coding agents.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 18340,
-      "forks": 1557,
+      "stars": 18345,
+      "forks": 1555,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -6378,7 +6385,7 @@ window.AWESOME_REPOS_DATA = {
         "python"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-09-13",
       "homepage": "https://www.parlant.io"
     },
@@ -6391,8 +6398,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/github/spec-kit",
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 150956,
-      "forks": 13559,
+      "stars": 151310,
+      "forks": 13602,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -6405,7 +6412,7 @@ window.AWESOME_REPOS_DATA = {
         "spec-driven"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-09-12",
       "homepage": "https://github.github.com/spec-kit/"
     },
@@ -6465,13 +6472,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ogx-ai/ogx",
       "description": "Open GenAI Stack",
       "category": "Generative AI",
-      "stars": 8468,
-      "forks": 1407,
+      "stars": 8470,
+      "forks": 1411,
       "language": "Python",
       "license": "MIT",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-09-04",
       "homepage": "https://ogx-ai.github.io/"
     },
@@ -6484,8 +6491,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
       "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 40420,
-      "forks": 7242,
+      "stars": 40720,
+      "forks": 7285,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -6493,7 +6500,7 @@ window.AWESOME_REPOS_DATA = {
         "genai"
       ],
       "archived": false,
-      "pushed_at": "2026-11-06",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-09-01",
       "homepage": "https://ashishpatel26.github.io/500-AI-Agents-Projects/"
     },
@@ -6506,13 +6513,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/anthropics/claude-agent-sdk-python",
       "description": "Official Python SDK for building and orchestrating agents with Claude.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 8614,
-      "forks": 1453,
+      "stars": 8638,
+      "forks": 1462,
       "language": "Python",
       "license": "MIT",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-08-20",
       "homepage": null
     },
@@ -6572,8 +6579,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/OpenPipe/ART",
       "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more!",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 10866,
-      "forks": 1012,
+      "stars": 10868,
+      "forks": 1010,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -6587,7 +6594,7 @@ window.AWESOME_REPOS_DATA = {
         "reinforcement-learning"
       ],
       "archived": false,
-      "pushed_at": "2026-11-19",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-08-15",
       "homepage": "https://art.openpipe.ai"
     },
@@ -6600,13 +6607,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/anomalyco/opencode",
       "description": "The open source coding agent.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 228451,
-      "forks": 31045,
+      "stars": 229035,
+      "forks": 31169,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-08-15",
       "homepage": "https://opencode.ai"
     },
@@ -6620,7 +6627,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "A highly customizable, lightweight, and open-source coding CLI powered by Groq for instant iteration.",
       "category": "Productivity & Developer Tools",
       "stars": 748,
-      "forks": 116,
+      "forks": 117,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -6640,8 +6647,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/langchain-ai/deep-agents-ui",
       "description": "Custom UI for Deep Agents",
       "category": "AI in Education & Courses",
-      "stars": 1705,
-      "forks": 346,
+      "stars": 1704,
+      "forks": 347,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [],
@@ -6659,8 +6666,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/QwenLM/qwen-code",
       "description": "An open-source AI coding agent that lives in your terminal.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 30851,
-      "forks": 3577,
+      "stars": 30931,
+      "forks": 3581,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [
@@ -6674,7 +6681,7 @@ window.AWESOME_REPOS_DATA = {
         "llm"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-08-10",
       "homepage": "https://qwenlm.github.io/qwen-code-docs/en/users/overview"
     },
@@ -6687,7 +6694,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/NevaMind-AI/memU",
       "description": "Personal memory across agents",
       "category": "Knowledge Management & Graphs",
-      "stars": 14634,
+      "stars": 14638,
       "forks": 1105,
       "language": "Python",
       "license": "NOASSERTION",
@@ -6702,7 +6709,7 @@ window.AWESOME_REPOS_DATA = {
         "openclaw-skills"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-08-09",
       "homepage": "https://memu.pro"
     },
@@ -6715,8 +6722,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/julep-ai/julep",
       "description": "Julep — durable, composable AI agents. Flows that crash and resume, retry safely, and explain every step.",
       "category": "Productivity & Developer Tools",
-      "stars": 6576,
-      "forks": 964,
+      "stars": 6577,
+      "forks": 966,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -6762,7 +6769,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/adamcohenhillel/ADeus",
       "description": "An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI.",
       "category": "IoT & Edge AI",
-      "stars": 3438,
+      "stars": 3437,
       "forks": 330,
       "language": "TypeScript",
       "license": "NOASSERTION",
@@ -6788,8 +6795,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/dyad-sh/dyad",
       "description": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
       "category": "Large Language Models (LLMs)",
-      "stars": 22350,
-      "forks": 2833,
+      "stars": 22447,
+      "forks": 2851,
       "language": "TypeScript",
       "license": "NOASSERTION",
       "topics": [
@@ -6803,7 +6810,7 @@ window.AWESOME_REPOS_DATA = {
         "github"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-08-06",
       "homepage": "https://dyad.sh"
     },
@@ -6816,8 +6823,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/vijaythecoder/awesome-claude-agents",
       "description": "An orchestrated sub agent dev team powered by claude code",
       "category": "Awesome Lists & Aggregators",
-      "stars": 4409,
-      "forks": 534,
+      "stars": 4408,
+      "forks": 531,
       "language": null,
       "license": "MIT",
       "topics": [],
@@ -6835,8 +6842,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/sapientinc/HRM",
       "description": "Hierarchical Reasoning Model Official Release",
       "category": "Large Language Models (LLMs)",
-      "stars": 12670,
-      "forks": 1806,
+      "stars": 12672,
+      "forks": 1805,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -6859,8 +6866,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/google/langextract",
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "category": "Natural Language Processing (NLP)",
-      "stars": 39348,
-      "forks": 2757,
+      "stars": 39361,
+      "forks": 2758,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -6874,7 +6881,7 @@ window.AWESOME_REPOS_DATA = {
         "llm"
       ],
       "archived": false,
-      "pushed_at": "2026-11-10",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-07-31",
       "homepage": "https://pypi.org/project/langextract/"
     },
@@ -6887,8 +6894,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/langchain-ai/deepagents",
       "description": "The batteries-included agent harness.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 31503,
-      "forks": 4458,
+      "stars": 31569,
+      "forks": 4467,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -6902,7 +6909,7 @@ window.AWESOME_REPOS_DATA = {
         "typescript"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-07-31",
       "homepage": "https://docs.langchain.com/deepagents"
     },
@@ -6915,8 +6922,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/QwenLM/Qwen3-Coder",
       "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.",
       "category": "Large Language Models (LLMs)",
-      "stars": 16871,
-      "forks": 1268,
+      "stars": 16872,
+      "forks": 1269,
       "language": "Python",
       "license": null,
       "topics": [],
@@ -6934,8 +6941,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/SillyTavern/SillyTavern",
       "description": "LLM Frontend for Power Users.",
       "category": "Large Language Models (LLMs)",
-      "stars": 35933,
-      "forks": 6746,
+      "stars": 36058,
+      "forks": 6763,
       "language": "JavaScript",
       "license": "AGPL-3.0",
       "topics": [
@@ -6944,7 +6951,7 @@ window.AWESOME_REPOS_DATA = {
         "llm"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-22",
       "starred_at": "2025-07-29",
       "homepage": "https://sillytavern.app"
     },
@@ -6957,8 +6964,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/lfnovo/open-notebook",
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "category": "Knowledge Management & Graphs",
-      "stars": 42122,
-      "forks": 4833,
+      "stars": 42197,
+      "forks": 4839,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -6983,8 +6990,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/contains-studio/agents",
       "description": "sharing current agents in use",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 12428,
-      "forks": 2486,
+      "stars": 12431,
+      "forks": 2484,
       "language": null,
       "license": null,
       "topics": [],
@@ -7002,8 +7009,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies",
       "description": "This repository contains a curated collection of 300+ case studies from over 80 companies, detailing practical applications and insights into machine learning (ML) system design. The contents are organized to help you easily find relevant case studies based on industry or specific ML use cases.",
       "category": "Awesome Lists & Aggregators",
-      "stars": 11142,
-      "forks": 1682,
+      "stars": 11144,
+      "forks": 1679,
       "language": null,
       "license": null,
       "topics": [],
@@ -7040,7 +7047,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/MarkPDFdown/markpdfdown",
       "description": "A high-quality PDF to Markdown tool based on large language model visual recognition. 一款基于大模型视觉识别的高质量PDF转Markdown工具",
       "category": "Large Language Models (LLMs)",
-      "stars": 2324,
+      "stars": 2326,
       "forks": 188,
       "language": "Python",
       "license": "Apache-2.0",
@@ -7067,8 +7074,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/zilliztech/deep-searcher",
       "description": "Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.",
       "category": "Retrieval-Augmented Generation (RAG)",
-      "stars": 8404,
-      "forks": 819,
+      "stars": 8407,
+      "forks": 820,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -7095,8 +7102,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/MoonshotAI/Kimi-K2",
       "description": "Kimi K2 is the large language model series developed by Moonshot AI team",
       "category": "Large Language Models (LLMs)",
-      "stars": 11121,
-      "forks": 912,
+      "stars": 11122,
+      "forks": 911,
       "language": null,
       "license": "NOASSERTION",
       "topics": [],
@@ -7114,8 +7121,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/superagent-ai/grok-cli",
       "description": "An open-source coding agent for the Grok API",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 3516,
-      "forks": 430,
+      "stars": 3517,
+      "forks": 429,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -7141,7 +7148,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/mishushakov/llm-scraper",
       "description": "Turn any webpage into structured data using LLMs",
       "category": "Web Scraping & Automation",
-      "stars": 6955,
+      "stars": 6961,
       "forks": 451,
       "language": "TypeScript",
       "license": "MIT",
@@ -7169,7 +7176,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/tremorlabs/tremor",
       "description": "Copy & Paste React components to build modern web applications.",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 3708,
+      "stars": 3728,
       "forks": 200,
       "language": "TypeScript",
       "license": "Apache-2.0",
@@ -7196,8 +7203,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Kilo-Org/kilocode",
       "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
       "category": "Productivity & Developer Tools",
-      "stars": 28080,
-      "forks": 3384,
+      "stars": 28116,
+      "forks": 3393,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -7211,7 +7218,7 @@ window.AWESOME_REPOS_DATA = {
         "gemini"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-07-19",
       "homepage": "https://kilo.ai/"
     },
@@ -7224,8 +7231,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/MemTensor/MemOS",
       "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.",
       "category": "Retrieval-Augmented Generation (RAG)",
-      "stars": 12475,
-      "forks": 1132,
+      "stars": 12503,
+      "forks": 1133,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [
@@ -7239,7 +7246,7 @@ window.AWESOME_REPOS_DATA = {
         "dsh-plugin"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-07-18",
       "homepage": "https://memos.openmem.net"
     },
@@ -7271,7 +7278,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/jasontang-ai/Context-Engineering",
       "description": "\"Context engineering is the delicate art and science of filling the context window with just the right information for the next step.\" — Andrej Karpathy. A frontier, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization.",
       "category": "Prompt Engineering",
-      "stars": 9286,
+      "stars": 9290,
       "forks": 1025,
       "language": "Python",
       "license": "MIT",
@@ -7290,8 +7297,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/musistudio/claude-code-router",
       "description": "One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 38297,
-      "forks": 3230,
+      "stars": 38356,
+      "forks": 3234,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [],
@@ -7309,13 +7316,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 156597,
-      "forks": 25085,
+      "stars": 156985,
+      "forks": 25100,
       "language": "TypeScript",
       "license": null,
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-07-15",
       "homepage": "https://code.claude.com/docs/en/overview"
     },
@@ -7328,8 +7335,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/humanlayer/12-factor-agents",
       "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 27363,
-      "forks": 2061,
+      "stars": 27411,
+      "forks": 2065,
       "language": "TypeScript",
       "license": "NOASSERTION",
       "topics": [
@@ -7356,8 +7363,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/googleapis/mcp-toolbox",
       "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "category": "Model Context Protocol (MCP)",
-      "stars": 16928,
-      "forks": 1807,
+      "stars": 16947,
+      "forks": 1812,
       "language": "Go",
       "license": "Apache-2.0",
       "topics": [
@@ -7371,7 +7378,7 @@ window.AWESOME_REPOS_DATA = {
         "elasticsearch"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-07-13",
       "homepage": "https://mcp-toolbox.dev/documentation/introduction/"
     },
@@ -7384,8 +7391,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Doriandarko/claude-engineer",
       "description": "Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude to generate and manage its own tools, continuously expanding its capabilities through conversation. Available both as a CLI and a modern web interface",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 11230,
-      "forks": 1160,
+      "stars": 11233,
+      "forks": 1161,
       "language": "Python",
       "license": null,
       "topics": [],
@@ -7403,8 +7410,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/markqvist/Reticulum",
       "description": "The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.",
       "category": "Large Language Models (LLMs)",
-      "stars": 7762,
-      "forks": 580,
+      "stars": 7779,
+      "forks": 581,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -7431,8 +7438,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/LibreChat-AI/LibreChat",
       "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
       "category": "Model Context Protocol (MCP)",
-      "stars": 47397,
-      "forks": 9771,
+      "stars": 47506,
+      "forks": 9803,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -7446,7 +7453,7 @@ window.AWESOME_REPOS_DATA = {
         "claude"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-07-11",
       "homepage": "https://librechat.ai/"
     },
@@ -7478,8 +7485,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/RapidAI/RapidOCR",
       "description": "📄 Awesome OCR multiple programing languages toolkits based on ONNX Runtime, OpenVINO, MNN, PaddlePaddle, TensorRT and PyTorch.",
       "category": "Computer Vision & Image Generation",
-      "stars": 8590,
-      "forks": 779,
+      "stars": 8622,
+      "forks": 785,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -7493,7 +7500,7 @@ window.AWESOME_REPOS_DATA = {
         "onnxruntime"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-07-10",
       "homepage": "https://rapidai.github.io/RapidOCRDocs"
     },
@@ -7506,7 +7513,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/metorial/metorial",
       "description": "Connect any AI model to 1200+ integrations (MCP, CLI, API)",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 3380,
+      "stars": 3378,
       "forks": 370,
       "language": "TypeScript",
       "license": "NOASSERTION",
@@ -7521,7 +7528,7 @@ window.AWESOME_REPOS_DATA = {
         "security"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-07-09",
       "homepage": "https://metorial.com"
     },
@@ -7562,8 +7569,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
       "description": "Pocket Flow: Codebase to Tutorial",
       "category": "AI in Education & Courses",
-      "stars": 12769,
-      "forks": 1442,
+      "stars": 12774,
+      "forks": 1443,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -7590,8 +7597,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/cactus-compute/engine",
       "description": "2bit quants, kernels and runtime for consumer devices.",
       "category": "Speech & Audio (TTS, ASR, Music)",
-      "stars": 6199,
-      "forks": 515,
+      "stars": 6200,
+      "forks": 514,
       "language": "C++",
       "license": "NOASSERTION",
       "topics": [
@@ -7618,8 +7625,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/upstash/context7",
       "description": "Context7 Platform -- Up-to-date docs for AI agents",
       "category": "Model Context Protocol (MCP)",
-      "stars": 65250,
-      "forks": 3262,
+      "stars": 65422,
+      "forks": 3270,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -7629,7 +7636,7 @@ window.AWESOME_REPOS_DATA = {
         "vibe-coding"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-07-05",
       "homepage": "https://context7.com"
     },
@@ -7642,8 +7649,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/hangwin/mcp-chrome",
       "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
       "category": "Model Context Protocol (MCP)",
-      "stars": 12554,
-      "forks": 1153,
+      "stars": 12561,
+      "forks": 1154,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [],
@@ -7661,8 +7668,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/google-deepmind/deepmind-research",
       "description": "This repository contains implementations and illustrative code to accompany DeepMind publications",
       "category": "Machine Learning (Traditional)",
-      "stars": 15291,
-      "forks": 2916,
+      "stars": 15299,
+      "forks": 2914,
       "language": "Jupyter Notebook",
       "license": "Apache-2.0",
       "topics": [],
@@ -7699,7 +7706,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Eigenwise/atomic-agents",
       "description": "Building AI agents, atomically",
       "category": "Large Language Models (LLMs)",
-      "stars": 6344,
+      "stars": 6347,
       "forks": 566,
       "language": "Python",
       "license": "MIT",
@@ -7713,7 +7720,7 @@ window.AWESOME_REPOS_DATA = {
         "openai-api"
       ],
       "archived": false,
-      "pushed_at": "2026-11-17",
+      "pushed_at": "2026-11-22",
       "starred_at": "2025-07-02",
       "homepage": "https://eigenwise.github.io/atomic-agents/"
     },
@@ -7726,13 +7733,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/google-ai-edge/gallery",
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "category": "Generative AI",
-      "stars": 25400,
-      "forks": 2839,
+      "stars": 25454,
+      "forks": 2851,
       "language": "Kotlin",
       "license": "Apache-2.0",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-07-01",
       "homepage": null
     },
@@ -7764,7 +7771,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Portkey-AI/gateway",
       "description": "A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.",
       "category": "LLMOps & Deployment",
-      "stars": 13425,
+      "stars": 13440,
       "forks": 1393,
       "language": "TypeScript",
       "license": "MIT",
@@ -7792,8 +7799,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/nextcloud/server",
       "description": "☁️ Nextcloud server, a safe home for all your data",
       "category": "DevOps & Cloud Infrastructure",
-      "stars": 37599,
-      "forks": 5378,
+      "stars": 37628,
+      "forks": 5384,
       "language": "PHP",
       "license": "AGPL-3.0",
       "topics": [
@@ -7807,7 +7814,7 @@ window.AWESOME_REPOS_DATA = {
         "file-sharing"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-07-01",
       "homepage": "https://nextcloud.com"
     },
@@ -7820,7 +7827,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/crewAIInc/awesome-crewai",
       "description": "A curated list of open-source projects built by the CrewAI community. Discover, contribute, and extend the possibilities of AI agents with CrewAI.",
       "category": "Awesome Lists & Aggregators",
-      "stars": 522,
+      "stars": 521,
       "forks": 152,
       "language": null,
       "license": "MIT",
@@ -7839,8 +7846,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/crewAIInc/crewAI-examples",
       "description": "A collection of examples that show how to use CrewAI framework to automate workflows.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 6162,
-      "forks": 2216,
+      "stars": 6164,
+      "forks": 2220,
       "language": "Jupyter Notebook",
       "license": null,
       "topics": [
@@ -7861,7 +7868,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/crewAIInc/crewAI-tools",
       "description": "Extend the capabilities of your CrewAI agents with Tools",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 1484,
+      "stars": 1485,
       "forks": 558,
       "language": "Python",
       "license": "MIT",
@@ -7931,7 +7938,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/wenet-e2e/wenet",
       "description": "Production First and Production Ready End-to-End Speech Recognition Toolkit",
       "category": "Speech & Audio (TTS, ASR, Music)",
-      "stars": 5258,
+      "stars": 5260,
       "forks": 1191,
       "language": "Python",
       "license": "Apache-2.0",
@@ -7959,8 +7966,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/GeeeekExplorer/nano-vllm",
       "description": "Nano vLLM",
       "category": "Large Language Models (LLMs)",
-      "stars": 16526,
-      "forks": 2880,
+      "stars": 16572,
+      "forks": 2891,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -7985,7 +7992,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/bytedance/Dolphin",
       "description": "The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.",
       "category": "Large Language Models (LLMs)",
-      "stars": 9065,
+      "stars": 9063,
       "forks": 772,
       "language": "Python",
       "license": "NOASSERTION",
@@ -8013,7 +8020,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/getomni-ai/zerox",
       "description": "OCR & Document Extraction using vision models",
       "category": "Computer Vision & Image Generation",
-      "stars": 12247,
+      "stars": 12249,
       "forks": 839,
       "language": "TypeScript",
       "license": "MIT",
@@ -8035,8 +8042,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/NirDiamant/agents-towards-production",
       "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 21936,
-      "forks": 2895,
+      "stars": 21948,
+      "forks": 2900,
       "language": "Jupyter Notebook",
       "license": "NOASSERTION",
       "topics": [
@@ -8063,8 +8070,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/agent0ai/agent-zero",
       "description": "Agent Zero AI framework",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 19947,
-      "forks": 3897,
+      "stars": 19979,
+      "forks": 3903,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -8076,7 +8083,7 @@ window.AWESOME_REPOS_DATA = {
         "zero"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-06-21",
       "homepage": "https://agent-zero.ai"
     },
@@ -8089,8 +8096,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/automatisch/automatisch",
       "description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
       "category": "AI Automation & Workflow Tools",
-      "stars": 14027,
-      "forks": 1066,
+      "stars": 14029,
+      "forks": 1067,
       "language": "JavaScript",
       "license": "NOASSERTION",
       "topics": [
@@ -8117,7 +8124,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.",
       "category": "LLMOps & Deployment",
       "stars": 11697,
-      "forks": 972,
+      "forks": 970,
       "language": "Rust",
       "license": "Apache-2.0",
       "topics": [
@@ -8144,8 +8151,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ucbepic/docetl",
       "description": "A system for agentic LLM-powered data processing and ETL",
       "category": "Data Engineering & Pipelines",
-      "stars": 4266,
-      "forks": 471,
+      "stars": 4275,
+      "forks": 474,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -8191,8 +8198,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/latitude-dev/latitude-llm",
       "description": "Open-source observability for AI agents. Find where your agents fail, dispatch your coding agent to fix it, and verify the fix against real traces.",
       "category": "LLMOps & Deployment",
-      "stars": 4757,
-      "forks": 409,
+      "stars": 4759,
+      "forks": 406,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -8206,7 +8213,7 @@ window.AWESOME_REPOS_DATA = {
         "llm-tools"
       ],
       "archived": false,
-      "pushed_at": "2026-11-18",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-06-10",
       "homepage": "https://latitude.so"
     },
@@ -8219,8 +8226,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Intelligent-Internet/ii-agent",
       "description": "II-Agent: a new open-source framework to build and deploy intelligent agents",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 3397,
-      "forks": 523,
+      "stars": 3400,
+      "forks": 522,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -8246,8 +8253,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/PaddlePaddle/PaddleOCR",
       "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
       "category": "Computer Vision & Image Generation",
-      "stars": 92990,
-      "forks": 11654,
+      "stars": 93160,
+      "forks": 11677,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -8274,7 +8281,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/HKUDS/AutoAgent",
       "description": "\"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework\"",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 9839,
+      "stars": 9840,
       "forks": 1365,
       "language": "Python",
       "license": "MIT",
@@ -8296,15 +8303,15 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/unslothai/notebooks",
       "description": "250+ Fine-tuning & RL Notebooks for text, vision, audio, embedding, TTS models.",
       "category": "AI in Education & Courses",
-      "stars": 5828,
-      "forks": 978,
+      "stars": 5844,
+      "forks": 980,
       "language": "Jupyter Notebook",
       "license": "LGPL-3.0",
       "topics": [
         "unsloth"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-06-04",
       "homepage": "https://unsloth.ai/docs"
     },
@@ -8317,8 +8324,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart",
       "description": "Get started with building Fullstack Agents using Gemini 2.5 and LangGraph",
       "category": "LLMOps & Deployment",
-      "stars": 18372,
-      "forks": 3056,
+      "stars": 18373,
+      "forks": 3055,
       "language": "Jupyter Notebook",
       "license": "Apache-2.0",
       "topics": [
@@ -8339,8 +8346,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/a2aproject/A2A",
       "description": "Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.",
       "category": "Model Context Protocol (MCP)",
-      "stars": 26625,
-      "forks": 2712,
+      "stars": 26682,
+      "forks": 2717,
       "language": "Shell",
       "license": "Apache-2.0",
       "topics": [
@@ -8353,7 +8360,7 @@ window.AWESOME_REPOS_DATA = {
         "linux-foundation"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-06-01",
       "homepage": "https://a2a-protocol.org/"
     },
@@ -8367,7 +8374,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "Model Context Protocol (MCP) server for Mem0 persistent agent memory.",
       "category": "Model Context Protocol (MCP)",
       "stars": 662,
-      "forks": 142,
+      "forks": 143,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [],
@@ -8385,8 +8392,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/onlook-dev/onlook",
       "description": "The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code.",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 27714,
-      "forks": 2175,
+      "stars": 27910,
+      "forks": 2189,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [
@@ -8400,7 +8407,7 @@ window.AWESOME_REPOS_DATA = {
         "design-to-code"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-06-01",
       "homepage": "https://onlook.com"
     },
@@ -8413,8 +8420,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/fastapi/fastapi",
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "category": "AI Frameworks & Toolkits",
-      "stars": 104960,
-      "forks": 10364,
+      "stars": 104989,
+      "forks": 10359,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -8428,7 +8435,7 @@ window.AWESOME_REPOS_DATA = {
         "pydantic"
       ],
       "archived": false,
-      "pushed_at": "2026-11-18",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-06-01",
       "homepage": "https://fastapi.tiangolo.com/"
     },
@@ -8467,7 +8474,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/going-doer/Paper2Code",
       "description": "Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning",
       "category": "AI Automation & Workflow Tools",
-      "stars": 5043,
+      "stars": 5045,
       "forks": 695,
       "language": "Python",
       "license": "Apache-2.0",
@@ -8486,8 +8493,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
       "description": "18 Lessons to Get Started Building AI Agents",
       "category": "AI in Education & Courses",
-      "stars": 80721,
-      "forks": 26373,
+      "stars": 80935,
+      "forks": 26464,
       "language": "Jupyter Notebook",
       "license": "MIT",
       "topics": [
@@ -8514,8 +8521,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/google/adk-recipes",
       "description": "A collection of agent recipes, reference patterns, and vertical plugins built with Agent Development Kit (ADK)",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 10655,
-      "forks": 2963,
+      "stars": 10673,
+      "forks": 2968,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -8524,7 +8531,7 @@ window.AWESOME_REPOS_DATA = {
         "agents"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-05-31",
       "homepage": "https://adk.dev"
     },
@@ -8537,8 +8544,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/langchain-ai/langgraph",
       "description": "Build resilient agents.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 45241,
-      "forks": 7817,
+      "stars": 45383,
+      "forks": 7857,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -8552,7 +8559,7 @@ window.AWESOME_REPOS_DATA = {
         "gemini"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-05-31",
       "homepage": "https://docs.langchain.com/oss/python/langgraph/"
     },
@@ -8565,8 +8572,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Zie619/n8n-workflows",
       "description": "all of the workflows of n8n i could find (also from the site itself)",
       "category": "AI Automation & Workflow Tools",
-      "stars": 57297,
-      "forks": 7707,
+      "stars": 57314,
+      "forks": 7708,
       "language": "Python",
       "license": "MIT",
       "topics": [],
@@ -8584,8 +8591,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/microsoft/qlib",
       "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.",
       "category": "Finance & Quantitative Tools",
-      "stars": 50485,
-      "forks": 7959,
+      "stars": 50561,
+      "forks": 7967,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -8612,8 +8619,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ML-GSAI/LLaDA",
       "description": "Official PyTorch implementation for \"Large Language Diffusion Models\"",
       "category": "Large Language Models (LLMs)",
-      "stars": 4020,
-      "forks": 292,
+      "stars": 4023,
+      "forks": 291,
       "language": "Python",
       "license": null,
       "topics": [],
@@ -8631,13 +8638,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/UKGovernmentBEIS/inspect_ai",
       "description": "Inspect: A framework for large language model evaluations",
       "category": "AI Testing & Evaluation",
-      "stars": 3304,
-      "forks": 962,
+      "stars": 3333,
+      "forks": 971,
       "language": "Python",
       "license": "MIT",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-05-30",
       "homepage": "https://inspect.aisi.org.uk/"
     },
@@ -8678,8 +8685,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/algorithmicsuperintelligence/openevolve",
       "description": "Open-source implementation of AlphaEvolve",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 7841,
-      "forks": 1233,
+      "stars": 7863,
+      "forks": 1239,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -8693,7 +8700,7 @@ window.AWESOME_REPOS_DATA = {
         "distributed-evolutionary-algorithms"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-05-28",
       "homepage": null
     },
@@ -8706,7 +8713,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Fosowl/agenticSeek",
       "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 27688,
+      "stars": 27695,
       "forks": 3114,
       "language": "Python",
       "license": "GPL-3.0",
@@ -8734,8 +8741,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/karpathy/nanoGPT",
       "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
       "category": "Large Language Models (LLMs)",
-      "stars": 64986,
-      "forks": 11176,
+      "stars": 65061,
+      "forks": 11189,
       "language": "Python",
       "license": "MIT",
       "topics": [],
@@ -8753,7 +8760,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/landing-ai/ade-cli",
       "description": "The official CLI for Agentic Document Extraction (ADE) by LandingAI — parse documents and extract schema-shaped data from your terminal",
       "category": "Computer Vision & Image Generation",
-      "stars": 2427,
+      "stars": 2428,
       "forks": 255,
       "language": "Python",
       "license": "Apache-2.0",
@@ -8779,7 +8786,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/nlweb-ai/NLWeb",
       "description": "Main reference implementation for NLWeb, implemented in Python.",
       "category": "Model Context Protocol (MCP)",
-      "stars": 6262,
+      "stars": 6264,
       "forks": 694,
       "language": "Python",
       "license": "MIT",
@@ -8817,8 +8824,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/modelcontextprotocol/registry",
       "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
       "category": "Model Context Protocol (MCP)",
-      "stars": 7489,
-      "forks": 1061,
+      "stars": 7495,
+      "forks": 1062,
       "language": "Go",
       "license": "NOASSERTION",
       "topics": [
@@ -8826,7 +8833,7 @@ window.AWESOME_REPOS_DATA = {
         "mcp-servers"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-05-21",
       "homepage": "https://github.com/modelcontextprotocol/registry/tree/main/docs"
     },
@@ -8839,8 +8846,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/microsoft/vscode",
       "description": "Visual Studio Code",
       "category": "Productivity & Developer Tools",
-      "stars": 195703,
-      "forks": 44335,
+      "stars": 195731,
+      "forks": 43859,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -8851,7 +8858,7 @@ window.AWESOME_REPOS_DATA = {
         "visual-studio-code"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-05-21",
       "homepage": "https://code.visualstudio.com"
     },
@@ -8864,8 +8871,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/HeyPuter/puter",
       "description": "🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.",
       "category": "System & Software Design",
-      "stars": 44227,
-      "forks": 4162,
+      "stars": 44253,
+      "forks": 4164,
       "language": "TypeScript",
       "license": "AGPL-3.0",
       "topics": [
@@ -8879,7 +8886,7 @@ window.AWESOME_REPOS_DATA = {
         "gui"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-05-21",
       "homepage": "https://puter.com"
     },
@@ -8892,7 +8899,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/google-labs-code/jules-awesome-list",
       "description": "Some awesome prompts for Jules Agent",
       "category": "Awesome Lists & Aggregators",
-      "stars": 3197,
+      "stars": 3200,
       "forks": 559,
       "language": null,
       "license": null,
@@ -8911,8 +8918,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/browser-use/workflow-use",
       "description": "⚙️ Create and run workflows (RPA 2.0)",
       "category": "AI Automation & Workflow Tools",
-      "stars": 4262,
-      "forks": 354,
+      "stars": 4263,
+      "forks": 353,
       "language": "Python",
       "license": "AGPL-3.0",
       "topics": [
@@ -8922,7 +8929,7 @@ window.AWESOME_REPOS_DATA = {
         "telegram-automation"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-05-17",
       "homepage": "https://browser-use.com"
     },
@@ -8935,8 +8942,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/fastrepl/anarlog",
       "description": "Open source Granola AI Alternative",
       "category": "Knowledge Management & Graphs",
-      "stars": 9954,
-      "forks": 844,
+      "stars": 9990,
+      "forks": 851,
       "language": "Rust",
       "license": "MIT",
       "topics": [
@@ -8949,7 +8956,7 @@ window.AWESOME_REPOS_DATA = {
         "typescript"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-05-13",
       "homepage": "https://anarlog.so"
     },
@@ -8962,8 +8969,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ag-ui-protocol/ag-ui",
       "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 21054,
-      "forks": 2147,
+      "stars": 21624,
+      "forks": 2177,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -8974,7 +8981,7 @@ window.AWESOME_REPOS_DATA = {
         "ai-agents"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-05-12",
       "homepage": "https://ag-ui.com"
     },
@@ -9004,24 +9011,24 @@ window.AWESOME_REPOS_DATA = {
       "owner": "MODSetter",
       "avatar": "https://avatars.githubusercontent.com/u/122026167?v=4",
       "url": "https://github.com/MODSetter/SurfSense",
-      "description": "Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your documents. Join our Discord: https://discord.gg/ejRNvftDp9",
+      "description": "Air-gapped, private AI for confidential documents. Open-source NotebookLM alternative that runs on your computer. Join our Discord: https://discord.gg/ejRNvftDp9",
       "category": "Retrieval-Augmented Generation (RAG)",
-      "stars": 16917,
-      "forks": 1614,
+      "stars": 16945,
+      "forks": 1618,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
-        "agent",
-        "agents",
-        "ai",
-        "notebooklm",
-        "notebooklm-alternative",
-        "rag",
-        "self-hosted",
-        "self-hosted-ai"
+        "air-gapped",
+        "document-ai",
+        "electron",
+        "flashcards",
+        "legal-ai",
+        "local-ai",
+        "local-first",
+        "local-llm"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-05-08",
       "homepage": "https://www.surfsense.com"
     },
@@ -9034,8 +9041,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/NVIDIA-NeMo/Speech",
       "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
       "category": "Speech & Audio (TTS, ASR, Music)",
-      "stars": 18775,
-      "forks": 3699,
+      "stars": 18787,
+      "forks": 3700,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -9049,7 +9056,7 @@ window.AWESOME_REPOS_DATA = {
         "speech-synthesis"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-05-08",
       "homepage": "https://docs.nvidia.com/nemo/speech/nightly/index.html"
     },
@@ -9062,8 +9069,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/D4Vinci/Scrapling",
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "category": "Web Scraping & Automation",
-      "stars": 104863,
-      "forks": 10970,
+      "stars": 105622,
+      "forks": 11070,
       "language": "Python",
       "license": "BSD-3-Clause",
       "topics": [
@@ -9077,7 +9084,7 @@ window.AWESOME_REPOS_DATA = {
         "data-extraction"
       ],
       "archived": false,
-      "pushed_at": "2026-11-17",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-05-08",
       "homepage": "https://scrapling.readthedocs.io/en/latest/"
     },
@@ -9090,8 +9097,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/markmap/markmap",
       "description": "Build mindmaps with plain text",
       "category": "Knowledge Management & Graphs",
-      "stars": 13282,
-      "forks": 1022,
+      "stars": 13292,
+      "forks": 1026,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -9099,7 +9106,7 @@ window.AWESOME_REPOS_DATA = {
         "mindmap"
       ],
       "archived": false,
-      "pushed_at": "2026-11-15",
+      "pushed_at": "2026-11-23",
       "starred_at": "2025-05-08",
       "homepage": "https://markmap.js.org/"
     },
@@ -9112,8 +9119,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/mem0ai/mem0",
       "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 69319,
-      "forks": 8244,
+      "stars": 69441,
+      "forks": 8261,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -9127,7 +9134,7 @@ window.AWESOME_REPOS_DATA = {
         "llm"
       ],
       "archived": false,
-      "pushed_at": "2026-11-18",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-05-07",
       "homepage": "https://mem0.ai"
     },
@@ -9140,8 +9147,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/slidevjs/slidev",
       "description": "Presentation Slides for Developers",
       "category": "Productivity & Developer Tools",
-      "stars": 49594,
-      "forks": 2283,
+      "stars": 49627,
+      "forks": 2285,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -9166,7 +9173,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/prasadgujar/low-level-design-primer",
       "description": "Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.",
       "category": "System & Software Design",
-      "stars": 7986,
+      "stars": 7993,
       "forks": 2489,
       "language": null,
       "license": null,
@@ -9194,8 +9201,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/chiphuyen/machine-learning-systems-design",
       "description": "A booklet on machine learning systems design with exercises. NOT the repo for the book \"Designing Machine Learning Systems\", which is `dmls-book`",
       "category": "MLOps & ML Infrastructure",
-      "stars": 10742,
-      "forks": 1649,
+      "stars": 10745,
+      "forks": 1648,
       "language": "HTML",
       "license": null,
       "topics": [
@@ -9217,8 +9224,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/InterviewReady/system-design-resources",
       "description": "These are the best resources for System Design on the Internet",
       "category": "System & Software Design",
-      "stars": 18557,
-      "forks": 2510,
+      "stars": 18555,
+      "forks": 2509,
       "language": null,
       "license": "GPL-3.0",
       "topics": [
@@ -9241,8 +9248,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ashishps1/awesome-system-design-resources",
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "category": "System & Software Design",
-      "stars": 43528,
-      "forks": 8986,
+      "stars": 43580,
+      "forks": 8991,
       "language": "Java",
       "license": "GPL-3.0",
       "topics": [
@@ -9269,8 +9276,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/karanpratapsingh/system-design",
       "description": "Learn how to design systems at scale and prepare for system design interviews",
       "category": "System & Software Design",
-      "stars": 46988,
-      "forks": 6116,
+      "stars": 47036,
+      "forks": 6127,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -9297,8 +9304,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/u14app/deep-research",
       "description": "Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.",
       "category": "Model Context Protocol (MCP)",
-      "stars": 4685,
-      "forks": 1046,
+      "stars": 4689,
+      "forks": 1047,
       "language": "JavaScript",
       "license": "MIT",
       "topics": [
@@ -9325,8 +9332,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/gosom/google-maps-scraper",
       "description": "scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place",
       "category": "Web Scraping & Automation",
-      "stars": 8302,
-      "forks": 1324,
+      "stars": 8403,
+      "forks": 1334,
       "language": "Go",
       "license": "MIT",
       "topics": [
@@ -9340,7 +9347,7 @@ window.AWESOME_REPOS_DATA = {
         "google-maps-scraping"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-05-05",
       "homepage": null
     },
@@ -9353,8 +9360,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/cloudflare/mcp-server-cloudflare",
       "description": "Product specific Cloudflare MCP servers",
       "category": "Model Context Protocol (MCP)",
-      "stars": 4487,
-      "forks": 583,
+      "stars": 4497,
+      "forks": 587,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [],
@@ -9394,8 +9401,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/kilimchoi/engineering-blogs",
       "description": "A curated list of engineering blogs",
       "category": "Awesome Lists & Aggregators",
-      "stars": 39014,
-      "forks": 2074,
+      "stars": 39029,
+      "forks": 2075,
       "language": "Ruby",
       "license": null,
       "topics": [
@@ -9419,7 +9426,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/QwenLM/Qwen3",
       "description": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.",
       "category": "Large Language Models (LLMs)",
-      "stars": 27758,
+      "stars": 27770,
       "forks": 2113,
       "language": "Python",
       "license": null,
@@ -9438,7 +9445,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/agno-agi/agent-ui",
       "description": "A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript.",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 1879,
+      "stars": 1881,
       "forks": 391,
       "language": "TypeScript",
       "license": "MIT",
@@ -9463,7 +9470,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/huggingface/evaluation-guidebook",
       "description": "Sharing both practical insights and theoretical knowledge about LLM evaluation that we gathered while managing the Open LLM Leaderboard and designing lighteval!",
       "category": "AI Testing & Evaluation",
-      "stars": 2167,
+      "stars": 2169,
       "forks": 124,
       "language": "Jupyter Notebook",
       "license": "NOASSERTION",
@@ -9490,8 +9497,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/patchy631/ai-engineering-hub",
       "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
       "category": "Retrieval-Augmented Generation (RAG)",
-      "stars": 42059,
-      "forks": 6725,
+      "stars": 42120,
+      "forks": 6728,
       "language": "Jupyter Notebook",
       "license": "MIT",
       "topics": [
@@ -9514,10 +9521,10 @@ window.AWESOME_REPOS_DATA = {
       "owner": "kortix-ai",
       "avatar": "https://avatars.githubusercontent.com/u/170767358?v=4",
       "url": "https://github.com/kortix-ai/CompanyOS",
-      "description": "Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours.",
+      "description": "Kortix CompanyOS – the open-source operating system for the AI-native company. Connect every data source, orchestrate agents, and keep their skills, memory and connectors in one git repo you own. Any model, in our cloud or yours.",
       "category": "System & Software Design",
-      "stars": 20784,
-      "forks": 3471,
+      "stars": 20796,
+      "forks": 3475,
       "language": "TypeScript",
       "license": "NOASSERTION",
       "topics": [
@@ -9531,7 +9538,7 @@ window.AWESOME_REPOS_DATA = {
         "open-source"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-04-29",
       "homepage": "https://kortix.com"
     },
@@ -9545,7 +9552,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "Fast State-of-the-Art Static Embeddings",
       "category": "Natural Language Processing (NLP)",
       "stars": 2287,
-      "forks": 129,
+      "forks": 130,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -9559,7 +9566,7 @@ window.AWESOME_REPOS_DATA = {
         "word-embeddings"
       ],
       "archived": false,
-      "pushed_at": "2026-11-11",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-04-28",
       "homepage": "https://minish.ai/packages/model2vec/introduction"
     },
@@ -9572,8 +9579,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/TheRobotStudio/SO-ARM100",
       "description": "Standard Open Arm 100",
       "category": "Robotics & Embodied AI",
-      "stars": 8182,
-      "forks": 762,
+      "stars": 8215,
+      "forks": 769,
       "language": null,
       "license": "Apache-2.0",
       "topics": [],
@@ -9619,8 +9626,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/skypilot-org/skypilot",
       "description": "The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster.",
       "category": "LLMOps & Deployment",
-      "stars": 10869,
-      "forks": 1362,
+      "stars": 10881,
+      "forks": 1364,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -9634,7 +9641,7 @@ window.AWESOME_REPOS_DATA = {
         "job-queue"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-04-26",
       "homepage": "https://skypilot.ai/"
     },
@@ -9647,8 +9654,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/getzep/graphiti",
       "description": "Build Real-Time Knowledge Graphs for AI Agents",
       "category": "Retrieval-Augmented Generation (RAG)",
-      "stars": 32985,
-      "forks": 3402,
+      "stars": 33073,
+      "forks": 3411,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -9658,7 +9665,7 @@ window.AWESOME_REPOS_DATA = {
         "rag"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-04-26",
       "homepage": "https://help.getzep.com/graphiti"
     },
@@ -9690,8 +9697,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/AatmikJain/ComputerScienceBooks",
       "description": "Some Useful books for Computer Science",
       "category": "AI in Education & Courses",
-      "stars": 1517,
-      "forks": 461,
+      "stars": 1523,
+      "forks": 462,
       "language": null,
       "license": null,
       "topics": [
@@ -9712,8 +9719,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/jwasham/coding-interview-university",
       "description": "A complete computer science study plan to become a software engineer.",
       "category": "AI in Education & Courses",
-      "stars": 364753,
-      "forks": 85198,
+      "stars": 365014,
+      "forks": 85228,
       "language": null,
       "license": "CC-BY-SA-4.0",
       "topics": [
@@ -9740,8 +9747,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/hakimel/reveal.js",
       "description": "The HTML Presentation Framework",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 72615,
-      "forks": 17014,
+      "stars": 72626,
+      "forks": 17011,
       "language": "JavaScript",
       "license": "MIT",
       "topics": [
@@ -9791,8 +9798,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/nari-labs/dia",
       "description": "A TTS model capable of generating ultra-realistic dialogue in one pass.",
       "category": "Speech & Audio (TTS, ASR, Music)",
-      "stars": 19416,
-      "forks": 1694,
+      "stars": 19421,
+      "forks": 1696,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -9814,8 +9821,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/rowboatlabs/rowboat",
       "description": "Your agent team, in one group chat.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 18311,
-      "forks": 1835,
+      "stars": 18318,
+      "forks": 1836,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [
@@ -9829,7 +9836,7 @@ window.AWESOME_REPOS_DATA = {
         "claude-cowork"
       ],
       "archived": false,
-      "pushed_at": "2026-11-19",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-04-24",
       "homepage": "https://www.rowboatlabs.com"
     },
@@ -9842,8 +9849,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/mjyc/awesome-robotics-projects",
       "description": "A list of open-source, affordable, less-known, or visionary robotics projects.",
       "category": "Awesome Lists & Aggregators",
-      "stars": 1841,
-      "forks": 214,
+      "stars": 1844,
+      "forks": 215,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -9865,8 +9872,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ros-navigation/navigation2",
       "description": "ROS 2 Navigation Framework and System",
       "category": "Robotics & Embodied AI",
-      "stars": 5091,
-      "forks": 2034,
+      "stars": 5114,
+      "forks": 2040,
       "language": "C++",
       "license": "NOASSERTION",
       "topics": [
@@ -9875,7 +9882,7 @@ window.AWESOME_REPOS_DATA = {
         "ros2"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-04-23",
       "homepage": "https://nav2.org/"
     },
@@ -10022,7 +10029,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ai-hpc/ai-hardware-engineer-roadmap",
       "description": "Master AI inference, AI agent harness systems, and hardware engineering — then design a physical AI chip. That is the goal.",
       "category": "IoT & Edge AI",
-      "stars": 309,
+      "stars": 310,
       "forks": 48,
       "language": "Python",
       "license": "MIT",
@@ -10037,7 +10044,7 @@ window.AWESOME_REPOS_DATA = {
         "deep-learning"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-04-23",
       "homepage": "https://ai-hpc.github.io/ai-hardware-engineer-roadmap/"
     },
@@ -10051,7 +10058,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "Asynchronous Python framework for event-driven services. A thin client for Kafka, RabbitMQ, NATS, Redis and MQTT with full access to native broker features, plus AsyncAPI docs, in-memory tests and observability out of the box.",
       "category": "Data Engineering & Pipelines",
       "stars": 5396,
-      "forks": 428,
+      "forks": 427,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -10065,7 +10072,7 @@ window.AWESOME_REPOS_DATA = {
         "mqtt-broker"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-04-23",
       "homepage": "https://faststream.ag2.ai/latest/"
     },
@@ -10078,8 +10085,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/refly-ai/refly",
       "description": "The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more. Build Clawdbot 🦞· APIs for Lovable · Bots for Slack & Lark/Feishu · Skills are infrastructure, not prompts.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 7555,
-      "forks": 727,
+      "stars": 7562,
+      "forks": 728,
       "language": "TypeScript",
       "license": "NOASSERTION",
       "topics": [
@@ -10106,8 +10113,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/PDFMathTranslate/PDFMathTranslate",
       "description": "[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero",
       "category": "Knowledge Management & Graphs",
-      "stars": 38583,
-      "forks": 3456,
+      "stars": 38644,
+      "forks": 3461,
       "language": "Python",
       "license": "AGPL-3.0",
       "topics": [
@@ -10121,7 +10128,7 @@ window.AWESOME_REPOS_DATA = {
         "math"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-04-22",
       "homepage": "https://pdf2zh.com"
     },
@@ -10134,8 +10141,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ai-dynamo/dynamo",
       "description": "A Datacenter Scale Distributed Inference Serving Framework",
       "category": "Generative AI",
-      "stars": 8545,
-      "forks": 1888,
+      "stars": 8565,
+      "forks": 1903,
       "language": "Rust",
       "license": "NOASSERTION",
       "topics": [
@@ -10149,7 +10156,7 @@ window.AWESOME_REPOS_DATA = {
         "sglang"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-04-22",
       "homepage": "https://docs.nvidia.com/dynamo/latest"
     },
@@ -10162,8 +10169,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/getmaxun/maxun",
       "description": "Turn any website into a structured API. Extract, automate, search and monitor the web.",
       "category": "AI Automation & Workflow Tools",
-      "stars": 18543,
-      "forks": 1598,
+      "stars": 18559,
+      "forks": 1597,
       "language": "TypeScript",
       "license": "AGPL-3.0",
       "topics": [
@@ -10177,7 +10184,7 @@ window.AWESOME_REPOS_DATA = {
         "no-code"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-04-22",
       "homepage": "https://www.maxun.dev"
     },
@@ -10190,7 +10197,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/CopilotKit/open-multi-agent-canvas",
       "description": "The open-source multi-agent chat interface that lets you manage multiple agents in one dynamic conversation and add MCP servers for deep research",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 565,
+      "stars": 567,
       "forks": 84,
       "language": "TypeScript",
       "license": null,
@@ -10217,8 +10224,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/oumi-ai/oumi",
       "description": "Easily fine-tune (SFT/RL), evaluate, and deploy Qwen, Gemma, or any open agentic LLM/VLM!",
       "category": "Large Language Models (LLMs)",
-      "stars": 9443,
-      "forks": 801,
+      "stars": 9442,
+      "forks": 800,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -10232,7 +10239,7 @@ window.AWESOME_REPOS_DATA = {
         "llama"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-04-21",
       "homepage": "https://oumi.ai"
     },
@@ -10245,8 +10252,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/krillinai/OpenCreator",
       "description": "Formerly KrillinAI, VideoTranslation and Dubbing Tool for 120+ Languages. Open-source AI workspace for creators, powered by Codex. Video downloader, video translation, create videos, images, audios, and edits with Agents in one place. For your Social Media like YouTube, TikTok, Instagram, etc.",
       "category": "Computer Vision & Image Generation",
-      "stars": 14461,
-      "forks": 1618,
+      "stars": 14531,
+      "forks": 1637,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [
@@ -10260,7 +10267,7 @@ window.AWESOME_REPOS_DATA = {
         "tts"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-04-21",
       "homepage": "https://www.open-creator.ai"
     },
@@ -10273,8 +10280,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/wandb/openui",
       "description": "OpenUI let's you describe UI using your imagination, then see it rendered live.",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 22768,
-      "forks": 2065,
+      "stars": 22772,
+      "forks": 2067,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [
@@ -10298,7 +10305,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "Playing around \"Less Slow\" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO",
       "category": "System & Software Design",
       "stars": 1929,
-      "forks": 85,
+      "forks": 84,
       "language": "C++",
       "license": "Apache-2.0",
       "topics": [
@@ -10325,8 +10332,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
       "description": "Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 19069,
-      "forks": 1453,
+      "stars": 19104,
+      "forks": 1457,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -10340,7 +10347,7 @@ window.AWESOME_REPOS_DATA = {
         "gemini-cli-extension"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-23",
       "starred_at": "2025-04-20",
       "homepage": "https://gitdiagram.com"
     },
@@ -10353,8 +10360,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/newsnext/newsnow",
       "description": "Elegant reading of real-time and hottest news",
       "category": "Model Context Protocol (MCP)",
-      "stars": 22542,
-      "forks": 6193,
+      "stars": 22571,
+      "forks": 6196,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -10375,8 +10382,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
       "category": "Awesome Lists & Aggregators",
-      "stars": 144804,
-      "forks": 34649,
+      "stars": 144846,
+      "forks": 34633,
       "language": null,
       "license": "GPL-3.0",
       "topics": [
@@ -10427,13 +10434,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "category": "AI Automation & Workflow Tools",
-      "stars": 136077,
-      "forks": 21583,
+      "stars": 136370,
+      "forks": 21633,
       "language": "Rust",
       "license": "Apache-2.0",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-04-18",
       "homepage": null
     },
@@ -10446,7 +10453,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/midday-ai/midday",
       "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
       "category": "Finance & Quantitative Tools",
-      "stars": 15132,
+      "stars": 15142,
       "forks": 1884,
       "language": "TypeScript",
       "license": "AGPL-3.0",
@@ -10471,8 +10478,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/microsoft/JARVIS",
       "description": "JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 25743,
-      "forks": 2303,
+      "stars": 25774,
+      "forks": 2305,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -10494,8 +10501,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Billionmail/BillionMail",
       "description": "BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
       "category": "Finance & Quantitative Tools",
-      "stars": 16447,
-      "forks": 1834,
+      "stars": 16474,
+      "forks": 1836,
       "language": "Go",
       "license": "AGPL-3.0",
       "topics": [
@@ -10546,8 +10553,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/opf/openproject",
       "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub",
       "category": "Finance & Quantitative Tools",
-      "stars": 17624,
-      "forks": 3805,
+      "stars": 17708,
+      "forks": 3833,
       "language": "Ruby",
       "license": "GPL-3.0",
       "topics": [
@@ -10561,7 +10568,7 @@ window.AWESOME_REPOS_DATA = {
         "ifc"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-04-16",
       "homepage": "https://www.openproject.org"
     },
@@ -10618,8 +10625,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/magnitudedev/browser-agent",
       "description": "Open-source, vision-first browser agent",
       "category": "AI Automation & Workflow Tools",
-      "stars": 4142,
-      "forks": 248,
+      "stars": 4146,
+      "forks": 249,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [
@@ -10646,8 +10653,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/tadata-org/fastapi_mcp",
       "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
       "category": "Model Context Protocol (MCP)",
-      "stars": 12029,
-      "forks": 965,
+      "stars": 12030,
+      "forks": 966,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -10674,7 +10681,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/browserable/browserable",
       "description": "Open source and self-hostable browser automation library for AI agents",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 1215,
+      "stars": 1216,
       "forks": 104,
       "language": "JavaScript",
       "license": "MIT",
@@ -10702,7 +10709,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/alumnium-hq/alumnium",
       "description": "End-to-End Testing Harness",
       "category": "AI Automation & Workflow Tools",
-      "stars": 1025,
+      "stars": 1026,
       "forks": 105,
       "language": "TypeScript",
       "license": "MIT",
@@ -10717,7 +10724,7 @@ window.AWESOME_REPOS_DATA = {
         "llm"
       ],
       "archived": false,
-      "pushed_at": "2026-11-18",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-04-09",
       "homepage": "https://alumnium.ai"
     },
@@ -10730,8 +10737,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/google/adk-python",
       "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 22305,
-      "forks": 4414,
+      "stars": 22343,
+      "forks": 4437,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -10745,7 +10752,7 @@ window.AWESOME_REPOS_DATA = {
         "aiagentframework"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-04-09",
       "homepage": "https://google.github.io/adk-docs/"
     },
@@ -10758,8 +10765,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/pear-devs/pear-desktop",
       "description": "Pear 🍐 is extension for music player",
       "category": "DevOps & Cloud Infrastructure",
-      "stars": 34107,
-      "forks": 2054,
+      "stars": 34133,
+      "forks": 2061,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -10773,7 +10780,7 @@ window.AWESOME_REPOS_DATA = {
         "music-player-application"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-04-09",
       "homepage": null
     },
@@ -10805,8 +10812,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
       "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
       "category": "Awesome Lists & Aggregators",
-      "stars": 339315,
-      "forks": 15903,
+      "stars": 340287,
+      "forks": 15932,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -10820,7 +10827,7 @@ window.AWESOME_REPOS_DATA = {
         "selfhosted"
       ],
       "archived": false,
-      "pushed_at": "2026-11-17",
+      "pushed_at": "2026-11-22",
       "starred_at": "2025-04-09",
       "homepage": "https://awesome-selfhosted.net/"
     },
@@ -10833,7 +10840,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/NielsRogge/Transformers-Tutorials",
       "description": "This repository contains demos I made with the Transformers library by HuggingFace.",
       "category": "AI in Education & Courses",
-      "stars": 11786,
+      "stars": 11787,
       "forks": 1725,
       "language": "Jupyter Notebook",
       "license": "MIT",
@@ -10859,8 +10866,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/modelscope/FunASR",
       "description": "Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.",
       "category": "Speech & Audio (TTS, ASR, Music)",
-      "stars": 21093,
-      "forks": 2142,
+      "stars": 21121,
+      "forks": 2146,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -10874,7 +10881,7 @@ window.AWESOME_REPOS_DATA = {
         "openai-compatible-api"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-04-09",
       "homepage": "www.funasr.com"
     },
@@ -10887,13 +10894,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/NVIDIA/cuda-python",
       "description": "CUDA Python: Performance meets Productivity",
       "category": "AI Frameworks & Toolkits",
-      "stars": 3417,
-      "forks": 354,
+      "stars": 3420,
+      "forks": 355,
       "language": "Cython",
       "license": "Apache-2.0",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-04-09",
       "homepage": "https://nvidia.github.io/cuda-python/"
     },
@@ -10906,8 +10913,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/juliangarnier/anime",
       "description": "JavaScript animation engine",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 74962,
-      "forks": 5103,
+      "stars": 75045,
+      "forks": 5109,
       "language": "JavaScript",
       "license": "MIT",
       "topics": [
@@ -10948,7 +10955,7 @@ window.AWESOME_REPOS_DATA = {
         "erd"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-23",
       "starred_at": "2025-04-08",
       "homepage": "https://liambx.com"
     },
@@ -10999,7 +11006,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/daodao97/chatmcp",
       "description": "ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 2226,
+      "stars": 2227,
       "forks": 213,
       "language": "Dart",
       "license": "Apache-2.0",
@@ -11024,8 +11031,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Chainlit/chainlit",
       "description": "Build Conversational AI in minutes ⚡️",
       "category": "Conversational AI & Chatbots",
-      "stars": 12499,
-      "forks": 1770,
+      "stars": 12498,
+      "forks": 1769,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -11079,8 +11086,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/punkpeye/awesome-mcp-clients",
       "description": "A collection of MCP clients.",
       "category": "Awesome Lists & Aggregators",
-      "stars": 6643,
-      "forks": 765,
+      "stars": 6644,
+      "forks": 769,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -11101,13 +11108,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/antiwork/gumroad",
       "description": "See what sticks",
       "category": "Others",
-      "stars": 10194,
-      "forks": 2132,
+      "stars": 10209,
+      "forks": 2138,
       "language": "Ruby",
       "license": "MIT",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-04-05",
       "homepage": "https://gumroad.com"
     },
@@ -11120,8 +11127,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/evalstate/fast-agent",
       "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
       "category": "Model Context Protocol (MCP)",
-      "stars": 3973,
-      "forks": 475,
+      "stars": 3978,
+      "forks": 478,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -11135,7 +11142,7 @@ window.AWESOME_REPOS_DATA = {
         "mcp-client"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-04-05",
       "homepage": "https://fast-agent.ai"
     },
@@ -11148,8 +11155,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/github/github-mcp-server",
       "description": "GitHub's official MCP Server",
       "category": "Model Context Protocol (MCP)",
-      "stars": 34660,
-      "forks": 5395,
+      "stars": 34735,
+      "forks": 5419,
       "language": "Go",
       "license": "MIT",
       "topics": [
@@ -11158,7 +11165,7 @@ window.AWESOME_REPOS_DATA = {
         "mcp-server"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-04-05",
       "homepage": null
     },
@@ -11190,8 +11197,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/awslabs/mcp",
       "description": "Open source MCP Servers for AWS",
       "category": "Model Context Protocol (MCP)",
-      "stars": 9939,
-      "forks": 1895,
+      "stars": 9949,
+      "forks": 1897,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -11205,7 +11212,7 @@ window.AWESOME_REPOS_DATA = {
         "mcp-tools"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-04-04",
       "homepage": "https://awslabs.github.io/mcp/"
     },
@@ -11218,8 +11225,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/afshinea/stanford-cme-295-transformers-large-language-models",
       "description": "VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models",
       "category": "AI in Education & Courses",
-      "stars": 5112,
-      "forks": 743,
+      "stars": 5150,
+      "forks": 748,
       "language": null,
       "license": "MIT",
       "topics": [],
@@ -11237,8 +11244,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/iii-hq/iii",
       "description": "Effortlessly compose, extend, observe, discover, and react to every service in real-time for the first time ever.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 18936,
-      "forks": 1273,
+      "stars": 18939,
+      "forks": 1271,
       "language": "Rust",
       "license": null,
       "topics": [
@@ -11252,7 +11259,7 @@ window.AWESOME_REPOS_DATA = {
         "javascript"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-04-02",
       "homepage": "https://iii.dev"
     },
@@ -11265,8 +11272,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/simstudioai/sim",
       "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 30174,
-      "forks": 3917,
+      "stars": 30199,
+      "forks": 3919,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [
@@ -11280,7 +11287,7 @@ window.AWESOME_REPOS_DATA = {
         "automation"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-03-31",
       "homepage": "https://www.sim.ai"
     },
@@ -11348,8 +11355,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/PrefectHQ/fastmcp",
       "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
       "category": "Model Context Protocol (MCP)",
-      "stars": 28708,
-      "forks": 2640,
+      "stars": 28741,
+      "forks": 2652,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -11363,7 +11370,7 @@ window.AWESOME_REPOS_DATA = {
         "model-context-protocol"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-03-29",
       "homepage": "https://gofastmcp.com"
     },
@@ -11376,8 +11383,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/NVIDIA/TensorRT-LLM",
       "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
       "category": "Large Language Models (LLMs)",
-      "stars": 15115,
-      "forks": 2951,
+      "stars": 15131,
+      "forks": 2957,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -11388,7 +11395,7 @@ window.AWESOME_REPOS_DATA = {
         "pytorch"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-03-27",
       "homepage": "https://nvidia.github.io/TensorRT-LLM"
     },
@@ -11401,8 +11408,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/RSSNext/Folo",
       "description": "🧡 Folo is the AI RSS Reader",
       "category": "Search & Indexing Tools",
-      "stars": 39333,
-      "forks": 2162,
+      "stars": 39355,
+      "forks": 2164,
       "language": "TypeScript",
       "license": "AGPL-3.0",
       "topics": [
@@ -11413,7 +11420,7 @@ window.AWESOME_REPOS_DATA = {
         "rsshub"
       ],
       "archived": false,
-      "pushed_at": "2026-11-19",
+      "pushed_at": "2026-11-23",
       "starred_at": "2025-03-27",
       "homepage": "https://app.folo.is"
     },
@@ -11426,8 +11433,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/bregman-arie/devops-exercises",
       "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
       "category": "DevOps & Cloud Infrastructure",
-      "stars": 86909,
-      "forks": 20657,
+      "stars": 86933,
+      "forks": 20660,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -11454,8 +11461,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/openbq-org/OpenBB",
       "description": "Open Data Platform for analysts, quants and AI agents.",
       "category": "Finance & Quantitative Tools",
-      "stars": 75628,
-      "forks": 7891,
+      "stars": 75714,
+      "forks": 7899,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -11482,8 +11489,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/hotheadhacker/awesome-selfhost-docker",
       "description": "🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.",
       "category": "Awesome Lists & Aggregators",
-      "stars": 4155,
-      "forks": 233,
+      "stars": 4158,
+      "forks": 234,
       "language": "HTML",
       "license": null,
       "topics": [],
@@ -11501,8 +11508,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/docmost/docmost",
       "description": "Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.",
       "category": "Knowledge Management & Graphs",
-      "stars": 22395,
-      "forks": 1696,
+      "stars": 22421,
+      "forks": 1701,
       "language": "TypeScript",
       "license": "AGPL-3.0",
       "topics": [
@@ -11516,7 +11523,7 @@ window.AWESOME_REPOS_DATA = {
         "dot"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-03-18",
       "homepage": "https://docmost.com"
     },
@@ -11529,8 +11536,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/milanm/DevOps-Roadmap",
       "description": "DevOps Roadmap for 2026. with learning resources",
       "category": "System & Software Design",
-      "stars": 21018,
-      "forks": 3564,
+      "stars": 21032,
+      "forks": 3571,
       "language": null,
       "license": "Apache-2.0",
       "topics": [
@@ -11544,7 +11551,7 @@ window.AWESOME_REPOS_DATA = {
         "devops-roadmap"
       ],
       "archived": false,
-      "pushed_at": "2026-11-02",
+      "pushed_at": "2026-11-23",
       "starred_at": "2025-03-18",
       "homepage": "https://newsletter.techworld-with-milan.com/"
     },
@@ -11557,8 +11564,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/predibase/lorax",
       "description": "Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs",
       "category": "LLMOps & Deployment",
-      "stars": 3832,
-      "forks": 329,
+      "stars": 3831,
+      "forks": 328,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -11585,8 +11592,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/xpipe-io/xpipe",
       "description": "Access your entire server infrastructure from your local desktop",
       "category": "DevOps & Cloud Infrastructure",
-      "stars": 14666,
-      "forks": 573,
+      "stars": 14669,
+      "forks": 575,
       "language": "Java",
       "license": "Apache-2.0",
       "topics": [
@@ -11600,7 +11607,7 @@ window.AWESOME_REPOS_DATA = {
         "k8s"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-23",
       "starred_at": "2025-03-15",
       "homepage": "https://xpipe.io"
     },
@@ -11613,8 +11620,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/glanceapp/glance",
       "description": "A self-hosted dashboard that puts all your feeds in one place",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 38342,
-      "forks": 1530,
+      "stars": 38367,
+      "forks": 1534,
       "language": "Go",
       "license": "AGPL-3.0",
       "topics": [
@@ -11642,7 +11649,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves",
       "category": "AI Agents & Multi-Agent Systems",
       "stars": 4008,
-      "forks": 491,
+      "forks": 492,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -11669,7 +11676,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/executeautomation/mcp-playwright",
       "description": "Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌",
       "category": "Model Context Protocol (MCP)",
-      "stars": 5682,
+      "stars": 5681,
       "forks": 542,
       "language": "TypeScript",
       "license": "MIT",
@@ -11688,8 +11695,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/punkpeye/awesome-mcp-servers",
       "description": "A collection of MCP servers.",
       "category": "Model Context Protocol (MCP)",
-      "stars": 98369,
-      "forks": 20605,
+      "stars": 98479,
+      "forks": 20861,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -11697,7 +11704,7 @@ window.AWESOME_REPOS_DATA = {
         "mcp"
       ],
       "archived": false,
-      "pushed_at": "2026-11-17",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-03-13",
       "homepage": "https://glama.ai/mcp/servers"
     },
@@ -11710,8 +11717,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/78/xiaozhi-esp32",
       "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
       "category": "Conversational AI & Chatbots",
-      "stars": 33581,
-      "forks": 8032,
+      "stars": 33758,
+      "forks": 8113,
       "language": "C++",
       "license": "MIT",
       "topics": [
@@ -11720,7 +11727,7 @@ window.AWESOME_REPOS_DATA = {
         "mcp"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-03-09",
       "homepage": "https://xiaozhi.me"
     },
@@ -11752,13 +11759,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/modelcontextprotocol/servers",
       "description": "Model Context Protocol Reference Servers",
       "category": "Model Context Protocol (MCP)",
-      "stars": 92150,
-      "forks": 11973,
+      "stars": 92237,
+      "forks": 11986,
       "language": "TypeScript",
       "license": "NOASSERTION",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-19",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-03-06",
       "homepage": "https://modelcontextprotocol.io"
     },
@@ -11771,8 +11778,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/langchain-ai/open_deep_research",
       "description": "Open-source autonomous deep research agent built with LangGraph.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 12673,
-      "forks": 1864,
+      "stars": 12672,
+      "forks": 1869,
       "language": "Python",
       "license": "MIT",
       "topics": [],
@@ -11828,7 +11835,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/andrewyng/translation-agent",
       "description": "Agentic machine translation using a multi-step reflection workflow.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 5816,
+      "stars": 5817,
       "forks": 714,
       "language": "Python",
       "license": "MIT",
@@ -11847,8 +11854,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/langchain-ai/langgraph-swarm-py",
       "description": "For your multi-agent needs",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 1598,
-      "forks": 227,
+      "stars": 1599,
+      "forks": 228,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -11873,8 +11880,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Kanaries/pygwalker",
       "description": "PyGWalker: Turn your dataframe into an interactive UI for visual analysis",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 16004,
-      "forks": 894,
+      "stars": 16007,
+      "forks": 895,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -11901,8 +11908,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/CapSoftware/Cap",
       "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
       "category": "Productivity & Developer Tools",
-      "stars": 25395,
-      "forks": 2406,
+      "stars": 25556,
+      "forks": 2434,
       "language": "Rust",
       "license": "NOASSERTION",
       "topics": [
@@ -11916,7 +11923,7 @@ window.AWESOME_REPOS_DATA = {
         "open-source"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-02-26",
       "homepage": "https://cap.so"
     },
@@ -11929,8 +11936,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/siyuan-note/siyuan",
       "description": "An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作",
       "category": "Knowledge Management & Graphs",
-      "stars": 47337,
-      "forks": 3128,
+      "stars": 47378,
+      "forks": 3133,
       "language": "TypeScript",
       "license": "AGPL-3.0",
       "topics": [
@@ -11944,7 +11951,7 @@ window.AWESOME_REPOS_DATA = {
         "note-taking"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-02-26",
       "homepage": "https://b3log.org/siyuan"
     },
@@ -11957,8 +11964,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/vllm-project/production-stack",
       "description": "vLLM’s reference system for K8S-native cluster-wide deployment with community-driven performance optimization",
       "category": "LLMOps & Deployment",
-      "stars": 2729,
-      "forks": 566,
+      "stars": 2734,
+      "forks": 568,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [],
@@ -11977,7 +11984,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓",
       "category": "LLMOps & Deployment",
       "stars": 6292,
-      "forks": 707,
+      "forks": 709,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [
@@ -12023,8 +12030,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
       "category": "AI Automation & Workflow Tools",
-      "stars": 25670,
-      "forks": 4492,
+      "stars": 25714,
+      "forks": 4508,
       "language": "TypeScript",
       "license": "NOASSERTION",
       "topics": [
@@ -12038,7 +12045,7 @@ window.AWESOME_REPOS_DATA = {
         "mcps"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-02-24",
       "homepage": "https://www.activepieces.com"
     },
@@ -12051,7 +12058,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/langchain-ai/langchain-mcp-adapters",
       "description": "LangChain 🔌 MCP",
       "category": "Model Context Protocol (MCP)",
-      "stars": 3637,
+      "stars": 3638,
       "forks": 500,
       "language": "Python",
       "license": "MIT",
@@ -12076,13 +12083,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/microsoft/OmniParser",
       "description": "A simple screen parsing tool towards pure vision based GUI agent",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 25632,
+      "stars": 25636,
       "forks": 2240,
       "language": "Jupyter Notebook",
       "license": "CC-BY-4.0",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-14",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-02-21",
       "homepage": null
     },
@@ -12095,8 +12102,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/huggingface/agents-course",
       "description": "This repository contains the Hugging Face Agents Course.",
       "category": "AI in Education & Courses",
-      "stars": 35276,
-      "forks": 2535,
+      "stars": 35404,
+      "forks": 2542,
       "language": "MDX",
       "license": "Apache-2.0",
       "topics": [
@@ -12122,8 +12129,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/PatrickJS/awesome-cursorrules",
       "description": "📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
       "category": "Awesome Lists & Aggregators",
-      "stars": 41179,
-      "forks": 3553,
+      "stars": 41183,
+      "forks": 3558,
       "language": "JavaScript",
       "license": "CC0-1.0",
       "topics": [
@@ -12147,8 +12154,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/serafimcloud/21st",
       "description": "npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 5576,
-      "forks": 339,
+      "stars": 5587,
+      "forks": 341,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -12175,8 +12182,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Nutlope/logocreator",
       "description": "A free + OSS logo generator powered by Flux on Together AI",
       "category": "Generative AI",
-      "stars": 8991,
-      "forks": 843,
+      "stars": 8996,
+      "forks": 845,
       "language": "TypeScript",
       "license": null,
       "topics": [],
@@ -12194,8 +12201,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/langwatch/langwatch",
       "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assistant in the company.",
       "category": "AI Testing & Evaluation",
-      "stars": 5051,
-      "forks": 433,
+      "stars": 5053,
+      "forks": 435,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [
@@ -12209,7 +12216,7 @@ window.AWESOME_REPOS_DATA = {
         "llm"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-02-17",
       "homepage": "https://langwatch.ai"
     },
@@ -12222,8 +12229,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/sgl-project/sglang",
       "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
       "category": "LLMOps & Deployment",
-      "stars": 38917,
-      "forks": 10695,
+      "stars": 39039,
+      "forks": 10836,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -12237,7 +12244,7 @@ window.AWESOME_REPOS_DATA = {
         "inference"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-02-16",
       "homepage": "https://sglang.io"
     },
@@ -12250,8 +12257,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ByteByteGoHq/system-design-101",
       "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
       "category": "System & Software Design",
-      "stars": 91330,
-      "forks": 10179,
+      "stars": 91390,
+      "forks": 10184,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -12306,8 +12313,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/DovAmir/awesome-design-patterns",
       "description": "A curated list of software and architecture related design patterns.",
       "category": "Awesome Lists & Aggregators",
-      "stars": 49851,
-      "forks": 3313,
+      "stars": 49888,
+      "forks": 3315,
       "language": null,
       "license": null,
       "topics": [
@@ -12334,8 +12341,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ashishps1/awesome-low-level-design",
       "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
       "category": "Awesome Lists & Aggregators",
-      "stars": 28207,
-      "forks": 6726,
+      "stars": 28247,
+      "forks": 6731,
       "language": "Java",
       "license": "GPL-3.0",
       "topics": [
@@ -12362,8 +12369,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/kuchin/awesome-cto",
       "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
       "category": "Awesome Lists & Aggregators",
-      "stars": 35780,
-      "forks": 2195,
+      "stars": 35789,
+      "forks": 2196,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -12391,14 +12398,14 @@ window.AWESOME_REPOS_DATA = {
       "description": "Samples for working with the Temporal Python SDK",
       "category": "AI Frameworks & Toolkits",
       "stars": 382,
-      "forks": 125,
+      "forks": 127,
       "language": "Python",
       "license": "MIT",
       "topics": [
         "durable-execution"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-02-10",
       "homepage": null
     },
@@ -12438,8 +12445,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Physical-Intelligence/openpi",
       "description": "Open-source foundation models and packages for robotics published by Physical Intelligence.",
       "category": "Robotics & Embodied AI",
-      "stars": 14727,
-      "forks": 2664,
+      "stars": 14757,
+      "forks": 2669,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [],
@@ -12495,8 +12502,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/RayVentura/ShortGPT",
       "description": "🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation",
       "category": "AI Automation & Workflow Tools",
-      "stars": 8190,
-      "forks": 1189,
+      "stars": 8206,
+      "forks": 1191,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -12573,8 +12580,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/searxng/searxng",
       "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
       "category": "Search & Indexing Tools",
-      "stars": 39772,
-      "forks": 3630,
+      "stars": 39847,
+      "forks": 3637,
       "language": "Python",
       "license": "AGPL-3.0",
       "topics": [
@@ -12588,7 +12595,7 @@ window.AWESOME_REPOS_DATA = {
         "python"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-23",
       "starred_at": "2025-01-31",
       "homepage": "https://docs.searxng.org"
     },
@@ -12620,15 +12627,15 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ggml-org/llama.cpp",
       "description": "LLM inference in C/C++",
       "category": "Large Language Models (LLMs)",
-      "stars": 135962,
-      "forks": 25883,
+      "stars": 136184,
+      "forks": 26053,
       "language": "C++",
       "license": "MIT",
       "topics": [
         "ggml"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-01-29",
       "homepage": "https://llama.app"
     },
@@ -12641,7 +12648,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ml-explore/mlx-examples",
       "description": "Examples in the MLX framework",
       "category": "AI Frameworks & Toolkits",
-      "stars": 9077,
+      "stars": 9080,
       "forks": 1230,
       "language": "Python",
       "license": "MIT",
@@ -12662,8 +12669,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/3b1b/manim",
       "description": "Animation engine for explanatory math videos",
       "category": "AI Frameworks & Toolkits",
-      "stars": 96782,
-      "forks": 7931,
+      "stars": 96930,
+      "forks": 7940,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -12686,7 +12693,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/3b1b/videos",
       "description": "Code for the manim-generated scenes used in 3blue1brown videos",
       "category": "AI in Education & Courses",
-      "stars": 11521,
+      "stars": 11541,
       "forks": 2093,
       "language": "Python",
       "license": "NOASSERTION",
@@ -12705,8 +12712,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/lightpanda-io/browser",
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "category": "Web Scraping & Automation",
-      "stars": 42315,
-      "forks": 2145,
+      "stars": 42515,
+      "forks": 2152,
       "language": "Zig",
       "license": "AGPL-3.0",
       "topics": [
@@ -12720,7 +12727,7 @@ window.AWESOME_REPOS_DATA = {
         "zig"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-01-27",
       "homepage": "https://lightpanda.io"
     },
@@ -12733,7 +12740,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/teableio/teable",
       "description": "✨ AI Spreadsheet for Business",
       "category": "Low-Code / No-Code AI Tools",
-      "stars": 22009,
+      "stars": 22020,
       "forks": 1368,
       "language": "TypeScript",
       "license": "NOASSERTION",
@@ -12748,7 +12755,7 @@ window.AWESOME_REPOS_DATA = {
         "no-code"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-01-27",
       "homepage": "https://teable.ai"
     },
@@ -12761,8 +12768,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/reactive-resume/reactive-resume",
       "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
       "category": "DevOps & Cloud Infrastructure",
-      "stars": 45971,
-      "forks": 4964,
+      "stars": 46082,
+      "forks": 4969,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -12789,8 +12796,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/hrithikkoduri/WebRover",
       "description": "WebRover is an autonomous AI agent designed to interpret user input and execute actions by interacting with web elements to accomplish tasks or answer questions. It leverages advanced language models and web automation tools to navigate the web, gather information, and provide structured responses based on the user's needs.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 1023,
-      "forks": 179,
+      "stars": 1024,
+      "forks": 178,
       "language": "Python",
       "license": "MIT",
       "topics": [],
@@ -12808,8 +12815,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/e2b-dev/awesome-ai-agents",
       "description": "A list of AI autonomous agents",
       "category": "Awesome Lists & Aggregators",
-      "stars": 31019,
-      "forks": 3855,
+      "stars": 31059,
+      "forks": 3866,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -12836,8 +12843,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/twentyhq/twenty",
       "description": "The open alternative to Salesforce, designed for AI.",
       "category": "Finance & Quantitative Tools",
-      "stars": 61305,
-      "forks": 10146,
+      "stars": 61448,
+      "forks": 10177,
       "language": "TypeScript",
       "license": "NOASSERTION",
       "topics": [
@@ -12851,7 +12858,7 @@ window.AWESOME_REPOS_DATA = {
         "marketing"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-01-24",
       "homepage": "https://twenty.com"
     },
@@ -12864,8 +12871,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/browser-use/browser-use",
       "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 121698,
-      "forks": 13599,
+      "stars": 121974,
+      "forks": 13642,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -12879,7 +12886,7 @@ window.AWESOME_REPOS_DATA = {
         "computer-use"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-01-24",
       "homepage": "https://browser-use.com"
     },
@@ -12892,8 +12899,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ItzCrazyKns/Vane",
       "description": "Vane is an AI-powered answering engine.",
       "category": "Retrieval-Augmented Generation (RAG)",
-      "stars": 38280,
-      "forks": 4317,
+      "stars": 38309,
+      "forks": 4319,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -12920,7 +12927,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/karpathy/minGPT",
       "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
       "category": "Large Language Models (LLMs)",
-      "stars": 25047,
+      "stars": 25055,
       "forks": 3336,
       "language": "Python",
       "license": "MIT",
@@ -12939,7 +12946,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/open-mmlab/Amphion",
       "description": "Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.",
       "category": "Speech & Audio (TTS, ASR, Music)",
-      "stars": 10346,
+      "stars": 10353,
       "forks": 857,
       "language": "Python",
       "license": "MIT",
@@ -12967,8 +12974,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/benbusby/whoogle-search",
       "description": "A self-hosted, ad-free, privacy-respecting metasearch engine",
       "category": "Search & Indexing Tools",
-      "stars": 11551,
-      "forks": 1043,
+      "stars": 11552,
+      "forks": 1042,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -12995,8 +13002,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/karakeep-app/karakeep",
       "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
       "category": "DevOps & Cloud Infrastructure",
-      "stars": 30755,
-      "forks": 1670,
+      "stars": 30833,
+      "forks": 1676,
       "language": "TypeScript",
       "license": "AGPL-3.0",
       "topics": [
@@ -13009,7 +13016,7 @@ window.AWESOME_REPOS_DATA = {
         "self-hosted"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-01-21",
       "homepage": "https://karakeep.com"
     },
@@ -13041,8 +13048,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/BerriAI/litellm",
       "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
       "category": "LLMOps & Deployment",
-      "stars": 63674,
-      "forks": 13467,
+      "stars": 63857,
+      "forks": 13543,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -13056,7 +13063,7 @@ window.AWESOME_REPOS_DATA = {
         "llm"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-01-18",
       "homepage": "https://docs.litellm.ai/docs/"
     },
@@ -13069,7 +13076,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/elebumm/RedditVideoMakerBot",
       "description": "Create Reddit Videos with just✨ one command ✨",
       "category": "Generative AI",
-      "stars": 12570,
+      "stars": 12571,
       "forks": 2852,
       "language": "Python",
       "license": "GPL-3.0",
@@ -13086,10 +13093,10 @@ window.AWESOME_REPOS_DATA = {
       "owner": "NVlabs",
       "avatar": "https://avatars.githubusercontent.com/u/2695301?v=4",
       "url": "https://github.com/NVlabs/Sana",
-      "description": "SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, and World Modeling",
+      "description": "SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, World Modeling and Robotics",
       "category": "Computer Vision & Image Generation",
-      "stars": 9864,
-      "forks": 816,
+      "stars": 9892,
+      "forks": 815,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -13099,11 +13106,11 @@ window.AWESOME_REPOS_DATA = {
         "nvfp4",
         "pytorch",
         "reinforcement-learning",
-        "sana",
-        "streaming-video"
+        "robotics",
+        "sana"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-01-18",
       "homepage": "https://nvlabs.github.io/Sana/docs/"
     },
@@ -13116,7 +13123,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/shushrutsharma/Data-Structures-and-Algorithms-Python",
       "description": "All the essential resources and template code needed to understand and practice data structures and algorithms in python with few small projects to demonstrate their practical application.",
       "category": "Machine Learning (Traditional)",
-      "stars": 770,
+      "stars": 771,
       "forks": 269,
       "language": "Python",
       "license": null,
@@ -13144,13 +13151,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/langchain-ai/social-media-agent",
       "description": "📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 3047,
-      "forks": 553,
+      "stars": 3057,
+      "forks": 555,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-18",
+      "pushed_at": "2026-11-23",
       "starred_at": "2025-01-16",
       "homepage": null
     },
@@ -13163,13 +13170,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/NVIDIA/NeMo-Retriever",
       "description": "NeMo Retriever Library is a scalable, performance-oriented document content and metadata extraction microservice. NeMo Retriever Library uses specialized NVIDIA NIM microservices to find, contextualize, and extract text, tables, charts and images that you can use in downstream generative applications.",
       "category": "Retrieval-Augmented Generation (RAG)",
-      "stars": 3015,
+      "stars": 3016,
       "forks": 364,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-01-15",
       "homepage": "https://nvidia.github.io/NeMo-Retriever/"
     },
@@ -13182,8 +13189,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/srbhr/Resume-Matcher",
       "description": "The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 29367,
-      "forks": 5149,
+      "stars": 29411,
+      "forks": 5155,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -13211,7 +13218,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "High-performance reverse proxy and container orchestrator for self-hosters",
       "category": "DevOps & Cloud Infrastructure",
       "stars": 4193,
-      "forks": 192,
+      "forks": 190,
       "language": "Go",
       "license": "NOASSERTION",
       "topics": [
@@ -13225,7 +13232,7 @@ window.AWESOME_REPOS_DATA = {
         "self-hosted"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-01-13",
       "homepage": "https://docs.godoxy.dev"
     },
@@ -13238,7 +13245,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/runtipi/runtipi",
       "description": "Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨",
       "category": "DevOps & Cloud Infrastructure",
-      "stars": 9748,
+      "stars": 9751,
       "forks": 375,
       "language": "TypeScript",
       "license": "GPL-3.0",
@@ -13248,7 +13255,7 @@ window.AWESOME_REPOS_DATA = {
         "self-hosted"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-01-13",
       "homepage": "https://www.runtipi.io/"
     },
@@ -13261,8 +13268,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/BasedHardware/omi",
       "description": "AI that sees your screen, listens to your conversations and tells you what to do",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 14005,
-      "forks": 2710,
+      "stars": 14027,
+      "forks": 2716,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -13276,7 +13283,7 @@ window.AWESOME_REPOS_DATA = {
         "necklace"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-01-10",
       "homepage": "https://omi.me"
     },
@@ -13289,7 +13296,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/rkinas/cuda-learning",
       "description": "This repository is a curated collection of resources, tutorials, and practical examples designed to guide you through the journey of mastering CUDA programming. Whether you're just starting or looking to optimize and scale your GPU-accelerated applications.",
       "category": "AI in Education & Courses",
-      "stars": 527,
+      "stars": 528,
       "forks": 52,
       "language": null,
       "license": null,
@@ -13308,8 +13315,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/realworld-apps/realworld",
       "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",
       "category": "System & Software Design",
-      "stars": 84402,
-      "forks": 7683,
+      "stars": 84405,
+      "forks": 7678,
       "language": "TypeScript",
       "license": "NOASSERTION",
       "topics": [],
@@ -13327,8 +13334,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/kyegomez/swarms",
       "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 7388,
-      "forks": 1075,
+      "stars": 7399,
+      "forks": 1079,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -13342,7 +13349,7 @@ window.AWESOME_REPOS_DATA = {
         "gpt4all"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2025-01-05",
       "homepage": "https://docs.swarms.world"
     },
@@ -13355,8 +13362,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/gitroomhq/postiz-app",
       "description": "📨 The ultimate agentic social media scheduling tool 🤖",
       "category": "AI Automation & Workflow Tools",
-      "stars": 42126,
-      "forks": 8052,
+      "stars": 42365,
+      "forks": 8103,
       "language": "TypeScript",
       "license": "AGPL-3.0",
       "topics": [
@@ -13370,7 +13377,7 @@ window.AWESOME_REPOS_DATA = {
         "scheduling-tool"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-01-05",
       "homepage": "https://postiz.com"
     },
@@ -13383,8 +13390,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/khoj-ai/khoj",
       "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
       "category": "Retrieval-Augmented Generation (RAG)",
-      "stars": 38202,
-      "forks": 2560,
+      "stars": 38237,
+      "forks": 2562,
       "language": "Python",
       "license": "AGPL-3.0",
       "topics": [
@@ -13411,8 +13418,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/coollabsio/coolify",
       "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
       "category": "DevOps & Cloud Infrastructure",
-      "stars": 66338,
-      "forks": 6007,
+      "stars": 66449,
+      "forks": 6019,
       "language": "PHP",
       "license": "Apache-2.0",
       "topics": [
@@ -13426,7 +13433,7 @@ window.AWESOME_REPOS_DATA = {
         "mariadb"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2025-01-02",
       "homepage": "https://coolify.io"
     },
@@ -13439,7 +13446,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ericciarla/trendFinder",
       "description": "Stay on top of trending topics on social media and the web with AI",
       "category": "Search & Indexing Tools",
-      "stars": 4130,
+      "stars": 4131,
       "forks": 448,
       "language": "TypeScript",
       "license": "MIT",
@@ -13458,8 +13465,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
       "description": "Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
       "category": "Awesome Lists & Aggregators",
-      "stars": 23629,
-      "forks": 1171,
+      "stars": 23657,
+      "forks": 1173,
       "language": "Dockerfile",
       "license": null,
       "topics": [
@@ -13486,13 +13493,13 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Genesis-Embodied-AI/genesis-world",
       "description": "Simulation platform for general-purpose robotics & embodied AI learning.",
       "category": "Robotics & Embodied AI",
-      "stars": 30284,
-      "forks": 2929,
+      "stars": 30310,
+      "forks": 2932,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-24",
       "starred_at": "2024-12-27",
       "homepage": "https://genesis-world.readthedocs.io"
     },
@@ -13505,8 +13512,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/imputnet/cobalt",
       "description": "best way to save what you love",
       "category": "Web Scraping & Automation",
-      "stars": 46439,
-      "forks": 4137,
+      "stars": 47206,
+      "forks": 4250,
       "language": "Svelte",
       "license": "AGPL-3.0",
       "topics": [
@@ -13533,8 +13540,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/google-gemini/cookbook",
       "description": "Examples and guides for using the Gemini API",
       "category": "AI in Education & Courses",
-      "stars": 17965,
-      "forks": 2833,
+      "stars": 17980,
+      "forks": 2834,
       "language": "Jupyter Notebook",
       "license": "Apache-2.0",
       "topics": [
@@ -13542,7 +13549,7 @@ window.AWESOME_REPOS_DATA = {
         "gemini-api"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-12-27",
       "homepage": "https://ai.google.dev/gemini-api/docs"
     },
@@ -13555,8 +13562,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
       "description": "Official repository for DeepSeek-V3, a strong Mixture-of-Experts (MoE) large language model.",
       "category": "Large Language Models (LLMs)",
-      "stars": 104891,
-      "forks": 16737,
+      "stars": 104900,
+      "forks": 16733,
       "language": "Python",
       "license": "MIT",
       "topics": [],
@@ -13603,7 +13610,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "✦ Gemini ➜ OpenAI API proxy. Serverless!",
       "category": "LLMOps & Deployment",
       "stars": 3673,
-      "forks": 5754,
+      "forks": 5751,
       "language": "JavaScript",
       "license": "MIT",
       "topics": [
@@ -13694,8 +13701,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/langgptai/awesome-claude-prompts",
       "description": "This repo includes Claude prompt curation to use Claude better.",
       "category": "Awesome Lists & Aggregators",
-      "stars": 5590,
-      "forks": 649,
+      "stars": 5594,
+      "forks": 656,
       "language": null,
       "license": null,
       "topics": [
@@ -13745,8 +13752,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/remarkjs/react-markdown",
       "description": "Markdown component for React",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 15941,
-      "forks": 922,
+      "stars": 15944,
+      "forks": 923,
       "language": "JavaScript",
       "license": "MIT",
       "topics": [
@@ -13770,8 +13777,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "category": "Model Context Protocol (MCP)",
-      "stars": 197631,
-      "forks": 14958,
+      "stars": 198328,
+      "forks": 15042,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -13797,8 +13804,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
       "category": "Finance & Quantitative Tools",
-      "stars": 64799,
-      "forks": 11377,
+      "stars": 64848,
+      "forks": 11388,
       "language": "Python",
       "license": "MIT",
       "topics": [],
@@ -13835,8 +13842,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/test-zeus-ai/testzeus-hercules",
       "description": "Hercules is the world’s first open-source testing agent, enabling UI, API, Security, Accessibility, and Visual validations – all without code or maintenance. Automate testing effortlessly and let Hercules handle the heavy lifting! ⚡",
       "category": "AI Automation & Workflow Tools",
-      "stars": 1229,
-      "forks": 205,
+      "stars": 1240,
+      "forks": 206,
       "language": "Python",
       "license": "AGPL-3.0",
       "topics": [
@@ -13850,7 +13857,7 @@ window.AWESOME_REPOS_DATA = {
         "end-to-end-testing"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-23",
       "starred_at": "2024-12-13",
       "homepage": "https://testzeus.com/hercules"
     },
@@ -13864,7 +13871,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "Structured data extraction, instruction calling and agentic workflows with ML, LLM and Vision LLM",
       "category": "Retrieval-Augmented Generation (RAG)",
       "stars": 5234,
-      "forks": 518,
+      "forks": 517,
       "language": "Python",
       "license": "GPL-3.0",
       "topics": [
@@ -13877,7 +13884,7 @@ window.AWESOME_REPOS_DATA = {
         "vllm"
       ],
       "archived": false,
-      "pushed_at": "2026-11-17",
+      "pushed_at": "2026-11-23",
       "starred_at": "2024-12-13",
       "homepage": "https://sparrow.katanaml.io"
     },
@@ -13890,8 +13897,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
       "category": "Awesome Lists & Aggregators",
-      "stars": 145334,
-      "forks": 21397,
+      "stars": 145632,
+      "forks": 21430,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -13914,8 +13921,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/poloclub/transformer-explainer",
       "description": "Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 9206,
-      "forks": 1088,
+      "stars": 9211,
+      "forks": 1091,
       "language": "JavaScript",
       "license": "MIT",
       "topics": [
@@ -13940,8 +13947,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/souzatharsis/podcastfy",
       "description": "An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI",
       "category": "Generative AI",
-      "stars": 6843,
-      "forks": 798,
+      "stars": 6855,
+      "forks": 799,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -13985,8 +13992,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Arize-ai/phoenix",
       "description": "AI Observability & Evaluation",
       "category": "LLMOps & Deployment",
-      "stars": 12370,
-      "forks": 1320,
+      "stars": 12412,
+      "forks": 1337,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -14000,7 +14007,7 @@ window.AWESOME_REPOS_DATA = {
         "langchain"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-12-07",
       "homepage": "https://arize.com/docs/phoenix"
     },
@@ -14013,8 +14020,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator",
       "description": "Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper transcription, and auto vertical cropping — free, no watermarks, no per-clip credits.",
       "category": "Speech & Audio (TTS, ASR, Music)",
-      "stars": 6440,
-      "forks": 1179,
+      "stars": 6553,
+      "forks": 1206,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -14028,7 +14035,7 @@ window.AWESOME_REPOS_DATA = {
         "llm"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2024-12-07",
       "homepage": "https://www.vadoo.tv/ai-youtube-shorts-generator"
     },
@@ -14060,8 +14067,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
       "description": "Anthropic's Interactive Prompt Engineering Tutorial",
       "category": "Prompt Engineering",
-      "stars": 39632,
-      "forks": 4407,
+      "stars": 39713,
+      "forks": 4419,
       "language": "Jupyter Notebook",
       "license": null,
       "topics": [],
@@ -14079,7 +14086,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/huggingface/smol-course",
       "description": "A course on aligning smol models.",
       "category": "AI in Education & Courses",
-      "stars": 6800,
+      "stars": 6803,
       "forks": 2278,
       "language": "Jupyter Notebook",
       "license": "Apache-2.0",
@@ -14098,7 +14105,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/The-Vibe-Company/megaparse",
       "description": "File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.",
       "category": "Large Language Models (LLMs)",
-      "stars": 7417,
+      "stars": 7418,
       "forks": 415,
       "language": "Python",
       "license": "Apache-2.0",
@@ -14123,8 +14130,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/steel-dev/steel-browser",
       "description": "🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 7998,
-      "forks": 1017,
+      "stars": 8012,
+      "forks": 1018,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [
@@ -14138,7 +14145,7 @@ window.AWESOME_REPOS_DATA = {
         "llm"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-12-02",
       "homepage": "https://steel.dev"
     },
@@ -14152,7 +14159,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
       "category": "Conversational AI & Chatbots",
       "stars": 7804,
-      "forks": 747,
+      "forks": 749,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -14179,7 +14186,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/langchain-ai/agent-protocol",
       "description": "Framework-agnostic API specification for serving LLM agents in production.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 698,
+      "stars": 700,
       "forks": 64,
       "language": "Python",
       "license": "MIT",
@@ -14198,7 +14205,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/eriklindernoren/ML-From-Scratch",
       "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
       "category": "Machine Learning (Traditional)",
-      "stars": 33405,
+      "stars": 33440,
       "forks": 5541,
       "language": "Python",
       "license": "MIT",
@@ -14225,7 +14232,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/microsoft/TinyTroupe",
       "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 7700,
+      "stars": 7712,
       "forks": 694,
       "language": "Jupyter Notebook",
       "license": "MIT",
@@ -14244,8 +14251,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ai-collection/ai-collection",
       "description": "The Generative AI Landscape - A Collection of Awesome Generative AI Applications",
       "category": "Awesome Lists & Aggregators",
-      "stars": 9288,
-      "forks": 1039,
+      "stars": 9292,
+      "forks": 1041,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -14259,7 +14266,7 @@ window.AWESOME_REPOS_DATA = {
         "generative-art"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2024-11-18",
       "homepage": "https://www.thataicollection.com/"
     },
@@ -14272,8 +14279,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/vercel/next-forge",
       "description": "Production-grade Turborepo template for Next.js apps.",
       "category": "Productivity & Developer Tools",
-      "stars": 7792,
-      "forks": 741,
+      "stars": 7794,
+      "forks": 742,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -14301,7 +14308,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺 using 𝗟𝗟𝗠𝗢𝗽𝘀 best practices: ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 12 𝘩𝘢𝘯𝘥𝘴-𝘰𝘯 𝘭𝘦𝘴𝘴𝘰𝘯𝘴",
       "category": "Retrieval-Augmented Generation (RAG)",
       "stars": 4413,
-      "forks": 731,
+      "forks": 736,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -14328,8 +14335,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/e2b-dev/E2B",
       "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 14961,
-      "forks": 1180,
+      "stars": 15004,
+      "forks": 1187,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -14343,7 +14350,7 @@ window.AWESOME_REPOS_DATA = {
         "devtools"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-23",
       "starred_at": "2024-11-16",
       "homepage": "https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=e2b"
     },
@@ -14356,8 +14363,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/PacktPublishing/LLM-Engineers-Handbook",
       "description": "The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices",
       "category": "LLMOps & Deployment",
-      "stars": 5438,
-      "forks": 1338,
+      "stars": 5441,
+      "forks": 1339,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -14407,7 +14414,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/JohannesKaufmann/html-to-markdown",
       "description": "⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.",
       "category": "Productivity & Developer Tools",
-      "stars": 3844,
+      "stars": 3845,
       "forks": 230,
       "language": "Go",
       "license": "MIT",
@@ -14434,8 +14441,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/docling-project/docling",
       "description": "Get your documents ready for gen AI",
       "category": "Data Engineering & Pipelines",
-      "stars": 70857,
-      "forks": 5388,
+      "stars": 71002,
+      "forks": 5417,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -14449,7 +14456,7 @@ window.AWESOME_REPOS_DATA = {
         "markdown"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-11-11",
       "homepage": "https://docling-project.github.io/docling"
     },
@@ -14462,7 +14469,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/DaveBben/esp32-llm",
       "description": "Running a LLM on the ESP32",
       "category": "IoT & Edge AI",
-      "stars": 667,
+      "stars": 668,
       "forks": 86,
       "language": "C",
       "license": null,
@@ -14481,7 +14488,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/aws-samples/langgraph-agents-with-amazon-bedrock",
       "description": "Workshop and reference patterns for building LangGraph AI agents on Amazon Bedrock.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 196,
+      "stars": 197,
       "forks": 40,
       "language": "Jupyter Notebook",
       "license": "MIT-0",
@@ -14500,8 +14507,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/langchain-ai/open-canvas",
       "description": "📃 A better UX for chat, writing content, and coding with LLMs.",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 5476,
-      "forks": 880,
+      "stars": 5478,
+      "forks": 877,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [],
@@ -14538,8 +14545,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/janarosmonaliev/github-globe",
       "description": "The Globe from Github's homepage implemented in ThreeJS with beautiful shading.",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 1230,
-      "forks": 207,
+      "stars": 1229,
+      "forks": 206,
       "language": "JavaScript",
       "license": "MIT",
       "topics": [
@@ -14563,8 +14570,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/karpathy/LLM101n",
       "description": "LLM101n: Let's build a Storyteller",
       "category": "AI in Education & Courses",
-      "stars": 37481,
-      "forks": 2088,
+      "stars": 37484,
+      "forks": 2089,
       "language": null,
       "license": null,
       "topics": [],
@@ -14582,8 +14589,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/mozilla-ai/llamafile",
       "description": "Distribute and run LLMs with a single file.",
       "category": "Speech & Audio (TTS, ASR, Music)",
-      "stars": 26690,
-      "forks": 1684,
+      "stars": 26718,
+      "forks": 1679,
       "language": "C++",
       "license": "NOASSERTION",
       "topics": [
@@ -14610,8 +14617,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/vllm-project/vllm",
       "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
       "category": "LLMOps & Deployment",
-      "stars": 97323,
-      "forks": 25120,
+      "stars": 97525,
+      "forks": 25255,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -14625,7 +14632,7 @@ window.AWESOME_REPOS_DATA = {
         "inference"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-11-08",
       "homepage": "https://vllm.ai"
     },
@@ -14638,7 +14645,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/evilsocket/cake",
       "description": "Distributed inference for mobile, desktop and server.",
       "category": "LLMOps & Deployment",
-      "stars": 3141,
+      "stars": 3142,
       "forks": 208,
       "language": "Rust",
       "license": "NOASSERTION",
@@ -14657,8 +14664,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/InftyAI/Awesome-LLMOps",
       "description": "🎉 An awesome & curated list of best LLMOps tools.",
       "category": "Awesome Lists & Aggregators",
-      "stars": 272,
-      "forks": 173,
+      "stars": 274,
+      "forks": 176,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -14670,31 +14677,12 @@ window.AWESOME_REPOS_DATA = {
         "llmops"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-23",
       "starred_at": "2024-11-08",
       "homepage": "https://awesome-llmops.inftyai.com"
     },
     {
       "rankOrder": 593,
-      "full_name": "microsoft/llmops-workshop",
-      "name": "llmops-workshop",
-      "owner": "microsoft",
-      "avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
-      "url": "https://github.com/microsoft/llmops-workshop",
-      "description": "Learn how to build solutions with Large Language Models.",
-      "category": "LLMOps & Deployment",
-      "stars": 166,
-      "forks": 57,
-      "language": "Jupyter Notebook",
-      "license": "CC-BY-4.0",
-      "topics": [],
-      "archived": true,
-      "pushed_at": "2026-08-20",
-      "starred_at": "2024-11-08",
-      "homepage": null
-    },
-    {
-      "rankOrder": 594,
       "full_name": "Not-Diamond/awesome-ai-model-routing",
       "name": "awesome-ai-model-routing",
       "owner": "Not-Diamond",
@@ -14713,7 +14701,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 595,
+      "rankOrder": 594,
       "full_name": "lm-sys/RouteLLM",
       "name": "RouteLLM",
       "owner": "lm-sys",
@@ -14721,8 +14709,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/lm-sys/RouteLLM",
       "description": "A framework for serving and evaluating LLM routers - save LLM costs without compromising quality",
       "category": "LLMOps & Deployment",
-      "stars": 5723,
-      "forks": 456,
+      "stars": 5736,
+      "forks": 458,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [],
@@ -14732,7 +14720,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 596,
+      "rankOrder": 595,
       "full_name": "nornagon/twitter-bookmark-archiver",
       "name": "twitter-bookmark-archiver",
       "owner": "nornagon",
@@ -14751,7 +14739,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 597,
+      "rankOrder": 596,
       "full_name": "mikf/gallery-dl",
       "name": "gallery-dl",
       "owner": "mikf",
@@ -14759,8 +14747,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/mikf/gallery-dl",
       "description": "Command-line program to download image galleries and collections from several image hosting sites",
       "category": "Web Scraping & Automation",
-      "stars": 20595,
-      "forks": 1536,
+      "stars": 20641,
+      "forks": 1541,
       "language": "Python",
       "license": "GPL-2.0",
       "topics": [
@@ -14779,7 +14767,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://discord.gg/rSzQwRvGnE"
     },
     {
-      "rankOrder": 598,
+      "rankOrder": 597,
       "full_name": "huggingface/smollm",
       "name": "smollm",
       "owner": "huggingface",
@@ -14787,8 +14775,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/huggingface/smollm",
       "description": "Everything about the SmolLM and SmolVLM family of models",
       "category": "Large Language Models (LLMs)",
-      "stars": 3960,
-      "forks": 333,
+      "stars": 3965,
+      "forks": 335,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [],
@@ -14798,7 +14786,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://huggingface.co/HuggingFaceTB"
     },
     {
-      "rankOrder": 599,
+      "rankOrder": 598,
       "full_name": "lukasmasuch/best-of-ml-python",
       "name": "best-of-ml-python",
       "owner": "lukasmasuch",
@@ -14806,8 +14794,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/lukasmasuch/best-of-ml-python",
       "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
       "category": "Awesome Lists & Aggregators",
-      "stars": 23877,
-      "forks": 3144,
+      "stars": 23880,
+      "forks": 3146,
       "language": null,
       "license": "CC-BY-SA-4.0",
       "topics": [
@@ -14826,7 +14814,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://ml-python.best-of.org"
     },
     {
-      "rankOrder": 600,
+      "rankOrder": 599,
       "full_name": "danielmiessler/Fabric",
       "name": "Fabric",
       "owner": "danielmiessler",
@@ -14834,8 +14822,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/danielmiessler/Fabric",
       "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 44690,
-      "forks": 4354,
+      "stars": 44764,
+      "forks": 4365,
       "language": "Go",
       "license": "MIT",
       "topics": [
@@ -14846,12 +14834,12 @@ window.AWESOME_REPOS_DATA = {
         "work"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-23",
       "starred_at": "2024-11-05",
       "homepage": "https://danielmiessler.com/p/fabric-origin-story"
     },
     {
-      "rankOrder": 601,
+      "rankOrder": 600,
       "full_name": "immich-app/immich",
       "name": "immich",
       "owner": "immich-app",
@@ -14859,8 +14847,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/immich-app/immich",
       "description": "High performance self-hosted photo and video management solution.",
       "category": "DevOps & Cloud Infrastructure",
-      "stars": 119815,
-      "forks": 7670,
+      "stars": 120054,
+      "forks": 7699,
       "language": "TypeScript",
       "license": "AGPL-3.0",
       "topics": [
@@ -14874,12 +14862,12 @@ window.AWESOME_REPOS_DATA = {
         "nodejs"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-11-03",
       "homepage": "https://immich.app"
     },
     {
-      "rankOrder": 602,
+      "rankOrder": 601,
       "full_name": "agno-agi/agno",
       "name": "agno",
       "owner": "agno-agi",
@@ -14887,8 +14875,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/agno-agi/agno",
       "description": "The self-managing agent platform",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 43255,
-      "forks": 6322,
+      "stars": 43292,
+      "forks": 6343,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -14899,12 +14887,12 @@ window.AWESOME_REPOS_DATA = {
         "python"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-11-03",
       "homepage": "https://docs.agno.com"
     },
     {
-      "rankOrder": 603,
+      "rankOrder": 602,
       "full_name": "Skyvern-AI/skyvern",
       "name": "skyvern",
       "owner": "Skyvern-AI",
@@ -14912,8 +14900,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Skyvern-AI/skyvern",
       "description": "Automate browser based workflows with AI",
       "category": "AI Automation & Workflow Tools",
-      "stars": 23488,
-      "forks": 2255,
+      "stars": 23521,
+      "forks": 2260,
       "language": "Python",
       "license": "AGPL-3.0",
       "topics": [
@@ -14927,12 +14915,12 @@ window.AWESOME_REPOS_DATA = {
         "llm"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-11-03",
       "homepage": "https://www.skyvern.com"
     },
     {
-      "rankOrder": 604,
+      "rankOrder": 603,
       "full_name": "anthropics/courses",
       "name": "courses",
       "owner": "anthropics",
@@ -14940,8 +14928,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/anthropics/courses",
       "description": "Anthropic's educational courses",
       "category": "AI in Education & Courses",
-      "stars": 23153,
-      "forks": 2618,
+      "stars": 23192,
+      "forks": 2631,
       "language": "Jupyter Notebook",
       "license": "NOASSERTION",
       "topics": [],
@@ -14951,7 +14939,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 605,
+      "rankOrder": 604,
       "full_name": "timescale/pgai",
       "name": "pgai",
       "owner": "timescale",
@@ -14959,7 +14947,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/timescale/pgai",
       "description": "A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL",
       "category": "Retrieval-Augmented Generation (RAG)",
-      "stars": 5789,
+      "stars": 5788,
       "forks": 318,
       "language": "PLpgSQL",
       "license": "PostgreSQL",
@@ -14975,7 +14963,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 606,
+      "rankOrder": 605,
       "full_name": "agungTuanany/docker-kubernetes",
       "name": "docker-kubernetes",
       "owner": "agungTuanany",
@@ -15000,7 +14988,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 607,
+      "rankOrder": 606,
       "full_name": "SqueezeAILab/TinyAgent",
       "name": "TinyAgent",
       "owner": "SqueezeAILab",
@@ -15019,7 +15007,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://arxiv.org/abs/2409.00608"
     },
     {
-      "rankOrder": 608,
+      "rankOrder": 607,
       "full_name": "open-webui/open-webui",
       "name": "open-webui",
       "owner": "open-webui",
@@ -15027,8 +15015,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/open-webui/open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "category": "Conversational AI & Chatbots",
-      "stars": 159234,
-      "forks": 23107,
+      "stars": 159482,
+      "forks": 23143,
       "language": "Svelte",
       "license": "NOASSERTION",
       "topics": [
@@ -15042,12 +15030,12 @@ window.AWESOME_REPOS_DATA = {
         "ollama-webui"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-11-03",
       "homepage": "https://openwebui.com"
     },
     {
-      "rankOrder": 609,
+      "rankOrder": 608,
       "full_name": "open-webui/pipelines",
       "name": "pipelines",
       "owner": "open-webui",
@@ -15056,7 +15044,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework",
       "category": "Conversational AI & Chatbots",
       "stars": 2447,
-      "forks": 681,
+      "forks": 680,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -15068,7 +15056,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 610,
+      "rankOrder": 609,
       "full_name": "dgtlmoon/changedetection.io",
       "name": "changedetection.io",
       "owner": "dgtlmoon",
@@ -15076,8 +15064,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/dgtlmoon/changedetection.io",
       "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring— MCP included! all for free or enjoy our SaaS plan!",
       "category": "Web Scraping & Automation",
-      "stars": 35951,
-      "forks": 2266,
+      "stars": 36020,
+      "forks": 2274,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -15091,12 +15079,12 @@ window.AWESOME_REPOS_DATA = {
         "rss"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2024-11-01",
       "homepage": "https://changedetection.io"
     },
     {
-      "rankOrder": 611,
+      "rankOrder": 610,
       "full_name": "kestra-io/kestra",
       "name": "kestra",
       "owner": "kestra-io",
@@ -15104,8 +15092,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/kestra-io/kestra",
       "description": "Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions.",
       "category": "AI Automation & Workflow Tools",
-      "stars": 30306,
-      "forks": 3548,
+      "stars": 30338,
+      "forks": 3556,
       "language": "Java",
       "license": "Apache-2.0",
       "topics": [
@@ -15119,12 +15107,12 @@ window.AWESOME_REPOS_DATA = {
         "etl"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-11-01",
       "homepage": "https://go.kestra.io/home"
     },
     {
-      "rankOrder": 612,
+      "rankOrder": 611,
       "full_name": "browserbase/stagehand",
       "name": "stagehand",
       "owner": "browserbase",
@@ -15132,7 +15120,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/browserbase/stagehand",
       "description": "The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 26111,
+      "stars": 26135,
       "forks": 1836,
       "language": "TypeScript",
       "license": "MIT",
@@ -15147,12 +15135,12 @@ window.AWESOME_REPOS_DATA = {
         "data-extraction"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-11-01",
       "homepage": "https://stagehand.dev"
     },
     {
-      "rankOrder": 613,
+      "rankOrder": 612,
       "full_name": "arunpshankar/LLM-Text-to-SQL-Architectures",
       "name": "LLM-Text-to-SQL-Architectures",
       "owner": "arunpshankar",
@@ -15171,7 +15159,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 614,
+      "rankOrder": 613,
       "full_name": "NirDiamant/GenAI_Agents",
       "name": "GenAI_Agents",
       "owner": "NirDiamant",
@@ -15179,8 +15167,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/NirDiamant/GenAI_Agents",
       "description": "50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 25080,
-      "forks": 4202,
+      "stars": 25121,
+      "forks": 4205,
       "language": "Jupyter Notebook",
       "license": "NOASSERTION",
       "topics": [
@@ -15194,12 +15182,12 @@ window.AWESOME_REPOS_DATA = {
         "langchain"
       ],
       "archived": false,
-      "pushed_at": "2026-11-02",
+      "pushed_at": "2026-11-24",
       "starred_at": "2024-10-29",
       "homepage": "https://diamant-ai.com"
     },
     {
-      "rankOrder": 615,
+      "rankOrder": 614,
       "full_name": "containers/ai-lab-recipes",
       "name": "ai-lab-recipes",
       "owner": "containers",
@@ -15208,7 +15196,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "Examples for building and running LLM services and applications locally with Podman",
       "category": "DevOps & Cloud Infrastructure",
       "stars": 207,
-      "forks": 148,
+      "forks": 147,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [],
@@ -15218,7 +15206,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 616,
+      "rankOrder": 615,
       "full_name": "peremartra/Large-Language-Model-Notebooks-Course",
       "name": "Large-Language-Model-Notebooks-Course",
       "owner": "peremartra",
@@ -15246,7 +15234,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce"
     },
     {
-      "rankOrder": 617,
+      "rankOrder": 616,
       "full_name": "lyogavin/airllm",
       "name": "airllm",
       "owner": "lyogavin",
@@ -15254,8 +15242,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
       "category": "Large Language Models (LLMs)",
-      "stars": 42884,
-      "forks": 4452,
+      "stars": 43373,
+      "forks": 4489,
       "language": "Jupyter Notebook",
       "license": "Apache-2.0",
       "topics": [
@@ -15269,12 +15257,12 @@ window.AWESOME_REPOS_DATA = {
         "llm"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-10-24",
       "homepage": null
     },
     {
-      "rankOrder": 618,
+      "rankOrder": 617,
       "full_name": "microsoft/BitNet",
       "name": "BitNet",
       "owner": "microsoft",
@@ -15282,8 +15270,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/microsoft/BitNet",
       "description": "Official inference framework for 1-bit LLMs",
       "category": "Large Language Models (LLMs)",
-      "stars": 42379,
-      "forks": 4001,
+      "stars": 42465,
+      "forks": 4011,
       "language": "C++",
       "license": "MIT",
       "topics": [],
@@ -15293,7 +15281,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 619,
+      "rankOrder": 618,
       "full_name": "huggingface/huggingface-llama-recipes",
       "name": "huggingface-llama-recipes",
       "owner": "huggingface",
@@ -15312,7 +15300,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 620,
+      "rankOrder": 619,
       "full_name": "steven2358/awesome-generative-ai",
       "name": "awesome-generative-ai",
       "owner": "steven2358",
@@ -15320,8 +15308,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/steven2358/awesome-generative-ai",
       "description": "A curated list of modern Generative Artificial Intelligence projects and services",
       "category": "Awesome Lists & Aggregators",
-      "stars": 12852,
-      "forks": 2856,
+      "stars": 12862,
+      "forks": 2857,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -15340,7 +15328,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 621,
+      "rankOrder": 620,
       "full_name": "openai/swarm",
       "name": "swarm",
       "owner": "openai",
@@ -15348,8 +15336,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/openai/swarm",
       "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 22154,
-      "forks": 2357,
+      "stars": 22163,
+      "forks": 2356,
       "language": "Python",
       "license": "MIT",
       "topics": [],
@@ -15359,7 +15347,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 622,
+      "rankOrder": 621,
       "full_name": "faridrashidi/kaggle-solutions",
       "name": "kaggle-solutions",
       "owner": "faridrashidi",
@@ -15367,7 +15355,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/faridrashidi/kaggle-solutions",
       "description": "🏅 Collection of Kaggle Solutions and Ideas 🏅",
       "category": "Machine Learning (Traditional)",
-      "stars": 6556,
+      "stars": 6558,
       "forks": 2338,
       "language": "Astro",
       "license": "MIT",
@@ -15387,7 +15375,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://kaggle.farid.one"
     },
     {
-      "rankOrder": 623,
+      "rankOrder": 622,
       "full_name": "ManimCommunity/manim",
       "name": "manim",
       "owner": "ManimCommunity",
@@ -15395,8 +15383,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ManimCommunity/manim",
       "description": "A community-maintained Python framework for creating mathematical animations.",
       "category": "Generative AI",
-      "stars": 42783,
-      "forks": 3383,
+      "stars": 42885,
+      "forks": 3407,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -15407,12 +15395,12 @@ window.AWESOME_REPOS_DATA = {
         "python"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-24",
       "starred_at": "2024-10-13",
       "homepage": "https://www.manim.community"
     },
     {
-      "rankOrder": 624,
+      "rankOrder": 623,
       "full_name": "ml-jku/EVA",
       "name": "EVA",
       "owner": "ml-jku",
@@ -15431,7 +15419,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 625,
+      "rankOrder": 624,
       "full_name": "n8n-io/self-hosted-ai-starter-kit",
       "name": "self-hosted-ai-starter-kit",
       "owner": "n8n-io",
@@ -15439,8 +15427,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/n8n-io/self-hosted-ai-starter-kit",
       "description": "The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.",
       "category": "Low-Code / No-Code AI Tools",
-      "stars": 15380,
-      "forks": 3811,
+      "stars": 15392,
+      "forks": 3809,
       "language": null,
       "license": "Apache-2.0",
       "topics": [
@@ -15451,12 +15439,12 @@ window.AWESOME_REPOS_DATA = {
         "starter-kit"
       ],
       "archived": false,
-      "pushed_at": "2026-11-16",
+      "pushed_at": "2026-11-23",
       "starred_at": "2024-10-11",
       "homepage": "https://n8n.io"
     },
     {
-      "rankOrder": 626,
+      "rankOrder": 625,
       "full_name": "verazuo/jailbreak_llms",
       "name": "jailbreak_llms",
       "owner": "verazuo",
@@ -15464,8 +15452,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/verazuo/jailbreak_llms",
       "description": "[CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).",
       "category": "AI Testing & Evaluation",
-      "stars": 3898,
-      "forks": 346,
+      "stars": 3902,
+      "forks": 347,
       "language": "Jupyter Notebook",
       "license": "MIT",
       "topics": [
@@ -15483,7 +15471,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://jailbreak-llms.xinyueshen.me/"
     },
     {
-      "rankOrder": 627,
+      "rankOrder": 626,
       "full_name": "screenpipe/screenpipe",
       "name": "screenpipe",
       "owner": "screenpipe",
@@ -15491,8 +15479,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/screenpipe/screenpipe",
       "description": "YC (S26) | Screenpipe finds the work worth automating | Continuously record computer work locally, discover recurring workflows, and hand the result to any agent you already use.",
       "category": "Speech & Audio (TTS, ASR, Music)",
-      "stars": 22501,
-      "forks": 2314,
+      "stars": 22537,
+      "forks": 2318,
       "language": "Rust",
       "license": "NOASSERTION",
       "topics": [
@@ -15506,12 +15494,12 @@ window.AWESOME_REPOS_DATA = {
         "hermes-agent"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-10-06",
       "homepage": "https://screenpipe.com"
     },
     {
-      "rankOrder": 628,
+      "rankOrder": 627,
       "full_name": "exo-explore/exo",
       "name": "exo",
       "owner": "exo-explore",
@@ -15519,7 +15507,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/exo-explore/exo",
       "description": "Run frontier AI locally.",
       "category": "DevOps & Cloud Infrastructure",
-      "stars": 48532,
+      "stars": 48596,
       "forks": 3632,
       "language": "Python",
       "license": "Apache-2.0",
@@ -15530,7 +15518,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 629,
+      "rankOrder": 628,
       "full_name": "microsoft/RD-Agent",
       "name": "RD-Agent",
       "owner": "microsoft",
@@ -15538,8 +15526,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/microsoft/RD-Agent",
       "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 15446,
-      "forks": 2061,
+      "stars": 15486,
+      "forks": 2068,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -15558,7 +15546,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://rdagent.azurewebsites.net/"
     },
     {
-      "rankOrder": 630,
+      "rankOrder": 629,
       "full_name": "continuedev/continue",
       "name": "continue",
       "owner": "continuedev",
@@ -15566,8 +15554,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/continuedev/continue",
       "description": "open-source coding agent",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 36535,
-      "forks": 5582,
+      "stars": 36556,
+      "forks": 5590,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [
@@ -15578,12 +15566,12 @@ window.AWESOME_REPOS_DATA = {
         "open-source"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2024-10-06",
       "homepage": "https://continue.dev"
     },
     {
-      "rankOrder": 631,
+      "rankOrder": 630,
       "full_name": "pytorch/ao",
       "name": "ao",
       "owner": "pytorch",
@@ -15591,8 +15579,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/pytorch/ao",
       "description": "PyTorch native quantization for training and inference",
       "category": "Large Language Models (LLMs)",
-      "stars": 3032,
-      "forks": 696,
+      "stars": 3035,
+      "forks": 699,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -15606,12 +15594,12 @@ window.AWESOME_REPOS_DATA = {
         "pytorch"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-24",
       "starred_at": "2024-10-06",
       "homepage": "https://pytorch.org/ao/stable/index.html"
     },
     {
-      "rankOrder": 632,
+      "rankOrder": 631,
       "full_name": "tsmatz/nlp-tutorials",
       "name": "nlp-tutorials",
       "owner": "tsmatz",
@@ -15630,7 +15618,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 633,
+      "rankOrder": 632,
       "full_name": "FlowiseAI/Flowise",
       "name": "Flowise",
       "owner": "FlowiseAI",
@@ -15638,8 +15626,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/FlowiseAI/Flowise",
       "description": "Build AI Agents, Visually",
       "category": "Low-Code / No-Code AI Tools",
-      "stars": 55584,
-      "forks": 25106,
+      "stars": 55598,
+      "forks": 25099,
       "language": "TypeScript",
       "license": "NOASSERTION",
       "topics": [
@@ -15658,7 +15646,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://flowiseai.com"
     },
     {
-      "rankOrder": 634,
+      "rankOrder": 633,
       "full_name": "CopilotKit/CopilotKit",
       "name": "CopilotKit",
       "owner": "CopilotKit",
@@ -15666,8 +15654,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 38864,
-      "forks": 4840,
+      "stars": 38960,
+      "forks": 4849,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -15681,12 +15669,12 @@ window.AWESOME_REPOS_DATA = {
         "assistant"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-24",
       "starred_at": "2024-10-03",
       "homepage": "https://docs.copilotkit.ai"
     },
     {
-      "rankOrder": 635,
+      "rankOrder": 634,
       "full_name": "alckasoc/Stanford-CS224N---Lecture-Notes",
       "name": "Stanford-CS224N---Lecture-Notes",
       "owner": "alckasoc",
@@ -15694,7 +15682,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/alckasoc/Stanford-CS224N---Lecture-Notes",
       "description": "My lecture notes on the NLP series provided by Stanford.",
       "category": "AI in Education & Courses",
-      "stars": 9,
+      "stars": 10,
       "forks": 2,
       "language": "Jupyter Notebook",
       "license": "MIT",
@@ -15705,7 +15693,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 636,
+      "rankOrder": 635,
       "full_name": "jaaack-wang/Notes-for-Stanford-CS224N-NLP-with-Deep-Learning",
       "name": "Notes-for-Stanford-CS224N-NLP-with-Deep-Learning",
       "owner": "jaaack-wang",
@@ -15724,7 +15712,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/index.html#schedule"
     },
     {
-      "rankOrder": 637,
+      "rankOrder": 636,
       "full_name": "graviraja/MLOps-Basics",
       "name": "MLOps-Basics",
       "owner": "graviraja",
@@ -15732,8 +15720,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/graviraja/MLOps-Basics",
       "description": "Step-by-step hands-on series covering MLOps practices: training, tracking, packaging, and deployment.",
       "category": "MLOps & ML Infrastructure",
-      "stars": 8920,
-      "forks": 1766,
+      "stars": 8922,
+      "forks": 1765,
       "language": "Jupyter Notebook",
       "license": "MIT",
       "topics": [],
@@ -15743,7 +15731,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 638,
+      "rankOrder": 637,
       "full_name": "unclecode/crawl4ai",
       "name": "crawl4ai",
       "owner": "unclecode",
@@ -15751,8 +15739,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/unclecode/crawl4ai",
       "description": "Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powers it, and you can self-host it.",
       "category": "Web Scraping & Automation",
-      "stars": 87645,
-      "forks": 9139,
+      "stars": 87785,
+      "forks": 9152,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -15766,12 +15754,12 @@ window.AWESOME_REPOS_DATA = {
         "mcp"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-23",
       "starred_at": "2024-09-30",
-      "homepage": "https://crawl4ai.com/?ref=github-about"
+      "homepage": "https://crawl4ai.com/signin/?ref=github-about"
     },
     {
-      "rankOrder": 639,
+      "rankOrder": 638,
       "full_name": "assistant-ui/assistant-ui",
       "name": "assistant-ui",
       "owner": "assistant-ui",
@@ -15779,8 +15767,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/assistant-ui/assistant-ui",
       "description": "Typescript/React Library for AI Chat 💬🚀",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 13370,
-      "forks": 1359,
+      "stars": 13405,
+      "forks": 1371,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -15794,12 +15782,12 @@ window.AWESOME_REPOS_DATA = {
         "shadcn"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-09-27",
       "homepage": "https://www.assistant-ui.com"
     },
     {
-      "rankOrder": 640,
+      "rankOrder": 639,
       "full_name": "OpenAdaptAI/OpenAdapt",
       "name": "OpenAdapt",
       "owner": "OpenAdaptAI",
@@ -15807,7 +15795,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/OpenAdaptAI/OpenAdapt",
       "description": "For EHRs, payer portals, and any app your team clicks through. A person or an agent shows the task; OpenAdapt turns it into a local program that repeats the steps with no model calls, checks each save, and stops when something doesn't match.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 1894,
+      "stars": 1901,
       "forks": 286,
       "language": "Python",
       "license": "MIT",
@@ -15822,12 +15810,12 @@ window.AWESOME_REPOS_DATA = {
         "deterministic-replay"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-09-20",
       "homepage": "https://openadapt.ai"
     },
     {
-      "rankOrder": 641,
+      "rankOrder": 640,
       "full_name": "langchain-ai/data-enrichment",
       "name": "data-enrichment",
       "owner": "langchain-ai",
@@ -15850,7 +15838,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 642,
+      "rankOrder": 641,
       "full_name": "localstack/localstack",
       "name": "localstack",
       "owner": "localstack",
@@ -15858,8 +15846,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/localstack/localstack",
       "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
       "category": "DevOps & Cloud Infrastructure",
-      "stars": 65107,
-      "forks": 4827,
+      "stars": 65106,
+      "forks": 4832,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -15877,7 +15865,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://localstack.cloud"
     },
     {
-      "rankOrder": 643,
+      "rankOrder": 642,
       "full_name": "AraPlatforms/OliverUI",
       "name": "OliverUI",
       "owner": "AraPlatforms",
@@ -15896,7 +15884,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 644,
+      "rankOrder": 643,
       "full_name": "voideditor/void",
       "name": "void",
       "owner": "voideditor",
@@ -15904,8 +15892,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/voideditor/void",
       "description": "",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 28703,
-      "forks": 2658,
+      "stars": 28699,
+      "forks": 2659,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "topics": [
@@ -15924,7 +15912,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://voideditor.com"
     },
     {
-      "rankOrder": 645,
+      "rankOrder": 644,
       "full_name": "zml/zml",
       "name": "zml",
       "owner": "zml",
@@ -15932,8 +15920,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/zml/zml",
       "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
       "category": "LLMOps & Deployment",
-      "stars": 4302,
-      "forks": 212,
+      "stars": 4336,
+      "forks": 214,
       "language": "Zig",
       "license": "Apache-2.0",
       "topics": [
@@ -15945,12 +15933,12 @@ window.AWESOME_REPOS_DATA = {
         "zig"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2024-09-18",
       "homepage": "https://zml.ai"
     },
     {
-      "rankOrder": 646,
+      "rankOrder": 645,
       "full_name": "mlabonne/llm-course",
       "name": "llm-course",
       "owner": "mlabonne",
@@ -15958,8 +15946,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/mlabonne/llm-course",
       "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
       "category": "AI in Education & Courses",
-      "stars": 85173,
-      "forks": 9894,
+      "stars": 85217,
+      "forks": 9898,
       "language": null,
       "license": "Apache-2.0",
       "topics": [
@@ -15975,7 +15963,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://mlabonne.github.io/blog/"
     },
     {
-      "rankOrder": 647,
+      "rankOrder": 646,
       "full_name": "amanchadha/coursera-deep-learning-specialization",
       "name": "coursera-deep-learning-specialization",
       "owner": "amanchadha",
@@ -15983,8 +15971,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/amanchadha/coursera-deep-learning-specialization",
       "description": "Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learning Projects; (iv) Convolutional Neural Networks; (v) Sequence Models",
       "category": "AI in Education & Courses",
-      "stars": 4424,
-      "forks": 2677,
+      "stars": 4426,
+      "forks": 2676,
       "language": "Jupyter Notebook",
       "license": null,
       "topics": [
@@ -16003,7 +15991,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 648,
+      "rankOrder": 647,
       "full_name": "lmoroney/dlaicourse",
       "name": "dlaicourse",
       "owner": "lmoroney",
@@ -16012,7 +16000,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "Notebooks for learning deep learning",
       "category": "AI in Education & Courses",
       "stars": 5626,
-      "forks": 5195,
+      "forks": 5193,
       "language": "Jupyter Notebook",
       "license": null,
       "topics": [],
@@ -16022,7 +16010,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 649,
+      "rankOrder": 648,
       "full_name": "anthropics/claude-cookbooks",
       "name": "claude-cookbooks",
       "owner": "anthropics",
@@ -16030,8 +16018,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/anthropics/claude-cookbooks",
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "category": "AI in Education & Courses",
-      "stars": 54976,
-      "forks": 6684,
+      "stars": 55187,
+      "forks": 6717,
       "language": "Jupyter Notebook",
       "license": "MIT",
       "topics": [],
@@ -16041,7 +16029,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 650,
+      "rankOrder": 649,
       "full_name": "muhammadawaisshaikh/Edtech-AI",
       "name": "Edtech-AI",
       "owner": "muhammadawaisshaikh",
@@ -16069,7 +16057,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 651,
+      "rankOrder": 650,
       "full_name": "Codehagen/propdock",
       "name": "propdock",
       "owner": "Codehagen",
@@ -16088,7 +16076,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://propdock.no/"
     },
     {
-      "rankOrder": 652,
+      "rankOrder": 651,
       "full_name": "binhnguyennus/awesome-scalability",
       "name": "awesome-scalability",
       "owner": "binhnguyennus",
@@ -16096,8 +16084,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/binhnguyennus/awesome-scalability",
       "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
       "category": "System & Software Design",
-      "stars": 75942,
-      "forks": 7242,
+      "stars": 76025,
+      "forks": 7247,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -16116,7 +16104,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 653,
+      "rankOrder": 652,
       "full_name": "GokuMohandas/Made-With-ML",
       "name": "Made-With-ML",
       "owner": "GokuMohandas",
@@ -16124,8 +16112,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/GokuMohandas/Made-With-ML",
       "description": "Learn how to develop, deploy and iterate on production-grade ML applications.",
       "category": "AI Frameworks & Toolkits",
-      "stars": 50121,
-      "forks": 7826,
+      "stars": 50167,
+      "forks": 7832,
       "language": "Jupyter Notebook",
       "license": "MIT",
       "topics": [
@@ -16144,7 +16132,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://madewithml.com"
     },
     {
-      "rankOrder": 654,
+      "rankOrder": 653,
       "full_name": "lutzroeder/netron",
       "name": "netron",
       "owner": "lutzroeder",
@@ -16152,7 +16140,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/lutzroeder/netron",
       "description": "Visualizer for neural network, deep learning and machine learning models",
       "category": "AI Frameworks & Toolkits",
-      "stars": 33715,
+      "stars": 33726,
       "forks": 3201,
       "language": "JavaScript",
       "license": "MIT",
@@ -16167,12 +16155,12 @@ window.AWESOME_REPOS_DATA = {
         "ml"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-09-07",
       "homepage": "https://netron.app"
     },
     {
-      "rankOrder": 655,
+      "rankOrder": 654,
       "full_name": "mikeroyal/Machine-Learning-Guide",
       "name": "Machine-Learning-Guide",
       "owner": "mikeroyal",
@@ -16200,7 +16188,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 656,
+      "rankOrder": 655,
       "full_name": "maykulkarni/Machine-Learning-Notebooks",
       "name": "Machine-Learning-Notebooks",
       "owner": "maykulkarni",
@@ -16228,7 +16216,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 657,
+      "rankOrder": 656,
       "full_name": "midday-ai/packrun",
       "name": "packrun",
       "owner": "midday-ai",
@@ -16236,7 +16224,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/midday-ai/packrun",
       "description": "npm for agents and humans",
       "category": "Productivity & Developer Tools",
-      "stars": 3830,
+      "stars": 3829,
       "forks": 402,
       "language": "TypeScript",
       "license": null,
@@ -16253,7 +16241,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://packrun.dev"
     },
     {
-      "rankOrder": 658,
+      "rankOrder": 657,
       "full_name": "nolly-studio/cult-directory-template",
       "name": "cult-directory-template",
       "owner": "nolly-studio",
@@ -16281,7 +16269,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://nextjs.design"
     },
     {
-      "rankOrder": 659,
+      "rankOrder": 658,
       "full_name": "xcomptek/awesome-saas-boilerplates",
       "name": "awesome-saas-boilerplates",
       "owner": "xcomptek",
@@ -16289,8 +16277,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/xcomptek/awesome-saas-boilerplates",
       "description": "List of SaaS boilerplates (starter kits)",
       "category": "Awesome Lists & Aggregators",
-      "stars": 3088,
-      "forks": 413,
+      "stars": 3089,
+      "forks": 416,
       "language": null,
       "license": null,
       "topics": [],
@@ -16300,7 +16288,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 660,
+      "rankOrder": 659,
       "full_name": "wasp-lang/open-saas",
       "name": "open-saas",
       "owner": "wasp-lang",
@@ -16308,8 +16296,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/wasp-lang/open-saas",
       "description": "A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.",
       "category": "Productivity & Developer Tools",
-      "stars": 16394,
-      "forks": 1983,
+      "stars": 16424,
+      "forks": 1985,
       "language": "MDX",
       "license": "MIT",
       "topics": [
@@ -16328,7 +16316,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://opensaas.sh"
     },
     {
-      "rankOrder": 661,
+      "rankOrder": 660,
       "full_name": "DorsaRoh/Machine-Learning",
       "name": "Machine-Learning",
       "owner": "DorsaRoh",
@@ -16349,7 +16337,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 662,
+      "rankOrder": 661,
       "full_name": "AnswerDotAI/fasthtml-example",
       "name": "fasthtml-example",
       "owner": "AnswerDotAI",
@@ -16368,7 +16356,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 663,
+      "rankOrder": 662,
       "full_name": "AnswerDotAI/fasthtml",
       "name": "fasthtml",
       "owner": "AnswerDotAI",
@@ -16382,12 +16370,12 @@ window.AWESOME_REPOS_DATA = {
       "license": "Apache-2.0",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-24",
       "starred_at": "2024-08-28",
       "homepage": "https://www.fastht.ml/docs/"
     },
     {
-      "rankOrder": 664,
+      "rankOrder": 663,
       "full_name": "0xairdropfarmer/medium-clone-on-node",
       "name": "medium-clone-on-node",
       "owner": "0xairdropfarmer",
@@ -16395,8 +16383,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/0xairdropfarmer/medium-clone-on-node",
       "description": "clone Medium on Nodejs and Reactjs",
       "category": "AI in Education & Courses",
-      "stars": 579,
-      "forks": 287,
+      "stars": 578,
+      "forks": 286,
       "language": "JavaScript",
       "license": null,
       "topics": [],
@@ -16406,7 +16394,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 665,
+      "rankOrder": 664,
       "full_name": "firecrawl/firecrawl",
       "name": "firecrawl",
       "owner": "firecrawl",
@@ -16414,8 +16402,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/firecrawl/firecrawl",
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "category": "Web Scraping & Automation",
-      "stars": 206370,
-      "forks": 10790,
+      "stars": 209220,
+      "forks": 10931,
       "language": "TypeScript",
       "license": "AGPL-3.0",
       "topics": [
@@ -16429,12 +16417,12 @@ window.AWESOME_REPOS_DATA = {
         "html-to-markdown"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-08-27",
       "homepage": "https://firecrawl.dev"
     },
     {
-      "rankOrder": 666,
+      "rankOrder": 665,
       "full_name": "Cinnamon/kotaemon",
       "name": "kotaemon",
       "owner": "Cinnamon",
@@ -16442,7 +16430,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Cinnamon/kotaemon",
       "description": "An open-source RAG-based tool for chatting with your documents.",
       "category": "Retrieval-Augmented Generation (RAG)",
-      "stars": 25924,
+      "stars": 25928,
       "forks": 2167,
       "language": "Python",
       "license": "Apache-2.0",
@@ -16458,7 +16446,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://cinnamon.github.io/kotaemon/"
     },
     {
-      "rankOrder": 667,
+      "rankOrder": 666,
       "full_name": "practical-tutorials/project-based-learning",
       "name": "project-based-learning",
       "owner": "practical-tutorials",
@@ -16466,8 +16454,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/practical-tutorials/project-based-learning",
       "description": "Curated list of project-based tutorials",
       "category": "AI in Education & Courses",
-      "stars": 290224,
-      "forks": 36850,
+      "stars": 290440,
+      "forks": 36864,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -16481,12 +16469,12 @@ window.AWESOME_REPOS_DATA = {
         "webdevelopment"
       ],
       "archived": false,
-      "pushed_at": "2026-11-16",
+      "pushed_at": "2026-11-23",
       "starred_at": "2024-08-27",
       "homepage": null
     },
     {
-      "rankOrder": 668,
+      "rankOrder": 667,
       "full_name": "NirDiamant/Controllable-RAG-Agent",
       "name": "Controllable-RAG-Agent",
       "owner": "NirDiamant",
@@ -16494,8 +16482,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/NirDiamant/Controllable-RAG-Agent",
       "description": "This repository provides an advanced Retrieval-Augmented Generation (RAG) solution for complex question answering. It uses sophisticated graph based algorithm to handle the tasks.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 1634,
-      "forks": 272,
+      "stars": 1636,
+      "forks": 273,
       "language": "Jupyter Notebook",
       "license": "Apache-2.0",
       "topics": [
@@ -16514,7 +16502,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 669,
+      "rankOrder": 668,
       "full_name": "JoshuaC215/agent-service-toolkit",
       "name": "agent-service-toolkit",
       "owner": "JoshuaC215",
@@ -16522,7 +16510,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/JoshuaC215/agent-service-toolkit",
       "description": "Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 4582,
+      "stars": 4586,
       "forks": 806,
       "language": "Python",
       "license": "MIT",
@@ -16537,7 +16525,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://agent-service-toolkit.streamlit.app"
     },
     {
-      "rankOrder": 670,
+      "rankOrder": 669,
       "full_name": "curiousily/AI-Bootcamp",
       "name": "AI-Bootcamp",
       "owner": "curiousily",
@@ -16545,8 +16533,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/curiousily/AI-Bootcamp",
       "description": "Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, Ollama, LLMs, RAGs, LangChain, LangGraph, Fine-tuning, DSPy & AI Agents (CrewAI), (Using ChatGPT, gpt-oss, Claude, Qwen, Gemma, Llama, Gemini)",
       "category": "AI in Education & Courses",
-      "stars": 959,
-      "forks": 298,
+      "stars": 960,
+      "forks": 299,
       "language": "Jupyter Notebook",
       "license": "MIT",
       "topics": [
@@ -16565,7 +16553,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://mlexpert.io"
     },
     {
-      "rankOrder": 671,
+      "rankOrder": 670,
       "full_name": "keon/algorithms",
       "name": "algorithms",
       "owner": "keon",
@@ -16573,8 +16561,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/keon/algorithms",
       "description": "Minimal examples of data structures and algorithms in Python",
       "category": "Machine Learning (Traditional)",
-      "stars": 25608,
-      "forks": 4710,
+      "stars": 25610,
+      "forks": 4709,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -16593,7 +16581,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "http://keon.kim/algorithms/"
     },
     {
-      "rankOrder": 672,
+      "rankOrder": 671,
       "full_name": "kturung/langgraph_streamlit_codeassistant",
       "name": "langgraph_streamlit_codeassistant",
       "owner": "kturung",
@@ -16612,7 +16600,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 673,
+      "rankOrder": 672,
       "full_name": "codecrafters-io/build-your-own-x",
       "name": "build-your-own-x",
       "owner": "codecrafters-io",
@@ -16620,8 +16608,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "category": "AI in Education & Courses",
-      "stars": 564509,
-      "forks": 52759,
+      "stars": 565369,
+      "forks": 52828,
       "language": "Markdown",
       "license": null,
       "topics": [
@@ -16638,7 +16626,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://codecrafters.io"
     },
     {
-      "rankOrder": 674,
+      "rankOrder": 673,
       "full_name": "ollama/ollama",
       "name": "ollama",
       "owner": "ollama",
@@ -16646,8 +16634,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "category": "Large Language Models (LLMs)",
-      "stars": 187806,
-      "forks": 19132,
+      "stars": 188044,
+      "forks": 19185,
       "language": "Go",
       "license": "MIT",
       "topics": [
@@ -16661,12 +16649,12 @@ window.AWESOME_REPOS_DATA = {
         "llm"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2024-08-17",
       "homepage": "https://ollama.com"
     },
     {
-      "rankOrder": 675,
+      "rankOrder": 674,
       "full_name": "suno-ai/bark",
       "name": "bark",
       "owner": "suno-ai",
@@ -16674,8 +16662,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/suno-ai/bark",
       "description": "🔊 Text-Prompted Generative Audio Model",
       "category": "Speech & Audio (TTS, ASR, Music)",
-      "stars": 39379,
-      "forks": 4660,
+      "stars": 39425,
+      "forks": 4665,
       "language": "Jupyter Notebook",
       "license": "MIT",
       "topics": [],
@@ -16685,7 +16673,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 676,
+      "rankOrder": 675,
       "full_name": "Stirling-Tools/Stirling-PDF",
       "name": "Stirling-PDF",
       "owner": "Stirling-Tools",
@@ -16693,8 +16681,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Stirling-Tools/Stirling-PDF",
       "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
       "category": "Computer Vision & Image Generation",
-      "stars": 97174,
-      "forks": 9391,
+      "stars": 97416,
+      "forks": 9356,
       "language": "TypeScript",
       "license": "NOASSERTION",
       "topics": [
@@ -16708,12 +16696,12 @@ window.AWESOME_REPOS_DATA = {
         "pdf-merger"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-08-17",
       "homepage": "https://stirling.com"
     },
     {
-      "rankOrder": 677,
+      "rankOrder": 676,
       "full_name": "NirDiamant/RAG_Techniques",
       "name": "RAG_Techniques",
       "owner": "NirDiamant",
@@ -16721,8 +16709,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/NirDiamant/RAG_Techniques",
       "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.",
       "category": "Retrieval-Augmented Generation (RAG)",
-      "stars": 30467,
-      "forks": 3722,
+      "stars": 30534,
+      "forks": 3726,
       "language": "Jupyter Notebook",
       "license": "NOASSERTION",
       "topics": [
@@ -16741,7 +16729,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://diamant-ai.com"
     },
     {
-      "rankOrder": 678,
+      "rankOrder": 677,
       "full_name": "aws-samples/amazon-bedrock-workshop",
       "name": "amazon-bedrock-workshop",
       "owner": "aws-samples",
@@ -16750,17 +16738,17 @@ window.AWESOME_REPOS_DATA = {
       "description": "This is a workshop designed for Amazon Bedrock a foundational model service.",
       "category": "AI in Education & Courses",
       "stars": 2223,
-      "forks": 963,
+      "forks": 964,
       "language": "Jupyter Notebook",
       "license": "MIT-0",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-13",
+      "pushed_at": "2026-11-24",
       "starred_at": "2024-07-31",
       "homepage": "https://catalog.us-east-1.prod.workshops.aws/amazon-bedrock/en-US"
     },
     {
-      "rankOrder": 679,
+      "rankOrder": 678,
       "full_name": "aishwaryanr/awesome-generative-ai-guide",
       "name": "awesome-generative-ai-guide",
       "owner": "aishwaryanr",
@@ -16768,7 +16756,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
       "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
       "category": "Awesome Lists & Aggregators",
-      "stars": 30366,
+      "stars": 30392,
       "forks": 6083,
       "language": "HTML",
       "license": "MIT",
@@ -16788,7 +16776,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://www.linkedin.com/in/areganti/"
     },
     {
-      "rankOrder": 680,
+      "rankOrder": 679,
       "full_name": "THUDM/P-tuning-v2",
       "name": "P-tuning-v2",
       "owner": "THUDM",
@@ -16796,7 +16784,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/THUDM/P-tuning-v2",
       "description": "An optimized deep prompt tuning strategy comparable to fine-tuning across scales and tasks",
       "category": "Prompt Engineering",
-      "stars": 2079,
+      "stars": 2080,
       "forks": 212,
       "language": "Python",
       "license": "Apache-2.0",
@@ -16813,7 +16801,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 681,
+      "rankOrder": 680,
       "full_name": "wenet-e2e/llm-papers",
       "name": "llm-papers",
       "owner": "wenet-e2e",
@@ -16832,7 +16820,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 682,
+      "rankOrder": 681,
       "full_name": "ashishpatel26/LLM-Finetuning",
       "name": "LLM-Finetuning",
       "owner": "ashishpatel26",
@@ -16840,7 +16828,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ashishpatel26/LLM-Finetuning",
       "description": "LLM Finetuning with peft",
       "category": "Large Language Models (LLMs)",
-      "stars": 2998,
+      "stars": 2996,
       "forks": 770,
       "language": "Jupyter Notebook",
       "license": null,
@@ -16860,7 +16848,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 683,
+      "rankOrder": 682,
       "full_name": "OpenHands/OpenHands",
       "name": "OpenHands",
       "owner": "OpenHands",
@@ -16868,8 +16856,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 93980,
-      "forks": 12577,
+      "stars": 94279,
+      "forks": 12628,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -16883,12 +16871,12 @@ window.AWESOME_REPOS_DATA = {
         "llm"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-07-27",
       "homepage": "https://openhands.dev"
     },
     {
-      "rankOrder": 684,
+      "rankOrder": 683,
       "full_name": "meta-llama/llama-cookbook",
       "name": "llama-cookbook",
       "owner": "meta-llama",
@@ -16896,7 +16884,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/meta-llama/llama-cookbook",
       "description": "Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services",
       "category": "Large Language Models (LLMs)",
-      "stars": 18596,
+      "stars": 18599,
       "forks": 2759,
       "language": "Jupyter Notebook",
       "license": "MIT",
@@ -16916,7 +16904,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://www.llama.com"
     },
     {
-      "rankOrder": 685,
+      "rankOrder": 684,
       "full_name": "pydantic/pydantic",
       "name": "pydantic",
       "owner": "pydantic",
@@ -16924,8 +16912,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/pydantic/pydantic",
       "description": "Data validation using Python type hints",
       "category": "AI Frameworks & Toolkits",
-      "stars": 29613,
-      "forks": 3241,
+      "stars": 29646,
+      "forks": 3270,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -16939,12 +16927,12 @@ window.AWESOME_REPOS_DATA = {
         "python312"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2024-07-25",
       "homepage": "https://pydantic.dev/docs/validation"
     },
     {
-      "rankOrder": 686,
+      "rankOrder": 685,
       "full_name": "Nutlope/llamatutor",
       "name": "llamatutor",
       "owner": "Nutlope",
@@ -16952,7 +16940,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Nutlope/llamatutor",
       "description": "An AI personal tutor built with Llama 3.1",
       "category": "Conversational AI & Chatbots",
-      "stars": 2053,
+      "stars": 2054,
       "forks": 343,
       "language": "TypeScript",
       "license": null,
@@ -16963,7 +16951,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://llamatutor.com"
     },
     {
-      "rankOrder": 687,
+      "rankOrder": 686,
       "full_name": "stanfordnlp/dspy",
       "name": "dspy",
       "owner": "stanfordnlp",
@@ -16971,18 +16959,18 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/stanfordnlp/dspy",
       "description": "DSPy: The framework for programming—not prompting—language models",
       "category": "AI Frameworks & Toolkits",
-      "stars": 39171,
-      "forks": 3536,
+      "stars": 39218,
+      "forks": 3551,
       "language": "Python",
       "license": "MIT",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2024-07-21",
       "homepage": "https://dspy.ai"
     },
     {
-      "rankOrder": 688,
+      "rankOrder": 687,
       "full_name": "Azure/azure-sdk-for-python",
       "name": "azure-sdk-for-python",
       "owner": "Azure",
@@ -16990,7 +16978,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Azure/azure-sdk-for-python",
       "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
       "category": "AI Frameworks & Toolkits",
-      "stars": 5626,
+      "stars": 5623,
       "forks": 3426,
       "language": "Python",
       "license": "MIT",
@@ -17001,12 +16989,12 @@ window.AWESOME_REPOS_DATA = {
         "python"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-07-21",
       "homepage": null
     },
     {
-      "rankOrder": 689,
+      "rankOrder": 688,
       "full_name": "apify/crawlee-python",
       "name": "crawlee-python",
       "owner": "apify",
@@ -17014,8 +17002,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/apify/crawlee-python",
       "description": "Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract structured data with LLMs via Pydantic AI, or control the browser in natural language with Stagehand. Works with BeautifulSoup, Parsel, Playwright, and raw HTTP. Download HTML, PDF, images, and other files. Proxy rotation included.",
       "category": "Web Scraping & Automation",
-      "stars": 9680,
-      "forks": 835,
+      "stars": 9690,
+      "forks": 837,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -17029,12 +17017,12 @@ window.AWESOME_REPOS_DATA = {
         "parsel"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-07-21",
       "homepage": "https://crawlee.dev/python/"
     },
     {
-      "rankOrder": 690,
+      "rankOrder": 689,
       "full_name": "mindsdb/mindshub",
       "name": "mindshub",
       "owner": "mindsdb",
@@ -17042,8 +17030,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/mindsdb/mindshub",
       "description": "The unified workspace where open-source models get things done for you.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 39866,
-      "forks": 6229,
+      "stars": 39888,
+      "forks": 6231,
       "language": "Makefile",
       "license": "MIT",
       "topics": [
@@ -17062,7 +17050,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://mindshub.ai"
     },
     {
-      "rankOrder": 691,
+      "rankOrder": 690,
       "full_name": "infiniflow/ragflow",
       "name": "ragflow",
       "owner": "infiniflow",
@@ -17070,8 +17058,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/infiniflow/ragflow",
       "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
       "category": "Retrieval-Augmented Generation (RAG)",
-      "stars": 94516,
-      "forks": 11360,
+      "stars": 94671,
+      "forks": 11394,
       "language": "Go",
       "license": "Apache-2.0",
       "topics": [
@@ -17085,12 +17073,12 @@ window.AWESOME_REPOS_DATA = {
         "context-engine"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-07-21",
       "homepage": "https://ragflow.io"
     },
     {
-      "rankOrder": 692,
+      "rankOrder": 691,
       "full_name": "huggingface/transformers",
       "name": "transformers",
       "owner": "huggingface",
@@ -17098,8 +17086,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/huggingface/transformers",
       "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
       "category": "Natural Language Processing (NLP)",
-      "stars": 169335,
-      "forks": 35263,
+      "stars": 169297,
+      "forks": 35288,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -17113,12 +17101,12 @@ window.AWESOME_REPOS_DATA = {
         "machine-learning"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-07-12",
       "homepage": "https://huggingface.co/transformers"
     },
     {
-      "rankOrder": 693,
+      "rankOrder": 692,
       "full_name": "udlbook/udlbook",
       "name": "udlbook",
       "owner": "udlbook",
@@ -17126,8 +17114,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/udlbook/udlbook",
       "description": "Understanding Deep Learning - Simon J.D. Prince",
       "category": "AI in Education & Courses",
-      "stars": 10181,
-      "forks": 2416,
+      "stars": 10190,
+      "forks": 2418,
       "language": "Jupyter Notebook",
       "license": "NOASSERTION",
       "topics": [],
@@ -17137,7 +17125,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 694,
+      "rankOrder": 693,
       "full_name": "567-labs/instructor",
       "name": "instructor",
       "owner": "567-labs",
@@ -17145,8 +17133,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/567-labs/instructor",
       "description": "structured outputs for llms",
       "category": "Prompt Engineering",
-      "stars": 14131,
-      "forks": 1401,
+      "stars": 14140,
+      "forks": 1409,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -17163,7 +17151,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://python.useinstructor.com/"
     },
     {
-      "rankOrder": 695,
+      "rankOrder": 694,
       "full_name": "deepset-ai/haystack",
       "name": "haystack",
       "owner": "deepset-ai",
@@ -17171,8 +17159,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/deepset-ai/haystack",
       "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
       "category": "Retrieval-Augmented Generation (RAG)",
-      "stars": 27072,
-      "forks": 3490,
+      "stars": 27104,
+      "forks": 3502,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -17186,12 +17174,12 @@ window.AWESOME_REPOS_DATA = {
         "framework"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-07-04",
       "homepage": "https://haystack.deepset.ai"
     },
     {
-      "rankOrder": 696,
+      "rankOrder": 695,
       "full_name": "livekit/agents",
       "name": "agents",
       "owner": "livekit",
@@ -17199,8 +17187,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/livekit/agents",
       "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 15299,
-      "forks": 4182,
+      "stars": 15333,
+      "forks": 4196,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -17212,12 +17200,12 @@ window.AWESOME_REPOS_DATA = {
         "voice"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-07-03",
       "homepage": "https://docs.livekit.io/agents"
     },
     {
-      "rankOrder": 697,
+      "rankOrder": 696,
       "full_name": "labmlai/annotated_deep_learning_paper_implementations",
       "name": "annotated_deep_learning_paper_implementations",
       "owner": "labmlai",
@@ -17225,8 +17213,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
       "description": "🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
       "category": "AI in Education & Courses",
-      "stars": 67780,
-      "forks": 6775,
+      "stars": 67792,
+      "forks": 6773,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -17245,7 +17233,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://nn.labml.ai"
     },
     {
-      "rankOrder": 698,
+      "rankOrder": 697,
       "full_name": "isaac-sim/IsaacLab",
       "name": "IsaacLab",
       "owner": "isaac-sim",
@@ -17253,8 +17241,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/isaac-sim/IsaacLab",
       "description": "Unified framework for robot learning with multi-physics/renderer support",
       "category": "Robotics & Embodied AI",
-      "stars": 8696,
-      "forks": 4021,
+      "stars": 8720,
+      "forks": 4025,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -17264,12 +17252,12 @@ window.AWESOME_REPOS_DATA = {
         "robotics"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-07-03",
       "homepage": "https://isaac-sim.github.io/IsaacLab"
     },
     {
-      "rankOrder": 699,
+      "rankOrder": 698,
       "full_name": "donnemartin/system-design-primer",
       "name": "system-design-primer",
       "owner": "donnemartin",
@@ -17277,8 +17265,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/donnemartin/system-design-primer",
       "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
       "category": "System & Software Design",
-      "stars": 378749,
-      "forks": 59335,
+      "stars": 379132,
+      "forks": 59358,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -17297,7 +17285,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 700,
+      "rankOrder": 699,
       "full_name": "donnemartin/interactive-coding-challenges",
       "name": "interactive-coding-challenges",
       "owner": "donnemartin",
@@ -17305,7 +17293,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/donnemartin/interactive-coding-challenges",
       "description": "120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.",
       "category": "AI in Education & Courses",
-      "stars": 31970,
+      "stars": 31975,
       "forks": 4650,
       "language": "Python",
       "license": "NOASSERTION",
@@ -17325,7 +17313,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 701,
+      "rankOrder": 700,
       "full_name": "hpcaitech/Open-Sora",
       "name": "Open-Sora",
       "owner": "hpcaitech",
@@ -17333,8 +17321,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/hpcaitech/Open-Sora",
       "description": "Open-Sora: Democratizing Efficient Video Production for All",
       "category": "Computer Vision & Image Generation",
-      "stars": 29946,
-      "forks": 3100,
+      "stars": 29950,
+      "forks": 3103,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [],
@@ -17344,7 +17332,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://hpcaitech.github.io/Open-Sora/"
     },
     {
-      "rankOrder": 702,
+      "rankOrder": 701,
       "full_name": "lavague-ai/LaVague",
       "name": "LaVague",
       "owner": "lavague-ai",
@@ -17370,7 +17358,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://docs.lavague.ai/en/latest/"
     },
     {
-      "rankOrder": 703,
+      "rankOrder": 702,
       "full_name": "huggingface/lerobot",
       "name": "lerobot",
       "owner": "huggingface",
@@ -17378,18 +17366,18 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/huggingface/lerobot",
       "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
       "category": "Robotics & Embodied AI",
-      "stars": 29018,
-      "forks": 6115,
+      "stars": 29080,
+      "forks": 6133,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-06-15",
       "homepage": "https://huggingface.co/docs/lerobot"
     },
     {
-      "rankOrder": 704,
+      "rankOrder": 703,
       "full_name": "Lightning-AI/litgpt",
       "name": "litgpt",
       "owner": "Lightning-AI",
@@ -17397,8 +17385,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Lightning-AI/litgpt",
       "description": "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.",
       "category": "Large Language Models (LLMs)",
-      "stars": 13759,
-      "forks": 1551,
+      "stars": 13765,
+      "forks": 1554,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -17416,7 +17404,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://lightning.ai"
     },
     {
-      "rankOrder": 705,
+      "rankOrder": 704,
       "full_name": "vladmandic/sdnext",
       "name": "sdnext",
       "owner": "vladmandic",
@@ -17439,12 +17427,12 @@ window.AWESOME_REPOS_DATA = {
         "stable-diffusion"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-23",
       "starred_at": "2024-06-02",
       "homepage": "https://vladmandic.github.io/sdnext/"
     },
     {
-      "rankOrder": 706,
+      "rankOrder": 705,
       "full_name": "llmware-ai/llmware",
       "name": "llmware",
       "owner": "llmware-ai",
@@ -17452,7 +17440,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/llmware-ai/llmware",
       "description": "Unified framework for building enterprise RAG pipelines with small, specialized models",
       "category": "Retrieval-Augmented Generation (RAG)",
-      "stars": 14820,
+      "stars": 14819,
       "forks": 2920,
       "language": "Python",
       "license": "Apache-2.0",
@@ -17472,7 +17460,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://llmware-ai.github.io/llmware/"
     },
     {
-      "rankOrder": 707,
+      "rankOrder": 706,
       "full_name": "truefoundry/cognita",
       "name": "cognita",
       "owner": "truefoundry",
@@ -17500,7 +17488,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://cognita.truefoundry.com"
     },
     {
-      "rankOrder": 708,
+      "rankOrder": 707,
       "full_name": "microsoft/UFO",
       "name": "UFO",
       "owner": "microsoft",
@@ -17508,8 +17496,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/microsoft/UFO",
       "description": "UFO³: Weaving the Digital Agent Galaxy",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 10226,
-      "forks": 1091,
+      "stars": 10241,
+      "forks": 1094,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -17526,7 +17514,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://microsoft.github.io/UFO/"
     },
     {
-      "rankOrder": 709,
+      "rankOrder": 708,
       "full_name": "odoo/odoo",
       "name": "odoo",
       "owner": "odoo",
@@ -17534,8 +17522,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/odoo/odoo",
       "description": "Odoo. Open Source Apps To Grow Your Business.",
       "category": "Others",
-      "stars": 56013,
-      "forks": 34389,
+      "stars": 56082,
+      "forks": 34417,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -17548,12 +17536,12 @@ window.AWESOME_REPOS_DATA = {
         "python"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-05-23",
       "homepage": "https://www.odoo.com"
     },
     {
-      "rankOrder": 710,
+      "rankOrder": 709,
       "full_name": "codebasics/roadmaps",
       "name": "roadmaps",
       "owner": "codebasics",
@@ -17572,7 +17560,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 711,
+      "rankOrder": 710,
       "full_name": "DenverCoder1/custom-icon-badges",
       "name": "custom-icon-badges",
       "owner": "DenverCoder1",
@@ -17580,7 +17568,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/DenverCoder1/custom-icon-badges",
       "description": "🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges",
       "category": "Productivity & Developer Tools",
-      "stars": 993,
+      "stars": 992,
       "forks": 403,
       "language": "TypeScript",
       "license": "MIT",
@@ -17600,7 +17588,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://custom-icon-badges.demolab.com"
     },
     {
-      "rankOrder": 712,
+      "rankOrder": 711,
       "full_name": "dair-ai/Prompt-Engineering-Guide",
       "name": "Prompt-Engineering-Guide",
       "owner": "dair-ai",
@@ -17608,8 +17596,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
       "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
       "category": "Prompt Engineering",
-      "stars": 80280,
-      "forks": 8781,
+      "stars": 80354,
+      "forks": 8786,
       "language": "MDX",
       "license": "MIT",
       "topics": [
@@ -17628,7 +17616,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://www.promptingguide.ai/"
     },
     {
-      "rankOrder": 713,
+      "rankOrder": 712,
       "full_name": "commaai/openpilot",
       "name": "openpilot",
       "owner": "commaai",
@@ -17636,8 +17624,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/commaai/openpilot",
       "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
       "category": "Robotics & Embodied AI",
-      "stars": 64199,
-      "forks": 11402,
+      "stars": 64228,
+      "forks": 11410,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -17646,12 +17634,12 @@ window.AWESOME_REPOS_DATA = {
         "robotics"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-05-13",
       "homepage": "https://comma.ai/openpilot"
     },
     {
-      "rankOrder": 714,
+      "rankOrder": 713,
       "full_name": "FAIRplus/the-fair-cookbook",
       "name": "the-fair-cookbook",
       "owner": "FAIRplus",
@@ -17673,7 +17661,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://faircookbook.elixir-europe.org/"
     },
     {
-      "rankOrder": 715,
+      "rankOrder": 714,
       "full_name": "ollama/ollama-python",
       "name": "ollama-python",
       "owner": "ollama",
@@ -17681,8 +17669,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ollama/ollama-python",
       "description": "Ollama Python library",
       "category": "LLMOps & Deployment",
-      "stars": 10732,
-      "forks": 1242,
+      "stars": 10737,
+      "forks": 1245,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -17695,7 +17683,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://ollama.com"
     },
     {
-      "rankOrder": 716,
+      "rankOrder": 715,
       "full_name": "roboflow/notebooks",
       "name": "notebooks",
       "owner": "roboflow",
@@ -17703,7 +17691,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/roboflow/notebooks",
       "description": "A collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like RF-DETR, YOLO11, SAM 3, and Qwen3-VL.",
       "category": "Computer Vision & Image Generation",
-      "stars": 9749,
+      "stars": 9751,
       "forks": 1505,
       "language": "Jupyter Notebook",
       "license": null,
@@ -17723,7 +17711,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://roboflow.com/models"
     },
     {
-      "rankOrder": 717,
+      "rankOrder": 716,
       "full_name": "PKU-YuanGroup/Open-Sora-Plan",
       "name": "Open-Sora-Plan",
       "owner": "PKU-YuanGroup",
@@ -17731,8 +17719,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/PKU-YuanGroup/Open-Sora-Plan",
       "description": "This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.",
       "category": "Large Language Models (LLMs)",
-      "stars": 12200,
-      "forks": 1074,
+      "stars": 12198,
+      "forks": 1073,
       "language": "Python",
       "license": "MIT",
       "topics": [],
@@ -17742,7 +17730,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 718,
+      "rankOrder": 717,
       "full_name": "ScrapeGraphAI/Scrapegraph-ai",
       "name": "Scrapegraph-ai",
       "owner": "ScrapeGraphAI",
@@ -17750,8 +17738,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ScrapeGraphAI/Scrapegraph-ai",
       "description": "Python scraper based on AI",
       "category": "Web Scraping & Automation",
-      "stars": 32883,
-      "forks": 3360,
+      "stars": 32928,
+      "forks": 3366,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -17770,7 +17758,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://scrapegraphai.com"
     },
     {
-      "rankOrder": 719,
+      "rankOrder": 718,
       "full_name": "ChristosChristofidis/awesome-deep-learning",
       "name": "awesome-deep-learning",
       "owner": "ChristosChristofidis",
@@ -17778,8 +17766,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ChristosChristofidis/awesome-deep-learning",
       "description": "A curated list of awesome Deep Learning tutorials, projects and communities.",
       "category": "Awesome Lists & Aggregators",
-      "stars": 29218,
-      "forks": 6340,
+      "stars": 29226,
+      "forks": 6339,
       "language": null,
       "license": null,
       "topics": [
@@ -17798,7 +17786,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 720,
+      "rankOrder": 719,
       "full_name": "jaywcjlove/awesome-mac",
       "name": "awesome-mac",
       "owner": "jaywcjlove",
@@ -17806,8 +17794,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/jaywcjlove/awesome-mac",
       "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
       "category": "Awesome Lists & Aggregators",
-      "stars": 119083,
-      "forks": 10493,
+      "stars": 119311,
+      "forks": 10590,
       "language": "Swift",
       "license": "CC0-1.0",
       "topics": [
@@ -17821,12 +17809,12 @@ window.AWESOME_REPOS_DATA = {
         "desktop-app"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-04-28",
       "homepage": "https://git.io/macx"
     },
     {
-      "rankOrder": 721,
+      "rankOrder": 720,
       "full_name": "dair-ai/Mathematics-for-ML",
       "name": "Mathematics-for-ML",
       "owner": "dair-ai",
@@ -17834,8 +17822,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/dair-ai/Mathematics-for-ML",
       "description": "🧮  A collection of resources to learn mathematics for machine learning",
       "category": "AI in Education & Courses",
-      "stars": 6539,
-      "forks": 743,
+      "stars": 6542,
+      "forks": 741,
       "language": null,
       "license": null,
       "topics": [
@@ -17851,7 +17839,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 722,
+      "rankOrder": 721,
       "full_name": "dair-ai/ML-Notebooks",
       "name": "ML-Notebooks",
       "owner": "dair-ai",
@@ -17859,8 +17847,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/dair-ai/ML-Notebooks",
       "description": ":fire: Machine Learning Notebooks",
       "category": "AI in Education & Courses",
-      "stars": 3437,
-      "forks": 537,
+      "stars": 3436,
+      "forks": 538,
       "language": "Jupyter Notebook",
       "license": "Apache-2.0",
       "topics": [
@@ -17876,7 +17864,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 723,
+      "rankOrder": 722,
       "full_name": "rasbt/LLMs-from-scratch",
       "name": "LLMs-from-scratch",
       "owner": "rasbt",
@@ -17884,8 +17872,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "category": "AI in Education & Courses",
-      "stars": 108785,
-      "forks": 16817,
+      "stars": 109015,
+      "forks": 16848,
       "language": "Jupyter Notebook",
       "license": "NOASSERTION",
       "topics": [
@@ -17899,12 +17887,12 @@ window.AWESOME_REPOS_DATA = {
         "gpt"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-04-27",
       "homepage": "https://amzn.to/4fqvn0D"
     },
     {
-      "rankOrder": 724,
+      "rankOrder": 723,
       "full_name": "pytorch/torchtitan",
       "name": "torchtitan",
       "owner": "pytorch",
@@ -17912,18 +17900,18 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/pytorch/torchtitan",
       "description": "A PyTorch native platform for training generative AI models",
       "category": "Large Language Models (LLMs)",
-      "stars": 5940,
-      "forks": 1096,
+      "stars": 5974,
+      "forks": 1103,
       "language": "Python",
       "license": "BSD-3-Clause",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-04-26",
       "homepage": null
     },
     {
-      "rankOrder": 725,
+      "rankOrder": 724,
       "full_name": "meetpateltech/AI-Infinity",
       "name": "AI-Infinity",
       "owner": "meetpateltech",
@@ -17931,7 +17919,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/meetpateltech/AI-Infinity",
       "description": "A set of AI tools that will help you explore the infinite possibilities of AI.",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 572,
+      "stars": 571,
       "forks": 108,
       "language": null,
       "license": "CC0-1.0",
@@ -17948,7 +17936,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://ai-infinity.vercel.app/"
     },
     {
-      "rankOrder": 726,
+      "rankOrder": 725,
       "full_name": "TMElyralab/MuseTalk",
       "name": "MuseTalk",
       "owner": "TMElyralab",
@@ -17956,8 +17944,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/TMElyralab/MuseTalk",
       "description": "MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting",
       "category": "Computer Vision & Image Generation",
-      "stars": 7005,
-      "forks": 1025,
+      "stars": 7034,
+      "forks": 1034,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -17970,7 +17958,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 727,
+      "rankOrder": 726,
       "full_name": "stanford-oval/storm",
       "name": "storm",
       "owner": "stanford-oval",
@@ -17978,8 +17966,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/stanford-oval/storm",
       "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
       "category": "Retrieval-Augmented Generation (RAG)",
-      "stars": 31923,
-      "forks": 3018,
+      "stars": 31950,
+      "forks": 3023,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -17998,7 +17986,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "http://storm.genie.stanford.edu"
     },
     {
-      "rankOrder": 728,
+      "rankOrder": 727,
       "full_name": "nilbuild/developer-roadmap",
       "name": "developer-roadmap",
       "owner": "nilbuild",
@@ -18006,8 +17994,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/nilbuild/developer-roadmap",
       "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
       "category": "AI in Education & Courses",
-      "stars": 372524,
-      "forks": 45377,
+      "stars": 372716,
+      "forks": 45390,
       "language": "TypeScript",
       "license": "NOASSERTION",
       "topics": [
@@ -18021,12 +18009,12 @@ window.AWESOME_REPOS_DATA = {
         "frontend-roadmap"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2024-04-25",
       "homepage": "https://roadmap.sh"
     },
     {
-      "rankOrder": 729,
+      "rankOrder": 728,
       "full_name": "myshell-ai/OpenVoice",
       "name": "OpenVoice",
       "owner": "myshell-ai",
@@ -18034,8 +18022,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/myshell-ai/OpenVoice",
       "description": "Instant voice cloning by MIT and MyShell. Audio foundation model.",
       "category": "Speech & Audio (TTS, ASR, Music)",
-      "stars": 38299,
-      "forks": 4298,
+      "stars": 38319,
+      "forks": 4300,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -18050,7 +18038,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://research.myshell.ai/open-voice"
     },
     {
-      "rankOrder": 730,
+      "rankOrder": 729,
       "full_name": "TheAlgorithms/Python",
       "name": "Python",
       "owner": "TheAlgorithms",
@@ -18058,8 +18046,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/TheAlgorithms/Python",
       "description": "All Algorithms implemented in Python",
       "category": "AI in Education & Courses",
-      "stars": 226377,
-      "forks": 51341,
+      "stars": 226442,
+      "forks": 51342,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -18078,7 +18066,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://thealgorithms.github.io/Python/"
     },
     {
-      "rankOrder": 731,
+      "rankOrder": 730,
       "full_name": "xtekky/gpt4free",
       "name": "gpt4free",
       "owner": "xtekky",
@@ -18086,8 +18074,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/xtekky/gpt4free",
       "description": "The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3",
       "category": "Conversational AI & Chatbots",
-      "stars": 67098,
-      "forks": 13436,
+      "stars": 67105,
+      "forks": 13434,
       "language": "Python",
       "license": "GPL-3.0",
       "topics": [
@@ -18101,12 +18089,12 @@ window.AWESOME_REPOS_DATA = {
         "deepseek"
       ],
       "archived": false,
-      "pushed_at": "2026-11-11",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-04-23",
       "homepage": "https://t.me/g4f_channel"
     },
     {
-      "rankOrder": 732,
+      "rankOrder": 731,
       "full_name": "Aider-AI/aider",
       "name": "aider",
       "owner": "Aider-AI",
@@ -18114,8 +18102,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Aider-AI/aider",
       "description": "aider is AI pair programming in your terminal",
       "category": "AI Automation & Workflow Tools",
-      "stars": 50213,
-      "forks": 5180,
+      "stars": 50249,
+      "forks": 5188,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -18134,7 +18122,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://aider.chat/"
     },
     {
-      "rankOrder": 733,
+      "rankOrder": 732,
       "full_name": "assafelovic/gpt-researcher",
       "name": "gpt-researcher",
       "owner": "assafelovic",
@@ -18142,8 +18130,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/assafelovic/gpt-researcher",
       "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 30820,
-      "forks": 4250,
+      "stars": 30896,
+      "forks": 4267,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -18157,12 +18145,12 @@ window.AWESOME_REPOS_DATA = {
         "python"
       ],
       "archived": false,
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-23",
       "starred_at": "2024-04-22",
       "homepage": "https://gptr.dev"
     },
     {
-      "rankOrder": 734,
+      "rankOrder": 733,
       "full_name": "Comfy-Org/ComfyUI",
       "name": "ComfyUI",
       "owner": "Comfy-Org",
@@ -18170,8 +18158,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
       "category": "Generative AI",
-      "stars": 148008,
-      "forks": 17626,
+      "stars": 148509,
+      "forks": 17697,
       "language": "Python",
       "license": "GPL-3.0",
       "topics": [
@@ -18183,12 +18171,12 @@ window.AWESOME_REPOS_DATA = {
         "stable-diffusion"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-04-22",
       "homepage": "https://www.comfy.org/"
     },
     {
-      "rankOrder": 735,
+      "rankOrder": 734,
       "full_name": "unslothai/unsloth",
       "name": "unsloth",
       "owner": "unslothai",
@@ -18196,8 +18184,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/unslothai/unsloth",
       "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
       "category": "Large Language Models (LLMs)",
-      "stars": 79932,
-      "forks": 7440,
+      "stars": 80208,
+      "forks": 7468,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -18211,12 +18199,12 @@ window.AWESOME_REPOS_DATA = {
         "llama"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-04-22",
       "homepage": "https://unsloth.ai/docs"
     },
     {
-      "rankOrder": 736,
+      "rankOrder": 735,
       "full_name": "crewAIInc/crewAI",
       "name": "crewAI",
       "owner": "crewAIInc",
@@ -18224,8 +18212,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/crewAIInc/crewAI",
       "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 61153,
-      "forks": 9235,
+      "stars": 61241,
+      "forks": 9280,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -18236,12 +18224,12 @@ window.AWESOME_REPOS_DATA = {
         "llms"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-04-22",
       "homepage": "https://crewai.com"
     },
     {
-      "rankOrder": 737,
+      "rankOrder": 736,
       "full_name": "meta-llama/PurpleLlama",
       "name": "PurpleLlama",
       "owner": "meta-llama",
@@ -18249,8 +18237,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/meta-llama/PurpleLlama",
       "description": "Set of tools to assess and improve LLM security.",
       "category": "AI Testing & Evaluation",
-      "stars": 4488,
-      "forks": 795,
+      "stars": 4494,
+      "forks": 798,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [],
@@ -18260,7 +18248,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 738,
+      "rankOrder": 737,
       "full_name": "hiyouga/LlamaFactory",
       "name": "LlamaFactory",
       "owner": "hiyouga",
@@ -18268,8 +18256,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/hiyouga/LlamaFactory",
       "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
       "category": "Natural Language Processing (NLP)",
-      "stars": 76185,
-      "forks": 9385,
+      "stars": 76269,
+      "forks": 9410,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -18283,12 +18271,12 @@ window.AWESOME_REPOS_DATA = {
         "large-language-models"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-04-22",
       "homepage": "https://llamafactory.readthedocs.io"
     },
     {
-      "rankOrder": 739,
+      "rankOrder": 738,
       "full_name": "openinterpreter/01",
       "name": "01",
       "owner": "openinterpreter",
@@ -18296,7 +18284,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/openinterpreter/01",
       "description": "The #1 open-source voice interface for desktop, mobile, and ESP32 chips.",
       "category": "IoT & Edge AI",
-      "stars": 5165,
+      "stars": 5166,
       "forks": 528,
       "language": "Python",
       "license": "AGPL-3.0",
@@ -18307,7 +18295,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://01.openinterpreter.com/"
     },
     {
-      "rankOrder": 740,
+      "rankOrder": 739,
       "full_name": "microsoft/promptflow",
       "name": "promptflow",
       "owner": "microsoft",
@@ -18315,8 +18303,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/microsoft/promptflow",
       "description": "Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.",
       "category": "Prompt Engineering",
-      "stars": 11270,
-      "forks": 1125,
+      "stars": 11275,
+      "forks": 1126,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -18330,12 +18318,12 @@ window.AWESOME_REPOS_DATA = {
         "prompt-engineering"
       ],
       "archived": false,
-      "pushed_at": "2026-11-16",
+      "pushed_at": "2026-11-22",
       "starred_at": "2024-04-22",
       "homepage": "https://microsoft.github.io/promptflow/"
     },
     {
-      "rankOrder": 741,
+      "rankOrder": 740,
       "full_name": "reflex-dev/reflex",
       "name": "reflex",
       "owner": "reflex-dev",
@@ -18343,8 +18331,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/reflex-dev/reflex",
       "description": "🕸️ Web apps in pure Python 🐍",
       "category": "AI UX/UI Design & Interaction",
-      "stars": 29047,
-      "forks": 1842,
+      "stars": 29046,
+      "forks": 1841,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -18358,12 +18346,12 @@ window.AWESOME_REPOS_DATA = {
         "gui"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-04-22",
       "homepage": "https://reflex.dev"
     },
     {
-      "rankOrder": 742,
+      "rankOrder": 741,
       "full_name": "langgenius/dify",
       "name": "dify",
       "owner": "langgenius",
@@ -18371,8 +18359,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/langgenius/dify",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
       "category": "AI Frameworks & Toolkits",
-      "stars": 161639,
-      "forks": 25533,
+      "stars": 161862,
+      "forks": 25552,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -18386,12 +18374,12 @@ window.AWESOME_REPOS_DATA = {
         "deepseek"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-03-31",
       "homepage": "https://dify.ai"
     },
     {
-      "rankOrder": 743,
+      "rankOrder": 742,
       "full_name": "stas00/ml-engineering",
       "name": "ml-engineering",
       "owner": "stas00",
@@ -18399,8 +18387,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/stas00/ml-engineering",
       "description": "Machine Learning Engineering Open Book",
       "category": "LLMOps & Deployment",
-      "stars": 19739,
-      "forks": 1305,
+      "stars": 19747,
+      "forks": 1306,
       "language": "Python",
       "license": "CC-BY-SA-4.0",
       "topics": [
@@ -18414,12 +18402,12 @@ window.AWESOME_REPOS_DATA = {
         "machine-learning-engineering"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-03-20",
       "homepage": "https://stasosphere.com/machine-learning/"
     },
     {
-      "rankOrder": 744,
+      "rankOrder": 743,
       "full_name": "e-johnstonn/SalesCopilot",
       "name": "SalesCopilot",
       "owner": "e-johnstonn",
@@ -18441,7 +18429,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 745,
+      "rankOrder": 744,
       "full_name": "LargeWorldModel/LWM",
       "name": "LWM",
       "owner": "LargeWorldModel",
@@ -18449,7 +18437,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/LargeWorldModel/LWM",
       "description": "Large World Model -- Modeling Text and Video with Millions Context",
       "category": "Large Language Models (LLMs)",
-      "stars": 7418,
+      "stars": 7417,
       "forks": 562,
       "language": "Python",
       "license": "Apache-2.0",
@@ -18460,7 +18448,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://largeworldmodel.github.io/"
     },
     {
-      "rankOrder": 746,
+      "rankOrder": 745,
       "full_name": "microsoft/IoT-For-Beginners",
       "name": "IoT-For-Beginners",
       "owner": "microsoft",
@@ -18468,8 +18456,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/microsoft/IoT-For-Beginners",
       "description": "12 Weeks, 24 Lessons, IoT for All!",
       "category": "IoT & Edge AI",
-      "stars": 17206,
-      "forks": 2942,
+      "stars": 17213,
+      "forks": 2950,
       "language": "Jupyter Notebook",
       "license": "MIT",
       "topics": [
@@ -18488,7 +18476,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 747,
+      "rankOrder": 746,
       "full_name": "microsoft/iot-curriculum",
       "name": "iot-curriculum",
       "owner": "microsoft",
@@ -18516,7 +18504,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 748,
+      "rankOrder": 747,
       "full_name": "microsoft/muzic",
       "name": "muzic",
       "owner": "microsoft",
@@ -18525,7 +18513,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "Muzic: Music Understanding and Generation with Artificial Intelligence",
       "category": "Speech & Audio (TTS, ASR, Music)",
       "stars": 4958,
-      "forks": 501,
+      "forks": 502,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -18540,7 +18528,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 749,
+      "rankOrder": 748,
       "full_name": "deepspeedai/DeepSpeed",
       "name": "DeepSpeed",
       "owner": "deepspeedai",
@@ -18548,8 +18536,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/deepspeedai/DeepSpeed",
       "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
       "category": "AI Frameworks & Toolkits",
-      "stars": 43347,
-      "forks": 5090,
+      "stars": 43360,
+      "forks": 5089,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -18563,12 +18551,12 @@ window.AWESOME_REPOS_DATA = {
         "mixture-of-experts"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-02-11",
       "homepage": "https://www.deepspeed.ai/"
     },
     {
-      "rankOrder": 750,
+      "rankOrder": 749,
       "full_name": "metavoiceio/metavoice-src",
       "name": "metavoice-src",
       "owner": "metavoiceio",
@@ -18577,7 +18565,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "Foundational model for human-like, expressive TTS",
       "category": "Speech & Audio (TTS, ASR, Music)",
       "stars": 4200,
-      "forks": 688,
+      "forks": 687,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -18596,7 +18584,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://themetavoice.xyz/"
     },
     {
-      "rankOrder": 751,
+      "rankOrder": 750,
       "full_name": "PacktPublishing/Artificial-Intelligence-for-IoT-Cookbook",
       "name": "Artificial-Intelligence-for-IoT-Cookbook",
       "owner": "PacktPublishing",
@@ -18615,7 +18603,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 752,
+      "rankOrder": 751,
       "full_name": "business-science/cheatsheets",
       "name": "cheatsheets",
       "owner": "business-science",
@@ -18634,7 +18622,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 753,
+      "rankOrder": 752,
       "full_name": "camoverride/lit",
       "name": "lit",
       "owner": "camoverride",
@@ -18642,7 +18630,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/camoverride/lit",
       "description": "Literature for the self-taught AI practitioner! 📚",
       "category": "AI in Education & Courses",
-      "stars": 1895,
+      "stars": 1896,
       "forks": 555,
       "language": null,
       "license": null,
@@ -18661,7 +18649,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 754,
+      "rankOrder": 753,
       "full_name": "quqxui/Awesome-LLM4IE-Papers",
       "name": "Awesome-LLM4IE-Papers",
       "owner": "quqxui",
@@ -18689,7 +18677,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://arxiv.org/abs/2312.17617"
     },
     {
-      "rankOrder": 755,
+      "rankOrder": 754,
       "full_name": "aurelio-labs/semantic-router",
       "name": "semantic-router",
       "owner": "aurelio-labs",
@@ -18697,8 +18685,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/aurelio-labs/semantic-router",
       "description": "Superfast AI decision making and intelligent processing of multi-modal data.",
       "category": "Conversational AI & Chatbots",
-      "stars": 4040,
-      "forks": 398,
+      "stars": 4047,
+      "forks": 400,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -18711,12 +18699,12 @@ window.AWESOME_REPOS_DATA = {
         "nlp"
       ],
       "archived": false,
-      "pushed_at": "2026-11-09",
+      "pushed_at": "2026-11-25",
       "starred_at": "2024-01-03",
       "homepage": "https://www.aurelio.ai/semantic-router"
     },
     {
-      "rankOrder": 756,
+      "rankOrder": 755,
       "full_name": "Zoeyyao27/CoT-Igniting-Agent",
       "name": "CoT-Igniting-Agent",
       "owner": "Zoeyyao27",
@@ -18735,7 +18723,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://arxiv.org/pdf/2311.11797.pdf"
     },
     {
-      "rankOrder": 757,
+      "rankOrder": 756,
       "full_name": "AppFlowy-IO/AppFlowy",
       "name": "AppFlowy",
       "owner": "AppFlowy-IO",
@@ -18743,8 +18731,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/AppFlowy-IO/AppFlowy",
       "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
       "category": "Knowledge Management & Graphs",
-      "stars": 79340,
-      "forks": 6336,
+      "stars": 79524,
+      "forks": 6364,
       "language": "Dart",
       "license": "AGPL-3.0",
       "topics": [
@@ -18763,7 +18751,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://appflowy.com"
     },
     {
-      "rankOrder": 758,
+      "rankOrder": 757,
       "full_name": "openai/openai-cookbook",
       "name": "openai-cookbook",
       "owner": "openai",
@@ -18771,8 +18759,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/openai/openai-cookbook",
       "description": "Examples and guides for using the OpenAI API",
       "category": "AI in Education & Courses",
-      "stars": 77271,
-      "forks": 13068,
+      "stars": 77472,
+      "forks": 13082,
       "language": "Jupyter Notebook",
       "license": "MIT",
       "topics": [
@@ -18782,12 +18770,12 @@ window.AWESOME_REPOS_DATA = {
         "openai-api"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2023-11-09",
       "homepage": "https://cookbook.openai.com"
     },
     {
-      "rankOrder": 759,
+      "rankOrder": 758,
       "full_name": "ggml-org/whisper.cpp",
       "name": "whisper.cpp",
       "owner": "ggml-org",
@@ -18795,8 +18783,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/ggml-org/whisper.cpp",
       "description": "Port of OpenAI's Whisper model in C/C++",
       "category": "Speech & Audio (TTS, ASR, Music)",
-      "stars": 55412,
-      "forks": 6335,
+      "stars": 55503,
+      "forks": 6351,
       "language": "C++",
       "license": "MIT",
       "topics": [
@@ -18808,12 +18796,12 @@ window.AWESOME_REPOS_DATA = {
         "whisper"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2023-11-09",
       "homepage": null
     },
     {
-      "rankOrder": 760,
+      "rankOrder": 759,
       "full_name": "microsoft/generative-ai-for-beginners",
       "name": "generative-ai-for-beginners",
       "owner": "microsoft",
@@ -18821,8 +18809,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "description": "21 Lessons, Get Started Building with Generative AI",
       "category": "AI in Education & Courses",
-      "stars": 123976,
-      "forks": 66795,
+      "stars": 124148,
+      "forks": 66931,
       "language": "Jupyter Notebook",
       "license": "MIT",
       "topics": [
@@ -18841,7 +18829,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 761,
+      "rankOrder": 760,
       "full_name": "public-apis/public-apis",
       "name": "public-apis",
       "owner": "public-apis",
@@ -18849,8 +18837,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
       "category": "Awesome Lists & Aggregators",
-      "stars": 500677,
-      "forks": 56221,
+      "stars": 501283,
+      "forks": 56354,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -18864,12 +18852,12 @@ window.AWESOME_REPOS_DATA = {
         "open-source"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-22",
       "starred_at": "2023-11-08",
       "homepage": "https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo"
     },
     {
-      "rankOrder": 762,
+      "rankOrder": 761,
       "full_name": "Hannibal046/Awesome-LLM",
       "name": "Awesome-LLM",
       "owner": "Hannibal046",
@@ -18877,8 +18865,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Hannibal046/Awesome-LLM",
       "description": "Awesome-LLM: a curated list of Large Language Model",
       "category": "Awesome Lists & Aggregators",
-      "stars": 27516,
-      "forks": 2789,
+      "stars": 27514,
+      "forks": 2794,
       "language": null,
       "license": "CC0-1.0",
       "topics": [],
@@ -18888,7 +18876,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 763,
+      "rankOrder": 762,
       "full_name": "tensorchord/Awesome-LLMOps",
       "name": "Awesome-LLMOps",
       "owner": "tensorchord",
@@ -18896,8 +18884,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/tensorchord/Awesome-LLMOps",
       "description": "An awesome & curated list of best LLMOps tools for developers",
       "category": "Awesome Lists & Aggregators",
-      "stars": 5979,
-      "forks": 1384,
+      "stars": 5983,
+      "forks": 1402,
       "language": "Shell",
       "license": "CC0-1.0",
       "topics": [
@@ -18912,7 +18900,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 764,
+      "rankOrder": 763,
       "full_name": "microsoft/AI-For-Beginners",
       "name": "AI-For-Beginners",
       "owner": "microsoft",
@@ -18920,8 +18908,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "description": "12 Weeks, 24 Lessons, AI for All!",
       "category": "AI in Education & Courses",
-      "stars": 71144,
-      "forks": 13845,
+      "stars": 71246,
+      "forks": 13867,
       "language": "Jupyter Notebook",
       "license": "MIT",
       "topics": [
@@ -18940,7 +18928,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 765,
+      "rankOrder": 764,
       "full_name": "microsoft/autogen",
       "name": "autogen",
       "owner": "microsoft",
@@ -18948,8 +18936,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/microsoft/autogen",
       "description": "A programming framework for agentic AI",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 61957,
-      "forks": 9407,
+      "stars": 61968,
+      "forks": 9414,
       "language": "Python",
       "license": "CC-BY-4.0",
       "topics": [
@@ -18968,7 +18956,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://microsoft.github.io/autogen/"
     },
     {
-      "rankOrder": 766,
+      "rankOrder": 765,
       "full_name": "guardrails-ai/guardrails",
       "name": "guardrails",
       "owner": "guardrails-ai",
@@ -18976,8 +18964,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/guardrails-ai/guardrails",
       "description": "Adding guardrails to large language models.",
       "category": "AI Testing & Evaluation",
-      "stars": 7635,
-      "forks": 747,
+      "stars": 7642,
+      "forks": 751,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -18988,12 +18976,12 @@ window.AWESOME_REPOS_DATA = {
         "openai"
       ],
       "archived": false,
-      "pushed_at": "2026-11-18",
+      "pushed_at": "2026-11-24",
       "starred_at": "2023-11-07",
       "homepage": "https://www.guardrailsai.com/docs"
     },
     {
-      "rankOrder": 767,
+      "rankOrder": 766,
       "full_name": "langchain-ai/opengpts",
       "name": "opengpts",
       "owner": "langchain-ai",
@@ -19012,7 +19000,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 768,
+      "rankOrder": 767,
       "full_name": "gkamradt/langchain-tutorials",
       "name": "langchain-tutorials",
       "owner": "gkamradt",
@@ -19020,8 +19008,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/gkamradt/langchain-tutorials",
       "description": "Overview and tutorial of the LangChain Library",
       "category": "AI in Education & Courses",
-      "stars": 7493,
-      "forks": 1993,
+      "stars": 7491,
+      "forks": 1991,
       "language": "Jupyter Notebook",
       "license": null,
       "topics": [],
@@ -19031,7 +19019,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 769,
+      "rankOrder": 768,
       "full_name": "tjunlp-lab/Awesome-LLMs-Evaluation-Papers",
       "name": "Awesome-LLMs-Evaluation-Papers",
       "owner": "tjunlp-lab",
@@ -19040,7 +19028,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "The papers are organized according to our survey: Evaluating Large Language Models: A Comprehensive Survey.",
       "category": "AI Testing & Evaluation",
       "stars": 813,
-      "forks": 70,
+      "forks": 69,
       "language": null,
       "license": null,
       "topics": [],
@@ -19050,7 +19038,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 770,
+      "rankOrder": 769,
       "full_name": "langchain-ai/langchain",
       "name": "langchain",
       "owner": "langchain-ai",
@@ -19058,8 +19046,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/langchain-ai/langchain",
       "description": "The agent engineering platform.",
       "category": "AI Frameworks & Toolkits",
-      "stars": 149963,
-      "forks": 25154,
+      "stars": 149964,
+      "forks": 25164,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -19073,12 +19061,12 @@ window.AWESOME_REPOS_DATA = {
         "framework"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-25",
       "starred_at": "2023-11-01",
       "homepage": "https://docs.langchain.com/langchain/"
     },
     {
-      "rankOrder": 771,
+      "rankOrder": 770,
       "full_name": "IvanReznikov/DataVerse",
       "name": "DataVerse",
       "owner": "IvanReznikov",
@@ -19097,7 +19085,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://www.linkedin.com/in/reznikovivan/"
     },
     {
-      "rankOrder": 772,
+      "rankOrder": 771,
       "full_name": "trimstray/the-book-of-secret-knowledge",
       "name": "the-book-of-secret-knowledge",
       "owner": "trimstray",
@@ -19105,8 +19093,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
       "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
       "category": "Awesome Lists & Aggregators",
-      "stars": 260337,
-      "forks": 14929,
+      "stars": 261172,
+      "forks": 14963,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -19125,7 +19113,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 773,
+      "rankOrder": 772,
       "full_name": "sindresorhus/awesome",
       "name": "awesome",
       "owner": "sindresorhus",
@@ -19133,8 +19121,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/sindresorhus/awesome",
       "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
       "category": "Awesome Lists & Aggregators",
-      "stars": 540626,
-      "forks": 38578,
+      "stars": 542477,
+      "forks": 38667,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -19150,7 +19138,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 774,
+      "rankOrder": 773,
       "full_name": "OpenBMB/ChatDev",
       "name": "ChatDev",
       "owner": "OpenBMB",
@@ -19158,8 +19146,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/OpenBMB/ChatDev",
       "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 34837,
-      "forks": 4352,
+      "stars": 34869,
+      "forks": 4361,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [],
@@ -19169,7 +19157,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://arxiv.org/abs/2307.07924"
     },
     {
-      "rankOrder": 775,
+      "rankOrder": 774,
       "full_name": "Pythagora-io/gpt-pilot",
       "name": "gpt-pilot",
       "owner": "Pythagora-io",
@@ -19177,8 +19165,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Pythagora-io/gpt-pilot",
       "description": "The first real AI developer",
       "category": "AI Automation & Workflow Tools",
-      "stars": 33640,
-      "forks": 3449,
+      "stars": 33639,
+      "forks": 3445,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -19195,7 +19183,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 776,
+      "rankOrder": 775,
       "full_name": "fastai/lm-hackers",
       "name": "lm-hackers",
       "owner": "fastai",
@@ -19214,7 +19202,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://fastai.github.io/lm-hackers/lm-hackers.html"
     },
     {
-      "rankOrder": 777,
+      "rankOrder": 776,
       "full_name": "aiwaves-cn/agents",
       "name": "agents",
       "owner": "aiwaves-cn",
@@ -19222,7 +19210,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/aiwaves-cn/agents",
       "description": "An Open-source Framework for Data-centric, Self-evolving Autonomous Language Agents",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 5964,
+      "stars": 5965,
       "forks": 481,
       "language": "Python",
       "license": "Apache-2.0",
@@ -19237,7 +19225,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 778,
+      "rankOrder": 777,
       "full_name": "soulmachine/machine-learning-cheat-sheet",
       "name": "machine-learning-cheat-sheet",
       "owner": "soulmachine",
@@ -19245,7 +19233,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/soulmachine/machine-learning-cheat-sheet",
       "description": "Classical equations and diagrams in machine learning",
       "category": "AI in Education & Courses",
-      "stars": 8046,
+      "stars": 8045,
       "forks": 1326,
       "language": "TeX",
       "license": null,
@@ -19256,7 +19244,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "http://soulmachine.me"
     },
     {
-      "rankOrder": 779,
+      "rankOrder": 778,
       "full_name": "openinterpreter/openinterpreter",
       "name": "openinterpreter",
       "owner": "openinterpreter",
@@ -19264,8 +19252,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/openinterpreter/openinterpreter",
       "description": "A coding agent for open models like Kimi K3.1 and GLM 5.3",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 68933,
-      "forks": 5944,
+      "stars": 68962,
+      "forks": 5946,
       "language": "Rust",
       "license": "Apache-2.0",
       "topics": [
@@ -19278,12 +19266,12 @@ window.AWESOME_REPOS_DATA = {
         "rust"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-24",
       "starred_at": "2023-09-10",
       "homepage": "http://openinterpreter.com/"
     },
     {
-      "rankOrder": 780,
+      "rankOrder": 779,
       "full_name": "SeungyounShin/Llama2-Code-Interpreter",
       "name": "Llama2-Code-Interpreter",
       "owner": "SeungyounShin",
@@ -19307,7 +19295,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 781,
+      "rankOrder": 780,
       "full_name": "kenjihiranabe/The-Art-of-Linear-Algebra",
       "name": "The-Art-of-Linear-Algebra",
       "owner": "kenjihiranabe",
@@ -19315,7 +19303,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra",
       "description": "Graphic notes on Gilbert Strang's \"Linear Algebra for Everyone\"",
       "category": "AI in Education & Courses",
-      "stars": 21903,
+      "stars": 21907,
       "forks": 2585,
       "language": "PostScript",
       "license": "CC0-1.0",
@@ -19326,7 +19314,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 782,
+      "rankOrder": 781,
       "full_name": "Significant-Gravitas/AutoGPT",
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
@@ -19334,8 +19322,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "category": "AI Agents & Multi-Agent Systems",
-      "stars": 188124,
-      "forks": 45826,
+      "stars": 188176,
+      "forks": 45822,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -19349,12 +19337,12 @@ window.AWESOME_REPOS_DATA = {
         "llama-api"
       ],
       "archived": false,
-      "pushed_at": "2026-11-22",
+      "pushed_at": "2026-11-25",
       "starred_at": "2023-04-05",
       "homepage": "https://agpt.co"
     },
     {
-      "rankOrder": 783,
+      "rankOrder": 782,
       "full_name": "twitter/the-algorithm",
       "name": "the-algorithm",
       "owner": "twitter",
@@ -19362,7 +19350,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/twitter/the-algorithm",
       "description": "Source code for the X Recommendation Algorithm",
       "category": "Machine Learning (Traditional)",
-      "stars": 74098,
+      "stars": 74117,
       "forks": 13229,
       "language": "Scala",
       "license": "AGPL-3.0",
@@ -19373,7 +19361,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm"
     },
     {
-      "rankOrder": 784,
+      "rankOrder": 783,
       "full_name": "tatsu-lab/stanford_alpaca",
       "name": "stanford_alpaca",
       "owner": "tatsu-lab",
@@ -19381,8 +19369,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/tatsu-lab/stanford_alpaca",
       "description": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
       "category": "Large Language Models (LLMs)",
-      "stars": 30223,
-      "forks": 3950,
+      "stars": 30221,
+      "forks": 3951,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -19396,7 +19384,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://crfm.stanford.edu/2023/03/13/alpaca.html"
     },
     {
-      "rankOrder": 785,
+      "rankOrder": 784,
       "full_name": "microsoft/semantic-kernel",
       "name": "semantic-kernel",
       "owner": "microsoft",
@@ -19404,8 +19392,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/microsoft/semantic-kernel",
       "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
       "category": "AI Frameworks & Toolkits",
-      "stars": 28791,
-      "forks": 4866,
+      "stars": 28804,
+      "forks": 4868,
       "language": "C#",
       "license": "MIT",
       "topics": [
@@ -19416,12 +19404,12 @@ window.AWESOME_REPOS_DATA = {
         "sdk"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-23",
       "starred_at": "2023-03-19",
       "homepage": "https://aka.ms/semantic-kernel"
     },
     {
-      "rankOrder": 786,
+      "rankOrder": 785,
       "full_name": "mayooear/ai-pdf-chatbot-langchain",
       "name": "ai-pdf-chatbot-langchain",
       "owner": "mayooear",
@@ -19429,8 +19417,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/mayooear/ai-pdf-chatbot-langchain",
       "description": "AI PDF chatbot agent built with LangChain & LangGraph",
       "category": "Retrieval-Augmented Generation (RAG)",
-      "stars": 16578,
-      "forks": 3225,
+      "stars": 16576,
+      "forks": 3224,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -19449,7 +19437,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://www.youtube.com/watch?v=OF6SolDiEwU"
     },
     {
-      "rankOrder": 787,
+      "rankOrder": 786,
       "full_name": "togethercomputer/OpenChatKit",
       "name": "OpenChatKit",
       "owner": "togethercomputer",
@@ -19457,7 +19445,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/togethercomputer/OpenChatKit",
       "description": "Open-source toolkit and base models for building specialized and general-purpose chat applications.",
       "category": "Large Language Models (LLMs)",
-      "stars": 8975,
+      "stars": 8974,
       "forks": 989,
       "language": "Python",
       "license": "Apache-2.0",
@@ -19468,7 +19456,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 788,
+      "rankOrder": 787,
       "full_name": "openai/evals",
       "name": "evals",
       "owner": "openai",
@@ -19476,8 +19464,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/openai/evals",
       "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
       "category": "AI Testing & Evaluation",
-      "stars": 19777,
-      "forks": 3130,
+      "stars": 19802,
+      "forks": 3133,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [],
@@ -19487,7 +19475,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 789,
+      "rankOrder": 788,
       "full_name": "run-llama/llama_index",
       "name": "llama_index",
       "owner": "run-llama",
@@ -19495,8 +19483,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/run-llama/llama_index",
       "description": "LlamaIndex is the document processing platform for AI",
       "category": "Retrieval-Augmented Generation (RAG)",
-      "stars": 52973,
-      "forks": 8610,
+      "stars": 52997,
+      "forks": 8627,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -19515,7 +19503,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://developers.llamaindex.ai"
     },
     {
-      "rankOrder": 790,
+      "rankOrder": 789,
       "full_name": "chenfei-wu/TaskMatrix",
       "name": "TaskMatrix",
       "owner": "chenfei-wu",
@@ -19523,7 +19511,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/chenfei-wu/TaskMatrix",
       "description": "Visual ChatGPT connecting conversational LLMs with visual foundation models.",
       "category": "Computer Vision & Image Generation",
-      "stars": 33885,
+      "stars": 33883,
       "forks": 3180,
       "language": "Python",
       "license": "NOASSERTION",
@@ -19534,7 +19522,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 791,
+      "rankOrder": 790,
       "full_name": "princeton-nlp/PURE",
       "name": "PURE",
       "owner": "princeton-nlp",
@@ -19556,7 +19544,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 792,
+      "rankOrder": 791,
       "full_name": "arnabbiswas1/kaggle_pipeline_tps_aug_22",
       "name": "kaggle_pipeline_tps_aug_22",
       "owner": "arnabbiswas1",
@@ -19575,7 +19563,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 793,
+      "rankOrder": 792,
       "full_name": "doccano/doccano",
       "name": "doccano",
       "owner": "doccano",
@@ -19583,7 +19571,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/doccano/doccano",
       "description": "Open source annotation tool for machine learning practitioners.",
       "category": "AI Frameworks & Toolkits",
-      "stars": 10811,
+      "stars": 10815,
       "forks": 1821,
       "language": "Python",
       "license": "MIT",
@@ -19603,7 +19591,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 794,
+      "rankOrder": 793,
       "full_name": "alirezamika/autoscraper",
       "name": "autoscraper",
       "owner": "alirezamika",
@@ -19611,8 +19599,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/alirezamika/autoscraper",
       "description": "A Smart, Automatic, Fast and Lightweight Web Scraper for Python",
       "category": "Web Scraping & Automation",
-      "stars": 8102,
-      "forks": 836,
+      "stars": 8106,
+      "forks": 837,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -19631,7 +19619,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 795,
+      "rankOrder": 794,
       "full_name": "brandonrobertz/autoscrape-py",
       "name": "autoscrape-py",
       "owner": "brandonrobertz",
@@ -19655,7 +19643,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 796,
+      "rankOrder": 795,
       "full_name": "codertimo/BERT-pytorch",
       "name": "BERT-pytorch",
       "owner": "codertimo",
@@ -19680,7 +19668,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 797,
+      "rankOrder": 796,
       "full_name": "google-research/bert",
       "name": "bert",
       "owner": "google-research",
@@ -19689,7 +19677,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "TensorFlow code and pre-trained models for BERT",
       "category": "Natural Language Processing (NLP)",
       "stars": 40019,
-      "forks": 9651,
+      "forks": 9649,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -19705,7 +19693,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://arxiv.org/abs/1810.04805"
     },
     {
-      "rankOrder": 798,
+      "rankOrder": 797,
       "full_name": "nlp-with-transformers/notebooks",
       "name": "notebooks",
       "owner": "nlp-with-transformers",
@@ -19713,7 +19701,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/nlp-with-transformers/notebooks",
       "description": "Jupyter notebooks for the Natural Language Processing with Transformers book",
       "category": "AI in Education & Courses",
-      "stars": 4836,
+      "stars": 4837,
       "forks": 1481,
       "language": "Jupyter Notebook",
       "license": "Apache-2.0",
@@ -19724,7 +19712,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://transformersbook.com/"
     },
     {
-      "rankOrder": 799,
+      "rankOrder": 798,
       "full_name": "lucidrains/vit-pytorch",
       "name": "vit-pytorch",
       "owner": "lucidrains",
@@ -19732,7 +19720,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/lucidrains/vit-pytorch",
       "description": "Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",
       "category": "Computer Vision & Image Generation",
-      "stars": 25589,
+      "stars": 25595,
       "forks": 3493,
       "language": "Python",
       "license": "MIT",
@@ -19744,12 +19732,12 @@ window.AWESOME_REPOS_DATA = {
         "transformers"
       ],
       "archived": false,
-      "pushed_at": "2026-11-07",
+      "pushed_at": "2026-11-24",
       "starred_at": "2021-09-16",
       "homepage": null
     },
     {
-      "rankOrder": 800,
+      "rankOrder": 799,
       "full_name": "wintests/pytestDemo",
       "name": "pytestDemo",
       "owner": "wintests",
@@ -19757,7 +19745,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/wintests/pytestDemo",
       "description": "使用 Python+Requests+Pytest+YAML+Allure 实现接口自动化",
       "category": "AI Testing & Evaluation",
-      "stars": 1086,
+      "stars": 1087,
       "forks": 430,
       "language": "Python",
       "license": null,
@@ -19768,7 +19756,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 801,
+      "rankOrder": 800,
       "full_name": "realpython/python-guide",
       "name": "python-guide",
       "owner": "realpython",
@@ -19776,8 +19764,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/realpython/python-guide",
       "description": "Python best practices guidebook, written for humans.",
       "category": "AI in Education & Courses",
-      "stars": 29924,
-      "forks": 5872,
+      "stars": 29930,
+      "forks": 5871,
       "language": "Batchfile",
       "license": "NOASSERTION",
       "topics": [
@@ -19791,7 +19779,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://docs.python-guide.org"
     },
     {
-      "rankOrder": 802,
+      "rankOrder": 801,
       "full_name": "vinta/awesome-python",
       "name": "awesome-python",
       "owner": "vinta",
@@ -19799,8 +19787,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/vinta/awesome-python",
       "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
       "category": "Awesome Lists & Aggregators",
-      "stars": 336308,
-      "forks": 29140,
+      "stars": 336999,
+      "forks": 29142,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -19817,7 +19805,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://awesome-python.com/"
     },
     {
-      "rankOrder": 803,
+      "rankOrder": 802,
       "full_name": "docker-library/python",
       "name": "python",
       "owner": "docker-library",
@@ -19825,7 +19813,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/docker-library/python",
       "description": "Docker Official Image packaging for Python",
       "category": "DevOps & Cloud Infrastructure",
-      "stars": 2798,
+      "stars": 2800,
       "forks": 1114,
       "language": "Dockerfile",
       "license": "MIT",
@@ -19836,7 +19824,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://www.python.org/"
     },
     {
-      "rankOrder": 804,
+      "rankOrder": 803,
       "full_name": "geekcomputers/Python",
       "name": "Python",
       "owner": "geekcomputers",
@@ -19844,18 +19832,18 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/geekcomputers/Python",
       "description": "My Python Examples",
       "category": "AI in Education & Courses",
-      "stars": 35508,
+      "stars": 35518,
       "forks": 12923,
       "language": "Python",
       "license": "MIT",
       "topics": [],
       "archived": false,
-      "pushed_at": "2026-11-16",
+      "pushed_at": "2026-11-24",
       "starred_at": "2021-07-16",
       "homepage": "http://www.thegeekblog.co.uk"
     },
     {
-      "rankOrder": 805,
+      "rankOrder": 804,
       "full_name": "vopani/datatableton",
       "name": "datatableton",
       "owner": "vopani",
@@ -19880,7 +19868,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 806,
+      "rankOrder": 805,
       "full_name": "chiphuyen/ml-interviews-book",
       "name": "ml-interviews-book",
       "owner": "chiphuyen",
@@ -19888,8 +19876,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/chiphuyen/ml-interviews-book",
       "description": "https://huyenchip.com/ml-interviews-book/",
       "category": "AI in Education & Courses",
-      "stars": 4822,
-      "forks": 690,
+      "stars": 4823,
+      "forks": 691,
       "language": "HTML",
       "license": null,
       "topics": [],
@@ -19899,7 +19887,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 807,
+      "rankOrder": 806,
       "full_name": "yzhao062/anomaly-detection-resources",
       "name": "anomaly-detection-resources",
       "owner": "yzhao062",
@@ -19907,7 +19895,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/yzhao062/anomaly-detection-resources",
       "description": "Anomaly detection related books, papers, videos, and toolboxes. Last update late 2025 for LLM and VLM works!",
       "category": "Awesome Lists & Aggregators",
-      "stars": 9457,
+      "stars": 9460,
       "forks": 1799,
       "language": "Python",
       "license": "AGPL-3.0",
@@ -19927,7 +19915,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 808,
+      "rankOrder": 807,
       "full_name": "Netflix/vizceral",
       "name": "vizceral",
       "owner": "Netflix",
@@ -19952,7 +19940,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 809,
+      "rankOrder": 808,
       "full_name": "trekhleb/homemade-machine-learning",
       "name": "homemade-machine-learning",
       "owner": "trekhleb",
@@ -19960,8 +19948,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/trekhleb/homemade-machine-learning",
       "description": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
       "category": "Machine Learning (Traditional)",
-      "stars": 24861,
-      "forks": 4177,
+      "stars": 24867,
+      "forks": 4175,
       "language": "Jupyter Notebook",
       "license": "MIT",
       "topics": [
@@ -19979,7 +19967,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 810,
+      "rankOrder": 809,
       "full_name": "the-full-stack/course-gitbook",
       "name": "course-gitbook",
       "owner": "the-full-stack",
@@ -19987,7 +19975,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/the-full-stack/course-gitbook",
       "description": "Full Stack Deep Learning Online Course",
       "category": "AI in Education & Courses",
-      "stars": 932,
+      "stars": 933,
       "forks": 193,
       "language": null,
       "license": null,
@@ -20001,7 +19989,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://fall2019.fullstackdeeplearning.com"
     },
     {
-      "rankOrder": 811,
+      "rankOrder": 810,
       "full_name": "cpapadimitriou/Click-Through-Rate-prediction",
       "name": "Click-Through-Rate-prediction",
       "owner": "cpapadimitriou",
@@ -20020,7 +20008,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 812,
+      "rankOrder": 811,
       "full_name": "nicolargo/glances",
       "name": "glances",
       "owner": "nicolargo",
@@ -20028,8 +20016,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/nicolargo/glances",
       "description": "Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.",
       "category": "Productivity & Developer Tools",
-      "stars": 34002,
-      "forks": 1841,
+      "stars": 34012,
+      "forks": 1846,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -20043,12 +20031,12 @@ window.AWESOME_REPOS_DATA = {
         "web"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-24",
       "starred_at": "2021-01-24",
       "homepage": "http://nicolargo.github.io/glances/"
     },
     {
-      "rankOrder": 813,
+      "rankOrder": 812,
       "full_name": "Developer-Y/cs-video-courses",
       "name": "cs-video-courses",
       "owner": "Developer-Y",
@@ -20056,8 +20044,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/Developer-Y/cs-video-courses",
       "description": "List of Computer Science courses with video lectures.",
       "category": "AI in Education & Courses",
-      "stars": 84903,
-      "forks": 11652,
+      "stars": 84985,
+      "forks": 11664,
       "language": null,
       "license": null,
       "topics": [
@@ -20071,12 +20059,12 @@ window.AWESOME_REPOS_DATA = {
         "database-systems"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-24",
       "starred_at": "2021-01-15",
       "homepage": null
     },
     {
-      "rankOrder": 814,
+      "rankOrder": 813,
       "full_name": "dair-ai/ml-visuals",
       "name": "ml-visuals",
       "owner": "dair-ai",
@@ -20084,7 +20072,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/dair-ai/ml-visuals",
       "description": "🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.",
       "category": "Natural Language Processing (NLP)",
-      "stars": 17458,
+      "stars": 17461,
       "forks": 1548,
       "language": null,
       "license": "MIT",
@@ -20101,7 +20089,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 815,
+      "rankOrder": 814,
       "full_name": "anukchat/cassava_leaf_classifier",
       "name": "cassava_leaf_classifier",
       "owner": "anukchat",
@@ -20128,7 +20116,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 816,
+      "rankOrder": 815,
       "full_name": "jabertuhin/image-classification-api",
       "name": "image-classification-api",
       "owner": "jabertuhin",
@@ -20151,7 +20139,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 817,
+      "rankOrder": 816,
       "full_name": "anukchat/face-watcher",
       "name": "face-watcher",
       "owner": "anukchat",
@@ -20170,7 +20158,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 818,
+      "rankOrder": 817,
       "full_name": "abhishekkrthakur/tez",
       "name": "tez",
       "owner": "abhishekkrthakur",
@@ -20195,7 +20183,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 819,
+      "rankOrder": 818,
       "full_name": "EthicalML/awesome-production-machine-learning",
       "name": "awesome-production-machine-learning",
       "owner": "EthicalML",
@@ -20203,8 +20191,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/EthicalML/awesome-production-machine-learning",
       "description": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
       "category": "Awesome Lists & Aggregators",
-      "stars": 21122,
-      "forks": 2621,
+      "stars": 21127,
+      "forks": 2622,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -20218,12 +20206,12 @@ window.AWESOME_REPOS_DATA = {
         "large-scale-ml"
       ],
       "archived": false,
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-24",
       "starred_at": "2020-10-19",
       "homepage": "https://ethicalml.github.io/awesome-production-machine-learning"
     },
     {
-      "rankOrder": 820,
+      "rankOrder": 819,
       "full_name": "dair-ai/d2l-study-group",
       "name": "d2l-study-group",
       "owner": "dair-ai",
@@ -20242,7 +20230,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 821,
+      "rankOrder": 820,
       "full_name": "qubvel-org/segmentation_models.pytorch",
       "name": "segmentation_models.pytorch",
       "owner": "qubvel-org",
@@ -20250,7 +20238,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/qubvel-org/segmentation_models.pytorch",
       "description": "Semantic segmentation models with 500+ pretrained convolutional and transformer-based backbones.",
       "category": "Computer Vision & Image Generation",
-      "stars": 11816,
+      "stars": 11817,
       "forks": 1853,
       "language": "Python",
       "license": "MIT",
@@ -20265,12 +20253,12 @@ window.AWESOME_REPOS_DATA = {
         "imagenet"
       ],
       "archived": false,
-      "pushed_at": "2026-11-19",
+      "pushed_at": "2026-11-23",
       "starred_at": "2020-10-08",
       "homepage": "https://smp.readthedocs.io/"
     },
     {
-      "rankOrder": 822,
+      "rankOrder": 821,
       "full_name": "john-smilga/gatsby-strapi-portfolio-site-2020",
       "name": "gatsby-strapi-portfolio-site-2020",
       "owner": "john-smilga",
@@ -20289,7 +20277,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 823,
+      "rankOrder": 822,
       "full_name": "tbakerx/react-resume-template",
       "name": "react-resume-template",
       "owner": "tbakerx",
@@ -20297,7 +20285,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/tbakerx/react-resume-template",
       "description": "A personal resume website template built with React.js, Typescript, Next.js, and styled with Tailwind css",
       "category": "Productivity & Developer Tools",
-      "stars": 2148,
+      "stars": 2150,
       "forks": 1599,
       "language": "TypeScript",
       "license": "MIT",
@@ -20317,7 +20305,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://reactresume.com"
     },
     {
-      "rankOrder": 824,
+      "rankOrder": 823,
       "full_name": "mldangelo/personal-site",
       "name": "personal-site",
       "owner": "mldangelo",
@@ -20340,12 +20328,12 @@ window.AWESOME_REPOS_DATA = {
         "resume-website"
       ],
       "archived": false,
-      "pushed_at": "2026-11-20",
+      "pushed_at": "2026-11-25",
       "starred_at": "2020-10-06",
       "homepage": "https://mldangelo.com"
     },
     {
-      "rankOrder": 825,
+      "rankOrder": 824,
       "full_name": "imfing/vuepress-homepage",
       "name": "vuepress-homepage",
       "owner": "imfing",
@@ -20372,7 +20360,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://vuepress-homepage.netlify.com"
     },
     {
-      "rankOrder": 826,
+      "rankOrder": 825,
       "full_name": "hugo-themes/toha",
       "name": "toha",
       "owner": "hugo-themes",
@@ -20381,7 +20369,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "A Hugo theme for personal portfolio",
       "category": "Finance & Quantitative Tools",
       "stars": 1251,
-      "forks": 719,
+      "forks": 717,
       "language": "HTML",
       "license": "MIT",
       "topics": [
@@ -20395,12 +20383,12 @@ window.AWESOME_REPOS_DATA = {
         "portfolio"
       ],
       "archived": false,
-      "pushed_at": "2026-11-21",
+      "pushed_at": "2026-11-22",
       "starred_at": "2020-09-29",
       "homepage": "https://portfolio.hugo-themes.com"
     },
     {
-      "rankOrder": 827,
+      "rankOrder": 826,
       "full_name": "chrisbobbe/jekyll-theme-prologue",
       "name": "jekyll-theme-prologue",
       "owner": "chrisbobbe",
@@ -20409,7 +20397,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "A Jekyll version of the \"Prologue\" theme by HTML5 UP",
       "category": "Finance & Quantitative Tools",
       "stars": 451,
-      "forks": 900,
+      "forks": 899,
       "language": "SCSS",
       "license": "NOASSERTION",
       "topics": [
@@ -20426,7 +20414,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://chrisbobbe.github.io/jekyll-theme-prologue/"
     },
     {
-      "rankOrder": 828,
+      "rankOrder": 827,
       "full_name": "bloominstituteoftechnology/portfolio-website",
       "name": "portfolio-website",
       "owner": "bloominstituteoftechnology",
@@ -20434,8 +20422,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/bloominstituteoftechnology/portfolio-website",
       "description": "A project to get you up and running with a portfolio site",
       "category": "Finance & Quantitative Tools",
-      "stars": 365,
-      "forks": 2857,
+      "stars": 364,
+      "forks": 2856,
       "language": null,
       "license": null,
       "topics": [],
@@ -20445,7 +20433,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 829,
+      "rankOrder": 828,
       "full_name": "StartBootstrap/startbootstrap-freelancer",
       "name": "startbootstrap-freelancer",
       "owner": "StartBootstrap",
@@ -20473,7 +20461,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://startbootstrap.com/theme/freelancer/"
     },
     {
-      "rankOrder": 830,
+      "rankOrder": 829,
       "full_name": "oleg-agapov/oleg-agapov.github.io",
       "name": "oleg-agapov.github.io",
       "owner": "oleg-agapov",
@@ -20492,7 +20480,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://olegagapov.com"
     },
     {
-      "rankOrder": 831,
+      "rankOrder": 830,
       "full_name": "tbaltrushaitis/cv",
       "name": "cv",
       "owner": "tbaltrushaitis",
@@ -20520,7 +20508,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "http://bit.ly/tomascv"
     },
     {
-      "rankOrder": 832,
+      "rankOrder": 831,
       "full_name": "yousinix/portfolYOU",
       "name": "portfolYOU",
       "owner": "yousinix",
@@ -20528,7 +20516,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/yousinix/portfolYOU",
       "description": "A beautiful portfolio Jekyll theme that works with GitHub Pages.",
       "category": "Finance & Quantitative Tools",
-      "stars": 1169,
+      "stars": 1168,
       "forks": 667,
       "language": "HTML",
       "license": "MIT",
@@ -20547,7 +20535,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://yousinix.github.io/portfolYOU"
     },
     {
-      "rankOrder": 833,
+      "rankOrder": 832,
       "full_name": "jarrekk/Jalpc",
       "name": "Jalpc",
       "owner": "jarrekk",
@@ -20556,7 +20544,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "🍎Jalpc -- A flexible Jekyll theme, 3 steps to build your website.",
       "category": "Productivity & Developer Tools",
       "stars": 1039,
-      "forks": 1065,
+      "forks": 1064,
       "language": "SCSS",
       "license": "MIT",
       "topics": [
@@ -20575,7 +20563,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://jarrekk.github.io/Jalpc/"
     },
     {
-      "rankOrder": 834,
+      "rankOrder": 833,
       "full_name": "AakashKumarNain/annotated_research_papers",
       "name": "annotated_research_papers",
       "owner": "AakashKumarNain",
@@ -20583,7 +20571,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/AakashKumarNain/annotated_research_papers",
       "description": "This repo contains annotated research papers that I found really good and useful",
       "category": "AI in Education & Courses",
-      "stars": 2803,
+      "stars": 2804,
       "forks": 264,
       "language": null,
       "license": "MIT",
@@ -20600,7 +20588,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 835,
+      "rankOrder": 834,
       "full_name": "thiagodp/concordialang",
       "name": "concordialang",
       "owner": "thiagodp",
@@ -20628,7 +20616,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://concordialang.org"
     },
     {
-      "rankOrder": 836,
+      "rankOrder": 835,
       "full_name": "abhishekkrthakur/colabcode",
       "name": "colabcode",
       "owner": "abhishekkrthakur",
@@ -20647,7 +20635,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 837,
+      "rankOrder": 836,
       "full_name": "ritchieng/the-incredible-pytorch",
       "name": "the-incredible-pytorch",
       "owner": "ritchieng",
@@ -20656,7 +20644,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.",
       "category": "AI in Education & Courses",
       "stars": 12667,
-      "forks": 2213,
+      "forks": 2212,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -20673,7 +20661,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 838,
+      "rankOrder": 837,
       "full_name": "firmai/industry-machine-learning",
       "name": "industry-machine-learning",
       "owner": "firmai",
@@ -20682,7 +20670,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)",
       "category": "Machine Learning (Traditional)",
       "stars": 7493,
-      "forks": 1244,
+      "forks": 1245,
       "language": "Jupyter Notebook",
       "license": null,
       "topics": [
@@ -20701,7 +20689,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://www.sov.ai/"
     },
     {
-      "rankOrder": 839,
+      "rankOrder": 838,
       "full_name": "visenger/awesome-mlops",
       "name": "awesome-mlops",
       "owner": "visenger",
@@ -20710,7 +20698,7 @@ window.AWESOME_REPOS_DATA = {
       "description": "A curated list of references for MLOps",
       "category": "MLOps & ML Infrastructure",
       "stars": 14307,
-      "forks": 2138,
+      "forks": 2137,
       "language": null,
       "license": null,
       "topics": [
@@ -20729,7 +20717,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": "https://ml-ops.org"
     },
     {
-      "rankOrder": 840,
+      "rankOrder": 839,
       "full_name": "eugeneyan/applied-ml",
       "name": "applied-ml",
       "owner": "eugeneyan",
@@ -20737,7 +20725,7 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/eugeneyan/applied-ml",
       "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
       "category": "MLOps & ML Infrastructure",
-      "stars": 30948,
+      "stars": 30962,
       "forks": 4066,
       "language": null,
       "license": "MIT",
@@ -20757,7 +20745,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 841,
+      "rankOrder": 840,
       "full_name": "floodsung/Deep-Learning-Papers-Reading-Roadmap",
       "name": "Deep-Learning-Papers-Reading-Roadmap",
       "owner": "floodsung",
@@ -20765,8 +20753,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap",
       "description": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
       "category": "AI in Education & Courses",
-      "stars": 39608,
-      "forks": 7242,
+      "stars": 39611,
+      "forks": 7238,
       "language": "Python",
       "license": null,
       "topics": [
@@ -20778,7 +20766,7 @@ window.AWESOME_REPOS_DATA = {
       "homepage": null
     },
     {
-      "rankOrder": 842,
+      "rankOrder": 841,
       "full_name": "FavioVazquez/ds-cheatsheets",
       "name": "ds-cheatsheets",
       "owner": "FavioVazquez",
@@ -20786,8 +20774,8 @@ window.AWESOME_REPOS_DATA = {
       "url": "https://github.com/FavioVazquez/ds-cheatsheets",
       "description": "List of Data Science Cheatsheets to rule the world",
       "category": "AI in Education & Courses",
-      "stars": 16383,
-      "forks": 4018,
+      "stars": 16390,
+      "forks": 4017,
       "language": null,
       "license": "MIT",
       "topics": [

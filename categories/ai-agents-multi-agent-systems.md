@@ -8,147 +8,147 @@
 
 | Repository | Stars | Language | Updated | Description |
 | :--- | ---: | :--- | :--- | :--- |
-| [**morluto/rea**](https://github.com/morluto/rea) | ⭐ 473k | TypeScript | 2026-11-22 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [**openclaw/openclaw**](https://github.com/openclaw/openclaw) | ⭐ 395k | TypeScript | 2026-11-22 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
-| [**mattpocock/skills**](https://github.com/mattpocock/skills) | ⭐ 330k | Shell | 2026-11-19 | Skills for Real Engineers. Straight from my .agents directory. |
-| [**obra/superpowers**](https://github.com/obra/superpowers) | ⭐ 324k | Shell | 2026-11-03 | An agentic skills framework &amp; software development methodology that works. |
-| [**deepseek-ai/deepseek-harness**](https://github.com/deepseek-ai/deepseek-harness) | ⭐ 285k | TypeScript | 2026-11-22 | DeepSeek Harness: Everything is a Plugin. |
-| [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) | ⭐ 265k | Python | 2026-11-22 | The agent that grows with you |
-| [**anomalyco/opencode**](https://github.com/anomalyco/opencode) | ⭐ 228k | TypeScript | 2026-11-22 | The open source coding agent. |
-| [**anthropics/skills**](https://github.com/anthropics/skills) | ⭐ 199k | Python | 2026-11-16 | Public repository for Agent Skills |
-| [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | ⭐ 196k | JavaScript | 2026-11-22 | Makes your AI agent think like the laziest senior dev in the room. The best code is t... |
-| [**Significant-Gravitas/AutoGPT**](https://github.com/Significant-Gravitas/AutoGPT) | ⭐ 188k | Python | 2026-11-22 | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our miss... |
+| [**morluto/rea**](https://github.com/morluto/rea) | ⭐ 478k | TypeScript | 2026-11-25 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [**openclaw/openclaw**](https://github.com/openclaw/openclaw) | ⭐ 395k | TypeScript | 2026-11-25 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
+| [**mattpocock/skills**](https://github.com/mattpocock/skills) | ⭐ 332k | Shell | 2026-11-24 | Skills for Real Engineers. Straight from my .agents directory. |
+| [**obra/superpowers**](https://github.com/obra/superpowers) | ⭐ 326k | Shell | 2026-11-24 | An agentic skills framework &amp; software development methodology that works. |
+| [**deepseek-ai/deepseek-harness**](https://github.com/deepseek-ai/deepseek-harness) | ⭐ 287k | TypeScript | 2026-11-22 | DeepSeek Harness: Everything is a Plugin. |
+| [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) | ⭐ 266k | Python | 2026-11-25 | The agent that grows with you |
+| [**anomalyco/opencode**](https://github.com/anomalyco/opencode) | ⭐ 229k | TypeScript | 2026-11-25 | The open source coding agent. |
+| [**anthropics/skills**](https://github.com/anthropics/skills) | ⭐ 200k | Python | 2026-11-16 | Public repository for Agent Skills |
+| [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) | ⭐ 198k | JavaScript | 2026-11-22 | Makes your AI agent think like the laziest senior dev in the room. The best code is t... |
+| [**Significant-Gravitas/AutoGPT**](https://github.com/Significant-Gravitas/AutoGPT) | ⭐ 188k | Python | 2026-11-25 | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our miss... |
 | [**msitarzewski/agency-agents**](https://github.com/msitarzewski/agency-agents) | ⭐ 170k | Shell | 2026-11-09 | A complete AI agency at your fingertips - From frontend wizards to Reddit community n... |
-| [**anthropics/claude-code**](https://github.com/anthropics/claude-code) | ⭐ 157k | TypeScript | 2026-11-22 | Claude Code is an agentic coding tool that lives in your terminal, understands your c... |
-| [**github/spec-kit**](https://github.com/github/spec-kit) | ⭐ 151k | Python | 2026-11-20 | 💫 Toolkit to help you get started with SDD or any other process! |
-| [**stablyai/orca**](https://github.com/stablyai/orca) | ⭐ 132k | TypeScript | 2026-11-22 | Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok,... |
-| [**earendil-works/pi**](https://github.com/earendil-works/pi) | ⭐ 123k | TypeScript | 2026-11-22 | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
-| [**browser-use/browser-use**](https://github.com/browser-use/browser-use) | ⭐ 122k | Python | 2026-11-22 | Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth bro... |
-| [**addyosmani/agent-skills**](https://github.com/addyosmani/agent-skills) | ⭐ 120k | JavaScript | 2026-11-18 | Production-grade engineering skills for AI coding agents. |
-| [**paperclipai/paperclip**](https://github.com/paperclipai/paperclip) | ⭐ 116k | TypeScript | 2026-11-22 | The open-source app everyone uses to manage agents at work |
-| [**pbakaus/impeccable**](https://github.com/pbakaus/impeccable) | ⭐ 115k | Rust | 2026-11-22 | The design vocabulary for your coding agent. Steer with polish and bolder, review wit... |
-| [**OpenHands/OpenHands**](https://github.com/OpenHands/OpenHands) | ⭐ 94k | TypeScript | 2026-11-22 | 🙌 OpenHands: AI-Driven Development |
-| [**bytedance/deer-flow**](https://github.com/bytedance/deer-flow) | ⭐ 86k | Python | 2026-11-22 | An open-source long-horizon SuperAgent harness that researches, codes, and creates. W... |
-| [**ruvnet/ruflo**](https://github.com/ruvnet/ruflo) | ⭐ 82k | TypeScript | 2026-11-21 | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate aut... |
-| [**mvanhorn/last30days-skill**](https://github.com/mvanhorn/last30days-skill) | ⭐ 72k | Python | 2026-11-22 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, a... |
-| [**blader/humanizer**](https://github.com/blader/humanizer) | ⭐ 72k | Python | 2026-11-19 | Agent skill that removes signs of AI-generated writing from text |
-| [**mem0ai/mem0**](https://github.com/mem0ai/mem0) | ⭐ 69k | Python | 2026-11-18 | The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps... |
-| [**shanraisshan/claude-code-best-practice**](https://github.com/shanraisshan/claude-code-best-practice) | ⭐ 69k | HTML | 2026-11-22 | from vibe coding to agentic engineering - practice makes claude perfect |
-| [**openinterpreter/openinterpreter**](https://github.com/openinterpreter/openinterpreter) | ⭐ 69k | Rust | 2026-11-22 | A coding agent for open models like Kimi K3.1 and GLM 5.3 |
+| [**anthropics/claude-code**](https://github.com/anthropics/claude-code) | ⭐ 157k | TypeScript | 2026-11-25 | Claude Code is an agentic coding tool that lives in your terminal, understands your c... |
+| [**github/spec-kit**](https://github.com/github/spec-kit) | ⭐ 151k | Python | 2026-11-24 | 💫 Toolkit to help you get started with SDD or any other process! |
+| [**stablyai/orca**](https://github.com/stablyai/orca) | ⭐ 137k | TypeScript | 2026-11-25 | Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok,... |
+| [**earendil-works/pi**](https://github.com/earendil-works/pi) | ⭐ 124k | TypeScript | 2026-11-25 | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
+| [**browser-use/browser-use**](https://github.com/browser-use/browser-use) | ⭐ 122k | Python | 2026-11-24 | Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth bro... |
+| [**addyosmani/agent-skills**](https://github.com/addyosmani/agent-skills) | ⭐ 120k | JavaScript | 2026-11-24 | Production-grade engineering skills for AI coding agents. |
+| [**paperclipai/paperclip**](https://github.com/paperclipai/paperclip) | ⭐ 117k | TypeScript | 2026-11-25 | The open-source app everyone uses to manage agents at work |
+| [**pbakaus/impeccable**](https://github.com/pbakaus/impeccable) | ⭐ 116k | Rust | 2026-11-24 | The design vocabulary for your coding agent. Steer with polish and bolder, review wit... |
+| [**OpenHands/OpenHands**](https://github.com/OpenHands/OpenHands) | ⭐ 94k | TypeScript | 2026-11-25 | 🙌 OpenHands: AI-Driven Development |
+| [**bytedance/deer-flow**](https://github.com/bytedance/deer-flow) | ⭐ 86k | Python | 2026-11-25 | An open-source long-horizon SuperAgent harness that researches, codes, and creates. W... |
+| [**ruvnet/ruflo**](https://github.com/ruvnet/ruflo) | ⭐ 82k | TypeScript | 2026-11-25 | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate aut... |
+| [**mvanhorn/last30days-skill**](https://github.com/mvanhorn/last30days-skill) | ⭐ 75k | Python | 2026-11-25 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, a... |
+| [**blader/humanizer**](https://github.com/blader/humanizer) | ⭐ 73k | Python | 2026-11-19 | Agent skill that removes signs of AI-generated writing from text |
+| [**mem0ai/mem0**](https://github.com/mem0ai/mem0) | ⭐ 69k | Python | 2026-11-24 | The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps... |
+| [**shanraisshan/claude-code-best-practice**](https://github.com/shanraisshan/claude-code-best-practice) | ⭐ 69k | HTML | 2026-11-25 | from vibe coding to agentic engineering - practice makes claude perfect |
+| [**openinterpreter/openinterpreter**](https://github.com/openinterpreter/openinterpreter) | ⭐ 69k | Rust | 2026-11-24 | A coding agent for open models like Kimi K3.1 and GLM 5.3 |
+| [**coreyhaines31/marketingskills**](https://github.com/coreyhaines31/marketingskills) | ⭐ 63k | JavaScript | 2026-11-24 | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and... |
 | [**microsoft/autogen**](https://github.com/microsoft/autogen) | ⭐ 62k | Python | 2026-11-12 | A programming framework for agentic AI |
-| [**coreyhaines31/marketingskills**](https://github.com/coreyhaines31/marketingskills) | ⭐ 62k | JavaScript | 2026-11-20 | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and... |
-| [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) | ⭐ 61k | Python | 2026-11-21 | Framework for orchestrating role-playing, autonomous AI agents. By fostering collabor... |
-| [**Nutlope/hallmark**](https://github.com/Nutlope/hallmark) | ⭐ 59k | CSS | 2026-11-11 | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
-| [**anthropics/claude-plugins-official**](https://github.com/anthropics/claude-plugins-official) | ⭐ 48k | Python | 2026-11-21 | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
-| [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) | ⭐ 45k | Python | 2026-11-22 | Build resilient agents. |
-| [**danielmiessler/Fabric**](https://github.com/danielmiessler/Fabric) | ⭐ 45k | Go | 2026-11-21 | Fabric is an open-source framework for augmenting humans using AI. It provides a modu... |
-| [**agno-agi/agno**](https://github.com/agno-agi/agno) | ⭐ 43k | Python | 2026-11-20 | The self-managing agent platform |
-| [**tinyhumansai/openhuman**](https://github.com/tinyhumansai/openhuman) | ⭐ 43k | Rust | 2026-11-20 | The fastest, cheapest, most efficient open-source agent harness. Run more than 500 ag... |
-| [**ashishpatel26/500-AI-Agents-Projects**](https://github.com/ashishpatel26/500-AI-Agents-Projects) | ⭐ 40k | Python | 2026-11-06 | The 500 AI Agents Projects is a curated collection of AI agent use cases across vario... |
+| [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) | ⭐ 61k | Python | 2026-11-25 | Framework for orchestrating role-playing, autonomous AI agents. By fostering collabor... |
+| [**Nutlope/hallmark**](https://github.com/Nutlope/hallmark) | ⭐ 61k | CSS | 2026-11-11 | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| [**anthropics/claude-plugins-official**](https://github.com/anthropics/claude-plugins-official) | ⭐ 48k | Python | 2026-11-24 | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) | ⭐ 45k | Python | 2026-11-24 | Build resilient agents. |
+| [**danielmiessler/Fabric**](https://github.com/danielmiessler/Fabric) | ⭐ 45k | Go | 2026-11-23 | Fabric is an open-source framework for augmenting humans using AI. It provides a modu... |
+| [**agno-agi/agno**](https://github.com/agno-agi/agno) | ⭐ 43k | Python | 2026-11-25 | The self-managing agent platform |
+| [**tinyhumansai/openhuman**](https://github.com/tinyhumansai/openhuman) | ⭐ 43k | Rust | 2026-11-24 | The fastest, cheapest, most efficient open-source agent harness. Run more than 500 ag... |
+| [**ashishpatel26/500-AI-Agents-Projects**](https://github.com/ashishpatel26/500-AI-Agents-Projects) | ⭐ 41k | Python | 2026-11-24 | The 500 AI Agents Projects is a curated collection of AI agent use cases across vario... |
 | [**mindsdb/mindshub**](https://github.com/mindsdb/mindshub) | ⭐ 40k | Makefile | 2026-10-23 | The unified workspace where open-source models get things done for you. |
-| [**can1357/oh-my-pi**](https://github.com/can1357/oh-my-pi) | ⭐ 40k | TypeScript | 2026-11-22 | ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. |
-| [**CopilotKit/CopilotKit**](https://github.com/CopilotKit/CopilotKit) | ⭐ 39k | TypeScript | 2026-11-22 | The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and mor... |
+| [**can1357/oh-my-pi**](https://github.com/can1357/oh-my-pi) | ⭐ 40k | TypeScript | 2026-11-25 | ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. |
+| [**CopilotKit/CopilotKit**](https://github.com/CopilotKit/CopilotKit) | ⭐ 39k | TypeScript | 2026-11-24 | The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and mor... |
 | [**musistudio/claude-code-router**](https://github.com/musistudio/claude-code-router) | ⭐ 38k | TypeScript | 2026-11-21 | One local control plane for every AI agent: route across models, fuse new capabilitie... |
 | [**OpenBMB/ChatDev**](https://github.com/OpenBMB/ChatDev) | ⭐ 35k | Python | 2026-11-06 | ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration |
-| [**mksglu/context-mode**](https://github.com/mksglu/context-mode) | ⭐ 34k | JavaScript | 2026-11-22 | Free, local plugin that keeps tool output out of your coding agent's context window.... |
-| [**langchain-ai/deepagents**](https://github.com/langchain-ai/deepagents) | ⭐ 32k | Python | 2026-11-22 | The batteries-included agent harness. |
-| [**AgriciDaniel/claude-seo**](https://github.com/AgriciDaniel/claude-seo) | ⭐ 31k | Python | 2026-11-16 | Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical... |
-| [**nanocoai/nanoclaw**](https://github.com/nanocoai/nanoclaw) | ⭐ 31k | TypeScript | 2026-11-21 | Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent ru... |
-| [**QwenLM/qwen-code**](https://github.com/QwenLM/qwen-code) | ⭐ 31k | TypeScript | 2026-11-22 | An open-source AI coding agent that lives in your terminal. |
-| [**assafelovic/gpt-researcher**](https://github.com/assafelovic/gpt-researcher) | ⭐ 31k | Python | 2026-11-12 | An autonomous agent that conducts deep research on any data using any LLM providers |
-| [**simstudioai/sim**](https://github.com/simstudioai/sim) | ⭐ 30k | TypeScript | 2026-11-22 | Sim is the collaborative workspace to build, deploy, and monitor AI agents and workfl... |
+| [**mksglu/context-mode**](https://github.com/mksglu/context-mode) | ⭐ 34k | JavaScript | 2026-11-25 | Free, local plugin that keeps tool output out of your coding agent's context window.... |
+| [**AgriciDaniel/claude-seo**](https://github.com/AgriciDaniel/claude-seo) | ⭐ 32k | Python | 2026-11-16 | Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical... |
+| [**langchain-ai/deepagents**](https://github.com/langchain-ai/deepagents) | ⭐ 32k | Python | 2026-11-25 | The batteries-included agent harness. |
+| [**nanocoai/nanoclaw**](https://github.com/nanocoai/nanoclaw) | ⭐ 31k | TypeScript | 2026-11-25 | Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent ru... |
+| [**QwenLM/qwen-code**](https://github.com/QwenLM/qwen-code) | ⭐ 31k | TypeScript | 2026-11-25 | An open-source AI coding agent that lives in your terminal. |
+| [**assafelovic/gpt-researcher**](https://github.com/assafelovic/gpt-researcher) | ⭐ 31k | Python | 2026-11-23 | An autonomous agent that conducts deep research on any data using any LLM providers |
+| [**simstudioai/sim**](https://github.com/simstudioai/sim) | ⭐ 30k | TypeScript | 2026-11-25 | Sim is the collaborative workspace to build, deploy, and monitor AI agents and workfl... |
 | [**Fosowl/agenticSeek**](https://github.com/Fosowl/agenticSeek) | ⭐ 28k | Python | 2026-11-17 | Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that... |
 | [**humanlayer/12-factor-agents**](https://github.com/humanlayer/12-factor-agents) | ⭐ 27k | TypeScript | 2025-09-21 | What are the principles we can use to build LLM-powered software that is actually goo... |
-| [**browserbase/stagehand**](https://github.com/browserbase/stagehand) | ⭐ 26k | TypeScript | 2026-11-21 | The SDK to extract data and interact with any site on the web. Get started with Claud... |
-| [**walkinglabs/learn-harness-engineering**](https://github.com/walkinglabs/learn-harness-engineering) | ⭐ 26k | TypeScript | 2026-11-21 | Harness engineering beginner tutorial, from 0 to 1 |
+| [**browserbase/stagehand**](https://github.com/browserbase/stagehand) | ⭐ 26k | TypeScript | 2026-11-25 | The SDK to extract data and interact with any site on the web. Get started with Claud... |
+| [**walkinglabs/learn-harness-engineering**](https://github.com/walkinglabs/learn-harness-engineering) | ⭐ 26k | TypeScript | 2026-11-24 | Harness engineering beginner tutorial, from 0 to 1 |
 | [**microsoft/JARVIS**](https://github.com/microsoft/JARVIS) | ⭐ 26k | Python | 2025-07-29 | JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303... |
-| [**microsoft/OmniParser**](https://github.com/microsoft/OmniParser) | ⭐ 26k | Jupyter Notebook | 2026-11-14 | A simple screen parsing tool towards pure vision based GUI agent |
-| [**NirDiamant/GenAI_Agents**](https://github.com/NirDiamant/GenAI_Agents) | ⭐ 25k | Jupyter Notebook | 2026-11-02 | 50+ tutorials and implementations for Generative AI Agent techniques, from basic conv... |
-| [**browser-use/jev-ultrafast**](https://github.com/browser-use/jev-ultrafast) | ⭐ 25k | Python | 2026-11-11 | Fastest and cheapest web agent |
+| [**microsoft/OmniParser**](https://github.com/microsoft/OmniParser) | ⭐ 26k | Jupyter Notebook | 2026-11-25 | A simple screen parsing tool towards pure vision based GUI agent |
+| [**NirDiamant/GenAI_Agents**](https://github.com/NirDiamant/GenAI_Agents) | ⭐ 25k | Jupyter Notebook | 2026-11-24 | 50+ tutorials and implementations for Generative AI Agent techniques, from basic conv... |
 | [**google-research/harness2**](https://github.com/google-research/harness2) | ⭐ 25k | Python | 2026-11-02 | Recursive Agent Harnessing for an Open World — research and tooling for agent harness... |
-| [**different-ai/openwork**](https://github.com/different-ai/openwork) | ⭐ 25k | TypeScript | 2026-11-21 | The open-source alternative to Claude Cowork (powered by opencode) |
-| [**google/skills**](https://github.com/google/skills) | ⭐ 25k | Python | 2026-11-21 | Agent Skills for Google products and technologies |
-| [**deepseek-ai/dsh-superagent-prototype**](https://github.com/deepseek-ai/dsh-superagent-prototype) | ⭐ 24k | TypeScript | 2026-11-03 | Towards a More Autonomous Agent System |
+| [**browser-use/jev-ultrafast**](https://github.com/browser-use/jev-ultrafast) | ⭐ 25k | Python | 2026-11-11 | Fastest and cheapest web agent |
+| [**google/skills**](https://github.com/google/skills) | ⭐ 25k | Python | 2026-11-25 | Agent Skills for Google products and technologies |
+| [**different-ai/openwork**](https://github.com/different-ai/openwork) | ⭐ 25k | TypeScript | 2026-11-25 | The open-source alternative to Claude Cowork (powered by opencode) |
+| [**deepseek-ai/dsh-superagent-prototype**](https://github.com/deepseek-ai/dsh-superagent-prototype) | ⭐ 25k | TypeScript | 2026-11-03 | Towards a More Autonomous Agent System |
+| [**google/elephant-goldfish-model**](https://github.com/google/elephant-goldfish-model) | ⭐ 23k | Python | 2026-11-24 | Open-source plugin for designing and reviewing software with agents |
+| [**google/adk-python**](https://github.com/google/adk-python) | ⭐ 22k | Python | 2026-11-25 | An open-source, code-first Python toolkit for building, evaluating, and deploying sop... |
 | [**snarktank/ralph**](https://github.com/snarktank/ralph) | ⭐ 22k | TypeScript | 2026-02-02 | Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are com... |
-| [**google/adk-python**](https://github.com/google/adk-python) | ⭐ 22k | Python | 2026-11-21 | An open-source, code-first Python toolkit for building, evaluating, and deploying sop... |
 | [**openai/swarm**](https://github.com/openai/swarm) | ⭐ 22k | Python | 2026-04-15 | Educational framework exploring ergonomic, lightweight multi-agent orchestration. Man... |
-| [**google/elephant-goldfish-model**](https://github.com/google/elephant-goldfish-model) | ⭐ 22k | Python | 2026-11-21 | Open-source plugin for designing and reviewing software with agents |
 | [**NirDiamant/agents-towards-production**](https://github.com/NirDiamant/agents-towards-production) | ⭐ 22k | Jupyter Notebook | 2026-11-15 | End-to-end, code-first tutorials for building production-grade GenAI agents. From pro... |
-| [**agent0ai/agent-zero**](https://github.com/agent0ai/agent-zero) | ⭐ 20k | Python | 2026-11-21 | Agent Zero AI framework |
-| [**nesquena/hermes-webui**](https://github.com/nesquena/hermes-webui) | ⭐ 20k | Python | 2026-11-22 | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! |
-| [**andrewyng/openworker**](https://github.com/andrewyng/openworker) | ⭐ 20k | Python | 2026-11-20 | Open-source autonomous digital worker and agent execution environment. |
-| [**iii-hq/iii**](https://github.com/iii-hq/iii) | ⭐ 19k | Rust | 2026-11-21 | Effortlessly compose, extend, observe, discover, and react to every service in real-t... |
-| [**emcie-co/parlant**](https://github.com/emcie-co/parlant) | ⭐ 18k | Python | 2026-11-21 | Parlant lets you build and operate reliable CX and support agents from your own AI co... |
-| [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) | ⭐ 18k | TypeScript | 2026-11-19 | Your agent team, in one group chat. |
-| [**coder/coder**](https://github.com/coder/coder) | ⭐ 17k | Go | 2026-11-22 | Secure environments for developers and their agents |
-| [**HKUDS/DeepCode**](https://github.com/HKUDS/DeepCode) | ⭐ 17k | Python | 2026-11-17 | &quot;DeepCode: Open Agentic Coding (Agent Harness &amp; Loop Engineering &amp; Multi-Agent Orches... |
-| [**yc-software/qm**](https://github.com/yc-software/qm) | ⭐ 16k | TypeScript | 2026-11-22 | Multiplayer agent harness for teams |
+| [**agent0ai/agent-zero**](https://github.com/agent0ai/agent-zero) | ⭐ 20k | Python | 2026-11-24 | Agent Zero AI framework |
+| [**nesquena/hermes-webui**](https://github.com/nesquena/hermes-webui) | ⭐ 20k | Python | 2026-11-25 | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! |
+| [**andrewyng/openworker**](https://github.com/andrewyng/openworker) | ⭐ 20k | Python | 2026-11-24 | Open-source autonomous digital worker and agent execution environment. |
+| [**iii-hq/iii**](https://github.com/iii-hq/iii) | ⭐ 19k | Rust | 2026-11-25 | Effortlessly compose, extend, observe, discover, and react to every service in real-t... |
+| [**emcie-co/parlant**](https://github.com/emcie-co/parlant) | ⭐ 18k | Python | 2026-11-24 | Parlant lets you build and operate reliable CX and support agents from your own AI co... |
+| [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) | ⭐ 18k | TypeScript | 2026-11-24 | Your agent team, in one group chat. |
+| [**coder/coder**](https://github.com/coder/coder) | ⭐ 17k | Go | 2026-11-25 | Secure environments for developers and their agents |
+| [**HKUDS/DeepCode**](https://github.com/HKUDS/DeepCode) | ⭐ 17k | Python | 2026-11-23 | &quot;DeepCode: Open Agentic Coding (Agent Harness &amp; Loop Engineering &amp; Multi-Agent Orches... |
+| [**yc-software/qm**](https://github.com/yc-software/qm) | ⭐ 16k | TypeScript | 2026-11-25 | Multiplayer agent harness for teams |
 | [**microsoft/RD-Agent**](https://github.com/microsoft/RD-Agent) | ⭐ 15k | Python | 2026-10-21 | Research and development (R&amp;D) is crucial for the enhancement of industrial productiv... |
-| [**livekit/agents**](https://github.com/livekit/agents) | ⭐ 15k | Python | 2026-11-21 | A framework for building realtime voice AI agents 🤖🎙️📹 |
-| [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) | ⭐ 15k | Python | 2026-11-21 | Open-source, secure environment with real-world tools for enterprise-grade agents. |
-| [**google/ax**](https://github.com/google/ax) | ⭐ 15k | Go | 2026-11-21 | Agent Executor (AX) is Google's open agentic orchestration runtime |
-| [**BasedHardware/omi**](https://github.com/BasedHardware/omi) | ⭐ 14k | Python | 2026-11-22 | AI that sees your screen, listens to your conversations and tells you what to do |
+| [**livekit/agents**](https://github.com/livekit/agents) | ⭐ 15k | Python | 2026-11-25 | A framework for building realtime voice AI agents 🤖🎙️📹 |
+| [**e2b-dev/E2B**](https://github.com/e2b-dev/E2B) | ⭐ 15k | Python | 2026-11-23 | Open-source, secure environment with real-world tools for enterprise-grade agents. |
+| [**google/ax**](https://github.com/google/ax) | ⭐ 15k | Go | 2026-11-25 | Agent Executor (AX) is Google's open agentic orchestration runtime |
+| [**BasedHardware/omi**](https://github.com/BasedHardware/omi) | ⭐ 14k | Python | 2026-11-25 | AI that sees your screen, listens to your conversations and tells you what to do |
 | [**andrewyng/context-hub**](https://github.com/andrewyng/context-hub) | ⭐ 14k | JavaScript | 2026-05-31 | Curated, versioned documentation and context hub to prevent coding agents from halluc... |
-| [**anomalyco/opentui**](https://github.com/anomalyco/opentui) | ⭐ 14k | TypeScript | 2026-11-22 | OpenTUI is a library to build terminal user interfaces (TUI) |
+| [**anomalyco/opentui**](https://github.com/anomalyco/opentui) | ⭐ 14k | TypeScript | 2026-11-25 | OpenTUI is a library to build terminal user interfaces (TUI) |
 | [**langchain-ai/open_deep_research**](https://github.com/langchain-ai/open_deep_research) | ⭐ 13k | Python | 2026-08-10 | Open-source autonomous deep research agent built with LangGraph. |
 | [**contains-studio/agents**](https://github.com/contains-studio/agents) | ⭐ 12k | — | 2025-07-28 | sharing current agents in use |
-| [**omnigent-ai/omnigent**](https://github.com/omnigent-ai/omnigent) | ⭐ 11k | Python | 2026-11-22 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Co... |
-| [**huggingface/skills**](https://github.com/huggingface/skills) | ⭐ 11k | Python | 2026-11-20 | Give your agents the power of the Hugging Face ecosystem |
+| [**janestreet/agent_skills**](https://github.com/janestreet/agent_skills) | ⭐ 12k | — | 2026-11-17 | Agent skills |
+| [**omnigent-ai/omnigent**](https://github.com/omnigent-ai/omnigent) | ⭐ 12k | Python | 2026-11-25 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Co... |
+| [**huggingface/skills**](https://github.com/huggingface/skills) | ⭐ 11k | Python | 2026-11-23 | Give your agents the power of the Hugging Face ecosystem |
 | [**Doriandarko/claude-engineer**](https://github.com/Doriandarko/claude-engineer) | ⭐ 11k | Python | 2024-12-12 | Claude Engineer is an interactive command-line interface (CLI) that leverages the pow... |
 | [**slavingia/skills**](https://github.com/slavingia/skills) | ⭐ 11k | — | 2026-04-14 | Based on The Minimalist Entrepreneur by Sahil Lavingia |
-| [**OpenPipe/ART**](https://github.com/OpenPipe/ART) | ⭐ 11k | Python | 2026-11-19 | Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO.... |
+| [**GoogleChrome/modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | ⭐ 11k | TypeScript | 2026-11-24 | Keep your coding agent up to date with the latest web best practices |
+| [**OpenPipe/ART**](https://github.com/OpenPipe/ART) | ⭐ 11k | Python | 2026-11-24 | Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO.... |
 | [**accomplish-ai/coworker**](https://github.com/accomplish-ai/coworker) | ⭐ 11k | — | 2026-08-13 | Open-source autonomous coworker agent project. |
-| [**google/adk-recipes**](https://github.com/google/adk-recipes) | ⭐ 11k | Python | 2026-11-21 | A collection of agent recipes, reference patterns, and vertical plugins built with Ag... |
-| [**Tencent/BrowserSkill**](https://github.com/Tencent/BrowserSkill) | ⭐ 11k | TypeScript | 2026-11-21 | Let AI agents use your real, logged-in browser without interrupting your work. CLI +... |
-| [**janestreet/agent_skills**](https://github.com/janestreet/agent_skills) | ⭐ 11k | — | 2026-11-17 | Agent skills |
+| [**Tencent/BrowserSkill**](https://github.com/Tencent/BrowserSkill) | ⭐ 11k | TypeScript | 2026-11-25 | Let AI agents use your real, logged-in browser without interrupting your work. CLI +... |
+| [**google/adk-recipes**](https://github.com/google/adk-recipes) | ⭐ 11k | Python | 2026-11-25 | A collection of agent recipes, reference patterns, and vertical plugins built with Ag... |
 | [**microsoft/UFO**](https://github.com/microsoft/UFO) | ⭐ 10k | Python | 2026-10-30 | UFO³: Weaving the Digital Agent Galaxy |
-| [**GoogleChrome/modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | ⭐ 10k | TypeScript | 2026-11-20 | Keep your coding agent up to date with the latest web best practices |
+| [**SWE-agent/mini-swe-agent**](https://github.com/SWE-agent/mini-swe-agent) | ⭐ 10k | Python | 2026-11-23 | The 100 line AI agent that solves GitHub issues or helps you in your command line. Ra... |
 | [**cloudflare/moltworker**](https://github.com/cloudflare/moltworker) | ⭐ 9.9k | TypeScript | 2026-05-09 | Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers |
-| [**SWE-agent/mini-swe-agent**](https://github.com/SWE-agent/mini-swe-agent) | ⭐ 9.9k | Python | 2026-11-16 | The 100 line AI agent that solves GitHub issues or helps you in your command line. Ra... |
 | [**HKUDS/AutoAgent**](https://github.com/HKUDS/AutoAgent) | ⭐ 9.8k | Python | 2025-10-16 | &quot;AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework&quot; |
-| [**openclaw/clawhub**](https://github.com/openclaw/clawhub) | ⭐ 9.6k | TypeScript | 2026-11-21 | Skill + Plugin Registry for OpenClaw |
-| [**mvschwarz/openrig**](https://github.com/mvschwarz/openrig) | ⭐ 8.9k | TypeScript | 2026-11-22 | Build your own network of agents from Claude Code, Codex and Pi: persistent teams wit... |
-| [**superdesigndev/treg**](https://github.com/superdesigndev/treg) | ⭐ 8.7k | Python | 2026-11-22 | OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn |
+| [**openclaw/clawhub**](https://github.com/openclaw/clawhub) | ⭐ 9.6k | TypeScript | 2026-11-25 | Skill + Plugin Registry for OpenClaw |
+| [**Jakeschincariol/instagram-agent-skill**](https://github.com/Jakeschincariol/instagram-agent-skill) | ⭐ 9.1k | Python | 2026-09-13 | Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formul... |
+| [**mvschwarz/openrig**](https://github.com/mvschwarz/openrig) | ⭐ 9k | TypeScript | 2026-11-25 | Build your own network of agents from Claude Code, Codex and Pi: persistent teams wit... |
+| [**superdesigndev/treg**](https://github.com/superdesigndev/treg) | ⭐ 8.9k | Python | 2026-11-25 | OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn |
 | [**withastro/flue**](https://github.com/withastro/flue) | ⭐ 8.7k | TypeScript | 2026-11-18 | The sandbox agent framework. |
-| [**anthropics/claude-agent-sdk-python**](https://github.com/anthropics/claude-agent-sdk-python) | ⭐ 8.6k | Python | 2026-11-20 | Official Python SDK for building and orchestrating agents with Claude. |
-| [**JetBrains/thinkrail**](https://github.com/JetBrains/thinkrail) | ⭐ 8.4k | TypeScript | 2026-11-21 | ThinkRail is the agentic IDE that gets better every time you use it |
-| [**agent-substrate/substrate**](https://github.com/agent-substrate/substrate) | ⭐ 8.1k | Go | 2026-11-21 | Agent Substrate: the core system |
-| [**Jakeschincariol/instagram-agent-skill**](https://github.com/Jakeschincariol/instagram-agent-skill) | ⭐ 8k | Python | 2026-09-13 | Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formul... |
-| [**steel-dev/steel-browser**](https://github.com/steel-dev/steel-browser) | ⭐ 8k | TypeScript | 2026-11-21 | 🔥 Open Source Browser API for AI Agents &amp; Apps. Steel Browser is a batteries-include... |
-| [**algorithmicsuperintelligence/openevolve**](https://github.com/algorithmicsuperintelligence/openevolve) | ⭐ 7.8k | Python | 2026-11-21 | Open-source implementation of AlphaEvolve |
+| [**anthropics/claude-agent-sdk-python**](https://github.com/anthropics/claude-agent-sdk-python) | ⭐ 8.6k | Python | 2026-11-25 | Official Python SDK for building and orchestrating agents with Claude. |
+| [**JetBrains/thinkrail**](https://github.com/JetBrains/thinkrail) | ⭐ 8.4k | TypeScript | 2026-11-25 | ThinkRail is the agentic IDE that gets better every time you use it |
+| [**agent-substrate/substrate**](https://github.com/agent-substrate/substrate) | ⭐ 8.3k | Go | 2026-11-25 | Agent Substrate: the core system |
+| [**steel-dev/steel-browser**](https://github.com/steel-dev/steel-browser) | ⭐ 8k | TypeScript | 2026-11-25 | 🔥 Open Source Browser API for AI Agents &amp; Apps. Steel Browser is a batteries-include... |
+| [**algorithmicsuperintelligence/openevolve**](https://github.com/algorithmicsuperintelligence/openevolve) | ⭐ 7.9k | Python | 2026-11-25 | Open-source implementation of AlphaEvolve |
 | [**microsoft/TinyTroupe**](https://github.com/microsoft/TinyTroupe) | ⭐ 7.7k | Jupyter Notebook | 2026-11-06 | LLM-powered multiagent persona simulation for imagination enhancement and business in... |
 | [**refly-ai/refly**](https://github.com/refly-ai/refly) | ⭐ 7.6k | TypeScript | 2026-11-02 | The first open-source agent skills builder. Define skills by vibe workflow, run on Cl... |
-| [**kyegomez/swarms**](https://github.com/kyegomez/swarms) | ⭐ 7.4k | Python | 2026-11-22 | The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai |
-| [**danyuchn/asd-ste100-skill**](https://github.com/danyuchn/asd-ste100-skill) | ⭐ 6.8k | Python | 2026-11-20 | ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for... |
-| [**loopx-project/loopx**](https://github.com/loopx-project/loopx) | ⭐ 6.7k | Python | 2026-11-22 | The control plane for 24/7 always-on agents. Turn long-horizon goals into verifiable... |
+| [**kyegomez/swarms**](https://github.com/kyegomez/swarms) | ⭐ 7.4k | Python | 2026-11-25 | The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai |
+| [**vercel-labs/ui**](https://github.com/vercel-labs/ui) | ⭐ 7.3k | TypeScript | 2026-11-24 | A library of behaviors for agents to build and drive the next generation of user inte... |
+| [**danyuchn/asd-ste100-skill**](https://github.com/danyuchn/asd-ste100-skill) | ⭐ 6.9k | Python | 2026-11-24 | ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for... |
+| [**loopx-project/loopx**](https://github.com/loopx-project/loopx) | ⭐ 6.8k | Python | 2026-11-25 | The control plane for 24/7 always-on agents. Turn long-horizon goals into verifiable... |
 | [**langchain-ai/opengpts**](https://github.com/langchain-ai/opengpts) | ⭐ 6.7k | Rich Text Format | 2025-06-26 | Open-source platform creating a customizable experience similar to OpenAI GPTs and As... |
-| [**vercel-labs/ui**](https://github.com/vercel-labs/ui) | ⭐ 6.5k | TypeScript | 2026-11-22 | A library of behaviors for agents to build the next generation of user interfaces. |
-| [**macro-inc/macro**](https://github.com/macro-inc/macro) | ⭐ 6.4k | Rust | 2026-11-22 | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and... |
+| [**macro-inc/macro**](https://github.com/macro-inc/macro) | ⭐ 6.5k | Rust | 2026-11-25 | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and... |
 | [**lavague-ai/LaVague**](https://github.com/lavague-ai/LaVague) | ⭐ 6.4k | Python | 2025-01-21 | Large Action Model framework to develop AI Web Agents |
 | [**nirholas/fresh-start**](https://github.com/nirholas/fresh-start) | ⭐ 6.2k | — | 2026-11-18 | Record of the former nirholas/claude-code mirror: the DMCA, the leak timeline and the... |
 | [**crewAIInc/crewAI-examples**](https://github.com/crewAIInc/crewAI-examples) | ⭐ 6.2k | Jupyter Notebook | 2026-04-20 | A collection of examples that show how to use CrewAI framework to automate workflows. |
 | [**aiwaves-cn/agents**](https://github.com/aiwaves-cn/agents) | ⭐ 6k | Python | 2024-09-26 | An Open-source Framework for Data-centric, Self-evolving Autonomous Language Agents |
-| [**microsoft/skill-recorder**](https://github.com/microsoft/skill-recorder) | ⭐ 5.9k | TypeScript | 2026-11-19 | Desktop app that records your on-screen work session and uses the GitHub Copilot SDK... |
+| [**microsoft/skill-recorder**](https://github.com/microsoft/skill-recorder) | ⭐ 5.9k | TypeScript | 2026-11-23 | Desktop app that records your on-screen work session and uses the GitHub Copilot SDK... |
 | [**andrewyng/translation-agent**](https://github.com/andrewyng/translation-agent) | ⭐ 5.8k | Python | 2024-08-04 | Agentic machine translation using a multi-step reflection workflow. |
 | [**JoshuaC215/agent-service-toolkit**](https://github.com/JoshuaC215/agent-service-toolkit) | ⭐ 4.6k | Python | 2026-11-16 | Full toolkit for running an AI agent service built with LangGraph, FastAPI and Stream... |
-| [**HarnessRouter/harnessrouter**](https://github.com/HarnessRouter/harnessrouter) | ⭐ 4.4k | Python | 2026-11-22 | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified i... |
+| [**HarnessRouter/harnessrouter**](https://github.com/HarnessRouter/harnessrouter) | ⭐ 4.5k | Python | 2026-11-25 | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified i... |
 | [**composio-community/open-claude-cowork**](https://github.com/composio-community/open-claude-cowork) | ⭐ 4.3k | JavaScript | 2026-05-23 | Open Source version of Claude Cowork with 500+ SaaS app integrations |
-| [**cosmicstack-labs/mercury-agent**](https://github.com/cosmicstack-labs/mercury-agent) | ⭐ 4.1k | TypeScript | 2026-11-21 | Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel... |
+| [**cosmicstack-labs/mercury-agent**](https://github.com/cosmicstack-labs/mercury-agent) | ⭐ 4.1k | TypeScript | 2026-11-24 | Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel... |
 | [**Paper2Poster/Paper2Poster**](https://github.com/Paper2Poster/Paper2Poster) | ⭐ 4.1k | Python | 2026-11-11 | [NeurIPS 2025] Open-source Multi-agent Poster Generation from Papers |
 | [**yuruotong1/autoMate**](https://github.com/yuruotong1/autoMate) | ⭐ 4k | Python | 2026-09-18 | Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-d... |
 | [**TinyAGI/tinyagi**](https://github.com/TinyAGI/tinyagi) | ⭐ 3.6k | TypeScript | 2026-03-30 | TinyAGI is the agent teams orchestrator for One Person Company. (fka TinyClaw) |
 | [**superagent-ai/grok-cli**](https://github.com/superagent-ai/grok-cli) | ⭐ 3.5k | TypeScript | 2026-07-06 | An open-source coding agent for the Grok API |
 | [**Intelligent-Internet/ii-agent**](https://github.com/Intelligent-Internet/ii-agent) | ⭐ 3.4k | Python | 2026-08-16 | II-Agent: a new open-source framework to build and deploy intelligent agents |
-| [**metorial/metorial**](https://github.com/metorial/metorial) | ⭐ 3.4k | TypeScript | 2026-11-21 | Connect any AI model to 1200+ integrations (MCP, CLI, API) |
-| [**langchain-ai/social-media-agent**](https://github.com/langchain-ai/social-media-agent) | ⭐ 3k | TypeScript | 2026-11-18 | 📲 An agent for sourcing, curating, and scheduling social media posts with human-in-t... |
+| [**metorial/metorial**](https://github.com/metorial/metorial) | ⭐ 3.4k | TypeScript | 2026-11-24 | Connect any AI model to 1200+ integrations (MCP, CLI, API) |
+| [**langchain-ai/social-media-agent**](https://github.com/langchain-ai/social-media-agent) | ⭐ 3.1k | TypeScript | 2026-11-23 | 📲 An agent for sourcing, curating, and scheduling social media posts with human-in-t... |
 | [**chauncygu/collection-claude-code-source-code**](https://github.com/chauncygu/collection-claude-code-source-code) | ⭐ 2.9k | TypeScript | 2026-04-11 | 🔥 A collection of the Claude Code open source |
-| [**AgriciDaniel/claude-blog**](https://github.com/AgriciDaniel/claude-blog) | ⭐ 2.8k | Python | 2026-11-03 | Free, open source blog writer for Claude Code. Researches current sources, writes ans... |
+| [**AgriciDaniel/claude-blog**](https://github.com/AgriciDaniel/claude-blog) | ⭐ 2.9k | Python | 2026-11-03 | Free, open source blog writer for Claude Code. Researches current sources, writes ans... |
 | [**1rgs/nanocode**](https://github.com/1rgs/nanocode) | ⭐ 2.8k | Python | 2026-01-14 | Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines. |
 | [**achimala/dream-loop**](https://github.com/achimala/dream-loop) | ⭐ 2.5k | JavaScript | 2026-09-09 | Agent skill for impressive 3D visuals using Blender + image gen + subagent critic |
 | [**QoderAI/better-harness**](https://github.com/QoderAI/better-harness) | ⭐ 2.5k | JavaScript | 2026-11-11 | An open-source Harness Engineering platform for coding agents—define harnesses as cod... |
-| [**OpenAdaptAI/OpenAdapt**](https://github.com/OpenAdaptAI/OpenAdapt) | ⭐ 1.9k | Python | 2026-11-22 | For EHRs, payer portals, and any app your team clicks through. A person or an agent s... |
+| [**OpenAdaptAI/OpenAdapt**](https://github.com/OpenAdaptAI/OpenAdapt) | ⭐ 1.9k | Python | 2026-11-25 | For EHRs, payer portals, and any app your team clicks through. A person or an agent s... |
 | [**microsoft/Mage**](https://github.com/microsoft/Mage) | ⭐ 1.8k | Python | 2026-11-02 | No description provided. |
-| [**Twigpine/zero**](https://github.com/Twigpine/zero) | ⭐ 1.8k | Go | 2026-11-20 | The coding agent that answers to you, your model, your machine, your rules. |
+| [**Twigpine/zero**](https://github.com/Twigpine/zero) | ⭐ 1.8k | Go | 2026-11-24 | The coding agent that answers to you, your model, your machine, your rules. |
 | [**NirDiamant/Controllable-RAG-Agent**](https://github.com/NirDiamant/Controllable-RAG-Agent) | ⭐ 1.6k | Jupyter Notebook | 2026-11-01 | This repository provides an advanced Retrieval-Augmented Generation (RAG) solution fo... |
 | [**langchain-ai/langgraph-swarm-py**](https://github.com/langchain-ai/langgraph-swarm-py) | ⭐ 1.6k | Python | 2026-10-28 | For your multi-agent needs |
 | [**nvk/llm-wiki**](https://github.com/nvk/llm-wiki) | ⭐ 1.6k | Python | 2026-10-25 | LLM-compiled knowledge bases for any AI agent. Parallel multi-agent research, thesis-... |
@@ -157,18 +157,18 @@
 | [**SalesforceAIResearch/enterprise-deep-research**](https://github.com/SalesforceAIResearch/enterprise-deep-research) | ⭐ 1.2k | Python | 2026-10-26 | Salesforce Enterprise Deep Research |
 | [**soongenwong/claudecode**](https://github.com/soongenwong/claudecode) | ⭐ 1.2k | Rust | 2026-06-21 | Open Source ClaudeCode Leaked. Same functionalities as Claude Code by Anthropic. Writ... |
 | [**browserable/browserable**](https://github.com/browserable/browserable) | ⭐ 1.2k | JavaScript | 2025-08-27 | Open source and self-hostable browser automation library for AI agents |
-| [**AgentWorkforce/relay**](https://github.com/AgentWorkforce/relay) | ⭐ 1.1k | Rust | 2026-11-21 | Infrastructure for coding agents |
+| [**AgentWorkforce/relay**](https://github.com/AgentWorkforce/relay) | ⭐ 1.2k | Rust | 2026-11-25 | Infrastructure for coding agents |
 | [**landing-ai/ade-python**](https://github.com/landing-ai/ade-python) | ⭐ 1k | Python | 2026-11-18 | Python library for Agentic Document Extraction (ADE). |
 | [**hrithikkoduri/WebRover**](https://github.com/hrithikkoduri/WebRover) | ⭐ 1k | Python | 2026-10-19 | WebRover is an autonomous AI agent designed to interpret user input and execute actio... |
-| [**microsoft/Agensh**](https://github.com/microsoft/Agensh) | ⭐ 936 | Python | 2026-11-03 | A Decentralized, Scalable Multiagent Harness |
-| [**simonw/claude-skills**](https://github.com/simonw/claude-skills) | ⭐ 932 | — | 2025-12-12 | The contents of /mnt/skills in Claude's code interpreter environment |
-| [**MicrosoftDocs/Agent-Skills**](https://github.com/MicrosoftDocs/Agent-Skills) | ⭐ 818 | — | 2026-11-09 | Curated Agent Skills for Microsoft &amp; Azure – giving AI coding assistants structured,... |
+| [**microsoft/Agensh**](https://github.com/microsoft/Agensh) | ⭐ 968 | Python | 2026-11-03 | Multiagent Intelligence at Scale |
+| [**simonw/claude-skills**](https://github.com/simonw/claude-skills) | ⭐ 931 | — | 2025-12-12 | The contents of /mnt/skills in Claude's code interpreter environment |
+| [**MicrosoftDocs/Agent-Skills**](https://github.com/MicrosoftDocs/Agent-Skills) | ⭐ 820 | — | 2026-11-09 | Curated Agent Skills for Microsoft &amp; Azure – giving AI coding assistants structured,... |
 | [**temporal-community/temporal-ai-agent**](https://github.com/temporal-community/temporal-ai-agent) | ⭐ 795 | Python | 2026-03-27 | This demo shows a multi-turn conversation with an AI agent running inside a Temporal... |
-| [**langchain-ai/agentevals**](https://github.com/langchain-ai/agentevals) | ⭐ 762 | Python | 2026-07-14 | Readymade evaluators for agent trajectories |
-| [**runesleo/claude-code-workflow**](https://github.com/runesleo/claude-code-workflow) | ⭐ 711 | Python | 2026-11-13 | QuietHarness：Claude Code、Codex、Cursor 共用的轻量 AI 工作系统 |
-| [**langchain-ai/agent-protocol**](https://github.com/langchain-ai/agent-protocol) | ⭐ 698 | Python | 2026-11-19 | Framework-agnostic API specification for serving LLM agents in production. |
+| [**langchain-ai/agentevals**](https://github.com/langchain-ai/agentevals) | ⭐ 765 | Python | 2026-07-14 | Readymade evaluators for agent trajectories |
+| [**runesleo/claude-code-workflow**](https://github.com/runesleo/claude-code-workflow) | ⭐ 711 | Python | 2026-11-25 | QuietHarness：Claude Code、Codex、Cursor 共用的轻量 AI 工作系统 |
+| [**langchain-ai/agent-protocol**](https://github.com/langchain-ai/agent-protocol) | ⭐ 700 | Python | 2026-11-19 | Framework-agnostic API specification for serving LLM agents in production. |
 | [**s-smits/agentic-cursorrules**](https://github.com/s-smits/agentic-cursorrules) | ⭐ 645 | Python | 2025-11-19 | A practical approach to managing multiple AI agents in Cursor through strict file-tre... |
-| [**CopilotKit/open-multi-agent-canvas**](https://github.com/CopilotKit/open-multi-agent-canvas) | ⭐ 565 | TypeScript | 2026-11-21 | The open-source multi-agent chat interface that lets you manage multiple agents in on... |
+| [**CopilotKit/open-multi-agent-canvas**](https://github.com/CopilotKit/open-multi-agent-canvas) | ⭐ 567 | TypeScript | 2026-11-21 | The open-source multi-agent chat interface that lets you manage multiple agents in on... |
 | [**eliasjudin/oai-skills**](https://github.com/eliasjudin/oai-skills) | ⭐ 520 | Python | 2026-02-18 | The contents of /home/oai/skills in ChatGPT's code interpreter environment |
 | [**SqueezeAILab/TinyAgent**](https://github.com/SqueezeAILab/TinyAgent) | ⭐ 503 | Python | 2024-09-04 | [EMNLP 2024 Demo] TinyAgent: Function Calling at the Edge! |
 | [**Zoeyyao27/CoT-Igniting-Agent**](https://github.com/Zoeyyao27/CoT-Igniting-Agent) | ⭐ 363 | — | 2023-11-25 | This repository contains the paper list for the paper: Igniting Language Intelligence... |
@@ -176,7 +176,7 @@
 | [**Oqura-ai/deepdoc**](https://github.com/Oqura-ai/deepdoc) | ⭐ 319 | Python | 2026-09-26 | Deep research tool for local knowledge base. |
 | [**Clevrr-AI/Clevrr-Computer**](https://github.com/Clevrr-AI/Clevrr-Computer) | ⭐ 317 | Python | 2024-10-30 | An open-source implementation of Anthropic's Computer Use to perform basic tasks usin... |
 | [**langchain-ai/llmanager**](https://github.com/langchain-ai/llmanager) | ⭐ 209 | TypeScript | 2025-04-16 | 🧍‍♂️LLM as a manager for approval processes. |
-| [**aws-samples/langgraph-agents-with-amazon-bedrock**](https://github.com/aws-samples/langgraph-agents-with-amazon-bedrock) | ⭐ 196 | Jupyter Notebook | 2026-07-22 | Workshop and reference patterns for building LangGraph AI agents on Amazon Bedrock. |
+| [**aws-samples/langgraph-agents-with-amazon-bedrock**](https://github.com/aws-samples/langgraph-agents-with-amazon-bedrock) | ⭐ 197 | Jupyter Notebook | 2026-07-22 | Workshop and reference patterns for building LangGraph AI agents on Amazon Bedrock. |
 | [**SuperagenticAI/metaharness**](https://github.com/SuperagenticAI/metaharness) | ⭐ 180 | Python | 2026-09-02 | Meta Harness Implementation |
 | [**qodo-ai/agents**](https://github.com/qodo-ai/agents) | ⭐ 122 | JavaScript | 2026-04-05 | Qodo Commands Playbooks. Customize Qodo Command for your specific use case! |
 | [**raphaelmansuy/adk_training**](https://github.com/raphaelmansuy/adk_training) | ⭐ 109 | Python | 2026-03-01 | Google ADK Training Hub: Build Production-Ready Google AI Agents in Days, Not Months... |
@@ -194,37 +194,37 @@
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/76467478?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/morluto/rea">morluto/rea</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Reverse engineer anything with agents, from app behavior down to native binaries.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>agent-skills</code> <code>ai</code> <code>android</code> <code>claude-code</code> <code>cli</code> <code>cpp</code></small><br/><br/>
+<em>Reverse engineer anything with agents, from app behavior down to native binaries.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agent-skills</code> <code>ai</code> <code>android</code> <code>claude-code</code> <code>cli</code> <code>cpp</code></small><br/><br/>
 <span>
-<a href="https://github.com/morluto/rea/stargazers"><img src="https://img.shields.io/github/stars/morluto/rea?style=flat-square&labelColor=343b41" alt="Stars: 473012"></a>
-<a href="https://github.com/morluto/rea/network/members"><img src="https://img.shields.io/github/forks/morluto/rea?style=flat-square&labelColor=343b41" alt="Forks: 115436"></a>
+<a href="https://github.com/morluto/rea/stargazers"><img src="https://img.shields.io/github/stars/morluto/rea?style=flat-square&labelColor=343b41" alt="Stars: 477536"></a>
+<a href="https://github.com/morluto/rea/network/members"><img src="https://img.shields.io/github/forks/morluto/rea?style=flat-square&labelColor=343b41" alt="Forks: 116214"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/252820863?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/openclaw/openclaw">openclaw/openclaw</a> 🔥🔥🔥</strong> <br/><br/>
-<em>The AI that really does things. Any OS. Any Platform. The lobster way. 🦞</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>ai</code> <code>assistant</code> <code>crustacean</code> <code>molty</code> <code>openclaw</code> <code>own-your-data</code></small><br/><br/>
+<em>The AI that really does things. Any OS. Any Platform. The lobster way. 🦞</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>ai</code> <code>assistant</code> <code>crustacean</code> <code>molty</code> <code>openclaw</code> <code>own-your-data</code></small><br/><br/>
 <span>
-<a href="https://github.com/openclaw/openclaw/stargazers"><img src="https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square&labelColor=343b41" alt="Stars: 395003"></a>
-<a href="https://github.com/openclaw/openclaw/network/members"><img src="https://img.shields.io/github/forks/openclaw/openclaw?style=flat-square&labelColor=343b41" alt="Forks: 82950"></a>
+<a href="https://github.com/openclaw/openclaw/stargazers"><img src="https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square&labelColor=343b41" alt="Stars: 395168"></a>
+<a href="https://github.com/openclaw/openclaw/network/members"><img src="https://img.shields.io/github/forks/openclaw/openclaw?style=flat-square&labelColor=343b41" alt="Forks: 82966"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/28293365?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/mattpocock/skills">mattpocock/skills</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Skills for Real Engineers. Straight from my .agents directory.</em><br/><small><code>Shell</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-19</small><br/><br/>
+<em>Skills for Real Engineers. Straight from my .agents directory.</em><br/><small><code>Shell</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><br/>
 <span>
-<a href="https://github.com/mattpocock/skills/stargazers"><img src="https://img.shields.io/github/stars/mattpocock/skills?style=flat-square&labelColor=343b41" alt="Stars: 329874"></a>
-<a href="https://github.com/mattpocock/skills/network/members"><img src="https://img.shields.io/github/forks/mattpocock/skills?style=flat-square&labelColor=343b41" alt="Forks: 27726"></a>
+<a href="https://github.com/mattpocock/skills/stargazers"><img src="https://img.shields.io/github/stars/mattpocock/skills?style=flat-square&labelColor=343b41" alt="Stars: 332401"></a>
+<a href="https://github.com/mattpocock/skills/network/members"><img src="https://img.shields.io/github/forks/mattpocock/skills?style=flat-square&labelColor=343b41" alt="Forks: 27947"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/45416?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/obra/superpowers">obra/superpowers</a> 🔥🔥🔥</strong> <br/><br/>
-<em>An agentic skills framework &amp; software development methodology that works.</em><br/><small><code>Shell</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-03</small><br/><small>🏷️ <code>ai</code> <code>brainstorming</code> <code>coding</code> <code>obra</code> <code>sdlc</code> <code>skills</code></small><br/><br/>
+<em>An agentic skills framework &amp; software development methodology that works.</em><br/><small><code>Shell</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>ai</code> <code>brainstorming</code> <code>coding</code> <code>obra</code> <code>sdlc</code> <code>skills</code></small><br/><br/>
 <span>
-<a href="https://github.com/obra/superpowers/stargazers"><img src="https://img.shields.io/github/stars/obra/superpowers?style=flat-square&labelColor=343b41" alt="Stars: 323844"></a>
-<a href="https://github.com/obra/superpowers/network/members"><img src="https://img.shields.io/github/forks/obra/superpowers?style=flat-square&labelColor=343b41" alt="Forks: 28724"></a>
+<a href="https://github.com/obra/superpowers/stargazers"><img src="https://img.shields.io/github/stars/obra/superpowers?style=flat-square&labelColor=343b41" alt="Stars: 326032"></a>
+<a href="https://github.com/obra/superpowers/network/members"><img src="https://img.shields.io/github/forks/obra/superpowers?style=flat-square&labelColor=343b41" alt="Forks: 28930"></a>
 </span>
 </div><br/>
 
@@ -232,26 +232,26 @@
 <img src="https://avatars.githubusercontent.com/u/148330874?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/deepseek-ai/deepseek-harness">deepseek-ai/deepseek-harness</a> 🔥🔥🔥</strong> <br/><br/>
 <em>DeepSeek Harness: Everything is a Plugin.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>ai-agents</code> <code>cordis</code> <code>dsh</code> <code>dsh-plugin</code></small><br/><br/>
 <span>
-<a href="https://github.com/deepseek-ai/deepseek-harness/stargazers"><img src="https://img.shields.io/github/stars/deepseek-ai/deepseek-harness?style=flat-square&labelColor=343b41" alt="Stars: 285173"></a>
-<a href="https://github.com/deepseek-ai/deepseek-harness/network/members"><img src="https://img.shields.io/github/forks/deepseek-ai/deepseek-harness?style=flat-square&labelColor=343b41" alt="Forks: 35449"></a>
+<a href="https://github.com/deepseek-ai/deepseek-harness/stargazers"><img src="https://img.shields.io/github/stars/deepseek-ai/deepseek-harness?style=flat-square&labelColor=343b41" alt="Stars: 286715"></a>
+<a href="https://github.com/deepseek-ai/deepseek-harness/network/members"><img src="https://img.shields.io/github/forks/deepseek-ai/deepseek-harness?style=flat-square&labelColor=343b41" alt="Forks: 35737"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/134168893?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/NousResearch/hermes-agent">NousResearch/hermes-agent</a> 🔥🔥🔥</strong> <br/><br/>
-<em>The agent that grows with you</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>ai</code> <code>ai-agent</code> <code>ai-agents</code> <code>anthropic</code> <code>chatgpt</code> <code>claude</code></small><br/><br/>
+<em>The agent that grows with you</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>ai</code> <code>ai-agent</code> <code>ai-agents</code> <code>anthropic</code> <code>chatgpt</code> <code>claude</code></small><br/><br/>
 <span>
-<a href="https://github.com/NousResearch/hermes-agent/stargazers"><img src="https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square&labelColor=343b41" alt="Stars: 265236"></a>
-<a href="https://github.com/NousResearch/hermes-agent/network/members"><img src="https://img.shields.io/github/forks/NousResearch/hermes-agent?style=flat-square&labelColor=343b41" alt="Forks: 59957"></a>
+<a href="https://github.com/NousResearch/hermes-agent/stargazers"><img src="https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square&labelColor=343b41" alt="Stars: 265963"></a>
+<a href="https://github.com/NousResearch/hermes-agent/network/members"><img src="https://img.shields.io/github/forks/NousResearch/hermes-agent?style=flat-square&labelColor=343b41" alt="Forks: 60271"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/66570915?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/anomalyco/opencode">anomalyco/opencode</a> 🔥🔥🔥</strong> <br/><br/>
-<em>The open source coding agent.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><br/>
+<em>The open source coding agent.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><br/>
 <span>
-<a href="https://github.com/anomalyco/opencode/stargazers"><img src="https://img.shields.io/github/stars/anomalyco/opencode?style=flat-square&labelColor=343b41" alt="Stars: 228451"></a>
-<a href="https://github.com/anomalyco/opencode/network/members"><img src="https://img.shields.io/github/forks/anomalyco/opencode?style=flat-square&labelColor=343b41" alt="Forks: 31045"></a>
+<a href="https://github.com/anomalyco/opencode/stargazers"><img src="https://img.shields.io/github/stars/anomalyco/opencode?style=flat-square&labelColor=343b41" alt="Stars: 229035"></a>
+<a href="https://github.com/anomalyco/opencode/network/members"><img src="https://img.shields.io/github/forks/anomalyco/opencode?style=flat-square&labelColor=343b41" alt="Forks: 31169"></a>
 </span>
 </div><br/>
 
@@ -259,8 +259,8 @@
 <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/anthropics/skills">anthropics/skills</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Public repository for Agent Skills</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-16</small><br/><small>🏷️ <code>agent-skills</code></small><br/><br/>
 <span>
-<a href="https://github.com/anthropics/skills/stargazers"><img src="https://img.shields.io/github/stars/anthropics/skills?style=flat-square&labelColor=343b41" alt="Stars: 198584"></a>
-<a href="https://github.com/anthropics/skills/network/members"><img src="https://img.shields.io/github/forks/anthropics/skills?style=flat-square&labelColor=343b41" alt="Forks: 23240"></a>
+<a href="https://github.com/anthropics/skills/stargazers"><img src="https://img.shields.io/github/stars/anthropics/skills?style=flat-square&labelColor=343b41" alt="Stars: 200122"></a>
+<a href="https://github.com/anthropics/skills/network/members"><img src="https://img.shields.io/github/forks/anthropics/skills?style=flat-square&labelColor=343b41" alt="Forks: 23407"></a>
 </span>
 </div><br/>
 
@@ -268,17 +268,17 @@
 <img src="https://avatars.githubusercontent.com/u/137048761?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/DietrichGebert/ponytail">DietrichGebert/ponytail</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>agent-skills</code> <code>ai-agents</code> <code>claude</code> <code>claude-code</code> <code>claude-code-plugin</code> <code>cursor-rules</code></small><br/><br/>
 <span>
-<a href="https://github.com/DietrichGebert/ponytail/stargazers"><img src="https://img.shields.io/github/stars/DietrichGebert/ponytail?style=flat-square&labelColor=343b41" alt="Stars: 196468"></a>
-<a href="https://github.com/DietrichGebert/ponytail/network/members"><img src="https://img.shields.io/github/forks/DietrichGebert/ponytail?style=flat-square&labelColor=343b41" alt="Forks: 11073"></a>
+<a href="https://github.com/DietrichGebert/ponytail/stargazers"><img src="https://img.shields.io/github/stars/DietrichGebert/ponytail?style=flat-square&labelColor=343b41" alt="Stars: 198256"></a>
+<a href="https://github.com/DietrichGebert/ponytail/network/members"><img src="https://img.shields.io/github/forks/DietrichGebert/ponytail?style=flat-square&labelColor=343b41" alt="Forks: 11232"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/130738209?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Significant-Gravitas/AutoGPT">Significant-Gravitas/AutoGPT</a> 🔥🔥🔥</strong> <br/><br/>
-<em>AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>agentic-ai</code> <code>agents</code> <code>ai</code> <code>artificial-intelligence</code> <code>autonomous-agents</code> <code>claude</code></small><br/><br/>
+<em>AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agentic-ai</code> <code>agents</code> <code>ai</code> <code>artificial-intelligence</code> <code>autonomous-agents</code> <code>claude</code></small><br/><br/>
 <span>
-<a href="https://github.com/Significant-Gravitas/AutoGPT/stargazers"><img src="https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=flat-square&labelColor=343b41" alt="Stars: 188124"></a>
-<a href="https://github.com/Significant-Gravitas/AutoGPT/network/members"><img src="https://img.shields.io/github/forks/Significant-Gravitas/AutoGPT?style=flat-square&labelColor=343b41" alt="Forks: 45826"></a>
+<a href="https://github.com/Significant-Gravitas/AutoGPT/stargazers"><img src="https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=flat-square&labelColor=343b41" alt="Stars: 188176"></a>
+<a href="https://github.com/Significant-Gravitas/AutoGPT/network/members"><img src="https://img.shields.io/github/forks/Significant-Gravitas/AutoGPT?style=flat-square&labelColor=343b41" alt="Forks: 45822"></a>
 </span>
 </div><br/>
 
@@ -286,116 +286,116 @@
 <img src="https://avatars.githubusercontent.com/u/1972242?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/msitarzewski/agency-agents">msitarzewski/agency-agents</a> 🔥🔥🔥</strong> <br/><br/>
 <em>A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.</em><br/><small><code>Shell</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-09</small><br/><br/>
 <span>
-<a href="https://github.com/msitarzewski/agency-agents/stargazers"><img src="https://img.shields.io/github/stars/msitarzewski/agency-agents?style=flat-square&labelColor=343b41" alt="Stars: 169691"></a>
-<a href="https://github.com/msitarzewski/agency-agents/network/members"><img src="https://img.shields.io/github/forks/msitarzewski/agency-agents?style=flat-square&labelColor=343b41" alt="Forks: 27569"></a>
+<a href="https://github.com/msitarzewski/agency-agents/stargazers"><img src="https://img.shields.io/github/stars/msitarzewski/agency-agents?style=flat-square&labelColor=343b41" alt="Stars: 170148"></a>
+<a href="https://github.com/msitarzewski/agency-agents/network/members"><img src="https://img.shields.io/github/forks/msitarzewski/agency-agents?style=flat-square&labelColor=343b41" alt="Forks: 27646"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><br/>
+<em>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><br/>
 <span>
-<a href="https://github.com/anthropics/claude-code/stargazers"><img src="https://img.shields.io/github/stars/anthropics/claude-code?style=flat-square&labelColor=343b41" alt="Stars: 156597"></a>
-<a href="https://github.com/anthropics/claude-code/network/members"><img src="https://img.shields.io/github/forks/anthropics/claude-code?style=flat-square&labelColor=343b41" alt="Forks: 25085"></a>
+<a href="https://github.com/anthropics/claude-code/stargazers"><img src="https://img.shields.io/github/stars/anthropics/claude-code?style=flat-square&labelColor=343b41" alt="Stars: 156985"></a>
+<a href="https://github.com/anthropics/claude-code/network/members"><img src="https://img.shields.io/github/forks/anthropics/claude-code?style=flat-square&labelColor=343b41" alt="Forks: 25100"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/github/spec-kit">github/spec-kit</a> 🔥🔥🔥</strong> <br/><br/>
-<em>💫 Toolkit to help you get started with SDD or any other process!</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-20</small><br/><small>🏷️ <code>ai</code> <code>copilot</code> <code>development</code> <code>engineering</code> <code>prd</code> <code>spec</code></small><br/><br/>
+<em>💫 Toolkit to help you get started with SDD or any other process!</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>ai</code> <code>copilot</code> <code>development</code> <code>engineering</code> <code>prd</code> <code>spec</code></small><br/><br/>
 <span>
-<a href="https://github.com/github/spec-kit/stargazers"><img src="https://img.shields.io/github/stars/github/spec-kit?style=flat-square&labelColor=343b41" alt="Stars: 150956"></a>
-<a href="https://github.com/github/spec-kit/network/members"><img src="https://img.shields.io/github/forks/github/spec-kit?style=flat-square&labelColor=343b41" alt="Forks: 13559"></a>
+<a href="https://github.com/github/spec-kit/stargazers"><img src="https://img.shields.io/github/stars/github/spec-kit?style=flat-square&labelColor=343b41" alt="Stars: 151310"></a>
+<a href="https://github.com/github/spec-kit/network/members"><img src="https://img.shields.io/github/forks/github/spec-kit?style=flat-square&labelColor=343b41" alt="Forks: 13602"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/127256420?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/stablyai/orca">stablyai/orca</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>agent-ide</code> <code>ai-agents</code> <code>automation</code> <code>bot</code> <code>claude-code</code> <code>codex</code></small><br/><br/>
+<em>Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agent-ide</code> <code>ai-agents</code> <code>automation</code> <code>bot</code> <code>claude-code</code> <code>codex</code></small><br/><br/>
 <span>
-<a href="https://github.com/stablyai/orca/stargazers"><img src="https://img.shields.io/github/stars/stablyai/orca?style=flat-square&labelColor=343b41" alt="Stars: 132149"></a>
-<a href="https://github.com/stablyai/orca/network/members"><img src="https://img.shields.io/github/forks/stablyai/orca?style=flat-square&labelColor=343b41" alt="Forks: 8424"></a>
+<a href="https://github.com/stablyai/orca/stargazers"><img src="https://img.shields.io/github/stars/stablyai/orca?style=flat-square&labelColor=343b41" alt="Stars: 136689"></a>
+<a href="https://github.com/stablyai/orca/network/members"><img src="https://img.shields.io/github/forks/stablyai/orca?style=flat-square&labelColor=343b41" alt="Forks: 8745"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/207902832?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/earendil-works/pi">earendil-works/pi</a> 🔥🔥🔥</strong> <br/><br/>
-<em>AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><br/>
+<em>AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><br/>
 <span>
-<a href="https://github.com/earendil-works/pi/stargazers"><img src="https://img.shields.io/github/stars/earendil-works/pi?style=flat-square&labelColor=343b41" alt="Stars: 123219"></a>
-<a href="https://github.com/earendil-works/pi/network/members"><img src="https://img.shields.io/github/forks/earendil-works/pi?style=flat-square&labelColor=343b41" alt="Forks: 15894"></a>
+<a href="https://github.com/earendil-works/pi/stargazers"><img src="https://img.shields.io/github/stars/earendil-works/pi?style=flat-square&labelColor=343b41" alt="Stars: 123764"></a>
+<a href="https://github.com/earendil-works/pi/network/members"><img src="https://img.shields.io/github/forks/earendil-works/pi?style=flat-square&labelColor=343b41" alt="Forks: 15987"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/192012301?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/browser-use/browser-use">browser-use/browser-use</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>ai-agents</code> <code>ai-tools</code> <code>browser-agent</code> <code>browser-automation</code> <code>browser-use</code> <code>cdp</code></small><br/><br/>
+<em>Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>ai-agents</code> <code>ai-tools</code> <code>browser-agent</code> <code>browser-automation</code> <code>browser-use</code> <code>cdp</code></small><br/><br/>
 <span>
-<a href="https://github.com/browser-use/browser-use/stargazers"><img src="https://img.shields.io/github/stars/browser-use/browser-use?style=flat-square&labelColor=343b41" alt="Stars: 121698"></a>
-<a href="https://github.com/browser-use/browser-use/network/members"><img src="https://img.shields.io/github/forks/browser-use/browser-use?style=flat-square&labelColor=343b41" alt="Forks: 13599"></a>
+<a href="https://github.com/browser-use/browser-use/stargazers"><img src="https://img.shields.io/github/stars/browser-use/browser-use?style=flat-square&labelColor=343b41" alt="Stars: 121974"></a>
+<a href="https://github.com/browser-use/browser-use/network/members"><img src="https://img.shields.io/github/forks/browser-use/browser-use?style=flat-square&labelColor=343b41" alt="Forks: 13642"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/110953?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/addyosmani/agent-skills">addyosmani/agent-skills</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Production-grade engineering skills for AI coding agents.</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-18</small><br/><small>🏷️ <code>agent-skills</code> <code>antigravity</code> <code>claude-code</code> <code>codex</code> <code>cursor</code> <code>skills</code></small><br/><br/>
+<em>Production-grade engineering skills for AI coding agents.</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>agent-skills</code> <code>antigravity</code> <code>claude-code</code> <code>codex</code> <code>cursor</code> <code>skills</code></small><br/><br/>
 <span>
-<a href="https://github.com/addyosmani/agent-skills/stargazers"><img src="https://img.shields.io/github/stars/addyosmani/agent-skills?style=flat-square&labelColor=343b41" alt="Stars: 119621"></a>
-<a href="https://github.com/addyosmani/agent-skills/network/members"><img src="https://img.shields.io/github/forks/addyosmani/agent-skills?style=flat-square&labelColor=343b41" alt="Forks: 12437"></a>
+<a href="https://github.com/addyosmani/agent-skills/stargazers"><img src="https://img.shields.io/github/stars/addyosmani/agent-skills?style=flat-square&labelColor=343b41" alt="Stars: 120270"></a>
+<a href="https://github.com/addyosmani/agent-skills/network/members"><img src="https://img.shields.io/github/forks/addyosmani/agent-skills?style=flat-square&labelColor=343b41" alt="Forks: 12503"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/264498616?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/paperclipai/paperclip">paperclipai/paperclip</a> 🔥🔥🔥</strong> <br/><br/>
-<em>The open-source app everyone uses to manage agents at work</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>acpx</code> <code>agent-orchestration</code> <code>agent-skills</code> <code>agentic-ai</code> <code>ai-agents</code> <code>ai-engineering</code></small><br/><br/>
+<em>The open-source app everyone uses to manage agents at work</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>acpx</code> <code>agent-orchestration</code> <code>agent-skills</code> <code>agentic-ai</code> <code>ai-agents</code> <code>ai-engineering</code></small><br/><br/>
 <span>
-<a href="https://github.com/paperclipai/paperclip/stargazers"><img src="https://img.shields.io/github/stars/paperclipai/paperclip?style=flat-square&labelColor=343b41" alt="Stars: 115712"></a>
-<a href="https://github.com/paperclipai/paperclip/network/members"><img src="https://img.shields.io/github/forks/paperclipai/paperclip?style=flat-square&labelColor=343b41" alt="Forks: 19207"></a>
+<a href="https://github.com/paperclipai/paperclip/stargazers"><img src="https://img.shields.io/github/stars/paperclipai/paperclip?style=flat-square&labelColor=343b41" alt="Stars: 116849"></a>
+<a href="https://github.com/paperclipai/paperclip/network/members"><img src="https://img.shields.io/github/forks/paperclipai/paperclip?style=flat-square&labelColor=343b41" alt="Forks: 19392"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/43004?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/pbakaus/impeccable">pbakaus/impeccable</a> 🔥🔥🔥</strong> <br/><br/>
-<em>The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>agent-skills</code> <code>ai</code> <code>anti-slop</code> <code>design</code> <code>slop</code></small><br/><br/>
+<em>The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>agent-skills</code> <code>ai</code> <code>anti-slop</code> <code>design</code> <code>slop</code></small><br/><br/>
 <span>
-<a href="https://github.com/pbakaus/impeccable/stargazers"><img src="https://img.shields.io/github/stars/pbakaus/impeccable?style=flat-square&labelColor=343b41" alt="Stars: 114612"></a>
-<a href="https://github.com/pbakaus/impeccable/network/members"><img src="https://img.shields.io/github/forks/pbakaus/impeccable?style=flat-square&labelColor=343b41" alt="Forks: 6823"></a>
+<a href="https://github.com/pbakaus/impeccable/stargazers"><img src="https://img.shields.io/github/stars/pbakaus/impeccable?style=flat-square&labelColor=343b41" alt="Stars: 116458"></a>
+<a href="https://github.com/pbakaus/impeccable/network/members"><img src="https://img.shields.io/github/forks/pbakaus/impeccable?style=flat-square&labelColor=343b41" alt="Forks: 6959"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/225919603?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/OpenHands/OpenHands">OpenHands/OpenHands</a> 🔥🔥🔥</strong> <br/><br/>
-<em>🙌 OpenHands: AI-Driven Development</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>agent</code> <code>artificial-intelligence</code> <code>chatgpt</code> <code>claude-ai</code> <code>cli</code> <code>developer-tools</code></small><br/><br/>
+<em>🙌 OpenHands: AI-Driven Development</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agent</code> <code>artificial-intelligence</code> <code>chatgpt</code> <code>claude-ai</code> <code>cli</code> <code>developer-tools</code></small><br/><br/>
 <span>
-<a href="https://github.com/OpenHands/OpenHands/stargazers"><img src="https://img.shields.io/github/stars/OpenHands/OpenHands?style=flat-square&labelColor=343b41" alt="Stars: 93980"></a>
-<a href="https://github.com/OpenHands/OpenHands/network/members"><img src="https://img.shields.io/github/forks/OpenHands/OpenHands?style=flat-square&labelColor=343b41" alt="Forks: 12577"></a>
+<a href="https://github.com/OpenHands/OpenHands/stargazers"><img src="https://img.shields.io/github/stars/OpenHands/OpenHands?style=flat-square&labelColor=343b41" alt="Stars: 94279"></a>
+<a href="https://github.com/OpenHands/OpenHands/network/members"><img src="https://img.shields.io/github/forks/OpenHands/OpenHands?style=flat-square&labelColor=343b41" alt="Forks: 12628"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/4158466?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/bytedance/deer-flow">bytedance/deer-flow</a> 🔥🔥🔥</strong> <br/><br/>
-<em>An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>agent</code> <code>agentic</code> <code>agentic-framework</code> <code>agentic-workflow</code> <code>ai</code> <code>ai-agents</code></small><br/><br/>
+<em>An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agent</code> <code>agentic</code> <code>agentic-framework</code> <code>agentic-workflow</code> <code>ai</code> <code>ai-agents</code></small><br/><br/>
 <span>
-<a href="https://github.com/bytedance/deer-flow/stargazers"><img src="https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&labelColor=343b41" alt="Stars: 85587"></a>
-<a href="https://github.com/bytedance/deer-flow/network/members"><img src="https://img.shields.io/github/forks/bytedance/deer-flow?style=flat-square&labelColor=343b41" alt="Forks: 12072"></a>
+<a href="https://github.com/bytedance/deer-flow/stargazers"><img src="https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&labelColor=343b41" alt="Stars: 85776"></a>
+<a href="https://github.com/bytedance/deer-flow/network/members"><img src="https://img.shields.io/github/forks/bytedance/deer-flow?style=flat-square&labelColor=343b41" alt="Forks: 12105"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/2934394?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a> 🔥🔥🔥</strong> <br/><br/>
-<em>🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>agent-memory</code> <code>agent-orchestration</code> <code>agentic-ai</code> <code>agentic-workflow</code> <code>ai-agents</code> <code>autonomous-agents</code></small><br/><br/>
+<em>🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agent-memory</code> <code>agent-orchestration</code> <code>agentic-ai</code> <code>agentic-workflow</code> <code>ai-agents</code> <code>autonomous-agents</code></small><br/><br/>
 <span>
-<a href="https://github.com/ruvnet/ruflo/stargazers"><img src="https://img.shields.io/github/stars/ruvnet/ruflo?style=flat-square&labelColor=343b41" alt="Stars: 82236"></a>
-<a href="https://github.com/ruvnet/ruflo/network/members"><img src="https://img.shields.io/github/forks/ruvnet/ruflo?style=flat-square&labelColor=343b41" alt="Forks: 9694"></a>
+<a href="https://github.com/ruvnet/ruflo/stargazers"><img src="https://img.shields.io/github/stars/ruvnet/ruflo?style=flat-square&labelColor=343b41" alt="Stars: 82393"></a>
+<a href="https://github.com/ruvnet/ruflo/network/members"><img src="https://img.shields.io/github/forks/ruvnet/ruflo?style=flat-square&labelColor=343b41" alt="Forks: 9706"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/455140?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/mvanhorn/last30days-skill">mvanhorn/last30days-skill</a> 🔥🔥🔥</strong> <br/><br/>
-<em>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>ai-prompts</code> <code>ai-skill</code> <code>bluesky</code> <code>claude</code> <code>claude-code</code> <code>clawhub</code></small><br/><br/>
+<em>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agent-skills</code> <code>artificial-intelligence</code> <code>automation</code> <code>bot</code> <code>command-line</code> <code>data-science</code></small><br/><br/>
 <span>
-<a href="https://github.com/mvanhorn/last30days-skill/stargazers"><img src="https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=flat-square&labelColor=343b41" alt="Stars: 72134"></a>
-<a href="https://github.com/mvanhorn/last30days-skill/network/members"><img src="https://img.shields.io/github/forks/mvanhorn/last30days-skill?style=flat-square&labelColor=343b41" alt="Forks: 6387"></a>
+<a href="https://github.com/mvanhorn/last30days-skill/stargazers"><img src="https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=flat-square&labelColor=343b41" alt="Stars: 74526"></a>
+<a href="https://github.com/mvanhorn/last30days-skill/network/members"><img src="https://img.shields.io/github/forks/mvanhorn/last30days-skill?style=flat-square&labelColor=343b41" alt="Forks: 6568"></a>
 </span>
 </div><br/>
 
@@ -403,35 +403,44 @@
 <img src="https://avatars.githubusercontent.com/u/1672?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/blader/humanizer">blader/humanizer</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Agent skill that removes signs of AI-generated writing from text</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-19</small><br/><small>🏷️ <code>agent-skills</code> <code>ai-humanizer</code> <code>ai-writing</code> <code>chatgpt</code> <code>claude</code> <code>claude-code</code></small><br/><br/>
 <span>
-<a href="https://github.com/blader/humanizer/stargazers"><img src="https://img.shields.io/github/stars/blader/humanizer?style=flat-square&labelColor=343b41" alt="Stars: 72045"></a>
-<a href="https://github.com/blader/humanizer/network/members"><img src="https://img.shields.io/github/forks/blader/humanizer?style=flat-square&labelColor=343b41" alt="Forks: 5640"></a>
+<a href="https://github.com/blader/humanizer/stargazers"><img src="https://img.shields.io/github/stars/blader/humanizer?style=flat-square&labelColor=343b41" alt="Stars: 73319"></a>
+<a href="https://github.com/blader/humanizer/network/members"><img src="https://img.shields.io/github/forks/blader/humanizer?style=flat-square&labelColor=343b41" alt="Forks: 5749"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/137054526?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/mem0ai/mem0">mem0ai/mem0</a> 🔥🔥🔥</strong> <br/><br/>
-<em>The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-18</small><br/><small>🏷️ <code>agentic-memory</code> <code>agentic-memory-system</code> <code>agents</code> <code>ai</code> <code>ai-agents</code> <code>chatgpt</code></small><br/><br/>
+<em>The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>agentic-memory</code> <code>agentic-memory-system</code> <code>agents</code> <code>ai</code> <code>ai-agents</code> <code>chatgpt</code></small><br/><br/>
 <span>
-<a href="https://github.com/mem0ai/mem0/stargazers"><img src="https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square&labelColor=343b41" alt="Stars: 69319"></a>
-<a href="https://github.com/mem0ai/mem0/network/members"><img src="https://img.shields.io/github/forks/mem0ai/mem0?style=flat-square&labelColor=343b41" alt="Forks: 8244"></a>
+<a href="https://github.com/mem0ai/mem0/stargazers"><img src="https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square&labelColor=343b41" alt="Stars: 69441"></a>
+<a href="https://github.com/mem0ai/mem0/network/members"><img src="https://img.shields.io/github/forks/mem0ai/mem0?style=flat-square&labelColor=343b41" alt="Forks: 8261"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/11731897?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/shanraisshan/claude-code-best-practice">shanraisshan/claude-code-best-practice</a> 🔥🔥🔥</strong> <br/><br/>
-<em>from vibe coding to agentic engineering - practice makes claude perfect</em><br/><small><code>HTML</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>agentic-ai</code> <code>agentic-coding</code> <code>agentic-engineering</code> <code>agentic-workflow</code> <code>ai</code> <code>ai-agents</code></small><br/><br/>
+<em>from vibe coding to agentic engineering - practice makes claude perfect</em><br/><small><code>HTML</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agentic-ai</code> <code>agentic-coding</code> <code>agentic-engineering</code> <code>agentic-workflow</code> <code>ai</code> <code>ai-agents</code></small><br/><br/>
 <span>
-<a href="https://github.com/shanraisshan/claude-code-best-practice/stargazers"><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat-square&labelColor=343b41" alt="Stars: 69293"></a>
-<a href="https://github.com/shanraisshan/claude-code-best-practice/network/members"><img src="https://img.shields.io/github/forks/shanraisshan/claude-code-best-practice?style=flat-square&labelColor=343b41" alt="Forks: 6883"></a>
+<a href="https://github.com/shanraisshan/claude-code-best-practice/stargazers"><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat-square&labelColor=343b41" alt="Stars: 69390"></a>
+<a href="https://github.com/shanraisshan/claude-code-best-practice/network/members"><img src="https://img.shields.io/github/forks/shanraisshan/claude-code-best-practice?style=flat-square&labelColor=343b41" alt="Forks: 6884"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/163192481?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/openinterpreter/openinterpreter">openinterpreter/openinterpreter</a> 🔥🔥🔥</strong> <br/><br/>
-<em>A coding agent for open models like Kimi K3.1 and GLM 5.3</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>acp</code> <code>coding-agent</code> <code>deepseek</code> <code>kimi</code> <code>python</code> <code>qwen</code></small><br/><br/>
+<em>A coding agent for open models like Kimi K3.1 and GLM 5.3</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>acp</code> <code>coding-agent</code> <code>deepseek</code> <code>kimi</code> <code>python</code> <code>qwen</code></small><br/><br/>
 <span>
-<a href="https://github.com/openinterpreter/openinterpreter/stargazers"><img src="https://img.shields.io/github/stars/openinterpreter/openinterpreter?style=flat-square&labelColor=343b41" alt="Stars: 68933"></a>
-<a href="https://github.com/openinterpreter/openinterpreter/network/members"><img src="https://img.shields.io/github/forks/openinterpreter/openinterpreter?style=flat-square&labelColor=343b41" alt="Forks: 5944"></a>
+<a href="https://github.com/openinterpreter/openinterpreter/stargazers"><img src="https://img.shields.io/github/stars/openinterpreter/openinterpreter?style=flat-square&labelColor=343b41" alt="Stars: 68962"></a>
+<a href="https://github.com/openinterpreter/openinterpreter/network/members"><img src="https://img.shields.io/github/forks/openinterpreter/openinterpreter?style=flat-square&labelColor=343b41" alt="Forks: 5946"></a>
+</span>
+</div><br/>
+
+<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
+<img src="https://avatars.githubusercontent.com/u/34802794?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/coreyhaines31/marketingskills">coreyhaines31/marketingskills</a> 🔥🔥🔥</strong> <br/><br/>
+<em>Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>agent-skills</code> <code>ai-agents</code> <code>ai-seo</code> <code>claude</code> <code>claude-code</code> <code>claude-code-plugin</code></small><br/><br/>
+<span>
+<a href="https://github.com/coreyhaines31/marketingskills/stargazers"><img src="https://img.shields.io/github/stars/coreyhaines31/marketingskills?style=flat-square&labelColor=343b41" alt="Stars: 62505"></a>
+<a href="https://github.com/coreyhaines31/marketingskills/network/members"><img src="https://img.shields.io/github/forks/coreyhaines31/marketingskills?style=flat-square&labelColor=343b41" alt="Forks: 9125"></a>
 </span>
 </div><br/>
 
@@ -439,26 +448,17 @@
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/microsoft/autogen">microsoft/autogen</a> 🔥🔥🔥</strong> <code>⚠️ Archived</code><br/><br/>
 <em>A programming framework for agentic AI</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ CC-BY-4.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-12</small><br/><small>🏷️ <code>agentic</code> <code>agentic-agi</code> <code>agents</code> <code>ai</code> <code>autogen</code> <code>autogen-ecosystem</code></small><br/><br/>
 <span>
-<a href="https://github.com/microsoft/autogen/stargazers"><img src="https://img.shields.io/github/stars/microsoft/autogen?style=flat-square&labelColor=343b41" alt="Stars: 61957"></a>
-<a href="https://github.com/microsoft/autogen/network/members"><img src="https://img.shields.io/github/forks/microsoft/autogen?style=flat-square&labelColor=343b41" alt="Forks: 9407"></a>
-</span>
-</div><br/>
-
-<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
-<img src="https://avatars.githubusercontent.com/u/34802794?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/coreyhaines31/marketingskills">coreyhaines31/marketingskills</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-20</small><br/><small>🏷️ <code>agent-skills</code> <code>ai-agents</code> <code>ai-seo</code> <code>claude</code> <code>claude-code</code> <code>claude-code-plugin</code></small><br/><br/>
-<span>
-<a href="https://github.com/coreyhaines31/marketingskills/stargazers"><img src="https://img.shields.io/github/stars/coreyhaines31/marketingskills?style=flat-square&labelColor=343b41" alt="Stars: 61915"></a>
-<a href="https://github.com/coreyhaines31/marketingskills/network/members"><img src="https://img.shields.io/github/forks/coreyhaines31/marketingskills?style=flat-square&labelColor=343b41" alt="Forks: 9037"></a>
+<a href="https://github.com/microsoft/autogen/stargazers"><img src="https://img.shields.io/github/stars/microsoft/autogen?style=flat-square&labelColor=343b41" alt="Stars: 61968"></a>
+<a href="https://github.com/microsoft/autogen/network/members"><img src="https://img.shields.io/github/forks/microsoft/autogen?style=flat-square&labelColor=343b41" alt="Forks: 9414"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/crewAIInc/crewAI">crewAIInc/crewAI</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>agents</code> <code>ai</code> <code>ai-agents</code> <code>aiagentframework</code> <code>llms</code></small><br/><br/>
+<em>Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agents</code> <code>ai</code> <code>ai-agents</code> <code>aiagentframework</code> <code>llms</code></small><br/><br/>
 <span>
-<a href="https://github.com/crewAIInc/crewAI/stargazers"><img src="https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat-square&labelColor=343b41" alt="Stars: 61153"></a>
-<a href="https://github.com/crewAIInc/crewAI/network/members"><img src="https://img.shields.io/github/forks/crewAIInc/crewAI?style=flat-square&labelColor=343b41" alt="Forks: 9235"></a>
+<a href="https://github.com/crewAIInc/crewAI/stargazers"><img src="https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat-square&labelColor=343b41" alt="Stars: 61241"></a>
+<a href="https://github.com/crewAIInc/crewAI/network/members"><img src="https://img.shields.io/github/forks/crewAIInc/crewAI?style=flat-square&labelColor=343b41" alt="Forks: 9280"></a>
 </span>
 </div><br/>
 
@@ -466,62 +466,62 @@
 <img src="https://avatars.githubusercontent.com/u/63742054?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Nutlope/hallmark">Nutlope/hallmark</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Anti-AI-slop design skill for Claude Code, Cursor, and Codex.</em><br/><small><code>CSS</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-11</small><br/><br/>
 <span>
-<a href="https://github.com/Nutlope/hallmark/stargazers"><img src="https://img.shields.io/github/stars/Nutlope/hallmark?style=flat-square&labelColor=343b41" alt="Stars: 59138"></a>
-<a href="https://github.com/Nutlope/hallmark/network/members"><img src="https://img.shields.io/github/forks/Nutlope/hallmark?style=flat-square&labelColor=343b41" alt="Forks: 3232"></a>
+<a href="https://github.com/Nutlope/hallmark/stargazers"><img src="https://img.shields.io/github/stars/Nutlope/hallmark?style=flat-square&labelColor=343b41" alt="Stars: 60723"></a>
+<a href="https://github.com/Nutlope/hallmark/network/members"><img src="https://img.shields.io/github/forks/Nutlope/hallmark?style=flat-square&labelColor=343b41" alt="Forks: 3319"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/anthropics/claude-plugins-official">anthropics/claude-plugins-official</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Official, Anthropic-managed directory of high quality Claude Code Plugins.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>claude-code</code> <code>mcp</code> <code>skills</code></small><br/><br/>
+<em>Official, Anthropic-managed directory of high quality Claude Code Plugins.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>claude-code</code> <code>mcp</code> <code>skills</code></small><br/><br/>
 <span>
-<a href="https://github.com/anthropics/claude-plugins-official/stargazers"><img src="https://img.shields.io/github/stars/anthropics/claude-plugins-official?style=flat-square&labelColor=343b41" alt="Stars: 47920"></a>
-<a href="https://github.com/anthropics/claude-plugins-official/network/members"><img src="https://img.shields.io/github/forks/anthropics/claude-plugins-official?style=flat-square&labelColor=343b41" alt="Forks: 4976"></a>
+<a href="https://github.com/anthropics/claude-plugins-official/stargazers"><img src="https://img.shields.io/github/stars/anthropics/claude-plugins-official?style=flat-square&labelColor=343b41" alt="Stars: 48145"></a>
+<a href="https://github.com/anthropics/claude-plugins-official/network/members"><img src="https://img.shields.io/github/forks/anthropics/claude-plugins-official?style=flat-square&labelColor=343b41" alt="Forks: 5031"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/langchain-ai/langgraph">langchain-ai/langgraph</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Build resilient agents.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>agents</code> <code>ai</code> <code>ai-agents</code> <code>chatgpt</code> <code>deepagents</code> <code>enterprise</code></small><br/><br/>
+<em>Build resilient agents.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>agents</code> <code>ai</code> <code>ai-agents</code> <code>chatgpt</code> <code>deepagents</code> <code>enterprise</code></small><br/><br/>
 <span>
-<a href="https://github.com/langchain-ai/langgraph/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/langgraph?style=flat-square&labelColor=343b41" alt="Stars: 45241"></a>
-<a href="https://github.com/langchain-ai/langgraph/network/members"><img src="https://img.shields.io/github/forks/langchain-ai/langgraph?style=flat-square&labelColor=343b41" alt="Forks: 7817"></a>
+<a href="https://github.com/langchain-ai/langgraph/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/langgraph?style=flat-square&labelColor=343b41" alt="Stars: 45383"></a>
+<a href="https://github.com/langchain-ai/langgraph/network/members"><img src="https://img.shields.io/github/forks/langchain-ai/langgraph?style=flat-square&labelColor=343b41" alt="Forks: 7857"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/50654?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/danielmiessler/Fabric">danielmiessler/Fabric</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</em><br/><small><code>Go</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>ai</code> <code>augmentation</code> <code>flourishing</code> <code>life</code> <code>work</code></small><br/><br/>
+<em>Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</em><br/><small><code>Go</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-23</small><br/><small>🏷️ <code>ai</code> <code>augmentation</code> <code>flourishing</code> <code>life</code> <code>work</code></small><br/><br/>
 <span>
-<a href="https://github.com/danielmiessler/Fabric/stargazers"><img src="https://img.shields.io/github/stars/danielmiessler/Fabric?style=flat-square&labelColor=343b41" alt="Stars: 44690"></a>
-<a href="https://github.com/danielmiessler/Fabric/network/members"><img src="https://img.shields.io/github/forks/danielmiessler/Fabric?style=flat-square&labelColor=343b41" alt="Forks: 4354"></a>
+<a href="https://github.com/danielmiessler/Fabric/stargazers"><img src="https://img.shields.io/github/stars/danielmiessler/Fabric?style=flat-square&labelColor=343b41" alt="Stars: 44764"></a>
+<a href="https://github.com/danielmiessler/Fabric/network/members"><img src="https://img.shields.io/github/forks/danielmiessler/Fabric?style=flat-square&labelColor=343b41" alt="Forks: 4365"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/104874993?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/agno-agi/agno">agno-agi/agno</a> 🔥🔥🔥</strong> <br/><br/>
-<em>The self-managing agent platform</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-20</small><br/><small>🏷️ <code>agents</code> <code>ai</code> <code>ai-agents</code> <code>developer-tools</code> <code>python</code></small><br/><br/>
+<em>The self-managing agent platform</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agents</code> <code>ai</code> <code>ai-agents</code> <code>developer-tools</code> <code>python</code></small><br/><br/>
 <span>
-<a href="https://github.com/agno-agi/agno/stargazers"><img src="https://img.shields.io/github/stars/agno-agi/agno?style=flat-square&labelColor=343b41" alt="Stars: 43255"></a>
-<a href="https://github.com/agno-agi/agno/network/members"><img src="https://img.shields.io/github/forks/agno-agi/agno?style=flat-square&labelColor=343b41" alt="Forks: 6322"></a>
+<a href="https://github.com/agno-agi/agno/stargazers"><img src="https://img.shields.io/github/stars/agno-agi/agno?style=flat-square&labelColor=343b41" alt="Stars: 43292"></a>
+<a href="https://github.com/agno-agi/agno/network/members"><img src="https://img.shields.io/github/forks/agno-agi/agno?style=flat-square&labelColor=343b41" alt="Forks: 6343"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/246003628?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/tinyhumansai/openhuman">tinyhumansai/openhuman</a> 🔥🔥🔥</strong> <br/><br/>
-<em>The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ GPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-20</small><br/><small>🏷️ <code>agent-orchestration</code> <code>ai-agents</code> <code>ai-assistant</code> <code>desktop</code> <code>llm</code> <code>local-first</code></small><br/><br/>
+<em>The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ GPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>agent-orchestration</code> <code>ai-agents</code> <code>ai-assistant</code> <code>desktop</code> <code>llm</code> <code>local-first</code></small><br/><br/>
 <span>
-<a href="https://github.com/tinyhumansai/openhuman/stargazers"><img src="https://img.shields.io/github/stars/tinyhumansai/openhuman?style=flat-square&labelColor=343b41" alt="Stars: 42798"></a>
-<a href="https://github.com/tinyhumansai/openhuman/network/members"><img src="https://img.shields.io/github/forks/tinyhumansai/openhuman?style=flat-square&labelColor=343b41" alt="Forks: 4229"></a>
+<a href="https://github.com/tinyhumansai/openhuman/stargazers"><img src="https://img.shields.io/github/stars/tinyhumansai/openhuman?style=flat-square&labelColor=343b41" alt="Stars: 42844"></a>
+<a href="https://github.com/tinyhumansai/openhuman/network/members"><img src="https://img.shields.io/github/forks/tinyhumansai/openhuman?style=flat-square&labelColor=343b41" alt="Forks: 4232"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/3095771?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/ashishpatel26/500-AI-Agents-Projects">ashishpatel26/500-AI-Agents-Projects</a> 🔥🔥🔥</strong> <br/><br/>
-<em>The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>ai-agents</code> <code>genai</code></small><br/><br/>
+<em>The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>ai-agents</code> <code>genai</code></small><br/><br/>
 <span>
-<a href="https://github.com/ashishpatel26/500-AI-Agents-Projects/stargazers"><img src="https://img.shields.io/github/stars/ashishpatel26/500-AI-Agents-Projects?style=flat-square&labelColor=343b41" alt="Stars: 40420"></a>
-<a href="https://github.com/ashishpatel26/500-AI-Agents-Projects/network/members"><img src="https://img.shields.io/github/forks/ashishpatel26/500-AI-Agents-Projects?style=flat-square&labelColor=343b41" alt="Forks: 7242"></a>
+<a href="https://github.com/ashishpatel26/500-AI-Agents-Projects/stargazers"><img src="https://img.shields.io/github/stars/ashishpatel26/500-AI-Agents-Projects?style=flat-square&labelColor=343b41" alt="Stars: 40720"></a>
+<a href="https://github.com/ashishpatel26/500-AI-Agents-Projects/network/members"><img src="https://img.shields.io/github/forks/ashishpatel26/500-AI-Agents-Projects?style=flat-square&labelColor=343b41" alt="Forks: 7285"></a>
 </span>
 </div><br/>
 
@@ -529,26 +529,26 @@
 <img src="https://avatars.githubusercontent.com/u/31035808?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/mindsdb/mindshub">mindsdb/mindshub</a> 🔥🔥🔥</strong> <br/><br/>
 <em>The unified workspace where open-source models get things done for you.</em><br/><small><code>Makefile</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-10-23</small><br/><small>🏷️ <code>agents</code> <code>ai</code> <code>anton</code> <code>artificial-inteligence</code> <code>claude</code> <code>claude-cowork</code></small><br/><br/>
 <span>
-<a href="https://github.com/mindsdb/mindshub/stargazers"><img src="https://img.shields.io/github/stars/mindsdb/mindshub?style=flat-square&labelColor=343b41" alt="Stars: 39866"></a>
-<a href="https://github.com/mindsdb/mindshub/network/members"><img src="https://img.shields.io/github/forks/mindsdb/mindshub?style=flat-square&labelColor=343b41" alt="Forks: 6229"></a>
+<a href="https://github.com/mindsdb/mindshub/stargazers"><img src="https://img.shields.io/github/stars/mindsdb/mindshub?style=flat-square&labelColor=343b41" alt="Stars: 39888"></a>
+<a href="https://github.com/mindsdb/mindshub/network/members"><img src="https://img.shields.io/github/forks/mindsdb/mindshub?style=flat-square&labelColor=343b41" alt="Forks: 6231"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/11807264?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/can1357/oh-my-pi">can1357/oh-my-pi</a> 🔥🔥🔥</strong> <br/><br/>
-<em>⌥ Coding agent with the IDE wired in. Built by Stencil Labs.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>ai-agent</code> <code>ai-coding-agent</code> <code>anthropic</code> <code>bun</code> <code>claude</code> <code>cli</code></small><br/><br/>
+<em>⌥ Coding agent with the IDE wired in. Built by Stencil Labs.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>ai-agent</code> <code>ai-coding-agent</code> <code>anthropic</code> <code>bun</code> <code>claude</code> <code>cli</code></small><br/><br/>
 <span>
-<a href="https://github.com/can1357/oh-my-pi/stargazers"><img src="https://img.shields.io/github/stars/can1357/oh-my-pi?style=flat-square&labelColor=343b41" alt="Stars: 39614"></a>
-<a href="https://github.com/can1357/oh-my-pi/network/members"><img src="https://img.shields.io/github/forks/can1357/oh-my-pi?style=flat-square&labelColor=343b41" alt="Forks: 4575"></a>
+<a href="https://github.com/can1357/oh-my-pi/stargazers"><img src="https://img.shields.io/github/stars/can1357/oh-my-pi?style=flat-square&labelColor=343b41" alt="Stars: 39836"></a>
+<a href="https://github.com/can1357/oh-my-pi/network/members"><img src="https://img.shields.io/github/forks/can1357/oh-my-pi?style=flat-square&labelColor=343b41" alt="Forks: 4608"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/131273140?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/CopilotKit/CopilotKit">CopilotKit/CopilotKit</a> 🔥🔥🔥</strong> <br/><br/>
-<em>The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>agent</code> <code>agent-native</code> <code>agentic-ai</code> <code>agents</code> <code>ai</code> <code>ai-agent</code></small><br/><br/>
+<em>The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>agent</code> <code>agent-native</code> <code>agentic-ai</code> <code>agents</code> <code>ai</code> <code>ai-agent</code></small><br/><br/>
 <span>
-<a href="https://github.com/CopilotKit/CopilotKit/stargazers"><img src="https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=flat-square&labelColor=343b41" alt="Stars: 38864"></a>
-<a href="https://github.com/CopilotKit/CopilotKit/network/members"><img src="https://img.shields.io/github/forks/CopilotKit/CopilotKit?style=flat-square&labelColor=343b41" alt="Forks: 4840"></a>
+<a href="https://github.com/CopilotKit/CopilotKit/stargazers"><img src="https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=flat-square&labelColor=343b41" alt="Stars: 38960"></a>
+<a href="https://github.com/CopilotKit/CopilotKit/network/members"><img src="https://img.shields.io/github/forks/CopilotKit/CopilotKit?style=flat-square&labelColor=343b41" alt="Forks: 4849"></a>
 </span>
 </div><br/>
 
@@ -556,8 +556,8 @@
 <img src="https://avatars.githubusercontent.com/u/21162426?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/musistudio/claude-code-router">musistudio/claude-code-router</a> 🔥🔥🔥</strong> <br/><br/>
 <em>One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><br/>
 <span>
-<a href="https://github.com/musistudio/claude-code-router/stargazers"><img src="https://img.shields.io/github/stars/musistudio/claude-code-router?style=flat-square&labelColor=343b41" alt="Stars: 38297"></a>
-<a href="https://github.com/musistudio/claude-code-router/network/members"><img src="https://img.shields.io/github/forks/musistudio/claude-code-router?style=flat-square&labelColor=343b41" alt="Forks: 3230"></a>
+<a href="https://github.com/musistudio/claude-code-router/stargazers"><img src="https://img.shields.io/github/stars/musistudio/claude-code-router?style=flat-square&labelColor=343b41" alt="Stars: 38356"></a>
+<a href="https://github.com/musistudio/claude-code-router/network/members"><img src="https://img.shields.io/github/forks/musistudio/claude-code-router?style=flat-square&labelColor=343b41" alt="Forks: 3234"></a>
 </span>
 </div><br/>
 
@@ -565,26 +565,17 @@
 <img src="https://avatars.githubusercontent.com/u/89920203?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/OpenBMB/ChatDev">OpenBMB/ChatDev</a> 🔥🔥🔥</strong> <br/><br/>
 <em>ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><br/>
 <span>
-<a href="https://github.com/OpenBMB/ChatDev/stargazers"><img src="https://img.shields.io/github/stars/OpenBMB/ChatDev?style=flat-square&labelColor=343b41" alt="Stars: 34837"></a>
-<a href="https://github.com/OpenBMB/ChatDev/network/members"><img src="https://img.shields.io/github/forks/OpenBMB/ChatDev?style=flat-square&labelColor=343b41" alt="Forks: 4352"></a>
+<a href="https://github.com/OpenBMB/ChatDev/stargazers"><img src="https://img.shields.io/github/stars/OpenBMB/ChatDev?style=flat-square&labelColor=343b41" alt="Stars: 34869"></a>
+<a href="https://github.com/OpenBMB/ChatDev/network/members"><img src="https://img.shields.io/github/forks/OpenBMB/ChatDev?style=flat-square&labelColor=343b41" alt="Forks: 4361"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/6067714?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/mksglu/context-mode">mksglu/context-mode</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>antigravity</code> <code>claude</code> <code>claude-code</code> <code>claude-code-hooks</code> <code>claude-code-plugins</code> <code>claude-code-skill</code></small><br/><br/>
+<em>Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>antigravity</code> <code>claude</code> <code>claude-code</code> <code>claude-code-hooks</code> <code>claude-code-plugins</code> <code>claude-code-skill</code></small><br/><br/>
 <span>
-<a href="https://github.com/mksglu/context-mode/stargazers"><img src="https://img.shields.io/github/stars/mksglu/context-mode?style=flat-square&labelColor=343b41" alt="Stars: 34370"></a>
-<a href="https://github.com/mksglu/context-mode/network/members"><img src="https://img.shields.io/github/forks/mksglu/context-mode?style=flat-square&labelColor=343b41" alt="Forks: 2363"></a>
-</span>
-</div><br/>
-
-<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
-<img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/langchain-ai/deepagents">langchain-ai/deepagents</a> 🔥🔥🔥</strong> <br/><br/>
-<em>The batteries-included agent harness.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>ai</code> <code>deepagents</code> <code>harness</code> <code>harness-engineering</code> <code>langchain</code> <code>langgraph</code></small><br/><br/>
-<span>
-<a href="https://github.com/langchain-ai/deepagents/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/deepagents?style=flat-square&labelColor=343b41" alt="Stars: 31503"></a>
-<a href="https://github.com/langchain-ai/deepagents/network/members"><img src="https://img.shields.io/github/forks/langchain-ai/deepagents?style=flat-square&labelColor=343b41" alt="Forks: 4458"></a>
+<a href="https://github.com/mksglu/context-mode/stargazers"><img src="https://img.shields.io/github/stars/mksglu/context-mode?style=flat-square&labelColor=343b41" alt="Stars: 34460"></a>
+<a href="https://github.com/mksglu/context-mode/network/members"><img src="https://img.shields.io/github/forks/mksglu/context-mode?style=flat-square&labelColor=343b41" alt="Forks: 2374"></a>
 </span>
 </div><br/>
 
@@ -592,44 +583,53 @@
 <img src="https://avatars.githubusercontent.com/u/223140489?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/AgriciDaniel/claude-seo">AgriciDaniel/claude-seo</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-16</small><br/><small>🏷️ <code>ai</code> <code>ai-seo</code> <code>claude-code</code> <code>claude-code-skill</code> <code>marketing-automation</code> <code>open-source</code></small><br/><br/>
 <span>
-<a href="https://github.com/AgriciDaniel/claude-seo/stargazers"><img src="https://img.shields.io/github/stars/AgriciDaniel/claude-seo?style=flat-square&labelColor=343b41" alt="Stars: 31440"></a>
-<a href="https://github.com/AgriciDaniel/claude-seo/network/members"><img src="https://img.shields.io/github/forks/AgriciDaniel/claude-seo?style=flat-square&labelColor=343b41" alt="Forks: 3882"></a>
+<a href="https://github.com/AgriciDaniel/claude-seo/stargazers"><img src="https://img.shields.io/github/stars/AgriciDaniel/claude-seo?style=flat-square&labelColor=343b41" alt="Stars: 32241"></a>
+<a href="https://github.com/AgriciDaniel/claude-seo/network/members"><img src="https://img.shields.io/github/forks/AgriciDaniel/claude-seo?style=flat-square&labelColor=343b41" alt="Forks: 3941"></a>
+</span>
+</div><br/>
+
+<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
+<img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/langchain-ai/deepagents">langchain-ai/deepagents</a> 🔥🔥🔥</strong> <br/><br/>
+<em>The batteries-included agent harness.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>ai</code> <code>deepagents</code> <code>harness</code> <code>harness-engineering</code> <code>langchain</code> <code>langgraph</code></small><br/><br/>
+<span>
+<a href="https://github.com/langchain-ai/deepagents/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/deepagents?style=flat-square&labelColor=343b41" alt="Stars: 31569"></a>
+<a href="https://github.com/langchain-ai/deepagents/network/members"><img src="https://img.shields.io/github/forks/langchain-ai/deepagents?style=flat-square&labelColor=343b41" alt="Forks: 4467"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/255066954?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/nanocoai/nanoclaw">nanocoai/nanoclaw</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to it from Slack, WhatsApp, Telegram, Discord and more.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>ai-agents</code> <code>ai-assistant</code> <code>claude-code</code> <code>claude-skills</code> <code>codex</code> <code>cursor</code></small><br/><br/>
+<em>Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to it from Slack, WhatsApp, Telegram, Discord and more.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>ai-agents</code> <code>ai-assistant</code> <code>claude-code</code> <code>claude-skills</code> <code>codex</code> <code>cursor</code></small><br/><br/>
 <span>
-<a href="https://github.com/nanocoai/nanoclaw/stargazers"><img src="https://img.shields.io/github/stars/nanocoai/nanoclaw?style=flat-square&labelColor=343b41" alt="Stars: 31137"></a>
-<a href="https://github.com/nanocoai/nanoclaw/network/members"><img src="https://img.shields.io/github/forks/nanocoai/nanoclaw?style=flat-square&labelColor=343b41" alt="Forks: 12639"></a>
+<a href="https://github.com/nanocoai/nanoclaw/stargazers"><img src="https://img.shields.io/github/stars/nanocoai/nanoclaw?style=flat-square&labelColor=343b41" alt="Stars: 31157"></a>
+<a href="https://github.com/nanocoai/nanoclaw/network/members"><img src="https://img.shields.io/github/forks/nanocoai/nanoclaw?style=flat-square&labelColor=343b41" alt="Forks: 12624"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/141221163?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/QwenLM/qwen-code">QwenLM/qwen-code</a> 🔥🔥🔥</strong> <br/><br/>
-<em>An open-source AI coding agent that lives in your terminal.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>agentic</code> <code>ai</code> <code>ai-agent</code> <code>ai-coding</code> <code>cli</code> <code>coding-agent</code></small><br/><br/>
+<em>An open-source AI coding agent that lives in your terminal.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agentic</code> <code>ai</code> <code>ai-agent</code> <code>ai-coding</code> <code>cli</code> <code>coding-agent</code></small><br/><br/>
 <span>
-<a href="https://github.com/QwenLM/qwen-code/stargazers"><img src="https://img.shields.io/github/stars/QwenLM/qwen-code?style=flat-square&labelColor=343b41" alt="Stars: 30851"></a>
-<a href="https://github.com/QwenLM/qwen-code/network/members"><img src="https://img.shields.io/github/forks/QwenLM/qwen-code?style=flat-square&labelColor=343b41" alt="Forks: 3577"></a>
+<a href="https://github.com/QwenLM/qwen-code/stargazers"><img src="https://img.shields.io/github/stars/QwenLM/qwen-code?style=flat-square&labelColor=343b41" alt="Stars: 30931"></a>
+<a href="https://github.com/QwenLM/qwen-code/network/members"><img src="https://img.shields.io/github/forks/QwenLM/qwen-code?style=flat-square&labelColor=343b41" alt="Forks: 3581"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/13554167?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/assafelovic/gpt-researcher">assafelovic/gpt-researcher</a> 🔥🔥🔥</strong> <br/><br/>
-<em>An autonomous agent that conducts deep research on any data using any LLM providers</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-12</small><br/><small>🏷️ <code>agent</code> <code>ai</code> <code>automation</code> <code>deepresearch</code> <code>llms</code> <code>mcp</code></small><br/><br/>
+<em>An autonomous agent that conducts deep research on any data using any LLM providers</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-23</small><br/><small>🏷️ <code>agent</code> <code>ai</code> <code>automation</code> <code>deepresearch</code> <code>llms</code> <code>mcp</code></small><br/><br/>
 <span>
-<a href="https://github.com/assafelovic/gpt-researcher/stargazers"><img src="https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=flat-square&labelColor=343b41" alt="Stars: 30820"></a>
-<a href="https://github.com/assafelovic/gpt-researcher/network/members"><img src="https://img.shields.io/github/forks/assafelovic/gpt-researcher?style=flat-square&labelColor=343b41" alt="Forks: 4250"></a>
+<a href="https://github.com/assafelovic/gpt-researcher/stargazers"><img src="https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=flat-square&labelColor=343b41" alt="Stars: 30896"></a>
+<a href="https://github.com/assafelovic/gpt-researcher/network/members"><img src="https://img.shields.io/github/forks/assafelovic/gpt-researcher?style=flat-square&labelColor=343b41" alt="Forks: 4267"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/199344406?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/simstudioai/sim">simstudioai/sim</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>agent-workflow</code> <code>agentic-workflow</code> <code>agents</code> <code>ai</code> <code>aiagents</code> <code>anthropic</code></small><br/><br/>
+<em>Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agent-workflow</code> <code>agentic-workflow</code> <code>agents</code> <code>ai</code> <code>aiagents</code> <code>anthropic</code></small><br/><br/>
 <span>
-<a href="https://github.com/simstudioai/sim/stargazers"><img src="https://img.shields.io/github/stars/simstudioai/sim?style=flat-square&labelColor=343b41" alt="Stars: 30174"></a>
-<a href="https://github.com/simstudioai/sim/network/members"><img src="https://img.shields.io/github/forks/simstudioai/sim?style=flat-square&labelColor=343b41" alt="Forks: 3917"></a>
+<a href="https://github.com/simstudioai/sim/stargazers"><img src="https://img.shields.io/github/stars/simstudioai/sim?style=flat-square&labelColor=343b41" alt="Stars: 30199"></a>
+<a href="https://github.com/simstudioai/sim/network/members"><img src="https://img.shields.io/github/forks/simstudioai/sim?style=flat-square&labelColor=343b41" alt="Forks: 3919"></a>
 </span>
 </div><br/>
 
@@ -637,7 +637,7 @@
 <img src="https://avatars.githubusercontent.com/u/49105846?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Fosowl/agenticSeek">Fosowl/agenticSeek</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ GPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-17</small><br/><small>🏷️ <code>agentic-ai</code> <code>agents</code> <code>ai</code> <code>autonomous-agents</code> <code>deepseek-r1</code> <code>llm</code></small><br/><br/>
 <span>
-<a href="https://github.com/Fosowl/agenticSeek/stargazers"><img src="https://img.shields.io/github/stars/Fosowl/agenticSeek?style=flat-square&labelColor=343b41" alt="Stars: 27688"></a>
+<a href="https://github.com/Fosowl/agenticSeek/stargazers"><img src="https://img.shields.io/github/stars/Fosowl/agenticSeek?style=flat-square&labelColor=343b41" alt="Stars: 27695"></a>
 <a href="https://github.com/Fosowl/agenticSeek/network/members"><img src="https://img.shields.io/github/forks/Fosowl/agenticSeek?style=flat-square&labelColor=343b41" alt="Forks: 3114"></a>
 </span>
 </div><br/>
@@ -646,26 +646,26 @@
 <img src="https://avatars.githubusercontent.com/u/177409041?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/humanlayer/12-factor-agents">humanlayer/12-factor-agents</a> 🔥🔥🔥</strong> <br/><br/>
 <em>What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2025-09-21</small><br/><small>🏷️ <code>12-factor</code> <code>12-factor-agents</code> <code>agents</code> <code>ai</code> <code>context-window</code> <code>framework</code></small><br/><br/>
 <span>
-<a href="https://github.com/humanlayer/12-factor-agents/stargazers"><img src="https://img.shields.io/github/stars/humanlayer/12-factor-agents?style=flat-square&labelColor=343b41" alt="Stars: 27363"></a>
-<a href="https://github.com/humanlayer/12-factor-agents/network/members"><img src="https://img.shields.io/github/forks/humanlayer/12-factor-agents?style=flat-square&labelColor=343b41" alt="Forks: 2061"></a>
+<a href="https://github.com/humanlayer/12-factor-agents/stargazers"><img src="https://img.shields.io/github/stars/humanlayer/12-factor-agents?style=flat-square&labelColor=343b41" alt="Stars: 27411"></a>
+<a href="https://github.com/humanlayer/12-factor-agents/network/members"><img src="https://img.shields.io/github/forks/humanlayer/12-factor-agents?style=flat-square&labelColor=343b41" alt="Forks: 2065"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/158221360?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/browserbase/stagehand">browserbase/stagehand</a> 🔥🔥🔥</strong> <br/><br/>
-<em>The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>agents</code> <code>ai</code> <code>ai-agents</code> <code>browser-agent</code> <code>browser-automation</code> <code>cdp</code></small><br/><br/>
+<em>The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agents</code> <code>ai</code> <code>ai-agents</code> <code>browser-agent</code> <code>browser-automation</code> <code>cdp</code></small><br/><br/>
 <span>
-<a href="https://github.com/browserbase/stagehand/stargazers"><img src="https://img.shields.io/github/stars/browserbase/stagehand?style=flat-square&labelColor=343b41" alt="Stars: 26111"></a>
+<a href="https://github.com/browserbase/stagehand/stargazers"><img src="https://img.shields.io/github/stars/browserbase/stagehand?style=flat-square&labelColor=343b41" alt="Stars: 26135"></a>
 <a href="https://github.com/browserbase/stagehand/network/members"><img src="https://img.shields.io/github/forks/browserbase/stagehand?style=flat-square&labelColor=343b41" alt="Forks: 1836"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/271878417?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/walkinglabs/learn-harness-engineering">walkinglabs/learn-harness-engineering</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Harness engineering beginner tutorial, from 0 to 1</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>agent</code> <code>agentic</code> <code>agentic-ai</code> <code>ai</code> <code>ai-agent</code> <code>ai-agents</code></small><br/><br/>
+<em>Harness engineering beginner tutorial, from 0 to 1</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>agent</code> <code>agentic</code> <code>agentic-ai</code> <code>ai</code> <code>ai-agent</code> <code>ai-agents</code></small><br/><br/>
 <span>
-<a href="https://github.com/walkinglabs/learn-harness-engineering/stargazers"><img src="https://img.shields.io/github/stars/walkinglabs/learn-harness-engineering?style=flat-square&labelColor=343b41" alt="Stars: 25807"></a>
-<a href="https://github.com/walkinglabs/learn-harness-engineering/network/members"><img src="https://img.shields.io/github/forks/walkinglabs/learn-harness-engineering?style=flat-square&labelColor=343b41" alt="Forks: 2968"></a>
+<a href="https://github.com/walkinglabs/learn-harness-engineering/stargazers"><img src="https://img.shields.io/github/stars/walkinglabs/learn-harness-engineering?style=flat-square&labelColor=343b41" alt="Stars: 26065"></a>
+<a href="https://github.com/walkinglabs/learn-harness-engineering/network/members"><img src="https://img.shields.io/github/forks/walkinglabs/learn-harness-engineering?style=flat-square&labelColor=343b41" alt="Forks: 3007"></a>
 </span>
 </div><br/>
 
@@ -673,26 +673,35 @@
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/microsoft/JARVIS">microsoft/JARVIS</a> 🔥🔥🔥</strong> <br/><br/>
 <em>JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2025-07-29</small><br/><small>🏷️ <code>deep-learning</code> <code>platform</code> <code>pytorch</code></small><br/><br/>
 <span>
-<a href="https://github.com/microsoft/JARVIS/stargazers"><img src="https://img.shields.io/github/stars/microsoft/JARVIS?style=flat-square&labelColor=343b41" alt="Stars: 25743"></a>
-<a href="https://github.com/microsoft/JARVIS/network/members"><img src="https://img.shields.io/github/forks/microsoft/JARVIS?style=flat-square&labelColor=343b41" alt="Forks: 2303"></a>
+<a href="https://github.com/microsoft/JARVIS/stargazers"><img src="https://img.shields.io/github/stars/microsoft/JARVIS?style=flat-square&labelColor=343b41" alt="Stars: 25774"></a>
+<a href="https://github.com/microsoft/JARVIS/network/members"><img src="https://img.shields.io/github/forks/microsoft/JARVIS?style=flat-square&labelColor=343b41" alt="Forks: 2305"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/microsoft/OmniParser">microsoft/OmniParser</a> 🔥🔥🔥</strong> <br/><br/>
-<em>A simple screen parsing tool towards pure vision based GUI agent</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; ⚖️ CC-BY-4.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-14</small><br/><br/>
+<em>A simple screen parsing tool towards pure vision based GUI agent</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; ⚖️ CC-BY-4.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><br/>
 <span>
-<a href="https://github.com/microsoft/OmniParser/stargazers"><img src="https://img.shields.io/github/stars/microsoft/OmniParser?style=flat-square&labelColor=343b41" alt="Stars: 25632"></a>
+<a href="https://github.com/microsoft/OmniParser/stargazers"><img src="https://img.shields.io/github/stars/microsoft/OmniParser?style=flat-square&labelColor=343b41" alt="Stars: 25636"></a>
 <a href="https://github.com/microsoft/OmniParser/network/members"><img src="https://img.shields.io/github/forks/microsoft/OmniParser?style=flat-square&labelColor=343b41" alt="Forks: 2240"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/NirDiamant/GenAI_Agents">NirDiamant/GenAI_Agents</a> 🔥🔥🔥</strong> <br/><br/>
-<em>50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-02</small><br/><small>🏷️ <code>agentic-ai</code> <code>agents</code> <code>ai</code> <code>ai-agents</code> <code>autonomous-agents</code> <code>genai</code></small><br/><br/>
+<em>50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>agentic-ai</code> <code>agents</code> <code>ai</code> <code>ai-agents</code> <code>autonomous-agents</code> <code>genai</code></small><br/><br/>
 <span>
-<a href="https://github.com/NirDiamant/GenAI_Agents/stargazers"><img src="https://img.shields.io/github/stars/NirDiamant/GenAI_Agents?style=flat-square&labelColor=343b41" alt="Stars: 25080"></a>
-<a href="https://github.com/NirDiamant/GenAI_Agents/network/members"><img src="https://img.shields.io/github/forks/NirDiamant/GenAI_Agents?style=flat-square&labelColor=343b41" alt="Forks: 4202"></a>
+<a href="https://github.com/NirDiamant/GenAI_Agents/stargazers"><img src="https://img.shields.io/github/stars/NirDiamant/GenAI_Agents?style=flat-square&labelColor=343b41" alt="Stars: 25121"></a>
+<a href="https://github.com/NirDiamant/GenAI_Agents/network/members"><img src="https://img.shields.io/github/forks/NirDiamant/GenAI_Agents?style=flat-square&labelColor=343b41" alt="Forks: 4205"></a>
+</span>
+</div><br/>
+
+<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
+<img src="https://avatars.githubusercontent.com/u/43830688?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/google-research/harness2">google-research/harness2</a> 🔥🔥🔥</strong> <br/><br/>
+<em>Recursive Agent Harnessing for an Open World — research and tooling for agent harnesses.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-02</small><br/><br/>
+<span>
+<a href="https://github.com/google-research/harness2/stargazers"><img src="https://img.shields.io/github/stars/google-research/harness2?style=flat-square&labelColor=343b41" alt="Stars: 25118"></a>
+<a href="https://github.com/google-research/harness2/network/members"><img src="https://img.shields.io/github/forks/google-research/harness2?style=flat-square&labelColor=343b41" alt="Forks: 2516"></a>
 </span>
 </div><br/>
 
@@ -700,35 +709,26 @@
 <img src="https://avatars.githubusercontent.com/u/192012301?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/browser-use/jev-ultrafast">browser-use/jev-ultrafast</a> 🔥🔥</strong> <br/><br/>
 <em>Fastest and cheapest web agent</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-11</small><br/><br/>
 <span>
-<a href="https://github.com/browser-use/jev-ultrafast/stargazers"><img src="https://img.shields.io/github/stars/browser-use/jev-ultrafast?style=flat-square&labelColor=343b41" alt="Stars: 24703"></a>
-<a href="https://github.com/browser-use/jev-ultrafast/network/members"><img src="https://img.shields.io/github/forks/browser-use/jev-ultrafast?style=flat-square&labelColor=343b41" alt="Forks: 1897"></a>
-</span>
-</div><br/>
-
-<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
-<img src="https://avatars.githubusercontent.com/u/43830688?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/google-research/harness2">google-research/harness2</a> 🔥🔥</strong> <br/><br/>
-<em>Recursive Agent Harnessing for an Open World — research and tooling for agent harnesses.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-02</small><br/><br/>
-<span>
-<a href="https://github.com/google-research/harness2/stargazers"><img src="https://img.shields.io/github/stars/google-research/harness2?style=flat-square&labelColor=343b41" alt="Stars: 24700"></a>
-<a href="https://github.com/google-research/harness2/network/members"><img src="https://img.shields.io/github/forks/google-research/harness2?style=flat-square&labelColor=343b41" alt="Forks: 2472"></a>
-</span>
-</div><br/>
-
-<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
-<img src="https://avatars.githubusercontent.com/u/118544361?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/different-ai/openwork">different-ai/openwork</a> 🔥🔥</strong> <br/><br/>
-<em>The open-source alternative to Claude Cowork (powered by opencode)</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><br/>
-<span>
-<a href="https://github.com/different-ai/openwork/stargazers"><img src="https://img.shields.io/github/stars/different-ai/openwork?style=flat-square&labelColor=343b41" alt="Stars: 24580"></a>
-<a href="https://github.com/different-ai/openwork/network/members"><img src="https://img.shields.io/github/forks/different-ai/openwork?style=flat-square&labelColor=343b41" alt="Forks: 2491"></a>
+<a href="https://github.com/browser-use/jev-ultrafast/stargazers"><img src="https://img.shields.io/github/stars/browser-use/jev-ultrafast?style=flat-square&labelColor=343b41" alt="Stars: 24731"></a>
+<a href="https://github.com/browser-use/jev-ultrafast/network/members"><img src="https://img.shields.io/github/forks/browser-use/jev-ultrafast?style=flat-square&labelColor=343b41" alt="Forks: 1901"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/google/skills">google/skills</a> 🔥🔥</strong> <br/><br/>
-<em>Agent Skills for Google products and technologies</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>google</code> <code>googlecloud</code> <code>skills</code></small><br/><br/>
+<em>Agent Skills for Google products and technologies</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>google</code> <code>googlecloud</code> <code>skills</code></small><br/><br/>
 <span>
-<a href="https://github.com/google/skills/stargazers"><img src="https://img.shields.io/github/stars/google/skills?style=flat-square&labelColor=343b41" alt="Stars: 24528"></a>
-<a href="https://github.com/google/skills/network/members"><img src="https://img.shields.io/github/forks/google/skills?style=flat-square&labelColor=343b41" alt="Forks: 2038"></a>
+<a href="https://github.com/google/skills/stargazers"><img src="https://img.shields.io/github/stars/google/skills?style=flat-square&labelColor=343b41" alt="Stars: 24635"></a>
+<a href="https://github.com/google/skills/network/members"><img src="https://img.shields.io/github/forks/google/skills?style=flat-square&labelColor=343b41" alt="Forks: 2050"></a>
+</span>
+</div><br/>
+
+<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
+<img src="https://avatars.githubusercontent.com/u/118544361?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/different-ai/openwork">different-ai/openwork</a> 🔥🔥</strong> <br/><br/>
+<em>The open-source alternative to Claude Cowork (powered by opencode)</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><br/>
+<span>
+<a href="https://github.com/different-ai/openwork/stargazers"><img src="https://img.shields.io/github/stars/different-ai/openwork?style=flat-square&labelColor=343b41" alt="Stars: 24589"></a>
+<a href="https://github.com/different-ai/openwork/network/members"><img src="https://img.shields.io/github/forks/different-ai/openwork?style=flat-square&labelColor=343b41" alt="Forks: 2493"></a>
 </span>
 </div><br/>
 
@@ -736,8 +736,26 @@
 <img src="https://avatars.githubusercontent.com/u/148330874?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/deepseek-ai/dsh-superagent-prototype">deepseek-ai/dsh-superagent-prototype</a> 🔥🔥</strong> <br/><br/>
 <em>Towards a More Autonomous Agent System</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-03</small><br/><br/>
 <span>
-<a href="https://github.com/deepseek-ai/dsh-superagent-prototype/stargazers"><img src="https://img.shields.io/github/stars/deepseek-ai/dsh-superagent-prototype?style=flat-square&labelColor=343b41" alt="Stars: 24176"></a>
-<a href="https://github.com/deepseek-ai/dsh-superagent-prototype/network/members"><img src="https://img.shields.io/github/forks/deepseek-ai/dsh-superagent-prototype?style=flat-square&labelColor=343b41" alt="Forks: 3007"></a>
+<a href="https://github.com/deepseek-ai/dsh-superagent-prototype/stargazers"><img src="https://img.shields.io/github/stars/deepseek-ai/dsh-superagent-prototype?style=flat-square&labelColor=343b41" alt="Stars: 24524"></a>
+<a href="https://github.com/deepseek-ai/dsh-superagent-prototype/network/members"><img src="https://img.shields.io/github/forks/deepseek-ai/dsh-superagent-prototype?style=flat-square&labelColor=343b41" alt="Forks: 3071"></a>
+</span>
+</div><br/>
+
+<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
+<img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/google/elephant-goldfish-model">google/elephant-goldfish-model</a> 🔥🔥</strong> <br/><br/>
+<em>Open-source plugin for designing and reviewing software with agents</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>agent-skills</code> <code>ai-agents</code> <code>antigravity</code> <code>claude-code</code> <code>claude-code-plugin</code> <code>claude-skills</code></small><br/><br/>
+<span>
+<a href="https://github.com/google/elephant-goldfish-model/stargazers"><img src="https://img.shields.io/github/stars/google/elephant-goldfish-model?style=flat-square&labelColor=343b41" alt="Stars: 22818"></a>
+<a href="https://github.com/google/elephant-goldfish-model/network/members"><img src="https://img.shields.io/github/forks/google/elephant-goldfish-model?style=flat-square&labelColor=343b41" alt="Forks: 1684"></a>
+</span>
+</div><br/>
+
+<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
+<img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/google/adk-python">google/adk-python</a> 🔥🔥</strong> <br/><br/>
+<em>An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agent</code> <code>agentic</code> <code>agentic-ai</code> <code>agents</code> <code>agents-sdk</code> <code>ai</code></small><br/><br/>
+<span>
+<a href="https://github.com/google/adk-python/stargazers"><img src="https://img.shields.io/github/stars/google/adk-python?style=flat-square&labelColor=343b41" alt="Stars: 22343"></a>
+<a href="https://github.com/google/adk-python/network/members"><img src="https://img.shields.io/github/forks/google/adk-python?style=flat-square&labelColor=343b41" alt="Forks: 4437"></a>
 </span>
 </div><br/>
 
@@ -745,17 +763,8 @@
 <img src="https://avatars.githubusercontent.com/u/152063952?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/snarktank/ralph">snarktank/ralph</a> 🔥🔥</strong> <br/><br/>
 <em>Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-02-02</small><br/><br/>
 <span>
-<a href="https://github.com/snarktank/ralph/stargazers"><img src="https://img.shields.io/github/stars/snarktank/ralph?style=flat-square&labelColor=343b41" alt="Stars: 22316"></a>
-<a href="https://github.com/snarktank/ralph/network/members"><img src="https://img.shields.io/github/forks/snarktank/ralph?style=flat-square&labelColor=343b41" alt="Forks: 2120"></a>
-</span>
-</div><br/>
-
-<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
-<img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/google/adk-python">google/adk-python</a> 🔥🔥</strong> <br/><br/>
-<em>An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>agent</code> <code>agentic</code> <code>agentic-ai</code> <code>agents</code> <code>agents-sdk</code> <code>ai</code></small><br/><br/>
-<span>
-<a href="https://github.com/google/adk-python/stargazers"><img src="https://img.shields.io/github/stars/google/adk-python?style=flat-square&labelColor=343b41" alt="Stars: 22305"></a>
-<a href="https://github.com/google/adk-python/network/members"><img src="https://img.shields.io/github/forks/google/adk-python?style=flat-square&labelColor=343b41" alt="Forks: 4414"></a>
+<a href="https://github.com/snarktank/ralph/stargazers"><img src="https://img.shields.io/github/stars/snarktank/ralph?style=flat-square&labelColor=343b41" alt="Stars: 22342"></a>
+<a href="https://github.com/snarktank/ralph/network/members"><img src="https://img.shields.io/github/forks/snarktank/ralph?style=flat-square&labelColor=343b41" alt="Forks: 2122"></a>
 </span>
 </div><br/>
 
@@ -763,17 +772,8 @@
 <img src="https://avatars.githubusercontent.com/u/14957082?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/openai/swarm">openai/swarm</a> 🔥🔥</strong> <br/><br/>
 <em>Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-04-15</small><br/><br/>
 <span>
-<a href="https://github.com/openai/swarm/stargazers"><img src="https://img.shields.io/github/stars/openai/swarm?style=flat-square&labelColor=343b41" alt="Stars: 22154"></a>
-<a href="https://github.com/openai/swarm/network/members"><img src="https://img.shields.io/github/forks/openai/swarm?style=flat-square&labelColor=343b41" alt="Forks: 2357"></a>
-</span>
-</div><br/>
-
-<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
-<img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/google/elephant-goldfish-model">google/elephant-goldfish-model</a> 🔥🔥</strong> <br/><br/>
-<em>Open-source plugin for designing and reviewing software with agents</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>agent-skills</code> <code>ai-agents</code> <code>antigravity</code> <code>claude-code</code> <code>claude-code-plugin</code> <code>claude-skills</code></small><br/><br/>
-<span>
-<a href="https://github.com/google/elephant-goldfish-model/stargazers"><img src="https://img.shields.io/github/stars/google/elephant-goldfish-model?style=flat-square&labelColor=343b41" alt="Stars: 21952"></a>
-<a href="https://github.com/google/elephant-goldfish-model/network/members"><img src="https://img.shields.io/github/forks/google/elephant-goldfish-model?style=flat-square&labelColor=343b41" alt="Forks: 1616"></a>
+<a href="https://github.com/openai/swarm/stargazers"><img src="https://img.shields.io/github/stars/openai/swarm?style=flat-square&labelColor=343b41" alt="Stars: 22163"></a>
+<a href="https://github.com/openai/swarm/network/members"><img src="https://img.shields.io/github/forks/openai/swarm?style=flat-square&labelColor=343b41" alt="Forks: 2356"></a>
 </span>
 </div><br/>
 
@@ -781,89 +781,89 @@
 <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/NirDiamant/agents-towards-production">NirDiamant/agents-towards-production</a> 🔥🔥</strong> <br/><br/>
 <em>End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-15</small><br/><small>🏷️ <code>agent</code> <code>agent-framework</code> <code>agentic-ai</code> <code>agents</code> <code>ai-agents</code> <code>deployment</code></small><br/><br/>
 <span>
-<a href="https://github.com/NirDiamant/agents-towards-production/stargazers"><img src="https://img.shields.io/github/stars/NirDiamant/agents-towards-production?style=flat-square&labelColor=343b41" alt="Stars: 21936"></a>
-<a href="https://github.com/NirDiamant/agents-towards-production/network/members"><img src="https://img.shields.io/github/forks/NirDiamant/agents-towards-production?style=flat-square&labelColor=343b41" alt="Forks: 2895"></a>
+<a href="https://github.com/NirDiamant/agents-towards-production/stargazers"><img src="https://img.shields.io/github/stars/NirDiamant/agents-towards-production?style=flat-square&labelColor=343b41" alt="Stars: 21948"></a>
+<a href="https://github.com/NirDiamant/agents-towards-production/network/members"><img src="https://img.shields.io/github/forks/NirDiamant/agents-towards-production?style=flat-square&labelColor=343b41" alt="Forks: 2900"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/216033749?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/agent0ai/agent-zero">agent0ai/agent-zero</a> 🔥🔥</strong> <br/><br/>
-<em>Agent Zero AI framework</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>agent</code> <code>ai</code> <code>assistant</code> <code>autonomous</code> <code>linux</code> <code>zero</code></small><br/><br/>
+<em>Agent Zero AI framework</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>agent</code> <code>ai</code> <code>assistant</code> <code>autonomous</code> <code>linux</code> <code>zero</code></small><br/><br/>
 <span>
-<a href="https://github.com/agent0ai/agent-zero/stargazers"><img src="https://img.shields.io/github/stars/agent0ai/agent-zero?style=flat-square&labelColor=343b41" alt="Stars: 19947"></a>
-<a href="https://github.com/agent0ai/agent-zero/network/members"><img src="https://img.shields.io/github/forks/agent0ai/agent-zero?style=flat-square&labelColor=343b41" alt="Forks: 3897"></a>
+<a href="https://github.com/agent0ai/agent-zero/stargazers"><img src="https://img.shields.io/github/stars/agent0ai/agent-zero?style=flat-square&labelColor=343b41" alt="Stars: 19979"></a>
+<a href="https://github.com/agent0ai/agent-zero/network/members"><img src="https://img.shields.io/github/forks/agent0ai/agent-zero?style=flat-square&labelColor=343b41" alt="Forks: 3903"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/6511?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/nesquena/hermes-webui">nesquena/hermes-webui</a> 🔥🔥</strong> <br/><br/>
-<em>Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>agent</code> <code>ai-agents</code> <code>hermes</code> <code>hermes-agent</code> <code>nous-research</code></small><br/><br/>
+<em>Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agent</code> <code>ai-agents</code> <code>hermes</code> <code>hermes-agent</code> <code>nous-research</code></small><br/><br/>
 <span>
-<a href="https://github.com/nesquena/hermes-webui/stargazers"><img src="https://img.shields.io/github/stars/nesquena/hermes-webui?style=flat-square&labelColor=343b41" alt="Stars: 19605"></a>
-<a href="https://github.com/nesquena/hermes-webui/network/members"><img src="https://img.shields.io/github/forks/nesquena/hermes-webui?style=flat-square&labelColor=343b41" alt="Forks: 2855"></a>
+<a href="https://github.com/nesquena/hermes-webui/stargazers"><img src="https://img.shields.io/github/stars/nesquena/hermes-webui?style=flat-square&labelColor=343b41" alt="Stars: 19628"></a>
+<a href="https://github.com/nesquena/hermes-webui/network/members"><img src="https://img.shields.io/github/forks/nesquena/hermes-webui?style=flat-square&labelColor=343b41" alt="Forks: 2863"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/3710007?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/andrewyng/openworker">andrewyng/openworker</a> 🔥🔥</strong> <br/><br/>
-<em>Open-source autonomous digital worker and agent execution environment.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-20</small><br/><br/>
+<em>Open-source autonomous digital worker and agent execution environment.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><br/>
 <span>
-<a href="https://github.com/andrewyng/openworker/stargazers"><img src="https://img.shields.io/github/stars/andrewyng/openworker?style=flat-square&labelColor=343b41" alt="Stars: 19530"></a>
-<a href="https://github.com/andrewyng/openworker/network/members"><img src="https://img.shields.io/github/forks/andrewyng/openworker?style=flat-square&labelColor=343b41" alt="Forks: 2799"></a>
+<a href="https://github.com/andrewyng/openworker/stargazers"><img src="https://img.shields.io/github/stars/andrewyng/openworker?style=flat-square&labelColor=343b41" alt="Stars: 19586"></a>
+<a href="https://github.com/andrewyng/openworker/network/members"><img src="https://img.shields.io/github/forks/andrewyng/openworker?style=flat-square&labelColor=343b41" alt="Forks: 2807"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/258310054?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/iii-hq/iii">iii-hq/iii</a> 🔥🔥</strong> <br/><br/>
-<em>Effortlessly compose, extend, observe, discover, and react to every service in real-time for the first time ever.</em><br/><small><code>Rust</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>agents</code> <code>ai</code> <code>api</code> <code>backend</code> <code>developer-tools</code> <code>engine</code></small><br/><br/>
+<em>Effortlessly compose, extend, observe, discover, and react to every service in real-time for the first time ever.</em><br/><small><code>Rust</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agents</code> <code>ai</code> <code>api</code> <code>backend</code> <code>developer-tools</code> <code>engine</code></small><br/><br/>
 <span>
-<a href="https://github.com/iii-hq/iii/stargazers"><img src="https://img.shields.io/github/stars/iii-hq/iii?style=flat-square&labelColor=343b41" alt="Stars: 18936"></a>
-<a href="https://github.com/iii-hq/iii/network/members"><img src="https://img.shields.io/github/forks/iii-hq/iii?style=flat-square&labelColor=343b41" alt="Forks: 1273"></a>
+<a href="https://github.com/iii-hq/iii/stargazers"><img src="https://img.shields.io/github/stars/iii-hq/iii?style=flat-square&labelColor=343b41" alt="Stars: 18939"></a>
+<a href="https://github.com/iii-hq/iii/network/members"><img src="https://img.shields.io/github/forks/iii-hq/iii?style=flat-square&labelColor=343b41" alt="Forks: 1271"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/160175171?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/emcie-co/parlant">emcie-co/parlant</a> 🔥🔥</strong> <br/><br/>
-<em>Parlant lets you build and operate reliable CX and support agents from your own AI coding agents.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>ai-agent</code> <code>customer-experience</code> <code>customer-service</code> <code>customer-success</code> <code>lead-generation</code> <code>llm</code></small><br/><br/>
+<em>Parlant lets you build and operate reliable CX and support agents from your own AI coding agents.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>ai-agent</code> <code>customer-experience</code> <code>customer-service</code> <code>customer-success</code> <code>lead-generation</code> <code>llm</code></small><br/><br/>
 <span>
-<a href="https://github.com/emcie-co/parlant/stargazers"><img src="https://img.shields.io/github/stars/emcie-co/parlant?style=flat-square&labelColor=343b41" alt="Stars: 18340"></a>
-<a href="https://github.com/emcie-co/parlant/network/members"><img src="https://img.shields.io/github/forks/emcie-co/parlant?style=flat-square&labelColor=343b41" alt="Forks: 1557"></a>
+<a href="https://github.com/emcie-co/parlant/stargazers"><img src="https://img.shields.io/github/stars/emcie-co/parlant?style=flat-square&labelColor=343b41" alt="Stars: 18345"></a>
+<a href="https://github.com/emcie-co/parlant/network/members"><img src="https://img.shields.io/github/forks/emcie-co/parlant?style=flat-square&labelColor=343b41" alt="Forks: 1555"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/172591271?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/rowboatlabs/rowboat">rowboatlabs/rowboat</a> 🔥🔥</strong> <br/><br/>
-<em>Your agent team, in one group chat.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-19</small><br/><small>🏷️ <code>agents</code> <code>agents-sdk</code> <code>ai</code> <code>ai-agents</code> <code>ai-agents-automation</code> <code>chatgpt</code></small><br/><br/>
+<em>Your agent team, in one group chat.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>agents</code> <code>agents-sdk</code> <code>ai</code> <code>ai-agents</code> <code>ai-agents-automation</code> <code>chatgpt</code></small><br/><br/>
 <span>
-<a href="https://github.com/rowboatlabs/rowboat/stargazers"><img src="https://img.shields.io/github/stars/rowboatlabs/rowboat?style=flat-square&labelColor=343b41" alt="Stars: 18311"></a>
-<a href="https://github.com/rowboatlabs/rowboat/network/members"><img src="https://img.shields.io/github/forks/rowboatlabs/rowboat?style=flat-square&labelColor=343b41" alt="Forks: 1835"></a>
+<a href="https://github.com/rowboatlabs/rowboat/stargazers"><img src="https://img.shields.io/github/stars/rowboatlabs/rowboat?style=flat-square&labelColor=343b41" alt="Stars: 18318"></a>
+<a href="https://github.com/rowboatlabs/rowboat/network/members"><img src="https://img.shields.io/github/forks/rowboatlabs/rowboat?style=flat-square&labelColor=343b41" alt="Forks: 1836"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/95932066?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/coder/coder">coder/coder</a> 🔥🔥</strong> <br/><br/>
-<em>Secure environments for developers and their agents</em><br/><small><code>Go</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>agents</code> <code>dev-tools</code> <code>development-environment</code> <code>go</code> <code>golang</code> <code>ide</code></small><br/><br/>
+<em>Secure environments for developers and their agents</em><br/><small><code>Go</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agents</code> <code>dev-tools</code> <code>development-environment</code> <code>go</code> <code>golang</code> <code>ide</code></small><br/><br/>
 <span>
-<a href="https://github.com/coder/coder/stargazers"><img src="https://img.shields.io/github/stars/coder/coder?style=flat-square&labelColor=343b41" alt="Stars: 17454"></a>
-<a href="https://github.com/coder/coder/network/members"><img src="https://img.shields.io/github/forks/coder/coder?style=flat-square&labelColor=343b41" alt="Forks: 1683"></a>
+<a href="https://github.com/coder/coder/stargazers"><img src="https://img.shields.io/github/stars/coder/coder?style=flat-square&labelColor=343b41" alt="Stars: 17465"></a>
+<a href="https://github.com/coder/coder/network/members"><img src="https://img.shields.io/github/forks/coder/coder?style=flat-square&labelColor=343b41" alt="Forks: 1685"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/118165258?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/HKUDS/DeepCode">HKUDS/DeepCode</a> 🔥🔥</strong> <br/><br/>
-<em>&quot;DeepCode: Open Agentic Coding (Agent Harness &amp; Loop Engineering &amp; Multi-Agent Orchestration)&quot;</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-17</small><br/><small>🏷️ <code>agentic-coding</code> <code>harness-engineering</code> <code>llm-agent</code></small><br/><br/>
+<em>&quot;DeepCode: Open Agentic Coding (Agent Harness &amp; Loop Engineering &amp; Multi-Agent Orchestration)&quot;</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-23</small><br/><small>🏷️ <code>agentic-coding</code> <code>harness-engineering</code> <code>llm-agent</code></small><br/><br/>
 <span>
-<a href="https://github.com/HKUDS/DeepCode/stargazers"><img src="https://img.shields.io/github/stars/HKUDS/DeepCode?style=flat-square&labelColor=343b41" alt="Stars: 16857"></a>
-<a href="https://github.com/HKUDS/DeepCode/network/members"><img src="https://img.shields.io/github/forks/HKUDS/DeepCode?style=flat-square&labelColor=343b41" alt="Forks: 2197"></a>
+<a href="https://github.com/HKUDS/DeepCode/stargazers"><img src="https://img.shields.io/github/stars/HKUDS/DeepCode?style=flat-square&labelColor=343b41" alt="Stars: 16867"></a>
+<a href="https://github.com/HKUDS/DeepCode/network/members"><img src="https://img.shields.io/github/forks/HKUDS/DeepCode?style=flat-square&labelColor=343b41" alt="Forks: 2196"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/153323858?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/yc-software/qm">yc-software/qm</a> 🔥🔥</strong> <br/><br/>
-<em>Multiplayer agent harness for teams</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>ai</code> <code>assistant</code> <code>harness</code> <code>qm</code></small><br/><br/>
+<em>Multiplayer agent harness for teams</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>ai</code> <code>assistant</code> <code>harness</code> <code>qm</code></small><br/><br/>
 <span>
-<a href="https://github.com/yc-software/qm/stargazers"><img src="https://img.shields.io/github/stars/yc-software/qm?style=flat-square&labelColor=343b41" alt="Stars: 15759"></a>
-<a href="https://github.com/yc-software/qm/network/members"><img src="https://img.shields.io/github/forks/yc-software/qm?style=flat-square&labelColor=343b41" alt="Forks: 1963"></a>
+<a href="https://github.com/yc-software/qm/stargazers"><img src="https://img.shields.io/github/stars/yc-software/qm?style=flat-square&labelColor=343b41" alt="Stars: 15787"></a>
+<a href="https://github.com/yc-software/qm/network/members"><img src="https://img.shields.io/github/forks/yc-software/qm?style=flat-square&labelColor=343b41" alt="Forks: 1959"></a>
 </span>
 </div><br/>
 
@@ -871,44 +871,44 @@
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/microsoft/RD-Agent">microsoft/RD-Agent</a> 🔥🔥</strong> <br/><br/>
 <em>Research and development (R&amp;D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&amp;D are mainly focused on data and models. We are committed to automating these high-value generic R&amp;D processes through R&amp;D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-10-21</small><br/><small>🏷️ <code>agent</code> <code>ai</code> <code>automation</code> <code>data-mining</code> <code>data-science</code> <code>development</code></small><br/><br/>
 <span>
-<a href="https://github.com/microsoft/RD-Agent/stargazers"><img src="https://img.shields.io/github/stars/microsoft/RD-Agent?style=flat-square&labelColor=343b41" alt="Stars: 15446"></a>
-<a href="https://github.com/microsoft/RD-Agent/network/members"><img src="https://img.shields.io/github/forks/microsoft/RD-Agent?style=flat-square&labelColor=343b41" alt="Forks: 2061"></a>
+<a href="https://github.com/microsoft/RD-Agent/stargazers"><img src="https://img.shields.io/github/stars/microsoft/RD-Agent?style=flat-square&labelColor=343b41" alt="Stars: 15486"></a>
+<a href="https://github.com/microsoft/RD-Agent/network/members"><img src="https://img.shields.io/github/forks/microsoft/RD-Agent?style=flat-square&labelColor=343b41" alt="Forks: 2068"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/69438833?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/livekit/agents">livekit/agents</a> 🔥🔥</strong> <br/><br/>
-<em>A framework for building realtime voice AI agents 🤖🎙️📹</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>agents</code> <code>ai</code> <code>openai</code> <code>real-time</code> <code>video</code> <code>voice</code></small><br/><br/>
+<em>A framework for building realtime voice AI agents 🤖🎙️📹</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agents</code> <code>ai</code> <code>openai</code> <code>real-time</code> <code>video</code> <code>voice</code></small><br/><br/>
 <span>
-<a href="https://github.com/livekit/agents/stargazers"><img src="https://img.shields.io/github/stars/livekit/agents?style=flat-square&labelColor=343b41" alt="Stars: 15299"></a>
-<a href="https://github.com/livekit/agents/network/members"><img src="https://img.shields.io/github/forks/livekit/agents?style=flat-square&labelColor=343b41" alt="Forks: 4182"></a>
+<a href="https://github.com/livekit/agents/stargazers"><img src="https://img.shields.io/github/stars/livekit/agents?style=flat-square&labelColor=343b41" alt="Stars: 15333"></a>
+<a href="https://github.com/livekit/agents/network/members"><img src="https://img.shields.io/github/forks/livekit/agents?style=flat-square&labelColor=343b41" alt="Forks: 4196"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/129434473?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/e2b-dev/E2B">e2b-dev/E2B</a> 🔥🔥</strong> <br/><br/>
-<em>Open-source, secure environment with real-world tools for enterprise-grade agents.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>agent</code> <code>ai</code> <code>ai-agent</code> <code>ai-agents</code> <code>code-interpreter</code> <code>copilot</code></small><br/><br/>
+<em>Open-source, secure environment with real-world tools for enterprise-grade agents.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-23</small><br/><small>🏷️ <code>agent</code> <code>ai</code> <code>ai-agent</code> <code>ai-agents</code> <code>code-interpreter</code> <code>copilot</code></small><br/><br/>
 <span>
-<a href="https://github.com/e2b-dev/E2B/stargazers"><img src="https://img.shields.io/github/stars/e2b-dev/E2B?style=flat-square&labelColor=343b41" alt="Stars: 14961"></a>
-<a href="https://github.com/e2b-dev/E2B/network/members"><img src="https://img.shields.io/github/forks/e2b-dev/E2B?style=flat-square&labelColor=343b41" alt="Forks: 1180"></a>
+<a href="https://github.com/e2b-dev/E2B/stargazers"><img src="https://img.shields.io/github/stars/e2b-dev/E2B?style=flat-square&labelColor=343b41" alt="Stars: 15004"></a>
+<a href="https://github.com/e2b-dev/E2B/network/members"><img src="https://img.shields.io/github/forks/e2b-dev/E2B?style=flat-square&labelColor=343b41" alt="Forks: 1187"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/google/ax">google/ax</a> 🔥🔥</strong> <br/><br/>
-<em>Agent Executor (AX) is Google's open agentic orchestration runtime</em><br/><small><code>Go</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><br/>
+<em>Agent Executor (AX) is Google's open agentic orchestration runtime</em><br/><small><code>Go</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><br/>
 <span>
-<a href="https://github.com/google/ax/stargazers"><img src="https://img.shields.io/github/stars/google/ax?style=flat-square&labelColor=343b41" alt="Stars: 14838"></a>
-<a href="https://github.com/google/ax/network/members"><img src="https://img.shields.io/github/forks/google/ax?style=flat-square&labelColor=343b41" alt="Forks: 803"></a>
+<a href="https://github.com/google/ax/stargazers"><img src="https://img.shields.io/github/stars/google/ax?style=flat-square&labelColor=343b41" alt="Stars: 14885"></a>
+<a href="https://github.com/google/ax/network/members"><img src="https://img.shields.io/github/forks/google/ax?style=flat-square&labelColor=343b41" alt="Forks: 807"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/162546372?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/BasedHardware/omi">BasedHardware/omi</a> 🔥🔥</strong> <br/><br/>
-<em>AI that sees your screen, listens to your conversations and tells you what to do</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>ai</code> <code>app</code> <code>bci</code> <code>c</code> <code>flutter</code> <code>friend</code></small><br/><br/>
+<em>AI that sees your screen, listens to your conversations and tells you what to do</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>ai</code> <code>app</code> <code>bci</code> <code>c</code> <code>flutter</code> <code>friend</code></small><br/><br/>
 <span>
-<a href="https://github.com/BasedHardware/omi/stargazers"><img src="https://img.shields.io/github/stars/BasedHardware/omi?style=flat-square&labelColor=343b41" alt="Stars: 14005"></a>
-<a href="https://github.com/BasedHardware/omi/network/members"><img src="https://img.shields.io/github/forks/BasedHardware/omi?style=flat-square&labelColor=343b41" alt="Forks: 2710"></a>
+<a href="https://github.com/BasedHardware/omi/stargazers"><img src="https://img.shields.io/github/stars/BasedHardware/omi?style=flat-square&labelColor=343b41" alt="Stars: 14027"></a>
+<a href="https://github.com/BasedHardware/omi/network/members"><img src="https://img.shields.io/github/forks/BasedHardware/omi?style=flat-square&labelColor=343b41" alt="Forks: 2716"></a>
 </span>
 </div><br/>
 
@@ -916,17 +916,17 @@
 <img src="https://avatars.githubusercontent.com/u/3710007?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/andrewyng/context-hub">andrewyng/context-hub</a> 🔥🔥</strong> <br/><br/>
 <em>Curated, versioned documentation and context hub to prevent coding agents from hallucinating APIs.</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-05-31</small><br/><br/>
 <span>
-<a href="https://github.com/andrewyng/context-hub/stargazers"><img src="https://img.shields.io/github/stars/andrewyng/context-hub?style=flat-square&labelColor=343b41" alt="Stars: 13993"></a>
-<a href="https://github.com/andrewyng/context-hub/network/members"><img src="https://img.shields.io/github/forks/andrewyng/context-hub?style=flat-square&labelColor=343b41" alt="Forks: 1204"></a>
+<a href="https://github.com/andrewyng/context-hub/stargazers"><img src="https://img.shields.io/github/stars/andrewyng/context-hub?style=flat-square&labelColor=343b41" alt="Stars: 13997"></a>
+<a href="https://github.com/andrewyng/context-hub/network/members"><img src="https://img.shields.io/github/forks/andrewyng/context-hub?style=flat-square&labelColor=343b41" alt="Forks: 1201"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/66570915?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/anomalyco/opentui">anomalyco/opentui</a> 🔥🔥</strong> <br/><br/>
-<em>OpenTUI is a library to build terminal user interfaces (TUI)</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>opencode</code> <code>opentui</code> <code>tui</code></small><br/><br/>
+<em>OpenTUI is a library to build terminal user interfaces (TUI)</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>opencode</code> <code>opentui</code> <code>tui</code></small><br/><br/>
 <span>
-<a href="https://github.com/anomalyco/opentui/stargazers"><img src="https://img.shields.io/github/stars/anomalyco/opentui?style=flat-square&labelColor=343b41" alt="Stars: 13883"></a>
-<a href="https://github.com/anomalyco/opentui/network/members"><img src="https://img.shields.io/github/forks/anomalyco/opentui?style=flat-square&labelColor=343b41" alt="Forks: 825"></a>
+<a href="https://github.com/anomalyco/opentui/stargazers"><img src="https://img.shields.io/github/stars/anomalyco/opentui?style=flat-square&labelColor=343b41" alt="Stars: 13914"></a>
+<a href="https://github.com/anomalyco/opentui/network/members"><img src="https://img.shields.io/github/forks/anomalyco/opentui?style=flat-square&labelColor=343b41" alt="Forks: 828"></a>
 </span>
 </div><br/>
 
@@ -934,8 +934,8 @@
 <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/langchain-ai/open_deep_research">langchain-ai/open_deep_research</a> 🔥🔥</strong> <code>⚠️ Archived</code><br/><br/>
 <em>Open-source autonomous deep research agent built with LangGraph.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-08-10</small><br/><br/>
 <span>
-<a href="https://github.com/langchain-ai/open_deep_research/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/open_deep_research?style=flat-square&labelColor=343b41" alt="Stars: 12673"></a>
-<a href="https://github.com/langchain-ai/open_deep_research/network/members"><img src="https://img.shields.io/github/forks/langchain-ai/open_deep_research?style=flat-square&labelColor=343b41" alt="Forks: 1864"></a>
+<a href="https://github.com/langchain-ai/open_deep_research/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/open_deep_research?style=flat-square&labelColor=343b41" alt="Stars: 12672"></a>
+<a href="https://github.com/langchain-ai/open_deep_research/network/members"><img src="https://img.shields.io/github/forks/langchain-ai/open_deep_research?style=flat-square&labelColor=343b41" alt="Forks: 1869"></a>
 </span>
 </div><br/>
 
@@ -943,80 +943,8 @@
 <img src="https://avatars.githubusercontent.com/u/216916882?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/contains-studio/agents">contains-studio/agents</a> 🔥🔥</strong> <br/><br/>
 <em>sharing current agents in use</em><br/><small>🕒 Updated 2025-07-28</small><br/><br/>
 <span>
-<a href="https://github.com/contains-studio/agents/stargazers"><img src="https://img.shields.io/github/stars/contains-studio/agents?style=flat-square&labelColor=343b41" alt="Stars: 12428"></a>
-<a href="https://github.com/contains-studio/agents/network/members"><img src="https://img.shields.io/github/forks/contains-studio/agents?style=flat-square&labelColor=343b41" alt="Forks: 2486"></a>
-</span>
-</div><br/>
-
-<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
-<img src="https://avatars.githubusercontent.com/u/292215228?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/omnigent-ai/omnigent">omnigent-ai/omnigent</a> 🔥🔥</strong> <br/><br/>
-<em>Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>agent-framework</code> <code>agent-governance</code> <code>agent-orchestration</code> <code>agents</code> <code>ai</code> <code>ai-agent</code></small><br/><br/>
-<span>
-<a href="https://github.com/omnigent-ai/omnigent/stargazers"><img src="https://img.shields.io/github/stars/omnigent-ai/omnigent?style=flat-square&labelColor=343b41" alt="Stars: 11482"></a>
-<a href="https://github.com/omnigent-ai/omnigent/network/members"><img src="https://img.shields.io/github/forks/omnigent-ai/omnigent?style=flat-square&labelColor=343b41" alt="Forks: 1933"></a>
-</span>
-</div><br/>
-
-<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
-<img src="https://avatars.githubusercontent.com/u/25720743?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/huggingface/skills">huggingface/skills</a> 🔥🔥</strong> <br/><br/>
-<em>Give your agents the power of the Hugging Face ecosystem</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-20</small><br/><br/>
-<span>
-<a href="https://github.com/huggingface/skills/stargazers"><img src="https://img.shields.io/github/stars/huggingface/skills?style=flat-square&labelColor=343b41" alt="Stars: 11381"></a>
-<a href="https://github.com/huggingface/skills/network/members"><img src="https://img.shields.io/github/forks/huggingface/skills?style=flat-square&labelColor=343b41" alt="Forks: 801"></a>
-</span>
-</div><br/>
-
-<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
-<img src="https://avatars.githubusercontent.com/u/1247180?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Doriandarko/claude-engineer">Doriandarko/claude-engineer</a> 🔥🔥</strong> <br/><br/>
-<em>Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude to generate and manage its own tools, continuously expanding its capabilities through conversation. Available both as a CLI and a modern web interface</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2024-12-12</small><br/><br/>
-<span>
-<a href="https://github.com/Doriandarko/claude-engineer/stargazers"><img src="https://img.shields.io/github/stars/Doriandarko/claude-engineer?style=flat-square&labelColor=343b41" alt="Stars: 11230"></a>
-<a href="https://github.com/Doriandarko/claude-engineer/network/members"><img src="https://img.shields.io/github/forks/Doriandarko/claude-engineer?style=flat-square&labelColor=343b41" alt="Forks: 1160"></a>
-</span>
-</div><br/>
-
-<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
-<img src="https://avatars.githubusercontent.com/u/74396?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/slavingia/skills">slavingia/skills</a> 🔥🔥</strong> <br/><br/>
-<em>Based on The Minimalist Entrepreneur by Sahil Lavingia</em><br/><small>🕒 Updated 2026-04-14</small><br/><br/>
-<span>
-<a href="https://github.com/slavingia/skills/stargazers"><img src="https://img.shields.io/github/stars/slavingia/skills?style=flat-square&labelColor=343b41" alt="Stars: 11198"></a>
-<a href="https://github.com/slavingia/skills/network/members"><img src="https://img.shields.io/github/forks/slavingia/skills?style=flat-square&labelColor=343b41" alt="Forks: 1126"></a>
-</span>
-</div><br/>
-
-<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
-<img src="https://avatars.githubusercontent.com/u/139012218?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/OpenPipe/ART">OpenPipe/ART</a> 🔥🔥</strong> <br/><br/>
-<em>Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more!</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-19</small><br/><small>🏷️ <code>agent</code> <code>agentic-ai</code> <code>grpo</code> <code>llms</code> <code>lora</code> <code>qwen</code></small><br/><br/>
-<span>
-<a href="https://github.com/OpenPipe/ART/stargazers"><img src="https://img.shields.io/github/stars/OpenPipe/ART?style=flat-square&labelColor=343b41" alt="Stars: 10866"></a>
-<a href="https://github.com/OpenPipe/ART/network/members"><img src="https://img.shields.io/github/forks/OpenPipe/ART?style=flat-square&labelColor=343b41" alt="Forks: 1012"></a>
-</span>
-</div><br/>
-
-<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
-<img src="https://avatars.githubusercontent.com/u/244819219?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/accomplish-ai/coworker">accomplish-ai/coworker</a> 🔥🔥</strong> <br/><br/>
-<em>Open-source autonomous coworker agent project.</em><br/><small>🕒 Updated 2026-08-13</small><br/><br/>
-<span>
-<a href="https://github.com/accomplish-ai/coworker/stargazers"><img src="https://img.shields.io/github/stars/accomplish-ai/coworker?style=flat-square&labelColor=343b41" alt="Stars: 10790"></a>
-<a href="https://github.com/accomplish-ai/coworker/network/members"><img src="https://img.shields.io/github/forks/accomplish-ai/coworker?style=flat-square&labelColor=343b41" alt="Forks: 1265"></a>
-</span>
-</div><br/>
-
-<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
-<img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/google/adk-recipes">google/adk-recipes</a> 🔥🔥</strong> <br/><br/>
-<em>A collection of agent recipes, reference patterns, and vertical plugins built with Agent Development Kit (ADK)</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>adk</code> <code>agent-samples</code> <code>agents</code></small><br/><br/>
-<span>
-<a href="https://github.com/google/adk-recipes/stargazers"><img src="https://img.shields.io/github/stars/google/adk-recipes?style=flat-square&labelColor=343b41" alt="Stars: 10655"></a>
-<a href="https://github.com/google/adk-recipes/network/members"><img src="https://img.shields.io/github/forks/google/adk-recipes?style=flat-square&labelColor=343b41" alt="Forks: 2963"></a>
-</span>
-</div><br/>
-
-<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
-<img src="https://avatars.githubusercontent.com/u/18461506?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Tencent/BrowserSkill">Tencent/BrowserSkill</a> 🔥🔥</strong> <br/><br/>
-<em>Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>agent</code> <code>browser-use</code> <code>dsh-plugin</code></small><br/><br/>
-<span>
-<a href="https://github.com/Tencent/BrowserSkill/stargazers"><img src="https://img.shields.io/github/stars/Tencent/BrowserSkill?style=flat-square&labelColor=343b41" alt="Stars: 10640"></a>
-<a href="https://github.com/Tencent/BrowserSkill/network/members"><img src="https://img.shields.io/github/forks/Tencent/BrowserSkill?style=flat-square&labelColor=343b41" alt="Forks: 775"></a>
+<a href="https://github.com/contains-studio/agents/stargazers"><img src="https://img.shields.io/github/stars/contains-studio/agents?style=flat-square&labelColor=343b41" alt="Stars: 12431"></a>
+<a href="https://github.com/contains-studio/agents/network/members"><img src="https://img.shields.io/github/forks/contains-studio/agents?style=flat-square&labelColor=343b41" alt="Forks: 2484"></a>
 </span>
 </div><br/>
 
@@ -1024,8 +952,89 @@
 <img src="https://avatars.githubusercontent.com/u/3384712?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/janestreet/agent_skills">janestreet/agent_skills</a> 🔥🔥</strong> <br/><br/>
 <em>Agent skills</em><br/><small>⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-17</small><br/><br/>
 <span>
-<a href="https://github.com/janestreet/agent_skills/stargazers"><img src="https://img.shields.io/github/stars/janestreet/agent_skills?style=flat-square&labelColor=343b41" alt="Stars: 10582"></a>
-<a href="https://github.com/janestreet/agent_skills/network/members"><img src="https://img.shields.io/github/forks/janestreet/agent_skills?style=flat-square&labelColor=343b41" alt="Forks: 733"></a>
+<a href="https://github.com/janestreet/agent_skills/stargazers"><img src="https://img.shields.io/github/stars/janestreet/agent_skills?style=flat-square&labelColor=343b41" alt="Stars: 11672"></a>
+<a href="https://github.com/janestreet/agent_skills/network/members"><img src="https://img.shields.io/github/forks/janestreet/agent_skills?style=flat-square&labelColor=343b41" alt="Forks: 798"></a>
+</span>
+</div><br/>
+
+<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
+<img src="https://avatars.githubusercontent.com/u/292215228?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/omnigent-ai/omnigent">omnigent-ai/omnigent</a> 🔥🔥</strong> <br/><br/>
+<em>Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agent-framework</code> <code>agent-governance</code> <code>agent-orchestration</code> <code>agents</code> <code>ai</code> <code>ai-agent</code></small><br/><br/>
+<span>
+<a href="https://github.com/omnigent-ai/omnigent/stargazers"><img src="https://img.shields.io/github/stars/omnigent-ai/omnigent?style=flat-square&labelColor=343b41" alt="Stars: 11540"></a>
+<a href="https://github.com/omnigent-ai/omnigent/network/members"><img src="https://img.shields.io/github/forks/omnigent-ai/omnigent?style=flat-square&labelColor=343b41" alt="Forks: 1941"></a>
+</span>
+</div><br/>
+
+<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
+<img src="https://avatars.githubusercontent.com/u/25720743?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/huggingface/skills">huggingface/skills</a> 🔥🔥</strong> <br/><br/>
+<em>Give your agents the power of the Hugging Face ecosystem</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-23</small><br/><br/>
+<span>
+<a href="https://github.com/huggingface/skills/stargazers"><img src="https://img.shields.io/github/stars/huggingface/skills?style=flat-square&labelColor=343b41" alt="Stars: 11397"></a>
+<a href="https://github.com/huggingface/skills/network/members"><img src="https://img.shields.io/github/forks/huggingface/skills?style=flat-square&labelColor=343b41" alt="Forks: 802"></a>
+</span>
+</div><br/>
+
+<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
+<img src="https://avatars.githubusercontent.com/u/1247180?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Doriandarko/claude-engineer">Doriandarko/claude-engineer</a> 🔥🔥</strong> <br/><br/>
+<em>Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude to generate and manage its own tools, continuously expanding its capabilities through conversation. Available both as a CLI and a modern web interface</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2024-12-12</small><br/><br/>
+<span>
+<a href="https://github.com/Doriandarko/claude-engineer/stargazers"><img src="https://img.shields.io/github/stars/Doriandarko/claude-engineer?style=flat-square&labelColor=343b41" alt="Stars: 11233"></a>
+<a href="https://github.com/Doriandarko/claude-engineer/network/members"><img src="https://img.shields.io/github/forks/Doriandarko/claude-engineer?style=flat-square&labelColor=343b41" alt="Forks: 1161"></a>
+</span>
+</div><br/>
+
+<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
+<img src="https://avatars.githubusercontent.com/u/74396?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/slavingia/skills">slavingia/skills</a> 🔥🔥</strong> <br/><br/>
+<em>Based on The Minimalist Entrepreneur by Sahil Lavingia</em><br/><small>🕒 Updated 2026-04-14</small><br/><br/>
+<span>
+<a href="https://github.com/slavingia/skills/stargazers"><img src="https://img.shields.io/github/stars/slavingia/skills?style=flat-square&labelColor=343b41" alt="Stars: 11203"></a>
+<a href="https://github.com/slavingia/skills/network/members"><img src="https://img.shields.io/github/forks/slavingia/skills?style=flat-square&labelColor=343b41" alt="Forks: 1126"></a>
+</span>
+</div><br/>
+
+<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
+<img src="https://avatars.githubusercontent.com/u/1778935?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/GoogleChrome/modern-web-guidance-src">GoogleChrome/modern-web-guidance-src</a> 🔥🔥</strong> <br/><br/>
+<em>Keep your coding agent up to date with the latest web best practices</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><br/>
+<span>
+<a href="https://github.com/GoogleChrome/modern-web-guidance-src/stargazers"><img src="https://img.shields.io/github/stars/GoogleChrome/modern-web-guidance-src?style=flat-square&labelColor=343b41" alt="Stars: 10895"></a>
+<a href="https://github.com/GoogleChrome/modern-web-guidance-src/network/members"><img src="https://img.shields.io/github/forks/GoogleChrome/modern-web-guidance-src?style=flat-square&labelColor=343b41" alt="Forks: 826"></a>
+</span>
+</div><br/>
+
+<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
+<img src="https://avatars.githubusercontent.com/u/139012218?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/OpenPipe/ART">OpenPipe/ART</a> 🔥🔥</strong> <br/><br/>
+<em>Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more!</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>agent</code> <code>agentic-ai</code> <code>grpo</code> <code>llms</code> <code>lora</code> <code>qwen</code></small><br/><br/>
+<span>
+<a href="https://github.com/OpenPipe/ART/stargazers"><img src="https://img.shields.io/github/stars/OpenPipe/ART?style=flat-square&labelColor=343b41" alt="Stars: 10868"></a>
+<a href="https://github.com/OpenPipe/ART/network/members"><img src="https://img.shields.io/github/forks/OpenPipe/ART?style=flat-square&labelColor=343b41" alt="Forks: 1010"></a>
+</span>
+</div><br/>
+
+<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
+<img src="https://avatars.githubusercontent.com/u/244819219?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/accomplish-ai/coworker">accomplish-ai/coworker</a> 🔥🔥</strong> <br/><br/>
+<em>Open-source autonomous coworker agent project.</em><br/><small>🕒 Updated 2026-08-13</small><br/><br/>
+<span>
+<a href="https://github.com/accomplish-ai/coworker/stargazers"><img src="https://img.shields.io/github/stars/accomplish-ai/coworker?style=flat-square&labelColor=343b41" alt="Stars: 10785"></a>
+<a href="https://github.com/accomplish-ai/coworker/network/members"><img src="https://img.shields.io/github/forks/accomplish-ai/coworker?style=flat-square&labelColor=343b41" alt="Forks: 1265"></a>
+</span>
+</div><br/>
+
+<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
+<img src="https://avatars.githubusercontent.com/u/18461506?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Tencent/BrowserSkill">Tencent/BrowserSkill</a> 🔥🔥</strong> <br/><br/>
+<em>Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agent</code> <code>browser-use</code> <code>dsh-plugin</code></small><br/><br/>
+<span>
+<a href="https://github.com/Tencent/BrowserSkill/stargazers"><img src="https://img.shields.io/github/stars/Tencent/BrowserSkill?style=flat-square&labelColor=343b41" alt="Stars: 10706"></a>
+<a href="https://github.com/Tencent/BrowserSkill/network/members"><img src="https://img.shields.io/github/forks/Tencent/BrowserSkill?style=flat-square&labelColor=343b41" alt="Forks: 785"></a>
+</span>
+</div><br/>
+
+<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
+<img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/google/adk-recipes">google/adk-recipes</a> 🔥🔥</strong> <br/><br/>
+<em>A collection of agent recipes, reference patterns, and vertical plugins built with Agent Development Kit (ADK)</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>adk</code> <code>agent-samples</code> <code>agents</code></small><br/><br/>
+<span>
+<a href="https://github.com/google/adk-recipes/stargazers"><img src="https://img.shields.io/github/stars/google/adk-recipes?style=flat-square&labelColor=343b41" alt="Stars: 10673"></a>
+<a href="https://github.com/google/adk-recipes/network/members"><img src="https://img.shields.io/github/forks/google/adk-recipes?style=flat-square&labelColor=343b41" alt="Forks: 2968"></a>
 </span>
 </div><br/>
 
@@ -1033,17 +1042,17 @@
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/microsoft/UFO">microsoft/UFO</a> 🔥🔥</strong> <br/><br/>
 <em>UFO³: Weaving the Digital Agent Galaxy</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-10-30</small><br/><small>🏷️ <code>agent</code> <code>automation</code> <code>copilot</code> <code>gui</code> <code>llm</code> <code>windows</code></small><br/><br/>
 <span>
-<a href="https://github.com/microsoft/UFO/stargazers"><img src="https://img.shields.io/github/stars/microsoft/UFO?style=flat-square&labelColor=343b41" alt="Stars: 10226"></a>
-<a href="https://github.com/microsoft/UFO/network/members"><img src="https://img.shields.io/github/forks/microsoft/UFO?style=flat-square&labelColor=343b41" alt="Forks: 1091"></a>
+<a href="https://github.com/microsoft/UFO/stargazers"><img src="https://img.shields.io/github/stars/microsoft/UFO?style=flat-square&labelColor=343b41" alt="Stars: 10241"></a>
+<a href="https://github.com/microsoft/UFO/network/members"><img src="https://img.shields.io/github/forks/microsoft/UFO?style=flat-square&labelColor=343b41" alt="Forks: 1094"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
-<img src="https://avatars.githubusercontent.com/u/1778935?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/GoogleChrome/modern-web-guidance-src">GoogleChrome/modern-web-guidance-src</a> 🔥🔥</strong> <br/><br/>
-<em>Keep your coding agent up to date with the latest web best practices</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-20</small><br/><br/>
+<img src="https://avatars.githubusercontent.com/u/166046056?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/SWE-agent/mini-swe-agent">SWE-agent/mini-swe-agent</a> 🔥🔥</strong> <br/><br/>
+<em>The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-23</small><br/><small>🏷️ <code>agent</code> <code>agentic-ai</code> <code>agentic-ai-cli</code> <code>ai</code> <code>ai-agent</code> <code>textual</code></small><br/><br/>
 <span>
-<a href="https://github.com/GoogleChrome/modern-web-guidance-src/stargazers"><img src="https://img.shields.io/github/stars/GoogleChrome/modern-web-guidance-src?style=flat-square&labelColor=343b41" alt="Stars: 9952"></a>
-<a href="https://github.com/GoogleChrome/modern-web-guidance-src/network/members"><img src="https://img.shields.io/github/forks/GoogleChrome/modern-web-guidance-src?style=flat-square&labelColor=343b41" alt="Forks: 796"></a>
+<a href="https://github.com/SWE-agent/mini-swe-agent/stargazers"><img src="https://img.shields.io/github/stars/SWE-agent/mini-swe-agent?style=flat-square&labelColor=343b41" alt="Stars: 10058"></a>
+<a href="https://github.com/SWE-agent/mini-swe-agent/network/members"><img src="https://img.shields.io/github/forks/SWE-agent/mini-swe-agent?style=flat-square&labelColor=343b41" alt="Forks: 1366"></a>
 </span>
 </div><br/>
 
@@ -1051,17 +1060,8 @@
 <img src="https://avatars.githubusercontent.com/u/314135?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/cloudflare/moltworker">cloudflare/moltworker</a> 🔥🔥</strong> <br/><br/>
 <em>Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-05-09</small><br/><small>🏷️ <code>ai-agents</code> <code>cloudflare-workers</code></small><br/><br/>
 <span>
-<a href="https://github.com/cloudflare/moltworker/stargazers"><img src="https://img.shields.io/github/stars/cloudflare/moltworker?style=flat-square&labelColor=343b41" alt="Stars: 9948"></a>
-<a href="https://github.com/cloudflare/moltworker/network/members"><img src="https://img.shields.io/github/forks/cloudflare/moltworker?style=flat-square&labelColor=343b41" alt="Forks: 1696"></a>
-</span>
-</div><br/>
-
-<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
-<img src="https://avatars.githubusercontent.com/u/166046056?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/SWE-agent/mini-swe-agent">SWE-agent/mini-swe-agent</a> 🔥🔥</strong> <br/><br/>
-<em>The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-16</small><br/><small>🏷️ <code>agent</code> <code>agentic-ai</code> <code>agentic-ai-cli</code> <code>ai</code> <code>ai-agent</code> <code>textual</code></small><br/><br/>
-<span>
-<a href="https://github.com/SWE-agent/mini-swe-agent/stargazers"><img src="https://img.shields.io/github/stars/SWE-agent/mini-swe-agent?style=flat-square&labelColor=343b41" alt="Stars: 9944"></a>
-<a href="https://github.com/SWE-agent/mini-swe-agent/network/members"><img src="https://img.shields.io/github/forks/SWE-agent/mini-swe-agent?style=flat-square&labelColor=343b41" alt="Forks: 1363"></a>
+<a href="https://github.com/cloudflare/moltworker/stargazers"><img src="https://img.shields.io/github/stars/cloudflare/moltworker?style=flat-square&labelColor=343b41" alt="Stars: 9946"></a>
+<a href="https://github.com/cloudflare/moltworker/network/members"><img src="https://img.shields.io/github/forks/cloudflare/moltworker?style=flat-square&labelColor=343b41" alt="Forks: 1695"></a>
 </span>
 </div><br/>
 
@@ -1069,71 +1069,17 @@
 <img src="https://avatars.githubusercontent.com/u/118165258?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/HKUDS/AutoAgent">HKUDS/AutoAgent</a> 🔥🔥</strong> <br/><br/>
 <em>&quot;AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework&quot;</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2025-10-16</small><br/><small>🏷️ <code>agent</code> <code>llms</code></small><br/><br/>
 <span>
-<a href="https://github.com/HKUDS/AutoAgent/stargazers"><img src="https://img.shields.io/github/stars/HKUDS/AutoAgent?style=flat-square&labelColor=343b41" alt="Stars: 9839"></a>
+<a href="https://github.com/HKUDS/AutoAgent/stargazers"><img src="https://img.shields.io/github/stars/HKUDS/AutoAgent?style=flat-square&labelColor=343b41" alt="Stars: 9840"></a>
 <a href="https://github.com/HKUDS/AutoAgent/network/members"><img src="https://img.shields.io/github/forks/HKUDS/AutoAgent?style=flat-square&labelColor=343b41" alt="Forks: 1365"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/252820863?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/openclaw/clawhub">openclaw/clawhub</a> 🔥🔥</strong> <br/><br/>
-<em>Skill + Plugin Registry for OpenClaw</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>directory</code> <code>skill</code></small><br/><br/>
+<em>Skill + Plugin Registry for OpenClaw</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>directory</code> <code>skill</code></small><br/><br/>
 <span>
-<a href="https://github.com/openclaw/clawhub/stargazers"><img src="https://img.shields.io/github/stars/openclaw/clawhub?style=flat-square&labelColor=343b41" alt="Stars: 9557"></a>
-<a href="https://github.com/openclaw/clawhub/network/members"><img src="https://img.shields.io/github/forks/openclaw/clawhub?style=flat-square&labelColor=343b41" alt="Forks: 1491"></a>
-</span>
-</div><br/>
-
-<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
-<img src="https://avatars.githubusercontent.com/u/171890339?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/mvschwarz/openrig">mvschwarz/openrig</a> 🔥🔥</strong> <br/><br/>
-<em>Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>agent-harness</code> <code>agent-orchestration</code> <code>agent-skills</code> <code>ai-coding</code> <code>claude-code</code> <code>cli</code></small><br/><br/>
-<span>
-<a href="https://github.com/mvschwarz/openrig/stargazers"><img src="https://img.shields.io/github/stars/mvschwarz/openrig?style=flat-square&labelColor=343b41" alt="Stars: 8930"></a>
-<a href="https://github.com/mvschwarz/openrig/network/members"><img src="https://img.shields.io/github/forks/mvschwarz/openrig?style=flat-square&labelColor=343b41" alt="Forks: 775"></a>
-</span>
-</div><br/>
-
-<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
-<img src="https://avatars.githubusercontent.com/u/217153862?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/superdesigndev/treg">superdesigndev/treg</a> 🔥🔥</strong> <br/><br/>
-<em>OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>agents</code> <code>api-keys</code> <code>cli</code> <code>credentials</code> <code>developer-tools</code> <code>dsh-plugin</code></small><br/><br/>
-<span>
-<a href="https://github.com/superdesigndev/treg/stargazers"><img src="https://img.shields.io/github/stars/superdesigndev/treg?style=flat-square&labelColor=343b41" alt="Stars: 8717"></a>
-<a href="https://github.com/superdesigndev/treg/network/members"><img src="https://img.shields.io/github/forks/superdesigndev/treg?style=flat-square&labelColor=343b41" alt="Forks: 859"></a>
-</span>
-</div><br/>
-
-<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
-<img src="https://avatars.githubusercontent.com/u/44914786?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/withastro/flue">withastro/flue</a> 🔥🔥</strong> <br/><br/>
-<em>The sandbox agent framework.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-18</small><br/><br/>
-<span>
-<a href="https://github.com/withastro/flue/stargazers"><img src="https://img.shields.io/github/stars/withastro/flue?style=flat-square&labelColor=343b41" alt="Stars: 8685"></a>
-<a href="https://github.com/withastro/flue/network/members"><img src="https://img.shields.io/github/forks/withastro/flue?style=flat-square&labelColor=343b41" alt="Forks: 531"></a>
-</span>
-</div><br/>
-
-<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
-<img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/anthropics/claude-agent-sdk-python">anthropics/claude-agent-sdk-python</a> 🔥🔥</strong> <br/><br/>
-<em>Official Python SDK for building and orchestrating agents with Claude.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-20</small><br/><br/>
-<span>
-<a href="https://github.com/anthropics/claude-agent-sdk-python/stargazers"><img src="https://img.shields.io/github/stars/anthropics/claude-agent-sdk-python?style=flat-square&labelColor=343b41" alt="Stars: 8614"></a>
-<a href="https://github.com/anthropics/claude-agent-sdk-python/network/members"><img src="https://img.shields.io/github/forks/anthropics/claude-agent-sdk-python?style=flat-square&labelColor=343b41" alt="Forks: 1453"></a>
-</span>
-</div><br/>
-
-<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
-<img src="https://avatars.githubusercontent.com/u/878437?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/JetBrains/thinkrail">JetBrains/thinkrail</a> 🔥🔥</strong> <br/><br/>
-<em>ThinkRail is the agentic IDE that gets better every time you use it</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>agent</code> <code>agent-skills</code> <code>agentic-ai</code> <code>agentic-workflow</code> <code>ai-coding</code> <code>ai-tools</code></small><br/><br/>
-<span>
-<a href="https://github.com/JetBrains/thinkrail/stargazers"><img src="https://img.shields.io/github/stars/JetBrains/thinkrail?style=flat-square&labelColor=343b41" alt="Stars: 8390"></a>
-<a href="https://github.com/JetBrains/thinkrail/network/members"><img src="https://img.shields.io/github/forks/JetBrains/thinkrail?style=flat-square&labelColor=343b41" alt="Forks: 533"></a>
-</span>
-</div><br/>
-
-<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
-<img src="https://avatars.githubusercontent.com/u/280516639?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/agent-substrate/substrate">agent-substrate/substrate</a> 🔥🔥</strong> <br/><br/>
-<em>Agent Substrate: the core system</em><br/><small><code>Go</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>agents</code> <code>cncf</code> <code>sandboxing</code></small><br/><br/>
-<span>
-<a href="https://github.com/agent-substrate/substrate/stargazers"><img src="https://img.shields.io/github/stars/agent-substrate/substrate?style=flat-square&labelColor=343b41" alt="Stars: 8104"></a>
-<a href="https://github.com/agent-substrate/substrate/network/members"><img src="https://img.shields.io/github/forks/agent-substrate/substrate?style=flat-square&labelColor=343b41" alt="Forks: 890"></a>
+<a href="https://github.com/openclaw/clawhub/stargazers"><img src="https://img.shields.io/github/stars/openclaw/clawhub?style=flat-square&labelColor=343b41" alt="Stars: 9564"></a>
+<a href="https://github.com/openclaw/clawhub/network/members"><img src="https://img.shields.io/github/forks/openclaw/clawhub?style=flat-square&labelColor=343b41" alt="Forks: 1493"></a>
 </span>
 </div><br/>
 
@@ -1141,26 +1087,80 @@
 <img src="https://avatars.githubusercontent.com/u/196724947?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Jakeschincariol/instagram-agent-skill">Jakeschincariol/instagram-agent-skill</a> 🔥🔥</strong> <br/><br/>
 <em>Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-09-13</small><br/><br/>
 <span>
-<a href="https://github.com/Jakeschincariol/instagram-agent-skill/stargazers"><img src="https://img.shields.io/github/stars/Jakeschincariol/instagram-agent-skill?style=flat-square&labelColor=343b41" alt="Stars: 8030"></a>
-<a href="https://github.com/Jakeschincariol/instagram-agent-skill/network/members"><img src="https://img.shields.io/github/forks/Jakeschincariol/instagram-agent-skill?style=flat-square&labelColor=343b41" alt="Forks: 1478"></a>
+<a href="https://github.com/Jakeschincariol/instagram-agent-skill/stargazers"><img src="https://img.shields.io/github/stars/Jakeschincariol/instagram-agent-skill?style=flat-square&labelColor=343b41" alt="Stars: 9076"></a>
+<a href="https://github.com/Jakeschincariol/instagram-agent-skill/network/members"><img src="https://img.shields.io/github/forks/Jakeschincariol/instagram-agent-skill?style=flat-square&labelColor=343b41" alt="Forks: 1593"></a>
+</span>
+</div><br/>
+
+<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
+<img src="https://avatars.githubusercontent.com/u/171890339?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/mvschwarz/openrig">mvschwarz/openrig</a> 🔥🔥</strong> <br/><br/>
+<em>Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agent-harness</code> <code>agent-orchestration</code> <code>agent-skills</code> <code>ai-coding</code> <code>claude-code</code> <code>cli</code></small><br/><br/>
+<span>
+<a href="https://github.com/mvschwarz/openrig/stargazers"><img src="https://img.shields.io/github/stars/mvschwarz/openrig?style=flat-square&labelColor=343b41" alt="Stars: 8974"></a>
+<a href="https://github.com/mvschwarz/openrig/network/members"><img src="https://img.shields.io/github/forks/mvschwarz/openrig?style=flat-square&labelColor=343b41" alt="Forks: 781"></a>
+</span>
+</div><br/>
+
+<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
+<img src="https://avatars.githubusercontent.com/u/217153862?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/superdesigndev/treg">superdesigndev/treg</a> 🔥🔥</strong> <br/><br/>
+<em>OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agents</code> <code>api-keys</code> <code>cli</code> <code>credentials</code> <code>developer-tools</code> <code>dsh-plugin</code></small><br/><br/>
+<span>
+<a href="https://github.com/superdesigndev/treg/stargazers"><img src="https://img.shields.io/github/stars/superdesigndev/treg?style=flat-square&labelColor=343b41" alt="Stars: 8877"></a>
+<a href="https://github.com/superdesigndev/treg/network/members"><img src="https://img.shields.io/github/forks/superdesigndev/treg?style=flat-square&labelColor=343b41" alt="Forks: 884"></a>
+</span>
+</div><br/>
+
+<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
+<img src="https://avatars.githubusercontent.com/u/44914786?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/withastro/flue">withastro/flue</a> 🔥🔥</strong> <br/><br/>
+<em>The sandbox agent framework.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-18</small><br/><br/>
+<span>
+<a href="https://github.com/withastro/flue/stargazers"><img src="https://img.shields.io/github/stars/withastro/flue?style=flat-square&labelColor=343b41" alt="Stars: 8702"></a>
+<a href="https://github.com/withastro/flue/network/members"><img src="https://img.shields.io/github/forks/withastro/flue?style=flat-square&labelColor=343b41" alt="Forks: 529"></a>
+</span>
+</div><br/>
+
+<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
+<img src="https://avatars.githubusercontent.com/u/76263028?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/anthropics/claude-agent-sdk-python">anthropics/claude-agent-sdk-python</a> 🔥🔥</strong> <br/><br/>
+<em>Official Python SDK for building and orchestrating agents with Claude.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><br/>
+<span>
+<a href="https://github.com/anthropics/claude-agent-sdk-python/stargazers"><img src="https://img.shields.io/github/stars/anthropics/claude-agent-sdk-python?style=flat-square&labelColor=343b41" alt="Stars: 8638"></a>
+<a href="https://github.com/anthropics/claude-agent-sdk-python/network/members"><img src="https://img.shields.io/github/forks/anthropics/claude-agent-sdk-python?style=flat-square&labelColor=343b41" alt="Forks: 1462"></a>
+</span>
+</div><br/>
+
+<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
+<img src="https://avatars.githubusercontent.com/u/878437?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/JetBrains/thinkrail">JetBrains/thinkrail</a> 🔥🔥</strong> <br/><br/>
+<em>ThinkRail is the agentic IDE that gets better every time you use it</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agent</code> <code>agent-skills</code> <code>agentic-ai</code> <code>agentic-workflow</code> <code>ai-coding</code> <code>ai-tools</code></small><br/><br/>
+<span>
+<a href="https://github.com/JetBrains/thinkrail/stargazers"><img src="https://img.shields.io/github/stars/JetBrains/thinkrail?style=flat-square&labelColor=343b41" alt="Stars: 8435"></a>
+<a href="https://github.com/JetBrains/thinkrail/network/members"><img src="https://img.shields.io/github/forks/JetBrains/thinkrail?style=flat-square&labelColor=343b41" alt="Forks: 539"></a>
+</span>
+</div><br/>
+
+<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
+<img src="https://avatars.githubusercontent.com/u/280516639?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/agent-substrate/substrate">agent-substrate/substrate</a> 🔥🔥</strong> <br/><br/>
+<em>Agent Substrate: the core system</em><br/><small><code>Go</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agents</code> <code>cncf</code> <code>sandboxing</code></small><br/><br/>
+<span>
+<a href="https://github.com/agent-substrate/substrate/stargazers"><img src="https://img.shields.io/github/stars/agent-substrate/substrate?style=flat-square&labelColor=343b41" alt="Stars: 8308"></a>
+<a href="https://github.com/agent-substrate/substrate/network/members"><img src="https://img.shields.io/github/forks/agent-substrate/substrate?style=flat-square&labelColor=343b41" alt="Forks: 918"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/183960033?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/steel-dev/steel-browser">steel-dev/steel-browser</a> 🔥🔥</strong> <br/><br/>
-<em>🔥 Open Source Browser API for AI Agents &amp; Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>ai</code> <code>ai-agents</code> <code>ai-tools</code> <code>browser-automation</code> <code>browser-use</code> <code>computer-use</code></small><br/><br/>
+<em>🔥 Open Source Browser API for AI Agents &amp; Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>ai</code> <code>ai-agents</code> <code>ai-tools</code> <code>browser-automation</code> <code>browser-use</code> <code>computer-use</code></small><br/><br/>
 <span>
-<a href="https://github.com/steel-dev/steel-browser/stargazers"><img src="https://img.shields.io/github/stars/steel-dev/steel-browser?style=flat-square&labelColor=343b41" alt="Stars: 7998"></a>
-<a href="https://github.com/steel-dev/steel-browser/network/members"><img src="https://img.shields.io/github/forks/steel-dev/steel-browser?style=flat-square&labelColor=343b41" alt="Forks: 1017"></a>
+<a href="https://github.com/steel-dev/steel-browser/stargazers"><img src="https://img.shields.io/github/stars/steel-dev/steel-browser?style=flat-square&labelColor=343b41" alt="Stars: 8012"></a>
+<a href="https://github.com/steel-dev/steel-browser/network/members"><img src="https://img.shields.io/github/forks/steel-dev/steel-browser?style=flat-square&labelColor=343b41" alt="Forks: 1018"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/238764598?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/algorithmicsuperintelligence/openevolve">algorithmicsuperintelligence/openevolve</a> 🔥🔥</strong> <br/><br/>
-<em>Open-source implementation of AlphaEvolve</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>alpha-evolve</code> <code>alphacode</code> <code>alphaevolve</code> <code>coding-agent</code> <code>deepmind</code> <code>deepmind-lab</code></small><br/><br/>
+<em>Open-source implementation of AlphaEvolve</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>alpha-evolve</code> <code>alphacode</code> <code>alphaevolve</code> <code>coding-agent</code> <code>deepmind</code> <code>deepmind-lab</code></small><br/><br/>
 <span>
-<a href="https://github.com/algorithmicsuperintelligence/openevolve/stargazers"><img src="https://img.shields.io/github/stars/algorithmicsuperintelligence/openevolve?style=flat-square&labelColor=343b41" alt="Stars: 7841"></a>
-<a href="https://github.com/algorithmicsuperintelligence/openevolve/network/members"><img src="https://img.shields.io/github/forks/algorithmicsuperintelligence/openevolve?style=flat-square&labelColor=343b41" alt="Forks: 1233"></a>
+<a href="https://github.com/algorithmicsuperintelligence/openevolve/stargazers"><img src="https://img.shields.io/github/stars/algorithmicsuperintelligence/openevolve?style=flat-square&labelColor=343b41" alt="Stars: 7863"></a>
+<a href="https://github.com/algorithmicsuperintelligence/openevolve/network/members"><img src="https://img.shields.io/github/forks/algorithmicsuperintelligence/openevolve?style=flat-square&labelColor=343b41" alt="Forks: 1239"></a>
 </span>
 </div><br/>
 
@@ -1168,7 +1168,7 @@
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/microsoft/TinyTroupe">microsoft/TinyTroupe</a> 🔥🔥</strong> <br/><br/>
 <em>LLM-powered multiagent persona simulation for imagination enhancement and business insights.</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><br/>
 <span>
-<a href="https://github.com/microsoft/TinyTroupe/stargazers"><img src="https://img.shields.io/github/stars/microsoft/TinyTroupe?style=flat-square&labelColor=343b41" alt="Stars: 7700"></a>
+<a href="https://github.com/microsoft/TinyTroupe/stargazers"><img src="https://img.shields.io/github/stars/microsoft/TinyTroupe?style=flat-square&labelColor=343b41" alt="Stars: 7712"></a>
 <a href="https://github.com/microsoft/TinyTroupe/network/members"><img src="https://img.shields.io/github/forks/microsoft/TinyTroupe?style=flat-square&labelColor=343b41" alt="Forks: 694"></a>
 </span>
 </div><br/>
@@ -1177,34 +1177,43 @@
 <img src="https://avatars.githubusercontent.com/u/132635806?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/refly-ai/refly">refly-ai/refly</a> 🔥🔥</strong> <br/><br/>
 <em>The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex &amp; more. Build Clawdbot 🦞· APIs for Lovable · Bots for Slack &amp; Lark/Feishu · Skills are infrastructure, not prompts.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-02</small><br/><small>🏷️ <code>agent</code> <code>agent-skills</code> <code>automation</code> <code>claude</code> <code>clawdbot</code> <code>codex</code></small><br/><br/>
 <span>
-<a href="https://github.com/refly-ai/refly/stargazers"><img src="https://img.shields.io/github/stars/refly-ai/refly?style=flat-square&labelColor=343b41" alt="Stars: 7555"></a>
-<a href="https://github.com/refly-ai/refly/network/members"><img src="https://img.shields.io/github/forks/refly-ai/refly?style=flat-square&labelColor=343b41" alt="Forks: 727"></a>
+<a href="https://github.com/refly-ai/refly/stargazers"><img src="https://img.shields.io/github/stars/refly-ai/refly?style=flat-square&labelColor=343b41" alt="Stars: 7562"></a>
+<a href="https://github.com/refly-ai/refly/network/members"><img src="https://img.shields.io/github/forks/refly-ai/refly?style=flat-square&labelColor=343b41" alt="Forks: 728"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/98760976?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/kyegomez/swarms">kyegomez/swarms</a> 🔥🔥</strong> <br/><br/>
-<em>The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>agentic-ai</code> <code>agentic-workflow</code> <code>agents</code> <code>ai</code> <code>artificial-intelligence</code> <code>chatgpt</code></small><br/><br/>
+<em>The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agentic-ai</code> <code>agentic-workflow</code> <code>agents</code> <code>ai</code> <code>artificial-intelligence</code> <code>chatgpt</code></small><br/><br/>
 <span>
-<a href="https://github.com/kyegomez/swarms/stargazers"><img src="https://img.shields.io/github/stars/kyegomez/swarms?style=flat-square&labelColor=343b41" alt="Stars: 7388"></a>
-<a href="https://github.com/kyegomez/swarms/network/members"><img src="https://img.shields.io/github/forks/kyegomez/swarms?style=flat-square&labelColor=343b41" alt="Forks: 1075"></a>
+<a href="https://github.com/kyegomez/swarms/stargazers"><img src="https://img.shields.io/github/stars/kyegomez/swarms?style=flat-square&labelColor=343b41" alt="Stars: 7399"></a>
+<a href="https://github.com/kyegomez/swarms/network/members"><img src="https://img.shields.io/github/forks/kyegomez/swarms?style=flat-square&labelColor=343b41" alt="Forks: 1079"></a>
+</span>
+</div><br/>
+
+<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
+<img src="https://avatars.githubusercontent.com/u/108547162?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/vercel-labs/ui">vercel-labs/ui</a> 🔥🔥</strong> <br/><br/>
+<em>A library of behaviors for agents to build and drive the next generation of user interfaces.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>accessibility</code> <code>agent</code> <code>agents</code> <code>ai</code> <code>aria</code> <code>behaviors</code></small><br/><br/>
+<span>
+<a href="https://github.com/vercel-labs/ui/stargazers"><img src="https://img.shields.io/github/stars/vercel-labs/ui?style=flat-square&labelColor=343b41" alt="Stars: 7321"></a>
+<a href="https://github.com/vercel-labs/ui/network/members"><img src="https://img.shields.io/github/forks/vercel-labs/ui?style=flat-square&labelColor=343b41" alt="Forks: 255"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/130748619?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/danyuchn/asd-ste100-skill">danyuchn/asd-ste100-skill</a> 🔥🔥</strong> <br/><br/>
-<em>ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-20</small><br/><br/>
+<em>ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><br/>
 <span>
-<a href="https://github.com/danyuchn/asd-ste100-skill/stargazers"><img src="https://img.shields.io/github/stars/danyuchn/asd-ste100-skill?style=flat-square&labelColor=343b41" alt="Stars: 6802"></a>
-<a href="https://github.com/danyuchn/asd-ste100-skill/network/members"><img src="https://img.shields.io/github/forks/danyuchn/asd-ste100-skill?style=flat-square&labelColor=343b41" alt="Forks: 391"></a>
+<a href="https://github.com/danyuchn/asd-ste100-skill/stargazers"><img src="https://img.shields.io/github/stars/danyuchn/asd-ste100-skill?style=flat-square&labelColor=343b41" alt="Stars: 6887"></a>
+<a href="https://github.com/danyuchn/asd-ste100-skill/network/members"><img src="https://img.shields.io/github/forks/danyuchn/asd-ste100-skill?style=flat-square&labelColor=343b41" alt="Forks: 396"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/331332701?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/loopx-project/loopx">loopx-project/loopx</a> 🔥🔥</strong> <br/><br/>
-<em>The control plane for 24/7 always-on agents. Turn long-horizon goals into verifiable results across Codex, Claude Code, and custom runtimes—from local SQLite to team scale.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>agent-control-plane</code> <code>agent-harness</code> <code>agentic-software</code> <code>ai-agents</code> <code>always-on-agents</code> <code>auto-research</code></small><br/><br/>
+<em>The control plane for 24/7 always-on agents. Turn long-horizon goals into verifiable results across Codex, Claude Code, and custom runtimes—from local SQLite to team scale.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agent-control-plane</code> <code>agent-harness</code> <code>agentic-software</code> <code>ai-agents</code> <code>always-on-agents</code> <code>auto-research</code></small><br/><br/>
 <span>
-<a href="https://github.com/loopx-project/loopx/stargazers"><img src="https://img.shields.io/github/stars/loopx-project/loopx?style=flat-square&labelColor=343b41" alt="Stars: 6740"></a>
+<a href="https://github.com/loopx-project/loopx/stargazers"><img src="https://img.shields.io/github/stars/loopx-project/loopx?style=flat-square&labelColor=343b41" alt="Stars: 6761"></a>
 <a href="https://github.com/loopx-project/loopx/network/members"><img src="https://img.shields.io/github/forks/loopx-project/loopx?style=flat-square&labelColor=343b41" alt="Forks: 639"></a>
 </span>
 </div><br/>
@@ -1219,20 +1228,11 @@
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
-<img src="https://avatars.githubusercontent.com/u/108547162?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/vercel-labs/ui">vercel-labs/ui</a> 🔥🔥</strong> <br/><br/>
-<em>A library of behaviors for agents to build the next generation of user interfaces.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>accessibility</code> <code>agent</code> <code>agents</code> <code>ai</code> <code>aria</code> <code>behaviors</code></small><br/><br/>
-<span>
-<a href="https://github.com/vercel-labs/ui/stargazers"><img src="https://img.shields.io/github/stars/vercel-labs/ui?style=flat-square&labelColor=343b41" alt="Stars: 6472"></a>
-<a href="https://github.com/vercel-labs/ui/network/members"><img src="https://img.shields.io/github/forks/vercel-labs/ui?style=flat-square&labelColor=343b41" alt="Forks: 229"></a>
-</span>
-</div><br/>
-
-<div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/65687018?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/macro-inc/macro">macro-inc/macro</a> 🔥🔥</strong> <br/><br/>
-<em>Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>agent</code> <code>ai</code> <code>ai-agents</code> <code>all-in-one</code> <code>crm</code> <code>crm-system</code></small><br/><br/>
+<em>Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agent</code> <code>ai</code> <code>ai-agents</code> <code>all-in-one</code> <code>crm</code> <code>crm-system</code></small><br/><br/>
 <span>
-<a href="https://github.com/macro-inc/macro/stargazers"><img src="https://img.shields.io/github/stars/macro-inc/macro?style=flat-square&labelColor=343b41" alt="Stars: 6428"></a>
-<a href="https://github.com/macro-inc/macro/network/members"><img src="https://img.shields.io/github/forks/macro-inc/macro?style=flat-square&labelColor=343b41" alt="Forks: 609"></a>
+<a href="https://github.com/macro-inc/macro/stargazers"><img src="https://img.shields.io/github/stars/macro-inc/macro?style=flat-square&labelColor=343b41" alt="Stars: 6474"></a>
+<a href="https://github.com/macro-inc/macro/network/members"><img src="https://img.shields.io/github/forks/macro-inc/macro?style=flat-square&labelColor=343b41" alt="Forks: 605"></a>
 </span>
 </div><br/>
 
@@ -1249,8 +1249,8 @@
 <img src="https://avatars.githubusercontent.com/u/22895867?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/nirholas/fresh-start">nirholas/fresh-start</a> 🔥🔥</strong> <br/><br/>
 <em>Record of the former nirholas/claude-code mirror: the DMCA, the leak timeline and the x402 correction. No Anthropic code</em><br/><small>🕒 Updated 2026-11-18</small><br/><small>🏷️ <code>anthropic</code> <code>claude-code</code> <code>dmca</code> <code>documentation</code> <code>open-source</code> <code>post-mortem</code></small><br/><br/>
 <span>
-<a href="https://github.com/nirholas/fresh-start/stargazers"><img src="https://img.shields.io/github/stars/nirholas/fresh-start?style=flat-square&labelColor=343b41" alt="Stars: 6225"></a>
-<a href="https://github.com/nirholas/fresh-start/network/members"><img src="https://img.shields.io/github/forks/nirholas/fresh-start?style=flat-square&labelColor=343b41" alt="Forks: 18"></a>
+<a href="https://github.com/nirholas/fresh-start/stargazers"><img src="https://img.shields.io/github/stars/nirholas/fresh-start?style=flat-square&labelColor=343b41" alt="Stars: 6226"></a>
+<a href="https://github.com/nirholas/fresh-start/network/members"><img src="https://img.shields.io/github/forks/nirholas/fresh-start?style=flat-square&labelColor=343b41" alt="Forks: 19"></a>
 </span>
 </div><br/>
 
@@ -1258,8 +1258,8 @@
 <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/crewAIInc/crewAI-examples">crewAIInc/crewAI-examples</a> 🔥🔥</strong> <code>⚠️ Archived</code><br/><br/>
 <em>A collection of examples that show how to use CrewAI framework to automate workflows.</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; 🕒 Updated 2026-04-20</small><br/><small>🏷️ <code>crewai</code> <code>examples</code></small><br/><br/>
 <span>
-<a href="https://github.com/crewAIInc/crewAI-examples/stargazers"><img src="https://img.shields.io/github/stars/crewAIInc/crewAI-examples?style=flat-square&labelColor=343b41" alt="Stars: 6162"></a>
-<a href="https://github.com/crewAIInc/crewAI-examples/network/members"><img src="https://img.shields.io/github/forks/crewAIInc/crewAI-examples?style=flat-square&labelColor=343b41" alt="Forks: 2216"></a>
+<a href="https://github.com/crewAIInc/crewAI-examples/stargazers"><img src="https://img.shields.io/github/stars/crewAIInc/crewAI-examples?style=flat-square&labelColor=343b41" alt="Stars: 6164"></a>
+<a href="https://github.com/crewAIInc/crewAI-examples/network/members"><img src="https://img.shields.io/github/forks/crewAIInc/crewAI-examples?style=flat-square&labelColor=343b41" alt="Forks: 2220"></a>
 </span>
 </div><br/>
 
@@ -1267,17 +1267,17 @@
 <img src="https://avatars.githubusercontent.com/u/129118469?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/aiwaves-cn/agents">aiwaves-cn/agents</a> 🔥🔥</strong> <br/><br/>
 <em>An Open-source Framework for Data-centric, Self-evolving Autonomous Language Agents</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2024-09-26</small><br/><small>🏷️ <code>autonomous-agents</code> <code>language-model</code> <code>llm</code></small><br/><br/>
 <span>
-<a href="https://github.com/aiwaves-cn/agents/stargazers"><img src="https://img.shields.io/github/stars/aiwaves-cn/agents?style=flat-square&labelColor=343b41" alt="Stars: 5964"></a>
+<a href="https://github.com/aiwaves-cn/agents/stargazers"><img src="https://img.shields.io/github/stars/aiwaves-cn/agents?style=flat-square&labelColor=343b41" alt="Stars: 5965"></a>
 <a href="https://github.com/aiwaves-cn/agents/network/members"><img src="https://img.shields.io/github/forks/aiwaves-cn/agents?style=flat-square&labelColor=343b41" alt="Forks: 481"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/microsoft/skill-recorder">microsoft/skill-recorder</a> 🔥🔥</strong> <br/><br/>
-<em>Desktop app that records your on-screen work session and uses the GitHub Copilot SDK to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Autopilots like Scout, Microsoft Copilot Cowork, or Copilot Studio.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-19</small><br/><small>🏷️ <code>agent-skills</code> <code>ai-agents</code> <code>automation</code> <code>copilot</code> <code>copilot-cli</code> <code>copilot-cowork</code></small><br/><br/>
+<em>Desktop app that records your on-screen work session and uses the GitHub Copilot SDK to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Autopilots like Scout, Microsoft Copilot Cowork, or Copilot Studio.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-23</small><br/><small>🏷️ <code>agent-skills</code> <code>ai-agents</code> <code>automation</code> <code>copilot</code> <code>copilot-cli</code> <code>copilot-cowork</code></small><br/><br/>
 <span>
-<a href="https://github.com/microsoft/skill-recorder/stargazers"><img src="https://img.shields.io/github/stars/microsoft/skill-recorder?style=flat-square&labelColor=343b41" alt="Stars: 5888"></a>
-<a href="https://github.com/microsoft/skill-recorder/network/members"><img src="https://img.shields.io/github/forks/microsoft/skill-recorder?style=flat-square&labelColor=343b41" alt="Forks: 663"></a>
+<a href="https://github.com/microsoft/skill-recorder/stargazers"><img src="https://img.shields.io/github/stars/microsoft/skill-recorder?style=flat-square&labelColor=343b41" alt="Stars: 5913"></a>
+<a href="https://github.com/microsoft/skill-recorder/network/members"><img src="https://img.shields.io/github/forks/microsoft/skill-recorder?style=flat-square&labelColor=343b41" alt="Forks: 666"></a>
 </span>
 </div><br/>
 
@@ -1285,7 +1285,7 @@
 <img src="https://avatars.githubusercontent.com/u/3710007?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/andrewyng/translation-agent">andrewyng/translation-agent</a> 🔥🔥</strong> <br/><br/>
 <em>Agentic machine translation using a multi-step reflection workflow.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2024-08-04</small><br/><br/>
 <span>
-<a href="https://github.com/andrewyng/translation-agent/stargazers"><img src="https://img.shields.io/github/stars/andrewyng/translation-agent?style=flat-square&labelColor=343b41" alt="Stars: 5816"></a>
+<a href="https://github.com/andrewyng/translation-agent/stargazers"><img src="https://img.shields.io/github/stars/andrewyng/translation-agent?style=flat-square&labelColor=343b41" alt="Stars: 5817"></a>
 <a href="https://github.com/andrewyng/translation-agent/network/members"><img src="https://img.shields.io/github/forks/andrewyng/translation-agent?style=flat-square&labelColor=343b41" alt="Forks: 714"></a>
 </span>
 </div><br/>
@@ -1294,17 +1294,17 @@
 <img src="https://avatars.githubusercontent.com/u/8251002?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/JoshuaC215/agent-service-toolkit">JoshuaC215/agent-service-toolkit</a> 🔥</strong> <br/><br/>
 <em>Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-16</small><br/><small>🏷️ <code>agents</code> <code>langgraph</code> <code>streamlit</code></small><br/><br/>
 <span>
-<a href="https://github.com/JoshuaC215/agent-service-toolkit/stargazers"><img src="https://img.shields.io/github/stars/JoshuaC215/agent-service-toolkit?style=flat-square&labelColor=343b41" alt="Stars: 4582"></a>
+<a href="https://github.com/JoshuaC215/agent-service-toolkit/stargazers"><img src="https://img.shields.io/github/stars/JoshuaC215/agent-service-toolkit?style=flat-square&labelColor=343b41" alt="Stars: 4586"></a>
 <a href="https://github.com/JoshuaC215/agent-service-toolkit/network/members"><img src="https://img.shields.io/github/forks/JoshuaC215/agent-service-toolkit?style=flat-square&labelColor=343b41" alt="Forks: 806"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/306618541?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/HarnessRouter/harnessrouter">HarnessRouter/harnessrouter</a> 🔥</strong> <br/><br/>
-<em>HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, streaming, files, cancellation, and failure handling. Implements the Unified Harness Protocol (UHP), an open standard. Your keys, your infrastructure.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>agent-api</code> <code>agent-framework</code> <code>agent-harness</code> <code>ai-agents</code> <code>ai-infrastructure</code> <code>coding-agent</code></small><br/><br/>
+<em>HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, streaming, files, cancellation, and failure handling. Implements the Unified Harness Protocol (UHP), an open standard. Your keys, your infrastructure.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agent-api</code> <code>agent-framework</code> <code>agent-harness</code> <code>ai-agents</code> <code>ai-infrastructure</code> <code>coding-agent</code></small><br/><br/>
 <span>
-<a href="https://github.com/HarnessRouter/harnessrouter/stargazers"><img src="https://img.shields.io/github/stars/HarnessRouter/harnessrouter?style=flat-square&labelColor=343b41" alt="Stars: 4403"></a>
-<a href="https://github.com/HarnessRouter/harnessrouter/network/members"><img src="https://img.shields.io/github/forks/HarnessRouter/harnessrouter?style=flat-square&labelColor=343b41" alt="Forks: 493"></a>
+<a href="https://github.com/HarnessRouter/harnessrouter/stargazers"><img src="https://img.shields.io/github/stars/HarnessRouter/harnessrouter?style=flat-square&labelColor=343b41" alt="Stars: 4510"></a>
+<a href="https://github.com/HarnessRouter/harnessrouter/network/members"><img src="https://img.shields.io/github/forks/HarnessRouter/harnessrouter?style=flat-square&labelColor=343b41" alt="Forks: 501"></a>
 </span>
 </div><br/>
 
@@ -1312,17 +1312,17 @@
 <img src="https://avatars.githubusercontent.com/u/267807433?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/composio-community/open-claude-cowork">composio-community/open-claude-cowork</a> 🔥</strong> <br/><br/>
 <em>Open Source version of Claude Cowork with 500+ SaaS app integrations</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-05-23</small><br/><small>🏷️ <code>aiagents</code> <code>anthropic</code> <code>anthropic-claude</code> <code>claude-code</code> <code>claude-cowork</code> <code>eclectron-app</code></small><br/><br/>
 <span>
-<a href="https://github.com/composio-community/open-claude-cowork/stargazers"><img src="https://img.shields.io/github/stars/composio-community/open-claude-cowork?style=flat-square&labelColor=343b41" alt="Stars: 4321"></a>
-<a href="https://github.com/composio-community/open-claude-cowork/network/members"><img src="https://img.shields.io/github/forks/composio-community/open-claude-cowork?style=flat-square&labelColor=343b41" alt="Forks: 703"></a>
+<a href="https://github.com/composio-community/open-claude-cowork/stargazers"><img src="https://img.shields.io/github/stars/composio-community/open-claude-cowork?style=flat-square&labelColor=343b41" alt="Stars: 4323"></a>
+<a href="https://github.com/composio-community/open-claude-cowork/network/members"><img src="https://img.shields.io/github/forks/composio-community/open-claude-cowork?style=flat-square&labelColor=343b41" alt="Forks: 700"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/277752932?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/cosmicstack-labs/mercury-agent">cosmicstack-labs/mercury-agent</a> 🔥</strong> <br/><br/>
-<em>Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI, Telegram or More.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>ai-agent</code> <code>ai-assistant</code> <code>llm</code></small><br/><br/>
+<em>Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI, Telegram or More.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>ai-agent</code> <code>ai-assistant</code> <code>llm</code></small><br/><br/>
 <span>
-<a href="https://github.com/cosmicstack-labs/mercury-agent/stargazers"><img src="https://img.shields.io/github/stars/cosmicstack-labs/mercury-agent?style=flat-square&labelColor=343b41" alt="Stars: 4056"></a>
-<a href="https://github.com/cosmicstack-labs/mercury-agent/network/members"><img src="https://img.shields.io/github/forks/cosmicstack-labs/mercury-agent?style=flat-square&labelColor=343b41" alt="Forks: 415"></a>
+<a href="https://github.com/cosmicstack-labs/mercury-agent/stargazers"><img src="https://img.shields.io/github/stars/cosmicstack-labs/mercury-agent?style=flat-square&labelColor=343b41" alt="Stars: 4070"></a>
+<a href="https://github.com/cosmicstack-labs/mercury-agent/network/members"><img src="https://img.shields.io/github/forks/cosmicstack-labs/mercury-agent?style=flat-square&labelColor=343b41" alt="Forks: 420"></a>
 </span>
 </div><br/>
 
@@ -1340,7 +1340,7 @@
 <em>Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-09-18</small><br/><small>🏷️ <code>agent</code> <code>ai</code> <code>computeruse</code> <code>deepseek</code> <code>manus</code> <code>ollama</code></small><br/><br/>
 <span>
 <a href="https://github.com/yuruotong1/autoMate/stargazers"><img src="https://img.shields.io/github/stars/yuruotong1/autoMate?style=flat-square&labelColor=343b41" alt="Stars: 4008"></a>
-<a href="https://github.com/yuruotong1/autoMate/network/members"><img src="https://img.shields.io/github/forks/yuruotong1/autoMate?style=flat-square&labelColor=343b41" alt="Forks: 491"></a>
+<a href="https://github.com/yuruotong1/autoMate/network/members"><img src="https://img.shields.io/github/forks/yuruotong1/autoMate?style=flat-square&labelColor=343b41" alt="Forks: 492"></a>
 </span>
 </div><br/>
 
@@ -1348,7 +1348,7 @@
 <img src="https://avatars.githubusercontent.com/u/260773424?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/TinyAGI/tinyagi">TinyAGI/tinyagi</a> 🔥</strong> <br/><br/>
 <em>TinyAGI is the agent teams orchestrator for One Person Company. (fka TinyClaw)</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-03-30</small><br/><br/>
 <span>
-<a href="https://github.com/TinyAGI/tinyagi/stargazers"><img src="https://img.shields.io/github/stars/TinyAGI/tinyagi?style=flat-square&labelColor=343b41" alt="Stars: 3635"></a>
+<a href="https://github.com/TinyAGI/tinyagi/stargazers"><img src="https://img.shields.io/github/stars/TinyAGI/tinyagi?style=flat-square&labelColor=343b41" alt="Stars: 3638"></a>
 <a href="https://github.com/TinyAGI/tinyagi/network/members"><img src="https://img.shields.io/github/forks/TinyAGI/tinyagi?style=flat-square&labelColor=343b41" alt="Forks: 507"></a>
 </span>
 </div><br/>
@@ -1357,8 +1357,8 @@
 <img src="https://avatars.githubusercontent.com/u/152537519?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/superagent-ai/grok-cli">superagent-ai/grok-cli</a> 🔥</strong> <br/><br/>
 <em>An open-source coding agent for the Grok API</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-07-06</small><br/><small>🏷️ <code>agents</code> <code>ai</code> <code>cli</code> <code>code</code> <code>coding-agent</code> <code>grok</code></small><br/><br/>
 <span>
-<a href="https://github.com/superagent-ai/grok-cli/stargazers"><img src="https://img.shields.io/github/stars/superagent-ai/grok-cli?style=flat-square&labelColor=343b41" alt="Stars: 3516"></a>
-<a href="https://github.com/superagent-ai/grok-cli/network/members"><img src="https://img.shields.io/github/forks/superagent-ai/grok-cli?style=flat-square&labelColor=343b41" alt="Forks: 430"></a>
+<a href="https://github.com/superagent-ai/grok-cli/stargazers"><img src="https://img.shields.io/github/stars/superagent-ai/grok-cli?style=flat-square&labelColor=343b41" alt="Stars: 3517"></a>
+<a href="https://github.com/superagent-ai/grok-cli/network/members"><img src="https://img.shields.io/github/forks/superagent-ai/grok-cli?style=flat-square&labelColor=343b41" alt="Forks: 429"></a>
 </span>
 </div><br/>
 
@@ -1366,26 +1366,26 @@
 <img src="https://avatars.githubusercontent.com/u/173073912?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Intelligent-Internet/ii-agent">Intelligent-Internet/ii-agent</a> 🔥</strong> <br/><br/>
 <em>II-Agent: a new open-source framework to build and deploy intelligent agents</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-08-16</small><br/><small>🏷️ <code>agent</code> <code>agentic-ai</code> <code>ai</code> <code>ai-agent</code> <code>ai-agent-framework</code> <code>llm</code></small><br/><br/>
 <span>
-<a href="https://github.com/Intelligent-Internet/ii-agent/stargazers"><img src="https://img.shields.io/github/stars/Intelligent-Internet/ii-agent?style=flat-square&labelColor=343b41" alt="Stars: 3397"></a>
-<a href="https://github.com/Intelligent-Internet/ii-agent/network/members"><img src="https://img.shields.io/github/forks/Intelligent-Internet/ii-agent?style=flat-square&labelColor=343b41" alt="Forks: 523"></a>
+<a href="https://github.com/Intelligent-Internet/ii-agent/stargazers"><img src="https://img.shields.io/github/stars/Intelligent-Internet/ii-agent?style=flat-square&labelColor=343b41" alt="Stars: 3400"></a>
+<a href="https://github.com/Intelligent-Internet/ii-agent/network/members"><img src="https://img.shields.io/github/forks/Intelligent-Internet/ii-agent?style=flat-square&labelColor=343b41" alt="Forks: 522"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/120314019?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/metorial/metorial">metorial/metorial</a> 🔥</strong> <br/><br/>
-<em>Connect any AI model to 1200+ integrations (MCP, CLI, API)</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>agent</code> <code>agentic-ai</code> <code>agentic-workflow</code> <code>container</code> <code>docker</code> <code>mcp</code></small><br/><br/>
+<em>Connect any AI model to 1200+ integrations (MCP, CLI, API)</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>agent</code> <code>agentic-ai</code> <code>agentic-workflow</code> <code>container</code> <code>docker</code> <code>mcp</code></small><br/><br/>
 <span>
-<a href="https://github.com/metorial/metorial/stargazers"><img src="https://img.shields.io/github/stars/metorial/metorial?style=flat-square&labelColor=343b41" alt="Stars: 3380"></a>
+<a href="https://github.com/metorial/metorial/stargazers"><img src="https://img.shields.io/github/stars/metorial/metorial?style=flat-square&labelColor=343b41" alt="Stars: 3378"></a>
 <a href="https://github.com/metorial/metorial/network/members"><img src="https://img.shields.io/github/forks/metorial/metorial?style=flat-square&labelColor=343b41" alt="Forks: 370"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/langchain-ai/social-media-agent">langchain-ai/social-media-agent</a> 🔥</strong> <br/><br/>
-<em>📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-18</small><br/><br/>
+<em>📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-23</small><br/><br/>
 <span>
-<a href="https://github.com/langchain-ai/social-media-agent/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/social-media-agent?style=flat-square&labelColor=343b41" alt="Stars: 3047"></a>
-<a href="https://github.com/langchain-ai/social-media-agent/network/members"><img src="https://img.shields.io/github/forks/langchain-ai/social-media-agent?style=flat-square&labelColor=343b41" alt="Forks: 553"></a>
+<a href="https://github.com/langchain-ai/social-media-agent/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/social-media-agent?style=flat-square&labelColor=343b41" alt="Stars: 3057"></a>
+<a href="https://github.com/langchain-ai/social-media-agent/network/members"><img src="https://img.shields.io/github/forks/langchain-ai/social-media-agent?style=flat-square&labelColor=343b41" alt="Forks: 555"></a>
 </span>
 </div><br/>
 
@@ -1394,7 +1394,7 @@
 <em>🔥 A collection of the Claude Code open source</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-04-11</small><br/><br/>
 <span>
 <a href="https://github.com/chauncygu/collection-claude-code-source-code/stargazers"><img src="https://img.shields.io/github/stars/chauncygu/collection-claude-code-source-code?style=flat-square&labelColor=343b41" alt="Stars: 2883"></a>
-<a href="https://github.com/chauncygu/collection-claude-code-source-code/network/members"><img src="https://img.shields.io/github/forks/chauncygu/collection-claude-code-source-code?style=flat-square&labelColor=343b41" alt="Forks: 2448"></a>
+<a href="https://github.com/chauncygu/collection-claude-code-source-code/network/members"><img src="https://img.shields.io/github/forks/chauncygu/collection-claude-code-source-code?style=flat-square&labelColor=343b41" alt="Forks: 2449"></a>
 </span>
 </div><br/>
 
@@ -1402,8 +1402,8 @@
 <img src="https://avatars.githubusercontent.com/u/223140489?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/AgriciDaniel/claude-blog">AgriciDaniel/claude-blog</a> 🔥</strong> <br/><br/>
 <em>Free, open source blog writer for Claude Code. Researches current sources, writes answer-first posts for Google and AI answers, has an independent reviewer score each one out of 100 and ships only after five delivery gates. 32 skills, 30 /blog commands, 5 agents. Active development at AI-Marketing-Hub/claude-blog; public releases ship here.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-03</small><br/><small>🏷️ <code>agent-skills</code> <code>ai</code> <code>ai-citations</code> <code>ai-content</code> <code>ai-marketing</code> <code>ai-marketing-hub</code></small><br/><br/>
 <span>
-<a href="https://github.com/AgriciDaniel/claude-blog/stargazers"><img src="https://img.shields.io/github/stars/AgriciDaniel/claude-blog?style=flat-square&labelColor=343b41" alt="Stars: 2835"></a>
-<a href="https://github.com/AgriciDaniel/claude-blog/network/members"><img src="https://img.shields.io/github/forks/AgriciDaniel/claude-blog?style=flat-square&labelColor=343b41" alt="Forks: 482"></a>
+<a href="https://github.com/AgriciDaniel/claude-blog/stargazers"><img src="https://img.shields.io/github/stars/AgriciDaniel/claude-blog?style=flat-square&labelColor=343b41" alt="Stars: 2858"></a>
+<a href="https://github.com/AgriciDaniel/claude-blog/network/members"><img src="https://img.shields.io/github/forks/AgriciDaniel/claude-blog?style=flat-square&labelColor=343b41" alt="Forks: 489"></a>
 </span>
 </div><br/>
 
@@ -1411,7 +1411,7 @@
 <img src="https://avatars.githubusercontent.com/u/20087438?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/1rgs/nanocode">1rgs/nanocode</a> 🔥</strong> <br/><br/>
 <em>Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-01-14</small><br/><br/>
 <span>
-<a href="https://github.com/1rgs/nanocode/stargazers"><img src="https://img.shields.io/github/stars/1rgs/nanocode?style=flat-square&labelColor=343b41" alt="Stars: 2820"></a>
+<a href="https://github.com/1rgs/nanocode/stargazers"><img src="https://img.shields.io/github/stars/1rgs/nanocode?style=flat-square&labelColor=343b41" alt="Stars: 2831"></a>
 <a href="https://github.com/1rgs/nanocode/network/members"><img src="https://img.shields.io/github/forks/1rgs/nanocode?style=flat-square&labelColor=343b41" alt="Forks: 282"></a>
 </span>
 </div><br/>
@@ -1420,8 +1420,8 @@
 <img src="https://avatars.githubusercontent.com/u/1448366?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/achimala/dream-loop">achimala/dream-loop</a> 🔥</strong> <br/><br/>
 <em>Agent skill for impressive 3D visuals using Blender + image gen + subagent critic</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-09-09</small><br/><br/>
 <span>
-<a href="https://github.com/achimala/dream-loop/stargazers"><img src="https://img.shields.io/github/stars/achimala/dream-loop?style=flat-square&labelColor=343b41" alt="Stars: 2482"></a>
-<a href="https://github.com/achimala/dream-loop/network/members"><img src="https://img.shields.io/github/forks/achimala/dream-loop?style=flat-square&labelColor=343b41" alt="Forks: 237"></a>
+<a href="https://github.com/achimala/dream-loop/stargazers"><img src="https://img.shields.io/github/stars/achimala/dream-loop?style=flat-square&labelColor=343b41" alt="Stars: 2546"></a>
+<a href="https://github.com/achimala/dream-loop/network/members"><img src="https://img.shields.io/github/forks/achimala/dream-loop?style=flat-square&labelColor=343b41" alt="Forks: 239"></a>
 </span>
 </div><br/>
 
@@ -1429,16 +1429,16 @@
 <img src="https://avatars.githubusercontent.com/u/219277434?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/QoderAI/better-harness">QoderAI/better-harness</a> 🔥</strong> <br/><br/>
 <em>An open-source Harness Engineering platform for coding agents—define harnesses as code, run controlled experiments, inspect evidence, and compare outcomes. Turn task evidence into actionable team and organization insights.</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-11</small><br/><small>🏷️ <code>agent-plugin</code> <code>claude-code</code> <code>codex</code> <code>cursor</code> <code>harness-design</code> <code>harness-engineering</code></small><br/><br/>
 <span>
-<a href="https://github.com/QoderAI/better-harness/stargazers"><img src="https://img.shields.io/github/stars/QoderAI/better-harness?style=flat-square&labelColor=343b41" alt="Stars: 2476"></a>
-<a href="https://github.com/QoderAI/better-harness/network/members"><img src="https://img.shields.io/github/forks/QoderAI/better-harness?style=flat-square&labelColor=343b41" alt="Forks: 209"></a>
+<a href="https://github.com/QoderAI/better-harness/stargazers"><img src="https://img.shields.io/github/stars/QoderAI/better-harness?style=flat-square&labelColor=343b41" alt="Stars: 2478"></a>
+<a href="https://github.com/QoderAI/better-harness/network/members"><img src="https://img.shields.io/github/forks/QoderAI/better-harness?style=flat-square&labelColor=343b41" alt="Forks: 210"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/132681217?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/OpenAdaptAI/OpenAdapt">OpenAdaptAI/OpenAdapt</a> 🔥</strong> <br/><br/>
-<em>For EHRs, payer portals, and any app your team clicks through. A person or an agent shows the task; OpenAdapt turns it into a local program that repeats the steps with no model calls, checks each save, and stops when something doesn't match.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-22</small><br/><small>🏷️ <code>agent-harness</code> <code>ai-agents</code> <code>browser-automation</code> <code>citrix</code> <code>computer-use-agents</code> <code>demonstration-compiler</code></small><br/><br/>
+<em>For EHRs, payer portals, and any app your team clicks through. A person or an agent shows the task; OpenAdapt turns it into a local program that repeats the steps with no model calls, checks each save, and stops when something doesn't match.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agent-harness</code> <code>ai-agents</code> <code>browser-automation</code> <code>citrix</code> <code>computer-use-agents</code> <code>demonstration-compiler</code></small><br/><br/>
 <span>
-<a href="https://github.com/OpenAdaptAI/OpenAdapt/stargazers"><img src="https://img.shields.io/github/stars/OpenAdaptAI/OpenAdapt?style=flat-square&labelColor=343b41" alt="Stars: 1894"></a>
+<a href="https://github.com/OpenAdaptAI/OpenAdapt/stargazers"><img src="https://img.shields.io/github/stars/OpenAdaptAI/OpenAdapt?style=flat-square&labelColor=343b41" alt="Stars: 1901"></a>
 <a href="https://github.com/OpenAdaptAI/OpenAdapt/network/members"><img src="https://img.shields.io/github/forks/OpenAdaptAI/OpenAdapt?style=flat-square&labelColor=343b41" alt="Forks: 286"></a>
 </span>
 </div><br/>
@@ -1447,17 +1447,17 @@
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/microsoft/Mage">microsoft/Mage</a> 🔥</strong> <br/><br/>
 <em>No description provided.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-02</small><br/><small>🏷️ <code>computer-use</code> <code>computer-use-agent</code> <code>flow-matching</code> <code>gui-agent</code> <code>image-editing</code> <code>microsoft</code></small><br/><br/>
 <span>
-<a href="https://github.com/microsoft/Mage/stargazers"><img src="https://img.shields.io/github/stars/microsoft/Mage?style=flat-square&labelColor=343b41" alt="Stars: 1795"></a>
-<a href="https://github.com/microsoft/Mage/network/members"><img src="https://img.shields.io/github/forks/microsoft/Mage?style=flat-square&labelColor=343b41" alt="Forks: 180"></a>
+<a href="https://github.com/microsoft/Mage/stargazers"><img src="https://img.shields.io/github/stars/microsoft/Mage?style=flat-square&labelColor=343b41" alt="Stars: 1799"></a>
+<a href="https://github.com/microsoft/Mage/network/members"><img src="https://img.shields.io/github/forks/microsoft/Mage?style=flat-square&labelColor=343b41" alt="Forks: 183"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/268502891?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Twigpine/zero">Twigpine/zero</a> 🔥</strong> <br/><br/>
-<em>The coding agent that answers to you, your model, your machine, your rules.</em><br/><small><code>Go</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-20</small><br/><small>🏷️ <code>ai</code> <code>ai-agent</code> <code>anthropic</code> <code>cli</code> <code>code-assistant</code> <code>coding-agent</code></small><br/><br/>
+<em>The coding agent that answers to you, your model, your machine, your rules.</em><br/><small><code>Go</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>ai</code> <code>ai-agent</code> <code>anthropic</code> <code>cli</code> <code>code-assistant</code> <code>coding-agent</code></small><br/><br/>
 <span>
 <a href="https://github.com/Twigpine/zero/stargazers"><img src="https://img.shields.io/github/stars/Twigpine/zero?style=flat-square&labelColor=343b41" alt="Stars: 1782"></a>
-<a href="https://github.com/Twigpine/zero/network/members"><img src="https://img.shields.io/github/forks/Twigpine/zero?style=flat-square&labelColor=343b41" alt="Forks: 211"></a>
+<a href="https://github.com/Twigpine/zero/network/members"><img src="https://img.shields.io/github/forks/Twigpine/zero?style=flat-square&labelColor=343b41" alt="Forks: 212"></a>
 </span>
 </div><br/>
 
@@ -1465,8 +1465,8 @@
 <img src="https://avatars.githubusercontent.com/u/28316913?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/NirDiamant/Controllable-RAG-Agent">NirDiamant/Controllable-RAG-Agent</a> 🔥</strong> <br/><br/>
 <em>This repository provides an advanced Retrieval-Augmented Generation (RAG) solution for complex question answering. It uses sophisticated graph based algorithm to handle the tasks.</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-01</small><br/><small>🏷️ <code>advanced-rag</code> <code>agent</code> <code>genai</code> <code>langchain</code> <code>langgraph</code> <code>llm</code></small><br/><br/>
 <span>
-<a href="https://github.com/NirDiamant/Controllable-RAG-Agent/stargazers"><img src="https://img.shields.io/github/stars/NirDiamant/Controllable-RAG-Agent?style=flat-square&labelColor=343b41" alt="Stars: 1634"></a>
-<a href="https://github.com/NirDiamant/Controllable-RAG-Agent/network/members"><img src="https://img.shields.io/github/forks/NirDiamant/Controllable-RAG-Agent?style=flat-square&labelColor=343b41" alt="Forks: 272"></a>
+<a href="https://github.com/NirDiamant/Controllable-RAG-Agent/stargazers"><img src="https://img.shields.io/github/stars/NirDiamant/Controllable-RAG-Agent?style=flat-square&labelColor=343b41" alt="Stars: 1636"></a>
+<a href="https://github.com/NirDiamant/Controllable-RAG-Agent/network/members"><img src="https://img.shields.io/github/forks/NirDiamant/Controllable-RAG-Agent?style=flat-square&labelColor=343b41" alt="Forks: 273"></a>
 </span>
 </div><br/>
 
@@ -1474,8 +1474,8 @@
 <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/langchain-ai/langgraph-swarm-py">langchain-ai/langgraph-swarm-py</a> 🔥</strong> <br/><br/>
 <em>For your multi-agent needs</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-10-28</small><br/><small>🏷️ <code>agents</code> <code>langgraph</code> <code>llms</code> <code>multiagent</code> <code>multiagent-systems</code> <code>python</code></small><br/><br/>
 <span>
-<a href="https://github.com/langchain-ai/langgraph-swarm-py/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/langgraph-swarm-py?style=flat-square&labelColor=343b41" alt="Stars: 1598"></a>
-<a href="https://github.com/langchain-ai/langgraph-swarm-py/network/members"><img src="https://img.shields.io/github/forks/langchain-ai/langgraph-swarm-py?style=flat-square&labelColor=343b41" alt="Forks: 227"></a>
+<a href="https://github.com/langchain-ai/langgraph-swarm-py/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/langgraph-swarm-py?style=flat-square&labelColor=343b41" alt="Stars: 1599"></a>
+<a href="https://github.com/langchain-ai/langgraph-swarm-py/network/members"><img src="https://img.shields.io/github/forks/langchain-ai/langgraph-swarm-py?style=flat-square&labelColor=343b41" alt="Forks: 228"></a>
 </span>
 </div><br/>
 
@@ -1483,7 +1483,7 @@
 <img src="https://avatars.githubusercontent.com/u/797193?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/nvk/llm-wiki">nvk/llm-wiki</a> 🔥</strong> <br/><br/>
 <em>LLM-compiled knowledge bases for any AI agent. Parallel multi-agent research, thesis-driven investigation, source ingestion, wiki compilation, querying, and artifact generation.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-10-25</small><br/><small>🏷️ <code>agentic-ai</code> <code>agentic-skills</code> <code>agentic-workflow</code> <code>claude-code</code> <code>codex</code> <code>llm</code></small><br/><br/>
 <span>
-<a href="https://github.com/nvk/llm-wiki/stargazers"><img src="https://img.shields.io/github/stars/nvk/llm-wiki?style=flat-square&labelColor=343b41" alt="Stars: 1564"></a>
+<a href="https://github.com/nvk/llm-wiki/stargazers"><img src="https://img.shields.io/github/stars/nvk/llm-wiki?style=flat-square&labelColor=343b41" alt="Stars: 1570"></a>
 <a href="https://github.com/nvk/llm-wiki/network/members"><img src="https://img.shields.io/github/forks/nvk/llm-wiki?style=flat-square&labelColor=343b41" alt="Forks: 145"></a>
 </span>
 </div><br/>
@@ -1492,7 +1492,7 @@
 <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/crewAIInc/crewAI-tools">crewAIInc/crewAI-tools</a> 🔥</strong> <code>⚠️ Archived</code><br/><br/>
 <em>Extend the capabilities of your CrewAI agents with Tools</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2025-10-23</small><br/><small>🏷️ <code>ai</code> <code>aiagents</code> <code>crewai</code> <code>crewai-tools</code></small><br/><br/>
 <span>
-<a href="https://github.com/crewAIInc/crewAI-tools/stargazers"><img src="https://img.shields.io/github/stars/crewAIInc/crewAI-tools?style=flat-square&labelColor=343b41" alt="Stars: 1484"></a>
+<a href="https://github.com/crewAIInc/crewAI-tools/stargazers"><img src="https://img.shields.io/github/stars/crewAIInc/crewAI-tools?style=flat-square&labelColor=343b41" alt="Stars: 1485"></a>
 <a href="https://github.com/crewAIInc/crewAI-tools/network/members"><img src="https://img.shields.io/github/forks/crewAIInc/crewAI-tools?style=flat-square&labelColor=343b41" alt="Forks: 558"></a>
 </span>
 </div><br/>
@@ -1519,7 +1519,7 @@
 <img src="https://avatars.githubusercontent.com/u/164897710?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/soongenwong/claudecode">soongenwong/claudecode</a> 🔥</strong> <br/><br/>
 <em>Open Source ClaudeCode Leaked. Same functionalities as Claude Code by Anthropic. Written in Rust, Ready to use immediately for free.</em><br/><small><code>Rust</code> &nbsp;•&nbsp; 🕒 Updated 2026-06-21</small><br/><small>🏷️ <code>agentic-ai</code> <code>anthropic</code> <code>claude-code</code> <code>coding</code> <code>free</code> <code>functionality</code></small><br/><br/>
 <span>
-<a href="https://github.com/soongenwong/claudecode/stargazers"><img src="https://img.shields.io/github/stars/soongenwong/claudecode?style=flat-square&labelColor=343b41" alt="Stars: 1224"></a>
+<a href="https://github.com/soongenwong/claudecode/stargazers"><img src="https://img.shields.io/github/stars/soongenwong/claudecode?style=flat-square&labelColor=343b41" alt="Stars: 1223"></a>
 <a href="https://github.com/soongenwong/claudecode/network/members"><img src="https://img.shields.io/github/forks/soongenwong/claudecode?style=flat-square&labelColor=343b41" alt="Forks: 420"></a>
 </span>
 </div><br/>
@@ -1528,17 +1528,17 @@
 <img src="https://avatars.githubusercontent.com/u/205874579?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/browserable/browserable">browserable/browserable</a> 🔥</strong> <br/><br/>
 <em>Open source and self-hostable browser automation library for AI agents</em><br/><small><code>JavaScript</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2025-08-27</small><br/><small>🏷️ <code>ai-agents</code> <code>ai-tools</code> <code>browser-automation</code> <code>browser-use</code> <code>browser-use-js</code> <code>deep-research</code></small><br/><br/>
 <span>
-<a href="https://github.com/browserable/browserable/stargazers"><img src="https://img.shields.io/github/stars/browserable/browserable?style=flat-square&labelColor=343b41" alt="Stars: 1215"></a>
+<a href="https://github.com/browserable/browserable/stargazers"><img src="https://img.shields.io/github/stars/browserable/browserable?style=flat-square&labelColor=343b41" alt="Stars: 1216"></a>
 <a href="https://github.com/browserable/browserable/network/members"><img src="https://img.shields.io/github/forks/browserable/browserable?style=flat-square&labelColor=343b41" alt="Forks: 104"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/252050005?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/AgentWorkforce/relay">AgentWorkforce/relay</a> 🔥</strong> <br/><br/>
-<em>Infrastructure for coding agents</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>agent</code> <code>agent-collaboration</code> <code>agent-communication</code> <code>agent-skills</code> <code>agentic-ai</code> <code>agents</code></small><br/><br/>
+<em>Infrastructure for coding agents</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agent</code> <code>agent-collaboration</code> <code>agent-communication</code> <code>agent-skills</code> <code>agentic-ai</code> <code>agents</code></small><br/><br/>
 <span>
-<a href="https://github.com/AgentWorkforce/relay/stargazers"><img src="https://img.shields.io/github/stars/AgentWorkforce/relay?style=flat-square&labelColor=343b41" alt="Stars: 1144"></a>
-<a href="https://github.com/AgentWorkforce/relay/network/members"><img src="https://img.shields.io/github/forks/AgentWorkforce/relay?style=flat-square&labelColor=343b41" alt="Forks: 105"></a>
+<a href="https://github.com/AgentWorkforce/relay/stargazers"><img src="https://img.shields.io/github/stars/AgentWorkforce/relay?style=flat-square&labelColor=343b41" alt="Stars: 1152"></a>
+<a href="https://github.com/AgentWorkforce/relay/network/members"><img src="https://img.shields.io/github/forks/AgentWorkforce/relay?style=flat-square&labelColor=343b41" alt="Forks: 108"></a>
 </span>
 </div><br/>
 
@@ -1546,8 +1546,8 @@
 <img src="https://avatars.githubusercontent.com/u/34525670?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/landing-ai/ade-python">landing-ai/ade-python</a> 🔥</strong> <br/><br/>
 <em>Python library for Agentic Document Extraction (ADE).</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-18</small><br/><br/>
 <span>
-<a href="https://github.com/landing-ai/ade-python/stargazers"><img src="https://img.shields.io/github/stars/landing-ai/ade-python?style=flat-square&labelColor=343b41" alt="Stars: 1042"></a>
-<a href="https://github.com/landing-ai/ade-python/network/members"><img src="https://img.shields.io/github/forks/landing-ai/ade-python?style=flat-square&labelColor=343b41" alt="Forks: 168"></a>
+<a href="https://github.com/landing-ai/ade-python/stargazers"><img src="https://img.shields.io/github/stars/landing-ai/ade-python?style=flat-square&labelColor=343b41" alt="Stars: 1045"></a>
+<a href="https://github.com/landing-ai/ade-python/network/members"><img src="https://img.shields.io/github/forks/landing-ai/ade-python?style=flat-square&labelColor=343b41" alt="Forks: 167"></a>
 </span>
 </div><br/>
 
@@ -1555,17 +1555,17 @@
 <img src="https://avatars.githubusercontent.com/u/37864549?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/hrithikkoduri/WebRover">hrithikkoduri/WebRover</a> 🔥</strong> <br/><br/>
 <em>WebRover is an autonomous AI agent designed to interpret user input and execute actions by interacting with web elements to accomplish tasks or answer questions. It leverages advanced language models and web automation tools to navigate the web, gather information, and provide structured responses based on the user's needs.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-10-19</small><br/><br/>
 <span>
-<a href="https://github.com/hrithikkoduri/WebRover/stargazers"><img src="https://img.shields.io/github/stars/hrithikkoduri/WebRover?style=flat-square&labelColor=343b41" alt="Stars: 1023"></a>
-<a href="https://github.com/hrithikkoduri/WebRover/network/members"><img src="https://img.shields.io/github/forks/hrithikkoduri/WebRover?style=flat-square&labelColor=343b41" alt="Forks: 179"></a>
+<a href="https://github.com/hrithikkoduri/WebRover/stargazers"><img src="https://img.shields.io/github/stars/hrithikkoduri/WebRover?style=flat-square&labelColor=343b41" alt="Stars: 1024"></a>
+<a href="https://github.com/hrithikkoduri/WebRover/network/members"><img src="https://img.shields.io/github/forks/hrithikkoduri/WebRover?style=flat-square&labelColor=343b41" alt="Forks: 178"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/microsoft/Agensh">microsoft/Agensh</a> </strong> <br/><br/>
-<em>A Decentralized, Scalable Multiagent Harness</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-03</small><br/><br/>
+<em>Multiagent Intelligence at Scale</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-03</small><br/><br/>
 <span>
-<a href="https://github.com/microsoft/Agensh/stargazers"><img src="https://img.shields.io/github/stars/microsoft/Agensh?style=flat-square&labelColor=343b41" alt="Stars: 936"></a>
-<a href="https://github.com/microsoft/Agensh/network/members"><img src="https://img.shields.io/github/forks/microsoft/Agensh?style=flat-square&labelColor=343b41" alt="Forks: 110"></a>
+<a href="https://github.com/microsoft/Agensh/stargazers"><img src="https://img.shields.io/github/stars/microsoft/Agensh?style=flat-square&labelColor=343b41" alt="Stars: 968"></a>
+<a href="https://github.com/microsoft/Agensh/network/members"><img src="https://img.shields.io/github/forks/microsoft/Agensh?style=flat-square&labelColor=343b41" alt="Forks: 117"></a>
 </span>
 </div><br/>
 
@@ -1573,8 +1573,8 @@
 <img src="https://avatars.githubusercontent.com/u/9599?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/simonw/claude-skills">simonw/claude-skills</a> </strong> <br/><br/>
 <em>The contents of /mnt/skills in Claude's code interpreter environment</em><br/><small>🕒 Updated 2025-12-12</small><br/><br/>
 <span>
-<a href="https://github.com/simonw/claude-skills/stargazers"><img src="https://img.shields.io/github/stars/simonw/claude-skills?style=flat-square&labelColor=343b41" alt="Stars: 932"></a>
-<a href="https://github.com/simonw/claude-skills/network/members"><img src="https://img.shields.io/github/forks/simonw/claude-skills?style=flat-square&labelColor=343b41" alt="Forks: 133"></a>
+<a href="https://github.com/simonw/claude-skills/stargazers"><img src="https://img.shields.io/github/stars/simonw/claude-skills?style=flat-square&labelColor=343b41" alt="Stars: 931"></a>
+<a href="https://github.com/simonw/claude-skills/network/members"><img src="https://img.shields.io/github/forks/simonw/claude-skills?style=flat-square&labelColor=343b41" alt="Forks: 134"></a>
 </span>
 </div><br/>
 
@@ -1582,8 +1582,8 @@
 <img src="https://avatars.githubusercontent.com/u/22479449?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/MicrosoftDocs/Agent-Skills">MicrosoftDocs/Agent-Skills</a> </strong> <br/><br/>
 <em>Curated Agent Skills for Microsoft &amp; Azure – giving AI coding assistants structured, real-time expertise from Microsoft Learn docs.</em><br/><small>⚖️ CC-BY-4.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-09</small><br/><small>🏷️ <code>agent</code> <code>agent-skills</code> <code>agentic-skills</code> <code>agentskill</code> <code>ai</code> <code>ai-agents</code></small><br/><br/>
 <span>
-<a href="https://github.com/MicrosoftDocs/Agent-Skills/stargazers"><img src="https://img.shields.io/github/stars/MicrosoftDocs/Agent-Skills?style=flat-square&labelColor=343b41" alt="Stars: 818"></a>
-<a href="https://github.com/MicrosoftDocs/Agent-Skills/network/members"><img src="https://img.shields.io/github/forks/MicrosoftDocs/Agent-Skills?style=flat-square&labelColor=343b41" alt="Forks: 135"></a>
+<a href="https://github.com/MicrosoftDocs/Agent-Skills/stargazers"><img src="https://img.shields.io/github/stars/MicrosoftDocs/Agent-Skills?style=flat-square&labelColor=343b41" alt="Stars: 820"></a>
+<a href="https://github.com/MicrosoftDocs/Agent-Skills/network/members"><img src="https://img.shields.io/github/forks/MicrosoftDocs/Agent-Skills?style=flat-square&labelColor=343b41" alt="Forks: 134"></a>
 </span>
 </div><br/>
 
@@ -1600,14 +1600,14 @@
 <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/langchain-ai/agentevals">langchain-ai/agentevals</a> </strong> <br/><br/>
 <em>Readymade evaluators for agent trajectories</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-07-14</small><br/><br/>
 <span>
-<a href="https://github.com/langchain-ai/agentevals/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/agentevals?style=flat-square&labelColor=343b41" alt="Stars: 762"></a>
-<a href="https://github.com/langchain-ai/agentevals/network/members"><img src="https://img.shields.io/github/forks/langchain-ai/agentevals?style=flat-square&labelColor=343b41" alt="Forks: 68"></a>
+<a href="https://github.com/langchain-ai/agentevals/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/agentevals?style=flat-square&labelColor=343b41" alt="Stars: 765"></a>
+<a href="https://github.com/langchain-ai/agentevals/network/members"><img src="https://img.shields.io/github/forks/langchain-ai/agentevals?style=flat-square&labelColor=343b41" alt="Forks: 70"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/245669230?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/runesleo/claude-code-workflow">runesleo/claude-code-workflow</a> </strong> <br/><br/>
-<em>QuietHarness：Claude Code、Codex、Cursor 共用的轻量 AI 工作系统</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-13</small><br/><small>🏷️ <code>agent-workflow</code> <code>ai-agents</code> <code>claude-code</code> <code>codex</code> <code>cursor</code> <code>developer-tools</code></small><br/><br/>
+<em>QuietHarness：Claude Code、Codex、Cursor 共用的轻量 AI 工作系统</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agent-workflow</code> <code>ai-agents</code> <code>claude-code</code> <code>codex</code> <code>cursor</code> <code>developer-tools</code></small><br/><br/>
 <span>
 <a href="https://github.com/runesleo/claude-code-workflow/stargazers"><img src="https://img.shields.io/github/stars/runesleo/claude-code-workflow?style=flat-square&labelColor=343b41" alt="Stars: 711"></a>
 <a href="https://github.com/runesleo/claude-code-workflow/network/members"><img src="https://img.shields.io/github/forks/runesleo/claude-code-workflow?style=flat-square&labelColor=343b41" alt="Forks: 87"></a>
@@ -1618,7 +1618,7 @@
 <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/langchain-ai/agent-protocol">langchain-ai/agent-protocol</a> </strong> <br/><br/>
 <em>Framework-agnostic API specification for serving LLM agents in production.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-19</small><br/><br/>
 <span>
-<a href="https://github.com/langchain-ai/agent-protocol/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41" alt="Stars: 698"></a>
+<a href="https://github.com/langchain-ai/agent-protocol/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41" alt="Stars: 700"></a>
 <a href="https://github.com/langchain-ai/agent-protocol/network/members"><img src="https://img.shields.io/github/forks/langchain-ai/agent-protocol?style=flat-square&labelColor=343b41" alt="Forks: 64"></a>
 </span>
 </div><br/>
@@ -1636,7 +1636,7 @@
 <img src="https://avatars.githubusercontent.com/u/131273140?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/CopilotKit/open-multi-agent-canvas">CopilotKit/open-multi-agent-canvas</a> </strong> <br/><br/>
 <em>The open-source multi-agent chat interface that lets you manage multiple agents in one dynamic conversation and add MCP servers for deep research</em><br/><small><code>TypeScript</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-21</small><br/><small>🏷️ <code>ai-agents</code> <code>copilotkit</code> <code>mcp-client</code> <code>multi-agent</code> <code>open-canvas</code> <code>python</code></small><br/><br/>
 <span>
-<a href="https://github.com/CopilotKit/open-multi-agent-canvas/stargazers"><img src="https://img.shields.io/github/stars/CopilotKit/open-multi-agent-canvas?style=flat-square&labelColor=343b41" alt="Stars: 565"></a>
+<a href="https://github.com/CopilotKit/open-multi-agent-canvas/stargazers"><img src="https://img.shields.io/github/stars/CopilotKit/open-multi-agent-canvas?style=flat-square&labelColor=343b41" alt="Stars: 567"></a>
 <a href="https://github.com/CopilotKit/open-multi-agent-canvas/network/members"><img src="https://img.shields.io/github/forks/CopilotKit/open-multi-agent-canvas?style=flat-square&labelColor=343b41" alt="Forks: 84"></a>
 </span>
 </div><br/>
@@ -1708,7 +1708,7 @@
 <img src="https://avatars.githubusercontent.com/u/8931462?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/aws-samples/langgraph-agents-with-amazon-bedrock">aws-samples/langgraph-agents-with-amazon-bedrock</a> </strong> <br/><br/>
 <em>Workshop and reference patterns for building LangGraph AI agents on Amazon Bedrock.</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; ⚖️ MIT-0 &nbsp;•&nbsp; 🕒 Updated 2026-07-22</small><br/><br/>
 <span>
-<a href="https://github.com/aws-samples/langgraph-agents-with-amazon-bedrock/stargazers"><img src="https://img.shields.io/github/stars/aws-samples/langgraph-agents-with-amazon-bedrock?style=flat-square&labelColor=343b41" alt="Stars: 196"></a>
+<a href="https://github.com/aws-samples/langgraph-agents-with-amazon-bedrock/stargazers"><img src="https://img.shields.io/github/stars/aws-samples/langgraph-agents-with-amazon-bedrock?style=flat-square&labelColor=343b41" alt="Stars: 197"></a>
 <a href="https://github.com/aws-samples/langgraph-agents-with-amazon-bedrock/network/members"><img src="https://img.shields.io/github/forks/aws-samples/langgraph-agents-with-amazon-bedrock?style=flat-square&labelColor=343b41" alt="Forks: 40"></a>
 </span>
 </div><br/>
@@ -1718,7 +1718,7 @@
 <em>Meta Harness Implementation</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2026-09-02</small><br/><small>🏷️ <code>agentic-coding</code> <code>harness</code> <code>harness-engineering</code></small><br/><br/>
 <span>
 <a href="https://github.com/SuperagenticAI/metaharness/stargazers"><img src="https://img.shields.io/github/stars/SuperagenticAI/metaharness?style=flat-square&labelColor=343b41" alt="Stars: 180"></a>
-<a href="https://github.com/SuperagenticAI/metaharness/network/members"><img src="https://img.shields.io/github/forks/SuperagenticAI/metaharness?style=flat-square&labelColor=343b41" alt="Forks: 20"></a>
+<a href="https://github.com/SuperagenticAI/metaharness/network/members"><img src="https://img.shields.io/github/forks/SuperagenticAI/metaharness?style=flat-square&labelColor=343b41" alt="Forks: 21"></a>
 </span>
 </div><br/>
 
