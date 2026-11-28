@@ -22,7 +22,7 @@
 | [**DorsaRoh/Machine-Learning**](https://github.com/DorsaRoh/Machine-Learning) | ⭐ 2.4k | Jupyter Notebook | 2026-11-10 | ML from scratch |
 | [**gensyn-ai/rl-swarm**](https://github.com/gensyn-ai/rl-swarm) | ⭐ 1.7k | Python | 2026-11-16 | A fully open source framework for creating RL training swarms over the internet. |
 | [**shushrutsharma/Data-Structures-and-Algorithms-Python**](https://github.com/shushrutsharma/Data-Structures-and-Algorithms-Python) | ⭐ 771 | Python | 2025-01-30 | All the essential resources and template code needed to understand and practice data... |
-| [**alibaba/ROCK**](https://github.com/alibaba/ROCK) | ⭐ 500 | Python | 2026-11-25 | A construction kit for reinforcement learning environment management. |
+| [**alibaba/ROCK**](https://github.com/alibaba/ROCK) | ⭐ 500 | Python | 2026-11-28 | A construction kit for reinforcement learning environment management. |
 | [**arnabbiswas1/kaggle_pipeline_tps_aug_22**](https://github.com/arnabbiswas1/kaggle_pipeline_tps_aug_22) | ⭐ 205 | Jupyter Notebook | 2026-02-01 | Kaggle Pipeline for tabular data competitions |
 | [**cpapadimitriou/Click-Through-Rate-prediction**](https://github.com/cpapadimitriou/Click-Through-Rate-prediction) | ⭐ 11 | Jupyter Notebook | 2019-06-15 | Click-Through Rate (CTR) prediction pipeline using PySpark on large-scale advertising... |
 
@@ -34,8 +34,8 @@
 <img src="https://avatars.githubusercontent.com/u/50278?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/twitter/the-algorithm">twitter/the-algorithm</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Source code for the X Recommendation Algorithm</em><br/><small><code>Scala</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2025-09-08</small><br/><br/>
 <span>
-<a href="https://github.com/twitter/the-algorithm/stargazers"><img src="https://img.shields.io/github/stars/twitter/the-algorithm?style=flat-square&labelColor=343b41" alt="Stars: 74117"></a>
-<a href="https://github.com/twitter/the-algorithm/network/members"><img src="https://img.shields.io/github/forks/twitter/the-algorithm?style=flat-square&labelColor=343b41" alt="Forks: 13229"></a>
+<a href="https://github.com/twitter/the-algorithm/stargazers"><img src="https://img.shields.io/github/stars/twitter/the-algorithm?style=flat-square&labelColor=343b41" alt="Stars: 74123"></a>
+<a href="https://github.com/twitter/the-algorithm/network/members"><img src="https://img.shields.io/github/forks/twitter/the-algorithm?style=flat-square&labelColor=343b41" alt="Forks: 13230"></a>
 </span>
 </div><br/>
 
@@ -43,8 +43,8 @@
 <img src="https://avatars.githubusercontent.com/u/198047230?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/FoundationAgents/OpenManus">FoundationAgents/OpenManus</a> 🔥🔥🔥</strong> <br/><br/>
 <em>No fortress, purely open ground.  OpenManus is Coming.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-02</small><br/><br/>
 <span>
-<a href="https://github.com/FoundationAgents/OpenManus/stargazers"><img src="https://img.shields.io/github/stars/FoundationAgents/OpenManus?style=flat-square&labelColor=343b41" alt="Stars: 59032"></a>
-<a href="https://github.com/FoundationAgents/OpenManus/network/members"><img src="https://img.shields.io/github/forks/FoundationAgents/OpenManus?style=flat-square&labelColor=343b41" alt="Forks: 10232"></a>
+<a href="https://github.com/FoundationAgents/OpenManus/stargazers"><img src="https://img.shields.io/github/stars/FoundationAgents/OpenManus?style=flat-square&labelColor=343b41" alt="Stars: 59050"></a>
+<a href="https://github.com/FoundationAgents/OpenManus/network/members"><img src="https://img.shields.io/github/forks/FoundationAgents/OpenManus?style=flat-square&labelColor=343b41" alt="Forks: 10241"></a>
 </span>
 </div><br/>
 
@@ -52,8 +52,8 @@
 <img src="https://avatars.githubusercontent.com/u/130314967?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/xai-org/x-algorithm">xai-org/x-algorithm</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Algorithm powering the For You feed on X</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><br/>
 <span>
-<a href="https://github.com/xai-org/x-algorithm/stargazers"><img src="https://img.shields.io/github/stars/xai-org/x-algorithm?style=flat-square&labelColor=343b41" alt="Stars: 34414"></a>
-<a href="https://github.com/xai-org/x-algorithm/network/members"><img src="https://img.shields.io/github/forks/xai-org/x-algorithm?style=flat-square&labelColor=343b41" alt="Forks: 5543"></a>
+<a href="https://github.com/xai-org/x-algorithm/stargazers"><img src="https://img.shields.io/github/stars/xai-org/x-algorithm?style=flat-square&labelColor=343b41" alt="Stars: 34449"></a>
+<a href="https://github.com/xai-org/x-algorithm/network/members"><img src="https://img.shields.io/github/forks/xai-org/x-algorithm?style=flat-square&labelColor=343b41" alt="Forks: 5542"></a>
 </span>
 </div><br/>
 
@@ -61,8 +61,8 @@
 <img src="https://avatars.githubusercontent.com/u/7977505?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/eriklindernoren/ML-From-Scratch">eriklindernoren/ML-From-Scratch</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2023-10-15</small><br/><small>🏷️ <code>data-mining</code> <code>data-science</code> <code>deep-learning</code> <code>deep-reinforcement-learning</code> <code>genetic-algorithm</code> <code>machine-learning</code></small><br/><br/>
 <span>
-<a href="https://github.com/eriklindernoren/ML-From-Scratch/stargazers"><img src="https://img.shields.io/github/stars/eriklindernoren/ML-From-Scratch?style=flat-square&labelColor=343b41" alt="Stars: 33440"></a>
-<a href="https://github.com/eriklindernoren/ML-From-Scratch/network/members"><img src="https://img.shields.io/github/forks/eriklindernoren/ML-From-Scratch?style=flat-square&labelColor=343b41" alt="Forks: 5541"></a>
+<a href="https://github.com/eriklindernoren/ML-From-Scratch/stargazers"><img src="https://img.shields.io/github/stars/eriklindernoren/ML-From-Scratch?style=flat-square&labelColor=343b41" alt="Stars: 33464"></a>
+<a href="https://github.com/eriklindernoren/ML-From-Scratch/network/members"><img src="https://img.shields.io/github/forks/eriklindernoren/ML-From-Scratch?style=flat-square&labelColor=343b41" alt="Forks: 5542"></a>
 </span>
 </div><br/>
 
@@ -70,8 +70,8 @@
 <img src="https://avatars.githubusercontent.com/u/10793962?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/keon/algorithms">keon/algorithms</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Minimal examples of data structures and algorithms in Python</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-09-25</small><br/><small>🏷️ <code>algorithm</code> <code>algorithms</code> <code>competitive-programming</code> <code>data-structure</code> <code>graph</code> <code>python</code></small><br/><br/>
 <span>
-<a href="https://github.com/keon/algorithms/stargazers"><img src="https://img.shields.io/github/stars/keon/algorithms?style=flat-square&labelColor=343b41" alt="Stars: 25610"></a>
-<a href="https://github.com/keon/algorithms/network/members"><img src="https://img.shields.io/github/forks/keon/algorithms?style=flat-square&labelColor=343b41" alt="Forks: 4709"></a>
+<a href="https://github.com/keon/algorithms/stargazers"><img src="https://img.shields.io/github/stars/keon/algorithms?style=flat-square&labelColor=343b41" alt="Stars: 25612"></a>
+<a href="https://github.com/keon/algorithms/network/members"><img src="https://img.shields.io/github/forks/keon/algorithms?style=flat-square&labelColor=343b41" alt="Forks: 4708"></a>
 </span>
 </div><br/>
 
@@ -79,8 +79,8 @@
 <img src="https://avatars.githubusercontent.com/u/3000285?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/trekhleb/homemade-machine-learning">trekhleb/homemade-machine-learning</a> 🔥🔥</strong> <br/><br/>
 <em>🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2025-11-23</small><br/><small>🏷️ <code>algorithm</code> <code>jupyter</code> <code>jupyter-notebook</code> <code>machine-learning</code> <code>machine-learning-algorithms</code> <code>machinelearning</code></small><br/><br/>
 <span>
-<a href="https://github.com/trekhleb/homemade-machine-learning/stargazers"><img src="https://img.shields.io/github/stars/trekhleb/homemade-machine-learning?style=flat-square&labelColor=343b41" alt="Stars: 24867"></a>
-<a href="https://github.com/trekhleb/homemade-machine-learning/network/members"><img src="https://img.shields.io/github/forks/trekhleb/homemade-machine-learning?style=flat-square&labelColor=343b41" alt="Forks: 4175"></a>
+<a href="https://github.com/trekhleb/homemade-machine-learning/stargazers"><img src="https://img.shields.io/github/stars/trekhleb/homemade-machine-learning?style=flat-square&labelColor=343b41" alt="Stars: 24877"></a>
+<a href="https://github.com/trekhleb/homemade-machine-learning/network/members"><img src="https://img.shields.io/github/forks/trekhleb/homemade-machine-learning?style=flat-square&labelColor=343b41" alt="Forks: 4174"></a>
 </span>
 </div><br/>
 
@@ -88,8 +88,8 @@
 <img src="https://avatars.githubusercontent.com/u/241138?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/karpathy/micrograd">karpathy/micrograd</a> 🔥🔥</strong> <br/><br/>
 <em>A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-08-03</small><br/><br/>
 <span>
-<a href="https://github.com/karpathy/micrograd/stargazers"><img src="https://img.shields.io/github/stars/karpathy/micrograd?style=flat-square&labelColor=343b41" alt="Stars: 19106"></a>
-<a href="https://github.com/karpathy/micrograd/network/members"><img src="https://img.shields.io/github/forks/karpathy/micrograd?style=flat-square&labelColor=343b41" alt="Forks: 3033"></a>
+<a href="https://github.com/karpathy/micrograd/stargazers"><img src="https://img.shields.io/github/stars/karpathy/micrograd?style=flat-square&labelColor=343b41" alt="Stars: 19166"></a>
+<a href="https://github.com/karpathy/micrograd/network/members"><img src="https://img.shields.io/github/forks/karpathy/micrograd?style=flat-square&labelColor=343b41" alt="Forks: 3046"></a>
 </span>
 </div><br/>
 
@@ -97,8 +97,8 @@
 <img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/google/magika">google/magika</a> 🔥🔥</strong> <br/><br/>
 <em>Fast and accurate AI powered file content types detection</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>ai</code> <code>deep-learning</code> <code>filetype</code> <code>keras-classification-models</code> <code>keras-models</code> <code>mime-types</code></small><br/><br/>
 <span>
-<a href="https://github.com/google/magika/stargazers"><img src="https://img.shields.io/github/stars/google/magika?style=flat-square&labelColor=343b41" alt="Stars: 18860"></a>
-<a href="https://github.com/google/magika/network/members"><img src="https://img.shields.io/github/forks/google/magika?style=flat-square&labelColor=343b41" alt="Forks: 1191"></a>
+<a href="https://github.com/google/magika/stargazers"><img src="https://img.shields.io/github/stars/google/magika?style=flat-square&labelColor=343b41" alt="Stars: 18871"></a>
+<a href="https://github.com/google/magika/network/members"><img src="https://img.shields.io/github/forks/google/magika?style=flat-square&labelColor=343b41" alt="Forks: 1189"></a>
 </span>
 </div><br/>
 
@@ -106,7 +106,7 @@
 <img src="https://avatars.githubusercontent.com/u/8596759?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/google-deepmind/deepmind-research">google-deepmind/deepmind-research</a> 🔥🔥</strong> <br/><br/>
 <em>This repository contains implementations and illustrative code to accompany DeepMind publications</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-06-17</small><br/><br/>
 <span>
-<a href="https://github.com/google-deepmind/deepmind-research/stargazers"><img src="https://img.shields.io/github/stars/google-deepmind/deepmind-research?style=flat-square&labelColor=343b41" alt="Stars: 15299"></a>
+<a href="https://github.com/google-deepmind/deepmind-research/stargazers"><img src="https://img.shields.io/github/stars/google-deepmind/deepmind-research?style=flat-square&labelColor=343b41" alt="Stars: 15312"></a>
 <a href="https://github.com/google-deepmind/deepmind-research/network/members"><img src="https://img.shields.io/github/forks/google-deepmind/deepmind-research?style=flat-square&labelColor=343b41" alt="Forks: 2914"></a>
 </span>
 </div><br/>
@@ -115,7 +115,7 @@
 <img src="https://avatars.githubusercontent.com/u/26666267?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/firmai/industry-machine-learning">firmai/industry-machine-learning</a> 🔥🔥</strong> <br/><br/>
 <em>A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; 🕒 Updated 2024-10-04</small><br/><small>🏷️ <code>data-science</code> <code>datascience</code> <code>example</code> <code>firmai</code> <code>jupyter-notebook</code> <code>machine-learning</code></small><br/><br/>
 <span>
-<a href="https://github.com/firmai/industry-machine-learning/stargazers"><img src="https://img.shields.io/github/stars/firmai/industry-machine-learning?style=flat-square&labelColor=343b41" alt="Stars: 7493"></a>
+<a href="https://github.com/firmai/industry-machine-learning/stargazers"><img src="https://img.shields.io/github/stars/firmai/industry-machine-learning?style=flat-square&labelColor=343b41" alt="Stars: 7490"></a>
 <a href="https://github.com/firmai/industry-machine-learning/network/members"><img src="https://img.shields.io/github/forks/firmai/industry-machine-learning?style=flat-square&labelColor=343b41" alt="Forks: 1245"></a>
 </span>
 </div><br/>
@@ -124,8 +124,8 @@
 <img src="https://avatars.githubusercontent.com/u/2772503?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/faridrashidi/kaggle-solutions">faridrashidi/kaggle-solutions</a> 🔥🔥</strong> <br/><br/>
 <em>🏅 Collection of Kaggle Solutions and Ideas 🏅</em><br/><small><code>Astro</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-06</small><br/><small>🏷️ <code>ai</code> <code>awesome-list</code> <code>competition</code> <code>data-mining</code> <code>data-science</code> <code>deep-learning</code></small><br/><br/>
 <span>
-<a href="https://github.com/faridrashidi/kaggle-solutions/stargazers"><img src="https://img.shields.io/github/stars/faridrashidi/kaggle-solutions?style=flat-square&labelColor=343b41" alt="Stars: 6558"></a>
-<a href="https://github.com/faridrashidi/kaggle-solutions/network/members"><img src="https://img.shields.io/github/forks/faridrashidi/kaggle-solutions?style=flat-square&labelColor=343b41" alt="Forks: 2338"></a>
+<a href="https://github.com/faridrashidi/kaggle-solutions/stargazers"><img src="https://img.shields.io/github/stars/faridrashidi/kaggle-solutions?style=flat-square&labelColor=343b41" alt="Stars: 6561"></a>
+<a href="https://github.com/faridrashidi/kaggle-solutions/network/members"><img src="https://img.shields.io/github/forks/faridrashidi/kaggle-solutions?style=flat-square&labelColor=343b41" alt="Forks: 2337"></a>
 </span>
 </div><br/>
 
@@ -133,7 +133,7 @@
 <img src="https://avatars.githubusercontent.com/u/85207154?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/DorsaRoh/Machine-Learning">DorsaRoh/Machine-Learning</a> 🔥</strong> <br/><br/>
 <em>ML from scratch</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-10</small><br/><small>🏷️ <code>machine-learning</code></small><br/><br/>
 <span>
-<a href="https://github.com/DorsaRoh/Machine-Learning/stargazers"><img src="https://img.shields.io/github/stars/DorsaRoh/Machine-Learning?style=flat-square&labelColor=343b41" alt="Stars: 2445"></a>
+<a href="https://github.com/DorsaRoh/Machine-Learning/stargazers"><img src="https://img.shields.io/github/stars/DorsaRoh/Machine-Learning?style=flat-square&labelColor=343b41" alt="Stars: 2446"></a>
 <a href="https://github.com/DorsaRoh/Machine-Learning/network/members"><img src="https://img.shields.io/github/forks/DorsaRoh/Machine-Learning?style=flat-square&labelColor=343b41" alt="Forks: 193"></a>
 </span>
 </div><br/>
@@ -142,7 +142,7 @@
 <img src="https://avatars.githubusercontent.com/u/64313183?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/gensyn-ai/rl-swarm">gensyn-ai/rl-swarm</a> 🔥</strong> <br/><br/>
 <em>A fully open source framework for creating RL training swarms over the internet.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-16</small><br/><br/>
 <span>
-<a href="https://github.com/gensyn-ai/rl-swarm/stargazers"><img src="https://img.shields.io/github/stars/gensyn-ai/rl-swarm?style=flat-square&labelColor=343b41" alt="Stars: 1673"></a>
+<a href="https://github.com/gensyn-ai/rl-swarm/stargazers"><img src="https://img.shields.io/github/stars/gensyn-ai/rl-swarm?style=flat-square&labelColor=343b41" alt="Stars: 1675"></a>
 <a href="https://github.com/gensyn-ai/rl-swarm/network/members"><img src="https://img.shields.io/github/forks/gensyn-ai/rl-swarm?style=flat-square&labelColor=343b41" alt="Forks: 607"></a>
 </span>
 </div><br/>
@@ -152,13 +152,13 @@
 <em>All the essential resources and template code needed to understand and practice data structures and algorithms in python with few small projects to demonstrate their practical application.</em><br/><small><code>Python</code> &nbsp;•&nbsp; 🕒 Updated 2025-01-30</small><br/><small>🏷️ <code>algorithm</code> <code>algorithms</code> <code>algorithms-and-data-structures</code> <code>competitive-coding</code> <code>competitive-programming</code> <code>complexity</code></small><br/><br/>
 <span>
 <a href="https://github.com/shushrutsharma/Data-Structures-and-Algorithms-Python/stargazers"><img src="https://img.shields.io/github/stars/shushrutsharma/Data-Structures-and-Algorithms-Python?style=flat-square&labelColor=343b41" alt="Stars: 771"></a>
-<a href="https://github.com/shushrutsharma/Data-Structures-and-Algorithms-Python/network/members"><img src="https://img.shields.io/github/forks/shushrutsharma/Data-Structures-and-Algorithms-Python?style=flat-square&labelColor=343b41" alt="Forks: 269"></a>
+<a href="https://github.com/shushrutsharma/Data-Structures-and-Algorithms-Python/network/members"><img src="https://img.shields.io/github/forks/shushrutsharma/Data-Structures-and-Algorithms-Python?style=flat-square&labelColor=343b41" alt="Forks: 268"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/1961952?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/alibaba/ROCK">alibaba/ROCK</a> </strong> <br/><br/>
-<em>A construction kit for reinforcement learning environment management.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><br/>
+<em>A construction kit for reinforcement learning environment management.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-28</small><br/><br/>
 <span>
 <a href="https://github.com/alibaba/ROCK/stargazers"><img src="https://img.shields.io/github/stars/alibaba/ROCK?style=flat-square&labelColor=343b41" alt="Stars: 500"></a>
 <a href="https://github.com/alibaba/ROCK/network/members"><img src="https://img.shields.io/github/forks/alibaba/ROCK?style=flat-square&labelColor=343b41" alt="Forks: 85"></a>

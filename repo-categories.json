@@ -730,6 +730,7 @@
   "run-llama/llama_index": "Retrieval-Augmented Generation (RAG)",
   "run-llama/llamacloud-mcp": "Model Context Protocol (MCP)",
   "runesleo/claude-code-workflow": "AI Agents & Multi-Agent Systems",
+  "runesleo/quietharness": "AI Agents & Multi-Agent Systems",
   "runtipi/runtipi": "DevOps & Cloud Infrastructure",
   "ruvnet/ruflo": "AI Agents & Multi-Agent Systems",
   "ruvnet/RuView": "IoT & Edge AI",

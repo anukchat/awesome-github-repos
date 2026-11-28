@@ -8,23 +8,23 @@
 
 | Repository | Stars | Language | Updated | Description |
 | :--- | ---: | :--- | :--- | :--- |
-| [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | ⭐ 118k | Python | 2026-11-24 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, v... |
-| [**ggml-org/whisper.cpp**](https://github.com/ggml-org/whisper.cpp) | ⭐ 56k | C++ | 2026-11-24 | Port of OpenAI's Whisper model in C/C++ |
-| [**mudler/LocalAI**](https://github.com/mudler/LocalAI) | ⭐ 51k | Go | 2026-11-25 | LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, vid... |
+| [**debpalash/VoiceStudio**](https://github.com/debpalash/VoiceStudio) | ⭐ 119k | Python | 2026-11-28 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, v... |
+| [**ggml-org/whisper.cpp**](https://github.com/ggml-org/whisper.cpp) | ⭐ 56k | C++ | 2026-11-26 | Port of OpenAI's Whisper model in C/C++ |
+| [**mudler/LocalAI**](https://github.com/mudler/LocalAI) | ⭐ 51k | Go | 2026-11-28 | LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, vid... |
 | [**suno-ai/bark**](https://github.com/suno-ai/bark) | ⭐ 39k | Jupyter Notebook | 2024-08-19 | 🔊 Text-Prompted Generative Audio Model |
 | [**myshell-ai/OpenVoice**](https://github.com/myshell-ai/OpenVoice) | ⭐ 38k | Python | 2025-04-19 | Instant voice cloning by MIT and MyShell. Audio foundation model. |
 | [**mozilla-ai/llamafile**](https://github.com/mozilla-ai/llamafile) | ⭐ 27k | C++ | 2026-11-09 | Distribute and run LLMs with a single file. |
-| [**screenpipe/screenpipe**](https://github.com/screenpipe/screenpipe) | ⭐ 23k | Rust | 2026-11-25 | YC (S26) \| Screenpipe finds the work worth automating \| Continuously record computer... |
-| [**modelscope/FunASR**](https://github.com/modelscope/FunASR) | ⭐ 21k | Python | 2026-11-24 | Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, p... |
+| [**screenpipe/screenpipe**](https://github.com/screenpipe/screenpipe) | ⭐ 23k | Rust | 2026-11-28 | YC (S26) \| Screenpipe finds the work worth automating \| Continuously record computer... |
+| [**modelscope/FunASR**](https://github.com/modelscope/FunASR) | ⭐ 21k | Python | 2026-11-27 | Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, p... |
 | [**nari-labs/dia**](https://github.com/nari-labs/dia) | ⭐ 19k | Python | 2025-11-19 | A TTS model capable of generating ultra-realistic dialogue in one pass. |
-| [**NVIDIA-NeMo/Speech**](https://github.com/NVIDIA-NeMo/Speech) | ⭐ 19k | Python | 2026-11-25 | A scalable generative AI framework built for researchers and developers working on La... |
+| [**NVIDIA-NeMo/Speech**](https://github.com/NVIDIA-NeMo/Speech) | ⭐ 19k | Python | 2026-11-27 | A scalable generative AI framework built for researchers and developers working on La... |
 | [**open-mmlab/Amphion**](https://github.com/open-mmlab/Amphion) | ⭐ 10k | Python | 2026-03-25 | Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpos... |
 | [**Anil-matcha/AI-Youtube-Shorts-Generator**](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) | ⭐ 6.6k | Python | 2026-11-24 | Open-source alternative to Opus Clip, Vidyo.ai, Klap &amp; SubMagic. Turn long-form YouTu... |
 | [**cactus-compute/engine**](https://github.com/cactus-compute/engine) | ⭐ 6.2k | C++ | 2026-11-05 | 2bit quants, kernels and runtime for consumer devices. |
 | [**wenet-e2e/wenet**](https://github.com/wenet-e2e/wenet) | ⭐ 5.3k | Python | 2026-10-26 | Production First and Production Ready End-to-End Speech Recognition Toolkit |
 | [**microsoft/muzic**](https://github.com/microsoft/muzic) | ⭐ 5k | Python | 2026-08-05 | Muzic: Music Understanding and Generation with Artificial Intelligence |
 | [**metavoiceio/metavoice-src**](https://github.com/metavoiceio/metavoice-src) | ⭐ 4.2k | Python | 2024-07-30 | Foundational model for human-like, expressive TTS |
-| [**trymirai/uzu**](https://github.com/trymirai/uzu) | ⭐ 3.4k | Rust | 2026-11-25 | A high-performance inference engine for AI models |
+| [**trymirai/uzu**](https://github.com/trymirai/uzu) | ⭐ 3.4k | Rust | 2026-11-27 | A high-performance inference engine for AI models |
 
 </details>
 
@@ -32,28 +32,28 @@
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/4178343?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/debpalash/VoiceStudio">debpalash/VoiceStudio</a> 🔥🔥🔥</strong> <br/><br/>
-<em>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>ai</code> <code>audiobook</code> <code>cuda</code> <code>dubbing</code> <code>elevenlabs-alternative</code> <code>huggingface</code></small><br/><br/>
+<em>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ AGPL-3.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-28</small><br/><small>🏷️ <code>ai</code> <code>audiobook</code> <code>cuda</code> <code>dubbing</code> <code>elevenlabs-alternative</code> <code>huggingface</code></small><br/><br/>
 <span>
-<a href="https://github.com/debpalash/VoiceStudio/stargazers"><img src="https://img.shields.io/github/stars/debpalash/VoiceStudio?style=flat-square&labelColor=343b41" alt="Stars: 117961"></a>
-<a href="https://github.com/debpalash/VoiceStudio/network/members"><img src="https://img.shields.io/github/forks/debpalash/VoiceStudio?style=flat-square&labelColor=343b41" alt="Forks: 13164"></a>
+<a href="https://github.com/debpalash/VoiceStudio/stargazers"><img src="https://img.shields.io/github/stars/debpalash/VoiceStudio?style=flat-square&labelColor=343b41" alt="Stars: 119477"></a>
+<a href="https://github.com/debpalash/VoiceStudio/network/members"><img src="https://img.shields.io/github/forks/debpalash/VoiceStudio?style=flat-square&labelColor=343b41" alt="Forks: 13343"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/134263123?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/ggml-org/whisper.cpp">ggml-org/whisper.cpp</a> 🔥🔥🔥</strong> <br/><br/>
-<em>Port of OpenAI's Whisper model in C/C++</em><br/><small><code>C++</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>inference</code> <code>openai</code> <code>speech-recognition</code> <code>speech-to-text</code> <code>transformer</code> <code>whisper</code></small><br/><br/>
+<em>Port of OpenAI's Whisper model in C/C++</em><br/><small><code>C++</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-26</small><br/><small>🏷️ <code>inference</code> <code>openai</code> <code>speech-recognition</code> <code>speech-to-text</code> <code>transformer</code> <code>whisper</code></small><br/><br/>
 <span>
-<a href="https://github.com/ggml-org/whisper.cpp/stargazers"><img src="https://img.shields.io/github/stars/ggml-org/whisper.cpp?style=flat-square&labelColor=343b41" alt="Stars: 55503"></a>
-<a href="https://github.com/ggml-org/whisper.cpp/network/members"><img src="https://img.shields.io/github/forks/ggml-org/whisper.cpp?style=flat-square&labelColor=343b41" alt="Forks: 6351"></a>
+<a href="https://github.com/ggml-org/whisper.cpp/stargazers"><img src="https://img.shields.io/github/stars/ggml-org/whisper.cpp?style=flat-square&labelColor=343b41" alt="Stars: 55591"></a>
+<a href="https://github.com/ggml-org/whisper.cpp/network/members"><img src="https://img.shields.io/github/forks/ggml-org/whisper.cpp?style=flat-square&labelColor=343b41" alt="Forks: 6364"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/2420543?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/mudler/LocalAI">mudler/LocalAI</a> 🔥🔥🔥</strong> <br/><br/>
-<em>LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.</em><br/><small><code>Go</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agents</code> <code>ai</code> <code>api</code> <code>audio-generation</code> <code>decentralized</code> <code>distributed</code></small><br/><br/>
+<em>LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.</em><br/><small><code>Go</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-28</small><br/><small>🏷️ <code>agents</code> <code>ai</code> <code>api</code> <code>audio-generation</code> <code>decentralized</code> <code>distributed</code></small><br/><br/>
 <span>
-<a href="https://github.com/mudler/LocalAI/stargazers"><img src="https://img.shields.io/github/stars/mudler/LocalAI?style=flat-square&labelColor=343b41" alt="Stars: 50530"></a>
-<a href="https://github.com/mudler/LocalAI/network/members"><img src="https://img.shields.io/github/forks/mudler/LocalAI?style=flat-square&labelColor=343b41" alt="Forks: 4649"></a>
+<a href="https://github.com/mudler/LocalAI/stargazers"><img src="https://img.shields.io/github/stars/mudler/LocalAI?style=flat-square&labelColor=343b41" alt="Stars: 50593"></a>
+<a href="https://github.com/mudler/LocalAI/network/members"><img src="https://img.shields.io/github/forks/mudler/LocalAI?style=flat-square&labelColor=343b41" alt="Forks: 4658"></a>
 </span>
 </div><br/>
 
@@ -61,7 +61,7 @@
 <img src="https://avatars.githubusercontent.com/u/99442120?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/suno-ai/bark">suno-ai/bark</a> 🔥🔥🔥</strong> <br/><br/>
 <em>🔊 Text-Prompted Generative Audio Model</em><br/><small><code>Jupyter Notebook</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2024-08-19</small><br/><br/>
 <span>
-<a href="https://github.com/suno-ai/bark/stargazers"><img src="https://img.shields.io/github/stars/suno-ai/bark?style=flat-square&labelColor=343b41" alt="Stars: 39425"></a>
+<a href="https://github.com/suno-ai/bark/stargazers"><img src="https://img.shields.io/github/stars/suno-ai/bark?style=flat-square&labelColor=343b41" alt="Stars: 39427"></a>
 <a href="https://github.com/suno-ai/bark/network/members"><img src="https://img.shields.io/github/forks/suno-ai/bark?style=flat-square&labelColor=343b41" alt="Forks: 4665"></a>
 </span>
 </div><br/>
@@ -70,8 +70,8 @@
 <img src="https://avatars.githubusercontent.com/u/127754094?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/myshell-ai/OpenVoice">myshell-ai/OpenVoice</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Instant voice cloning by MIT and MyShell. Audio foundation model.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2025-04-19</small><br/><small>🏷️ <code>text-to-speech</code> <code>tts</code> <code>voice-clone</code> <code>zero-shot-tts</code></small><br/><br/>
 <span>
-<a href="https://github.com/myshell-ai/OpenVoice/stargazers"><img src="https://img.shields.io/github/stars/myshell-ai/OpenVoice?style=flat-square&labelColor=343b41" alt="Stars: 38319"></a>
-<a href="https://github.com/myshell-ai/OpenVoice/network/members"><img src="https://img.shields.io/github/forks/myshell-ai/OpenVoice?style=flat-square&labelColor=343b41" alt="Forks: 4300"></a>
+<a href="https://github.com/myshell-ai/OpenVoice/stargazers"><img src="https://img.shields.io/github/stars/myshell-ai/OpenVoice?style=flat-square&labelColor=343b41" alt="Stars: 38349"></a>
+<a href="https://github.com/myshell-ai/OpenVoice/network/members"><img src="https://img.shields.io/github/forks/myshell-ai/OpenVoice?style=flat-square&labelColor=343b41" alt="Forks: 4301"></a>
 </span>
 </div><br/>
 
@@ -79,26 +79,26 @@
 <img src="https://avatars.githubusercontent.com/u/129804596?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/mozilla-ai/llamafile">mozilla-ai/llamafile</a> 🔥🔥🔥</strong> <br/><br/>
 <em>Distribute and run LLMs with a single file.</em><br/><small><code>C++</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-09</small><br/><small>🏷️ <code>cross-platform</code> <code>gguf</code> <code>llama-cpp</code> <code>local-ai</code> <code>local-inference</code> <code>local-llm</code></small><br/><br/>
 <span>
-<a href="https://github.com/mozilla-ai/llamafile/stargazers"><img src="https://img.shields.io/github/stars/mozilla-ai/llamafile?style=flat-square&labelColor=343b41" alt="Stars: 26718"></a>
-<a href="https://github.com/mozilla-ai/llamafile/network/members"><img src="https://img.shields.io/github/forks/mozilla-ai/llamafile?style=flat-square&labelColor=343b41" alt="Forks: 1679"></a>
+<a href="https://github.com/mozilla-ai/llamafile/stargazers"><img src="https://img.shields.io/github/stars/mozilla-ai/llamafile?style=flat-square&labelColor=343b41" alt="Stars: 26738"></a>
+<a href="https://github.com/mozilla-ai/llamafile/network/members"><img src="https://img.shields.io/github/forks/mozilla-ai/llamafile?style=flat-square&labelColor=343b41" alt="Forks: 1684"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/259178917?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/screenpipe/screenpipe">screenpipe/screenpipe</a> 🔥🔥</strong> <br/><br/>
-<em>YC (S26) | Screenpipe finds the work worth automating | Continuously record computer work locally, discover recurring workflows, and hand the result to any agent you already use.</em><br/><small><code>Rust</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>agents</code> <code>agi</code> <code>ai</code> <code>ai-memory</code> <code>audio-recording</code> <code>computer-vision</code></small><br/><br/>
+<em>YC (S26) | Screenpipe finds the work worth automating | Continuously record computer work locally, discover recurring workflows, and hand the result to any agent you already use.</em><br/><small><code>Rust</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-28</small><br/><small>🏷️ <code>agents</code> <code>agi</code> <code>ai</code> <code>ai-memory</code> <code>audio-recording</code> <code>computer-vision</code></small><br/><br/>
 <span>
-<a href="https://github.com/screenpipe/screenpipe/stargazers"><img src="https://img.shields.io/github/stars/screenpipe/screenpipe?style=flat-square&labelColor=343b41" alt="Stars: 22537"></a>
-<a href="https://github.com/screenpipe/screenpipe/network/members"><img src="https://img.shields.io/github/forks/screenpipe/screenpipe?style=flat-square&labelColor=343b41" alt="Forks: 2318"></a>
+<a href="https://github.com/screenpipe/screenpipe/stargazers"><img src="https://img.shields.io/github/stars/screenpipe/screenpipe?style=flat-square&labelColor=343b41" alt="Stars: 22579"></a>
+<a href="https://github.com/screenpipe/screenpipe/network/members"><img src="https://img.shields.io/github/forks/screenpipe/screenpipe?style=flat-square&labelColor=343b41" alt="Forks: 2323"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/109945100?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/modelscope/FunASR">modelscope/FunASR</a> 🔥🔥</strong> <br/><br/>
-<em>Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>asr</code> <code>audio</code> <code>chinese</code> <code>emotion-recognition</code> <code>funasr</code> <code>mcp-server</code></small><br/><br/>
+<em>Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-27</small><br/><small>🏷️ <code>asr</code> <code>audio</code> <code>chinese</code> <code>emotion-recognition</code> <code>funasr</code> <code>mcp-server</code></small><br/><br/>
 <span>
-<a href="https://github.com/modelscope/FunASR/stargazers"><img src="https://img.shields.io/github/stars/modelscope/FunASR?style=flat-square&labelColor=343b41" alt="Stars: 21121"></a>
-<a href="https://github.com/modelscope/FunASR/network/members"><img src="https://img.shields.io/github/forks/modelscope/FunASR?style=flat-square&labelColor=343b41" alt="Forks: 2146"></a>
+<a href="https://github.com/modelscope/FunASR/stargazers"><img src="https://img.shields.io/github/stars/modelscope/FunASR?style=flat-square&labelColor=343b41" alt="Stars: 21153"></a>
+<a href="https://github.com/modelscope/FunASR/network/members"><img src="https://img.shields.io/github/forks/modelscope/FunASR?style=flat-square&labelColor=343b41" alt="Forks: 2148"></a>
 </span>
 </div><br/>
 
@@ -106,17 +106,17 @@
 <img src="https://avatars.githubusercontent.com/u/208232306?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/nari-labs/dia">nari-labs/dia</a> 🔥🔥</strong> <br/><br/>
 <em>A TTS model capable of generating ultra-realistic dialogue in one pass.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2025-11-19</small><br/><small>🏷️ <code>ai</code> <code>open-weight</code> <code>text-to-speech</code></small><br/><br/>
 <span>
-<a href="https://github.com/nari-labs/dia/stargazers"><img src="https://img.shields.io/github/stars/nari-labs/dia?style=flat-square&labelColor=343b41" alt="Stars: 19421"></a>
+<a href="https://github.com/nari-labs/dia/stargazers"><img src="https://img.shields.io/github/stars/nari-labs/dia?style=flat-square&labelColor=343b41" alt="Stars: 19431"></a>
 <a href="https://github.com/nari-labs/dia/network/members"><img src="https://img.shields.io/github/forks/nari-labs/dia?style=flat-square&labelColor=343b41" alt="Forks: 1696"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/213689629?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/NVIDIA-NeMo/Speech">NVIDIA-NeMo/Speech</a> 🔥🔥</strong> <br/><br/>
-<em>A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>asr</code> <code>deeplearning</code> <code>generative-ai</code> <code>machine-translation</code> <code>neural-networks</code> <code>speaker-diariazation</code></small><br/><br/>
+<em>A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-11-27</small><br/><small>🏷️ <code>asr</code> <code>deeplearning</code> <code>generative-ai</code> <code>machine-translation</code> <code>neural-networks</code> <code>speaker-diariazation</code></small><br/><br/>
 <span>
-<a href="https://github.com/NVIDIA-NeMo/Speech/stargazers"><img src="https://img.shields.io/github/stars/NVIDIA-NeMo/Speech?style=flat-square&labelColor=343b41" alt="Stars: 18787"></a>
-<a href="https://github.com/NVIDIA-NeMo/Speech/network/members"><img src="https://img.shields.io/github/forks/NVIDIA-NeMo/Speech?style=flat-square&labelColor=343b41" alt="Forks: 3700"></a>
+<a href="https://github.com/NVIDIA-NeMo/Speech/stargazers"><img src="https://img.shields.io/github/stars/NVIDIA-NeMo/Speech?style=flat-square&labelColor=343b41" alt="Stars: 18795"></a>
+<a href="https://github.com/NVIDIA-NeMo/Speech/network/members"><img src="https://img.shields.io/github/forks/NVIDIA-NeMo/Speech?style=flat-square&labelColor=343b41" alt="Forks: 3701"></a>
 </span>
 </div><br/>
 
@@ -124,8 +124,8 @@
 <img src="https://avatars.githubusercontent.com/u/10245193?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/open-mmlab/Amphion">open-mmlab/Amphion</a> 🔥🔥</strong> <br/><br/>
 <em>Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-03-25</small><br/><small>🏷️ <code>audio-generation</code> <code>audio-synthesis</code> <code>audioldm</code> <code>audit</code> <code>emilia</code> <code>fastspeech2</code></small><br/><br/>
 <span>
-<a href="https://github.com/open-mmlab/Amphion/stargazers"><img src="https://img.shields.io/github/stars/open-mmlab/Amphion?style=flat-square&labelColor=343b41" alt="Stars: 10353"></a>
-<a href="https://github.com/open-mmlab/Amphion/network/members"><img src="https://img.shields.io/github/forks/open-mmlab/Amphion?style=flat-square&labelColor=343b41" alt="Forks: 857"></a>
+<a href="https://github.com/open-mmlab/Amphion/stargazers"><img src="https://img.shields.io/github/stars/open-mmlab/Amphion?style=flat-square&labelColor=343b41" alt="Stars: 10356"></a>
+<a href="https://github.com/open-mmlab/Amphion/network/members"><img src="https://img.shields.io/github/forks/open-mmlab/Amphion?style=flat-square&labelColor=343b41" alt="Forks: 856"></a>
 </span>
 </div><br/>
 
@@ -133,8 +133,8 @@
 <img src="https://avatars.githubusercontent.com/u/4326215?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator">Anil-matcha/AI-Youtube-Shorts-Generator</a> 🔥🔥</strong> <br/><br/>
 <em>Open-source alternative to Opus Clip, Vidyo.ai, Klap &amp; SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper transcription, and auto vertical cropping — free, no watermarks, no per-clip credits.</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-24</small><br/><small>🏷️ <code>2short-ai-alternative</code> <code>ai-clip-generator</code> <code>ai-clipping</code> <code>auto-clip</code> <code>auto-crop</code> <code>highlight-detection</code></small><br/><br/>
 <span>
-<a href="https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator/stargazers"><img src="https://img.shields.io/github/stars/Anil-matcha/AI-Youtube-Shorts-Generator?style=flat-square&labelColor=343b41" alt="Stars: 6553"></a>
-<a href="https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator/network/members"><img src="https://img.shields.io/github/forks/Anil-matcha/AI-Youtube-Shorts-Generator?style=flat-square&labelColor=343b41" alt="Forks: 1206"></a>
+<a href="https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator/stargazers"><img src="https://img.shields.io/github/stars/Anil-matcha/AI-Youtube-Shorts-Generator?style=flat-square&labelColor=343b41" alt="Stars: 6606"></a>
+<a href="https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator/network/members"><img src="https://img.shields.io/github/forks/Anil-matcha/AI-Youtube-Shorts-Generator?style=flat-square&labelColor=343b41" alt="Forks: 1220"></a>
 </span>
 </div><br/>
 
@@ -142,8 +142,8 @@
 <img src="https://avatars.githubusercontent.com/u/196640840?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/cactus-compute/engine">cactus-compute/engine</a> 🔥🔥</strong> <br/><br/>
 <em>2bit quants, kernels and runtime for consumer devices.</em><br/><small><code>C++</code> &nbsp;•&nbsp; 🕒 Updated 2026-11-05</small><br/><small>🏷️ <code>ai</code> <code>android</code> <code>arm</code> <code>edge</code> <code>edge-ai</code> <code>framework</code></small><br/><br/>
 <span>
-<a href="https://github.com/cactus-compute/engine/stargazers"><img src="https://img.shields.io/github/stars/cactus-compute/engine?style=flat-square&labelColor=343b41" alt="Stars: 6200"></a>
-<a href="https://github.com/cactus-compute/engine/network/members"><img src="https://img.shields.io/github/forks/cactus-compute/engine?style=flat-square&labelColor=343b41" alt="Forks: 514"></a>
+<a href="https://github.com/cactus-compute/engine/stargazers"><img src="https://img.shields.io/github/stars/cactus-compute/engine?style=flat-square&labelColor=343b41" alt="Stars: 6198"></a>
+<a href="https://github.com/cactus-compute/engine/network/members"><img src="https://img.shields.io/github/forks/cactus-compute/engine?style=flat-square&labelColor=343b41" alt="Forks: 513"></a>
 </span>
 </div><br/>
 
@@ -151,8 +151,8 @@
 <img src="https://avatars.githubusercontent.com/u/84374044?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/wenet-e2e/wenet">wenet-e2e/wenet</a> 🔥🔥</strong> <br/><br/>
 <em>Production First and Production Ready End-to-End Speech Recognition Toolkit</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2026-10-26</small><br/><small>🏷️ <code>asr</code> <code>automatic-speech-recognition</code> <code>conformer</code> <code>e2e-models</code> <code>production-ready</code> <code>pytorch</code></small><br/><br/>
 <span>
-<a href="https://github.com/wenet-e2e/wenet/stargazers"><img src="https://img.shields.io/github/stars/wenet-e2e/wenet?style=flat-square&labelColor=343b41" alt="Stars: 5260"></a>
-<a href="https://github.com/wenet-e2e/wenet/network/members"><img src="https://img.shields.io/github/forks/wenet-e2e/wenet?style=flat-square&labelColor=343b41" alt="Forks: 1191"></a>
+<a href="https://github.com/wenet-e2e/wenet/stargazers"><img src="https://img.shields.io/github/stars/wenet-e2e/wenet?style=flat-square&labelColor=343b41" alt="Stars: 5262"></a>
+<a href="https://github.com/wenet-e2e/wenet/network/members"><img src="https://img.shields.io/github/forks/wenet-e2e/wenet?style=flat-square&labelColor=343b41" alt="Forks: 1190"></a>
 </span>
 </div><br/>
 
@@ -169,17 +169,17 @@
 <img src="https://avatars.githubusercontent.com/u/107063843?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/metavoiceio/metavoice-src">metavoiceio/metavoice-src</a> 🔥</strong> <br/><br/>
 <em>Foundational model for human-like, expressive TTS</em><br/><small><code>Python</code> &nbsp;•&nbsp; ⚖️ Apache-2.0 &nbsp;•&nbsp; 🕒 Updated 2024-07-30</small><br/><small>🏷️ <code>ai</code> <code>deep-learning</code> <code>pytorch</code> <code>speech</code> <code>speech-synthesis</code> <code>text-to-speech</code></small><br/><br/>
 <span>
-<a href="https://github.com/metavoiceio/metavoice-src/stargazers"><img src="https://img.shields.io/github/stars/metavoiceio/metavoice-src?style=flat-square&labelColor=343b41" alt="Stars: 4200"></a>
+<a href="https://github.com/metavoiceio/metavoice-src/stargazers"><img src="https://img.shields.io/github/stars/metavoiceio/metavoice-src?style=flat-square&labelColor=343b41" alt="Stars: 4201"></a>
 <a href="https://github.com/metavoiceio/metavoice-src/network/members"><img src="https://img.shields.io/github/forks/metavoiceio/metavoice-src?style=flat-square&labelColor=343b41" alt="Forks: 687"></a>
 </span>
 </div><br/>
 
 <div align="left" style="border:1px solid #e5e7eb; border-radius:10px; padding:18px 20px; background:#fff;">
 <img src="https://avatars.githubusercontent.com/u/153534303?v=4" width="28" style="vertical-align:middle; border-radius:50%;"/> <strong><a href="https://github.com/trymirai/uzu">trymirai/uzu</a> 🔥</strong> <br/><br/>
-<em>A high-performance inference engine for AI models</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-25</small><br/><small>🏷️ <code>ai</code> <code>high-performance</code> <code>inference</code> <code>llm</code> <code>metal</code> <code>rust</code></small><br/><br/>
+<em>A high-performance inference engine for AI models</em><br/><small><code>Rust</code> &nbsp;•&nbsp; ⚖️ MIT &nbsp;•&nbsp; 🕒 Updated 2026-11-27</small><br/><small>🏷️ <code>ai</code> <code>high-performance</code> <code>inference</code> <code>llm</code> <code>metal</code> <code>rust</code></small><br/><br/>
 <span>
-<a href="https://github.com/trymirai/uzu/stargazers"><img src="https://img.shields.io/github/stars/trymirai/uzu?style=flat-square&labelColor=343b41" alt="Stars: 3380"></a>
-<a href="https://github.com/trymirai/uzu/network/members"><img src="https://img.shields.io/github/forks/trymirai/uzu?style=flat-square&labelColor=343b41" alt="Forks: 242"></a>
+<a href="https://github.com/trymirai/uzu/stargazers"><img src="https://img.shields.io/github/stars/trymirai/uzu?style=flat-square&labelColor=343b41" alt="Stars: 3384"></a>
+<a href="https://github.com/trymirai/uzu/network/members"><img src="https://img.shields.io/github/forks/trymirai/uzu?style=flat-square&labelColor=343b41" alt="Forks: 243"></a>
 </span>
 </div><br/>
 
